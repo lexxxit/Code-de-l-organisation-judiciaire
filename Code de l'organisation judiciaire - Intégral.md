@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1995-09-24
+Version Consolidée au 1996-03-01
 
 # Partie législative ancienne
 
@@ -10445,9 +10445,11 @@ Il fixe notamment le nombre et la durée des audiences, compte tenu des nécessi
 
 ###### Article R*131-2
 
-Chaque année, dans la première quinzaine du mois de décembre, le premier président procède, par ordonnance, pour l'année
-judiciaire suivante, à la répartition des présidents de chambre et des conseillers ainsi qu'à l'affectation de conseillers
-référendaires et des greffiers dans les chambres de la Cour.
+L'ordonnance prise par le premier président en application de l'article L. 710-1 intervient dans la première quinzaine du
+mois de décembre.
+
+Dans le même délai, le premier président procède chaque année, par ordonnance, pour l'année judiciaire suivante, à
+l'affectation des greffiers dans les chambres de la cour.
 
 **Liens relatifs à cet article**
 
@@ -10458,6 +10460,23 @@ référendaires et des greffiers dans les chambres de la Cour.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 1 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R434-1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*131-3
@@ -10516,12 +10535,11 @@ conseiller de cette chambre est en outre appelé à siéger par le premier prés
 
 ###### Article R*131-5
 
-Les ordonnances prises en application des articles R131-2, R131-3 et R131-4 peuvent être modifiées dans les mêmes formes en
-cours d'année judiciaire, en cas de cessation ou d'interruption des fonctions ou en cas d'absence d'un des magistrats
-notamment pour prévoir un service allégé pendant la période au cours de laquelle les magistrats bénéficient de leurs congés
-annuels.
+Les ordonnances concernant les magistrats prises en application des articles R. 131-2, R. 131-3 et R. 131-4 peuvent être
+modifiées dans les mêmes formes en cours d'année judiciaire dans les cas prévus au deuxième alinéa de l'article L. 710-1.
 
-Il en est de même en cas de nomination de magistrats à la Cour de cassation.
+L'ordonnance procédant à l'affectation des greffiers peut être modifiée en cours d'année judiciaire en cas d'urgence, en cas
+de cessation ou d'interruption des fonctions ou pour prévoir un service allégé pendant la période des congés annuels.
 
 **Liens relatifs à cet article**
 
@@ -10533,9 +10551,22 @@ Il en est de même en cas de nomination de magistrats à la Cour de cassation.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 2 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R434-1 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R131-2, R131-3 et R131-4
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*131-6
@@ -11564,12 +11595,10 @@ l'ordre de la liste de rang prévue à l'article R213-12.
 
 ###### Article R*213-8
 
-Pendant la première quinzaine du mois de décembre, le premier président, après avis de l'assemblée générale des magistrats du
-siège, fixe par ordonnance pour l'année judiciaire suivante la répartition dans les chambres et services de la cour des
-présidents de chambre et conseillers dont cette cour est composée.
+L'ordonnance prise par le premier président en application de l'article L. 710-1 intervient dans la première quinzaine du
+mois de décembre, après avis de l'assemblée générale des magistrats du siège.
 
-Les ordonnances mentionnées à l'alinéa précédent précisent le nombre, le jour et la nature des audiences conformément aux
-dispositions en vigueur.
+Elle précise le nombre, le jour et la nature des audiences conformément aux dispositions en vigueur.
 
 Un magistrat peut être affecté à plusieurs chambres.
 
@@ -11583,33 +11612,21 @@ Un magistrat peut être affecté à plusieurs chambres.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-###### Article R*213-9
-
-Les ordonnances prises en application de l'article précédent peuvent être modifiées dans les mêmes formes en cours d'année
-judiciaire en cas de cessation ou d'interruption des fonctions ou en cas d'absence d'un des magistrats concernés par la
-répartition, notamment pour prévoir un service allégé pendant la période au cours de laquelle les magistrats, les
-fonctionnaires et auxiliaires de justice bénéficient de leurs congés annuels.
-
-Il en est de même en cas de nomination de magistrats dans la cour d'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-163 1974-02-27 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
+	  - Décret n°96-157 du 27 février 1996 - art. 3 () JORF 1er mars 1996
 
 	**Abrogé par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-5 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R213-8
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*213-10
@@ -11910,57 +11927,6 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 
 
 ##### Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort
-
-###### Article R*213-27
-
-Selon les besoins du service, le premier président peut, par ordonnance, déléguer les juges des tribunaux d'instance et de
-grande instance, pour exercer des fonctions judiciaires, dans les tribunaux du ressort de la cour d'appel. Cette délégation
-ne peut excéder une durée de deux mois consécutifs. Toutefois, sur proposition du premier président, le garde des sceaux peut
-la renouveler par arrêté pour une nouvelle période de deux mois.
-
-En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de l'expropriation, la durée des délégations
-prévues au précédent alinéa peut être portée à six mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 1958-12-22 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
-
-###### Article R*213-28
-
-Selon les besoins du service, le procureur général peut déléguer, pour remplir les fonctions du ministère public près les
-tribunaux du ressort de la cour d'appel, un magistrat du parquet général ou un magistrat du parquet d'un tribunal de grande
-instance de ladite cour. Cette délégation ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux peut, par
-arrêté, la renouveler ou lui assigner une durée supérieure.
-
-En cas de nécessité, les fonctions visées à l'alinéa précédent peuvent être exceptionnellement confiées à un juge du tribunal
-d'instance ou de grande instance mis à la disposition du procureur général par ordonnance du premier président. Cette
-délégation ne peut avoir une durée supérieure à un mois ni être renouvelée au cours de la même année judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 1958-12-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
 
 ###### Article R*213-29
 
@@ -12575,11 +12541,10 @@ autant que faire se peut, l'ordre des nominations à ce tribunal.
 
 ###### Article R*311-23
 
-Pendant la première quinzaine du mois de décembre, le président après l'avis de l'assemblée générale des magistrats du siège,
-fixe par ordonnance la répartition dans les chambres et services du tribunal des vice-présidents et juges dont ce tribunal
-est composé.
+L'ordonnance prise par le président du tribunal de grande instance en application de l'article L. 710-1 intervient dans la
+première quinzaine du mois de décembre après avis de l'assemblée générale des magistrats du siège.
 
-Cette ordonnance précise le nombre, le jour et la nature des audiences conformément aux dispositions en vigueur.
+Elle précise le nombre, le jour et la nature des audiences conformément aux dispositions en vigueur.
 
 Un magistrat peut être affecté à plusieurs chambres.
 
@@ -12595,44 +12560,20 @@ Un magistrat peut être affecté à plusieurs chambres.
 
 	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 5 JORF 28 décembre 1983
+	  - Décret n°96-157 du 27 février 1996 - art. 4 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D47-6-3 (V)
 
 
-###### Article R*311-24
-
-Les ordonnances prises en application de l'article précédent peuvent être modifiées dans les mêmes formes en cours d'année
-judiciaire, en cas de cessation ou d'interruption des fonctions ou en cas d'absence d'un des magistrats concernés par la
-répartition, notamment pour prévoir un service allégé pendant la période au cours de laquelle les magistrats, les
-fonctionnaires et auxiliaires de justice bénéficient de leurs congés annuels.
-
-Il en est de même en cas de nomination de magistrats dans le tribunal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-163 1974-02-27 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R311-23
-
-
 ###### Article R*311-25
 
-Une expédition des ordonnances rendues par le président du tribunal de grande instance en application de l'article R311-23
+Une expédition des ordonnances rendues par le président du tribunal de grande instance en application de l'article L. 710-1
 est transmise aux chefs de la cour d'appel.
 
 **Liens relatifs à cet article**
@@ -12645,9 +12586,13 @@ est transmise aux chefs de la cour d'appel.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 5 () JORF 1er mars 1996
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-23
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 
 
 ###### Article R*311-26
@@ -12829,7 +12774,7 @@ les diverses chambres du tribunal.
 ###### Article R311-29-2
 
 Lorsque le président du tribunal de grande instance délègue les fonctions de juge de l'exécution à un ou plusieurs juges du
-tribunal, la délégation est effectuée selon les modalités prévues aux articles R. 311-23 et R. 311-24.
+tribunal, la délégation est effectuée selon les modalités prévues à l'article L. 710-1.
 
 L'ordonnance prise en application de l'alinéa qui précède est adressée au bâtonnier de l'ordre des avocats et au président de
 la chambre départementale des huissiers. Elle est affichée au greffe des juridictions comprises dans le ressort du tribunal
@@ -12852,11 +12797,11 @@ initialement désignée qui en assure la transmission.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°96-157 du 27 février 1996 - art. 6 () JORF 1er mars 1996
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-23, R311-24
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 
 
 ###### Article R311-29-3
@@ -12951,13 +12896,9 @@ Il peut exercer lui-même les fonctions qu'il leur a spécialement déléguées.
 En cas d'absence ou d'empêchement, le procureur de la République est suppléé par le magistrat du parquet qu'il aura désigné.
 
 En cas d'empêchement de ce magistrat, le procureur de la République est remplacé par le magistrat du parquet le plus ancien
-dans le grade le plus élevé et, à défaut, par un magistrat désigné dans les conditions prévues à l'article R213-28.
+dans le grade le plus élevé et, à défaut, par un magistrat désigné dans les conditions prévues à l'article L. 221-2.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R213-28
 
 	**Anciens textes**:
 
@@ -12966,6 +12907,14 @@ dans le grade le plus élevé et, à défaut, par un magistrat désigné dans le
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 7 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L221-2
 
 
 ###### Article R*311-37
@@ -13015,6 +12964,85 @@ magistrats qu'ils ont délégués au premier président ou au procureur généra
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+
+##### Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance
+
+###### Article R*311-39
+
+Les magistrats chargés de la présidence ou du service d'une chambre détachée peuvent, s'il y a lieu, être appelés dans les
+conditions fixées par l'article L. 710-1 à siéger au tribunal de grande instance dont ils sont membres.
+
+Dans les mêmes conditions, ces magistrats peuvent en cas de nécessité être affectés en même temps dans des chambres détachées
+limitrophes ayant leur siège dans la même circonscription de tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+
+
+###### Article R*311-40
+
+Le magistrat chargé de la présidence de la chambre détachée administre la chambre détachée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+
+
+###### Article R*311-41
+
+Le magistrat chargé de la présidence de la chambre détachée est, en cas d'absence ou d'empêchement, suppléé par un magistrat
+chargé du service de la chambre détachée désigné par le président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+
+
+###### Article R*311-42
+
+Pendant la première quinzaine du mois qui précède l'année judiciaire, sur proposition du magistrat chargé de la présidence de
+la chambre détachée, le président du tribunal de grande instance, par ordonnance prise après avis de l'assemblée générale des
+magistrats de cette juridiction, répartit conformément aux dispositions de l'article L. 710-1 le service entre les magistrats
+de la chambre détachée, compte tenu, le cas échéant, de la participation qu'ils apportent au fonctionnement du tribunal de
+grande instance. Cette ordonnance précise le nombre, le jour et la nature des audiences de la chambre détachée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 
 
 #### Chapitre II : Dispositions particulières à certaines matières
@@ -13101,38 +13129,6 @@ demandes mentionnées à l'alinéa précédent".
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
-
-
-##### Section IV : Dispositions particulières aux professions juridiques et judiciaires
-
-###### Article R*312-4
-
-Conformément à l'article 54 de la loi n° 71-1130 du 31 décembre 1971, la liste des conseils juridiques est établie par le
-procureur de la République.
-
-Ses décisions peuvent être déférées au tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-1130 1971-12-31 art. 54
-
-	**Anciens textes**:
-
-	  - Décret n°72-670 du 13 juillet 1972 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R935-3 (Ab)
 
 
 ##### Section V : Dispositions particulières en matière commerciale
@@ -13621,10 +13617,10 @@ de ce dernier, concernant les mesures à prendre dans l'intérêt de la salubrit
 ###### Article R*321-13
 
 Le tribunal d'instance est seul compétent pour procéder, à défaut d'entente amiable entre les créanciers opposants et le
-saisi, à la distribution par contribution des sommes saisies lorsque les sommes à distribuer n'excèdent pas 13000 F.
+saisi, à la distribution par contribution des sommes saisies lorsque les sommes à distribuer n'excèdent pas 13.000 F.
 
 Cette distribution est faite après le dépôt de la somme à distribuer à la Caisse des dépôts et consignations dans les formes
-prévues aux articles R145-14 et suivants du Code du travail.
+prévues aux articles R145-30 et suivants du code du travail.
 
 Si les titres des créanciers produisants sont contestés et si les causes de la contestation excèdent les limites de sa
 compétence, le tribunal d'instance sursoit au règlement de la procédure de distribution jusqu'à ce que le tribunal compétent
@@ -13642,12 +13638,15 @@ se soit définitivement prononcé.
 
 	**Modifié par**:
 
-	  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10 art. 6 JORF 13 avril 1985
+	  - Décret n°96-157 du 27 février 1996 - art. 9 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 3 (Ab) JORF 23 août 1996
 
 	**Cite**:
 
-	  - Code du travail - art. R145-14 (M)
+	  - Code du travail - art. R145-30 (V)
 
 
 ###### Article R*321-14
@@ -13778,7 +13777,7 @@ les listes électorales qu'à la régularité des élections suivantes  :
 ###### Article R*321-19
 
 Le tribunal d'instance connaît encore en dernier ressort des contestations sur la validité de toutes les opérations
-électorales en matière de mutualité, dans les conditions prévues à l'article 24 du Code de la mutualité [*compétence*].
+électorales en matière de mutualité, dans les conditions prévues à l'article R. 125-3 du Code de la mutualité.
 
 **Liens relatifs à cet article**
 
@@ -13790,9 +13789,13 @@ Le tribunal d'instance connaît encore en dernier ressort des contestations sur 
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 10 () JORF 1er mars 1996
+
 	**Cite**:
 
-	  - Code de la mutualité 24
+	  - Code de la mutualité - art. R125-3 (M)
 
 
 ###### Article R*321-20
@@ -14074,26 +14077,6 @@ justice.
 	  - Code de l'organisation judiciaire annexe
 
 
-###### Article R*321-32
-
-Le premier président de la cour d'appel peut autoriser un tribunal d'instance à tenir des audiences en des communes du
-ressort, autres que celle où est fixé le siège de ce tribunal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 1958-12-22 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
-
 ##### Section III : Fonctionnement
 
 ###### Article R*321-33
@@ -14140,9 +14123,10 @@ leur siège dans la même circonscription de tribunal de grande instance.
 ###### Article R*321-35
 
 Lorsque le service d'un tribunal d'instance est assuré par deux ou plusieurs magistrats du siège d'un tribunal de grande
-instance, celui d'entre eux du rang le plus élevé administre le tribunal d'instance et répartit le service entre les
-magistrats compte tenu, le cas échéant, de la participation qu'ils apportent au fonctionnement d'autres tribunaux d'instance
-ou du tribunal de grande instance auquel ils appartiennent.
+instance, celui d'entre eux du rang le plus élevé administre le tribunal d'instance et répartit conformément aux dispositions
+de l'article L. 710-1 dans la première quinzaine du mois de décembre le service entre les magistrats compte tenu, le cas
+échéant, de la participation qu'ils apportent au fonctionnement d'autres tribunaux d'instance ou du tribunal de grande
+instance auquel ils appartiennent.
 
 **Liens relatifs à cet article**
 
@@ -14153,6 +14137,14 @@ ou du tribunal de grande instance auquel ils appartiennent.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 11 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 
 
 ###### Article R*321-36
@@ -14222,8 +14214,8 @@ ce tribunal.
 ###### Article R*321-41
 
 Les magistrats chargés du service d'un tribunal d'instance par application des dispositions de l'article R321-34 peuvent,
-s'il y a lieu, être appelés dans les conditions fixées par les articles R311- 23 et R311-24 à siéger au tribunal de grande
-instance dont ils sont membres.
+s'il y a lieu, être appelés dans les conditions fixées par l'article L. 710-1 à siéger au tribunal de grande instance dont
+ils sont membres.
 
 **Liens relatifs à cet article**
 
@@ -14235,9 +14227,14 @@ instance dont ils sont membres.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 12 () JORF 1er mars 1996
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-23, R311-24 et R321-34
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire L710-1, R321-34
 
 
 ###### Article R*321-42
@@ -18467,6 +18464,30 @@ tribunaux.
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
 
+### Titre X : Audiences foraines
+
+###### Article R*7-10-1-1
+
+En application des dispositions de l'article L. 7-10-1-1, le premier président de la cour d'appel, après avis du procureur
+général près ladite cour, fixe par ordonnance, en fonction des nécessités locales, le lieu, le jour et la nature des
+audiences que peuvent tenir les juridictions du ressort en des communes de leur propre ressort autres que celle où est fixé
+leur siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 19 () JORF 1er mars 1996
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-10-1-1 (V)
+
+
 ### Titre Ier : L'année judiciaire
 
 ###### Article R*711-1
@@ -18918,6 +18939,34 @@ L'assemblée des fonctionnaires est présidée par le greffier en chef, sous ré
 	  - Décret n°1852-05-18 art. 1
 
 
+###### Article R*761-2-1
+
+Les magistrats placés respectivement auprès du premier président et du procureur général sont membres des assemblées
+générales du siège ou du parquet de la juridiction auprès de laquelle ils exercent leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 13 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-34 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-38 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-39 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-45 (V)
+
+
 ###### Article R*761-3
 
 Les différentes formations de l'assemblée générale sont réunies au moins une fois par an au cours du mois de novembre. Elles
@@ -19322,7 +19371,7 @@ la cour d'appel. Les magistrats du siège du tribunal de grande instance et les 
 membres de l'assemblée des magistrats du tribunal de grande instance.
 
 L'assemblée des magistrats du tribunal de grande instance comprend en outre les juges chargés du service d'un tribunal
-d'instance.
+d'instance et les juges chargés de la présidence ou du service d'une chambre détachée.
 
 Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions de l'assemblée des magistrats.
 
@@ -19332,13 +19381,18 @@ Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°96-157 du 27 février 1996 - art. 14 () JORF 1er mars 1996
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-41 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-48 (V)
 
 	**Cité par**:
 
@@ -19460,8 +19514,9 @@ Elle prépare les réunions de l'assemblée plénière.
 
 ###### Article R*761-21
 
-Les juges du tribunal de grande instance chargés du service d'un tribunal d'instance sont membres de l'assemblée des
-magistrats du siège du tribunal de grande instance.
+Les juges du tribunal de grande instance chargés du service d'un tribunal d'instance et les juges du tribunal de grande
+instance chargés de la présidence ou du service d'une chambre détachée sont membres de l'assemblée générale des magistrats du
+siège du tribunal de grande instance.
 
 Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions de l'assemblée des magistrats du siège.
 
@@ -19471,13 +19526,22 @@ Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 15 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-34 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-39 (V)
 
 	**Cité par**:
 
@@ -19513,14 +19577,14 @@ de la majorité de ses membres ou du chef du parquet.
 
 L'assemblée des magistrats du siège de la cour d'appel :
 
-1° Désigne le président et les conseillers qui doivent composer la chambre de l'instruction, ainsi que le président de la
-chambre de l'instruction appelé à exercer des pouvoirs propres, conformément aux articles 191 et 219 du Code de procédure
-pénale ;
+1° Désigne les conseillers qui doivent composer la chambre de l'instruction, ainsi que le président de la chambre de
+l'instruction appelé à exercer des pouvoirs propres, conformément aux articles 191 et 219 du code de procédure pénale ;
 
 2° Désigne les juges du tribunal d'instance chargés des fonctions de juge départiteur du conseil de prud'hommes, conformément
-à l'article L515-3 du Code du travail ;
+à l'article L. 515-3 du Code du travail ;
 
-3° Détermine le nombre des audiences correctionnelles, conformément à l'article 511 du Code de procédure pénale  ;
+3° Emet un avis sur le projet d'ordonnance préparé par le premier président fixant le nombre et le jour des audiences
+correctionnelles, conformément à l'article 511 du code de procédure pénale ;
 
 4° Exerce les attributions prévues par les dispositions particulières à certaines professions juridiques et judiciaires ;
 
@@ -19530,7 +19594,10 @@ pénale ;
 la juridiction, des présidents de chambre et des conseillers dont la cour d'appel est composée ;
 
 7° Emet un avis sur la désignation par le premier président du ou des conseillers chargés de suivre l'application des peines
-dans le ressort de la cour d'appel.
+dans le ressort de la cour d'appel ;
+
+8° Propose au garde des sceaux, ministre de la justice, les candidats aux fonctions de magistrat exerçant à titre temporaire,
+conformément à la loi n° 95-64 du 19 janvier 1995.
 
 **Liens relatifs à cet article**
 
@@ -19538,24 +19605,21 @@ dans le ressort de la cour d'appel.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
-
-	**Modifié par**:
-
-	  - Décret n°86-461 1986-03-14 art. 11 JORF 16 mars 1986
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
 
 	**Cite**:
 
+	  - Loi n°95-64 1995-01-19
 	  - CODE DE PROCEDURE PENALE - art. 191 (M)
 	  - CODE DE PROCEDURE PENALE - art. 219 (M)
 	  - CODE DE PROCEDURE PENALE - art. 511 (M)
 	  - Code du travail - art. L515-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 16 () JORF 1er mars 1996
 
 	**Cité par**:
 
@@ -19580,7 +19644,8 @@ modifiée relative à l'entrée et au séjour des étrangers en France ;
 au conseil communal de prévention prévus par les articles 12 (4°) et 16 du décret n° 83-459 du 8 juin 1983 portant création
 d'un conseil national et relatif aux conseils départementaux et communaux de prévention de la délinquance ;
 
-5° Détermine le nombre des audiences correctionnelles, conformément à l'article 399 du Code de procédure pénale ;
+5° Emet un avis sur le projet d'ordonnance préparé par le président fixant le nombre et le jour des audiences
+correctionnelles, conformément à l'article 399 du code de procédure pénale ;
 
 6° Emet un avis sur les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires
 entre les magistrats spécialisés du tribunal ;
@@ -19602,28 +19667,24 @@ exercera les attributions mentionnées au titre XI du Code de procédure pénale
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
 	  - Décret n°83-459 1983-06-08 art. 12, art. 16
 	  - CODE DE PROCEDURE PENALE - art. 399 (M)
+	  - CODE DE PROCEDURE PENALE - art. 50 (AbD)
 	  - CODE DE PROCEDURE PENALE - art. 697 (M)
 	  - CODE DE PROCEDURE PENALE - art. 702 (M)
 	  - CODE DE PROCEDURE PENALE - art. 704 (M)
 	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-	  - Code de procédure pénale 50 al. 5, 399, 697, 702, 704, 709-1
 	  - Code de l'organisation judiciaire L313-1
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
 
 	**Modifié par**:
 
-	  - Décret n°86-461 1986-03-14 art. 12 JORF 16 mars 1986
+	  - Décret n°96-157 du 27 février 1996 - art. 17 () JORF 1er mars 1996
 
 
 ##### Sous-section III : L'assemblée des magistrats du parquet
@@ -19925,7 +19986,7 @@ Les magistrats, les fonctionnaires et les agents de l'Etat relevant de la direct
 l'assemblée plénière.
 
 L'assemblée plénière du tribunal de grande instance comprend en outre les magistrats chargés du service d'un tribunal
-d'instance.
+d'instance et les magistrats chargés de la présidence ou du service d'une chambre détachée.
 
 **Liens relatifs à cet article**
 
@@ -19933,13 +19994,13 @@ d'instance.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 18 () JORF 1er mars 1996
 
 	**Cité par**:
 
@@ -21409,19 +21470,19 @@ spécialisé, il doit au préalable recueillir l'avis de ce magistrat.
 Selon les besoins du service, les agents des secrétariats-greffes peuvent être délégués dans les services administratifs
 d'une autre juridiction du ressort de la même cour d'appel.
 
-Cette délégation est prononcée par décision des chefs de cour.
-
-Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler dans
-la limite d'une durée totale de huit mois.
+Cette délégation est prononcée par décision des chefs de cour. Elle ne peut excéder une durée de deux mois. Toutefois, le
+garde des sceaux, ministre de la justice, peut la renouveler dans la limite d'une durée totale de huit mois.
 
 Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que celles qui sont
-prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du 10 août 1966.
+prévues pour les fonctionnaires de leur catégorie par le décret n° 90-437 du 28 mai 1990.
+
+**Nota:**
+
+Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
+des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
+présent décret à compter du 1er novembre 2006.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-619 1966-08-10
 
 	**Anciens textes**:
 
@@ -21431,9 +21492,21 @@ prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du
 
 	  - Décret n°78-330 1978-03-16
 
+	**Cite**:
+
+	  - Décret n°90-437 du 28 mai 1990
+
 	**Modifié par**:
 
-	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+	  - Décret n°96-157 du 27 février 1996 - art. 20 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-17 (M)
 
 
 ###### Article R*812-18
@@ -23389,6 +23462,40 @@ cas prévu par l'article 318 du code civil.
 	  - Nouveau code de procédure civile Annexe art. 3 al. 2
 
 
+###### Article R*911-3
+
+Dans le cas où le tribunal d'instance est compétent en matière patrimoniale ou en matière commerciale, il statue en premier
+ou dernier ressort suivant la valeur du litige d'après les taux de compétence fixés en matière civile pour l'ensemble des
+tribunaux d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-818 1981-09-01 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R223-1 (V)
+
+	**Anciens textes**:
+
+	  - Nouveau code de procédure civile Annexe art. 34
+
+
 ###### Article R*911-4
 
 La saisie conservatoire prévue par l'article 158 du Code de commerce a lieu sur ordonnance du juge du tribunal d'instance
@@ -23913,80 +24020,16 @@ arrêté du garde des sceaux, ministre de la justice.
 	  - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
-
-#### Chapitre I : Le tribunal d'instance
-
-##### Section I : Dispositions générales
-
-###### Article R*911-3
-
-Dans le cas où le tribunal d'instance est compétent en matière patrimoniale ou en matière commerciale, il statue en premier
-ou dernier ressort suivant la valeur du litige d'après les taux de compétence fixés en matière civile pour l'ensemble des
-tribunaux d'instance.
-
-Lorsqu'il n'existe pas de conseil de prud'hommes compétent pour la profession intéressée, le tribunal d'instance statue, en
-matière prud'homale, en premier ou en dernier ressort suivant les règles fixées par les articles R517-3 à R517-5 du Code du
-travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°81-818 1981-09-01 art. 12
-
-	**Modifié par**:
-
-	  - Décret n°81-818 1981-09-01 art. 8 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-
-	**Cite**:
-
-	  - Code du travail R517-3 à R517-5
-
-	**Anciens textes**:
-
-	  - Nouveau code de procédure civile Annexe art. 34
-
-
 ### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*
 
 #### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
 
 ##### Section I : La cour d'appel
 
-###### Article R*921-1
-
-L'article R213-27 et l'alinéa 1er de l'article R213-28 du présent code ne sont pas applicables dans les départements
-susénumérés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R213-27 et R213-28 al. 1
-
-
 ###### Article R*921-2
 
 La cour d'appel peut se compléter selon les besoins du service à l'aide de magistrats d'un tribunal de grande instance du
 ressort de la cour délégués par ordonnance du premier président, les membres de la cour devant toujours être en majorité.
-
-Selon les besoins du service, le premier président peut, par ordonnance, déléguer les juges des tribunaux d'instance et de
-grande instance pour exercer des fonctions judiciaires dans les tribunaux du ressort de la cour d'appel. Cette délégation ne
-peut excéder une durée de quatre mois consécutifs. Toutefois, sur proposition du premier président, le garde des sceaux peut
-la renouveler par arrêté pour une nouvelle période de quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -23998,16 +24041,23 @@ la renouveler par arrêté pour une nouvelle période de quatre mois.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-4 (V)
+
 
 ###### Article R*921-3
 
 Selon les besoins du service, le procureur général peut déléguer, pour tenir les fonctions de ministère public près la cour
 d'appel ou la cour d'assises, un procureur de la République ou un substitut.
-
-Il peut, dans les mêmes conditions, déléguer, pour tenir les fonctions de ministère public près les tribunaux du ressort de
-la cour d'appel, un magistrat du parquet général ou un magistrat du parquet d'un tribunal de grande instance de ladite cour.
-Cette délégation ne peut excéder une durée de quatre mois. Toutefois, le garde des sceaux peut par arrêté la renouveler ou
-lui assigner une durée supérieure.
 
 **Liens relatifs à cet article**
 
@@ -24019,23 +24069,47 @@ lui assigner une durée supérieure.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 22 (V) JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
+
 
 ##### Section II : Le tribunal de grande instance et le tribunal d'instance
 
 ###### Article R*921-4
 
-Pendant la première quinzaine du mois de décembre, les magistrats du siège se réunissent dans chaque tribunal de grande
-instance pour fixer l'affectation des vice-présidents et juges entre les chambres du tribunal.
+L'ordonnance prise par le président du tribunal de grande instance en application de l'article L. 710-1 intervient après avis
+de l'assemblée générale des magistrats du siège.
 
-Le procureur de la République est entendu en ses observations.
+Elle précise le nombre, le jour et la nature des audiences, conformément aux dispositions en vigueur.
 
-En cas de désaccord, la décision est prise par le premier président de la cour d'appel.
+Un magistrat peut être affecté à plusieurs chambres.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°96-157 du 27 février 1996 - art. 21 () JORF 1er mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*921-5
