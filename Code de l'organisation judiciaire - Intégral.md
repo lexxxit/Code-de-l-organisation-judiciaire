@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-26
 
 # Partie législative ancienne
 
@@ -7911,7 +7911,23 @@ tribunal de grande instance connaît en appel.
 
 Le siège et le ressort des cours d'appel sont fixés conformément au tableau n° I annexé au présent code.
 
+Lorsqu'une cour d'appel est créée ou lorsque le ressort d'une cour d'appel est modifié par suite d'une nouvelle délimitation
+des circonscriptions administratives ou judiciaires, la cour compétente primitivement saisie demeure compétente pour statuer
+sur les procédures introduites antérieurement à la date de création de la cour ou de modification du ressort.
+
+Lorsqu'une cour d'appel est supprimée, toutes les procédures en cours devant cette juridiction à la date d'entrée en vigueur
+du décret de suppression sont transférées en l'état à la cour d'appel dans le ressort de laquelle est situé le siège de la
+cour supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement
+à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de
+comparution personnelle. Les archives et les minutes du secrétariat-greffe de la cour d'appel supprimée sont transférés au
+secrétariat-greffe de la cour d'appel dans le ressort de laquelle est situé le siège de la cour d'appel supprimée. Les frais
+de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe
 
 	**Anciens textes**:
 
@@ -7921,9 +7937,9 @@ Le siège et le ressort des cours d'appel sont fixés conformément au tableau n
 
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - code de l'organisation judiciaire Annexe tableau I
+	  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
 
 
 ###### Article R*212-2
@@ -9017,15 +9033,27 @@ par le nouveau Code de procédure civile, et notamment par ses articles 42 à 52
 
 Le siège et le ressort des tribunaux de grande instance sont fixés conformément au tableau n° I annexé au présent code.
 
-Pour l'application de l'article 7 de la loi 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires
-des entreprises, la liste des tribunaux de grande instance compétents en métropole est fixée au tableau VIII annexé au
-présent code.
+Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises, la liste des tribunaux de grande instance compétents en métropole est fixée au tableau VIII
+annexé au présent code.    Lorsqu'un tribunal de grande instance est créé ou lorsque le ressort d'un tribunal de grande
+instance est modifié par suite d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, le tribunal
+compétent primitivement saisi demeure compétent pour statuer sur les procédures introduites antérieurement à la date de
+création du tribunal ou de modification du ressort.
+
+Lorsqu'un tribunal de grande instance est supprimé, toutes les procédures en cours devant cette juridiction à la date
+d'entrée en vigueur du décret de suppression sont transférées en l'état au tribunal de grande instance dans le ressort duquel
+est situé le siège du tribunal supprimé sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement
+intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux
+témoins à fin de comparution personnelle. Les archives et les minutes du secrétariat-greffe du tribunal de grande instance
+supprimé sont transférés au secrétariat-greffe du tribunal de grande instance dans le ressort duquel est situé le siège du
+tribunal supprimé. Les frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du
+ministère de la justice.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire Annexe tableau I
+	  - Code de l'organisation judiciaire annexe
 	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
 
 	**Codifié par**:
@@ -9034,11 +9062,7 @@ présent code.
 
 	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 6 () JORF 15 janvier 1988
-
-	**Anciens textes**:
-
-	  - Nouveau code de procédure civile
+	  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
 
 
 ###### Article R*311-8
@@ -10606,13 +10630,26 @@ Dans les cas prévus à l'article R321-7 (5°), le tribunal compétent est celui
 
 ###### Article R*321-31
 
-Le siège et le ressort des tribunaux d'instance sont fixés par le tableau [*V annexé au présent code*].
+Le siège et le ressort des tribunaux d'instance sont fixés par le tableau V annexé au présent code.
+
+Lorsqu'un tribunal d'instance est créé ou lorsque le ressort d'un tribunal d'instance est modifié par suite d'une nouvelle
+délimitation des circonscriptions administratives ou judiciaires, le tribunal compétent primitivement saisi demeure compétent
+pour statuer sur les procédures introduites antérieurement à la date de création du tribunal ou de modification du ressort.
+
+Lorsqu'un tribunal d'instance est supprimé, toutes les procédures en cours devant cette juridiction à la date d'entrée en
+vigueur du décret de suppression sont transférées en l'état au tribunal d'instance dans le ressort duquel est situé le siège
+du tribunal supprimé sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus
+antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à
+fin de comparution personnelle. Les archives et les minutes du secrétariat-greffe du tribunal d'instance supprimé sont
+transférées au secrétariat-greffe du tribunal d'instance dans le ressort duquel est situé le siège du tribunal supprimé. Les
+frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la
+justice.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire Annexe tableau V
+	  - Code de l'organisation judiciaire annexe
 
 	**Codifié par**:
 
@@ -10620,7 +10657,7 @@ Le siège et le ressort des tribunaux d'instance sont fixés par le tableau [*V 
 
 	**Modifié par**:
 
-	  - Décret n°79-391 1979-05-14 art. 5 JORF 18 mai 1979
+	  - Décret n°92-86 du 22 janvier 1992 - art. 1 (V) JORF 26 janvier 1992
 
 
 ###### Article R*321-32
