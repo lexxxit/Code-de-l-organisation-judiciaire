@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-09-27
 
 # Partie législative ancienne
 
@@ -17503,6 +17503,34 @@ juges. Ce magistrat est désigné dans les conditions prévues à l'article R. 1
 	**Cite**:
 
 	  - Code de l'expropriation pour cause d'utilité publique R13-1 à R13-4
+
+
+### Titre IV : Le tribunal paritaire des baux ruraux
+
+#### Chapitre II : Constitution des tribunaux paritaires.
+
+###### Article R442-1
+
+Les listes prévues par l'article L442-1 sont dressées entre le 1er et le 10 décembre de l'année précédant celle de
+l'élection.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 3 JORF 23 décembre 1958 modifié par le décret 81-1098 1981-12-09 art. 1 et 2 JORF 15 décembre 1981
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°94-829 du 21 septembre 1994 - art. 1 () JORF 27 septembre 1994
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
 
 
 ### Titre V : Les juridictions de sécurité sociale
