@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-01-28
+Version Consolidée au 2005-02-28
 
 # Partie législative ancienne
 
@@ -8888,26 +8888,6 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-25 (VT)
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer
-
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
-
-##### Section II : Le tribunal du travail
-
-##### Sous-section I : Institution et compétence.
-
-###### Article L932-10-1
-
-En Nouvelle-Calédonie, le tribunal du travail connaît également des oppositions à contrainte formées par les employeurs et
-les travailleurs indépendants.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2002-303 du 4 mars 2002 - art. 126 (V) JORF 5 mars 2002
-
-
 ### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
@@ -10056,6 +10036,41 @@ judiciaire.
 	**Modifié par**:
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
+
+
+###### Article L932-10-1
+
+En Nouvelle-Calédonie, le tribunal du travail règle par voie de conciliation les différends qui peuvent s'élever à l'occasion
+de tout contrat de travail entre les employeurs et les salariés qu'ils emploient. Il juge les différends à l'égard desquels
+la conciliation n'a pas abouti.
+
+En Nouvelle-Calédonie, la formation de conciliation du tribunal est composée au moins d'un assesseur salarié et d'un
+assesseur employeur assistés du greffier. Elle n'est valablement constituée que si les représentants des employeurs et des
+salariés y figurent en nombre égal.
+
+En Nouvelle-Calédonie, le tribunal du travail connaît également des oppositions à contrainte formées par les employeurs et
+les travailleurs indépendants.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-57 du 26 janvier 2005 - art. 21 () JORF 28 février 2005
 
 	**Abrogé par**:
 
