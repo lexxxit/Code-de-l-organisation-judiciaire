@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1995-05-03
+Version Consolidée au 1995-05-09
 
 # Partie législative ancienne
 
@@ -5543,13 +5543,15 @@ vigueur des dispositions législatives concernant la responsabilité des magistr
 	  - Code de procédure pénale - art. 626 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre I : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun et à la Cour de sûreté de l'Etat.
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats
+
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun.
 
 ###### Article L811-1
 
-Le service des secrétariats-greffes de la Cour de cassation, de la Cour de sûreté de l'Etat, des cours d'appel, des tribunaux
-de grande instance, des tribunaux d'instance, ayant seuls compétence en matière pénale, est assuré par des fonctionnaires de
-l'Etat.
+Le service des secrétariats-greffes de la Cour de cassation, des cours d'appel, des tribunaux de grande instance, des
+tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale est assuré par des fonctionnaires
+de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -5562,8 +5564,47 @@ l'Etat.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats
+	  - Loi n°95-125 du 8 février 1995 - art. 7 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+
+###### Article L811-2
+
+Pour l'exercice des attributions qui lui sont dévolues par la loi, le greffier en chef de la juridiction peut donner
+délégation à un autre greffier en chef de la même juridiction.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 7 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L946-2 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-7 (V)
+
 
 ### Titre II : Le greffe du tribunal de commerce
 
