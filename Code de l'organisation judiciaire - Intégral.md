@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-02-28
+Version Consolidée au 2005-04-01
 
 # Partie législative ancienne
 
@@ -13316,8 +13316,14 @@ applicables à Mayotte.
 
 Les articles L. 331-1 à L. 331-9 sont applicables à Mayotte.
 
-Pour leur application à Mayotte, la somme de "1 500 Euros" prévue à l'article L. 331-2 est remplacée par la somme de "250
-Euros".
+Pour leur application à Mayotte, la somme de "4 000 euros" prévue à l'article L. 331-2 est remplacée par la somme de "250
+euros".
+
+**Nota:**
+
+NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
+publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
+cette date demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -13326,14 +13332,23 @@ Euros".
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
 	  - Code de l'organisation judiciaire L331-1 à L331-9, L331-2
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-28 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-29-1 (VT)
 
 
 #### Chapitre IV : Les juridictions des mineurs.
