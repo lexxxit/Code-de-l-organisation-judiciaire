@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-05-15
+Version Consolidée au 1981-08-07
 
 # Partie législative ancienne
 
@@ -545,6 +545,43 @@ lorsque le nombre minimum de membres, prévu à l'article L131-6 (alinéa 1er) d
 	**Cite**:
 
 	  - Code de l'organisation judiciaire L131-6 al. 1
+
+
+#### Chapitre Ier : Le services des chambres de la Cour.
+
+###### Article L131-6
+
+Les chambres ne rendent les arrêts que si cinq membres au moins ayant voix délibératives sont présents [*nombre minimum*].
+
+Lorsque la solution du pourvoi lui paraît s'imposer, le premier président ou le président de la chambre concernée peut
+décider de faire juger l'affaire par une formation restreinte de trois magistrats. Cette formation peut renvoyer l'examen du
+pourvoi à l'audience de la chambre, à la demande de l'une des parties ; le renvoi est de droit si l'un des magistrats
+composant la formation restreinte le demande.
+
+Les chambres mixtes et l'assemblée plènière ne peuvent siéger que si tous les membres qui doivent les composer sont présents.
+En cas d'empêchement de l'un de ces membres, il est remplacé par un conseiller désigné par le premier président ou, à défaut
+de celui-ci, par le président de chambre qui le remplace.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 3 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+	  - Loi n°81-82 du 2 février 1981 - art. 60 () JORF 3 février 1981
+	  - Loi n°81-759 1981-08-06 art. 1 I, art. 1 II et art. 2 JORF 7 août 1981
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (V)
 
 
 #### Chapitre II : Le ministère public.
