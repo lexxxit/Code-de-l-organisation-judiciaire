@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-30
 
 # Partie législative ancienne
 
@@ -14126,15 +14126,10 @@ s'il y a lieu, à la désignation de nouveaux rapporteurs.
 
 ###### Article R*121-7
 
-La Cour de cassation connaît des recours formés contre les décisions prises par les organismes chargés de l'établissement des
-listes d'experts, dans les conditions définies aux articles 34 à 36 du décret n° 74-1184 du 31 décembre 1974 [*compétence*].
+La Cour de cassation connaît des recours formés contre les décisions prises par les autorités chargées de l'établissement des
+listes d'experts dans les conditions prévues aux articles 20, 29 et 31 du décret n° 2004-1464 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°74-1184 1974-12-31 art. 34, art. 35 et art. 36
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 34 (Ab)
 
 	**Anciens textes**:
 
@@ -14143,6 +14138,14 @@ listes d'experts, dans les conditions définies aux articles 34 à 36 du décret
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Cite**:
+
+	  - Décret n°2004-1464 2004-12-23 art. 20, art. 29, art. 31
+
+	**Modifié par**:
+
+	  - Décret n°2004-1463 du 23 décembre 2004 - art. 35 () JORF 30 décembre 2004
 
 
 ### Titre III : Fonctionnement
@@ -15815,8 +15818,8 @@ formations prévues à l'article R. 212-4.
 
 ###### Article R*225-2
 
-L'assemblée générale de la cour d'appel dresse la liste des experts près la cour d'appel dans les formes et conditions fixées
-par les articles 6 à 10 du décret n° 74-1184 du 31 décembre 1974.
+L'assemblée générale des magistrats du siège dresse la liste des experts de la cour d'appel dans les conditions prévues par
+les articles 6 à 16 du décret n° 2004-1464 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -15824,20 +15827,23 @@ par les articles 6 à 10 du décret n° 74-1184 du 31 décembre 1974.
 
 	  - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
 
-	**Cite**:
-
-	  - Décret n°74-1184 1974-12-31 art. 6 à art. 10
-
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Cite**:
+
+	  - Décret n°2004-1464 2004-12-23 art. 6 à 16
+
+	**Modifié par**:
+
+	  - Décret n°2004-1463 du 23 décembre 2004 - art. 36 () JORF 30 décembre 2004
+
 
 ###### Article R*225-3
 
-La première chambre de la cour d'appel connaît des recours formés contre les décisions de l'assemblée générale en matière de
-retrait ou de radiation de la liste de la cour d'appel, dans les conditions prévues aux articles 35 et 36 du décret n°
-74-1184 du 31 décembre 1974 [*compétence*].
+La première chambre de la cour d'appel connaît des recours formés contre les décisions prises par les autorités chargées de
+l'établissement des listes dans les conditions prévues par les articles 29 et 31 du décret n° 2004-1464 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -15845,13 +15851,17 @@ retrait ou de radiation de la liste de la cour d'appel, dans les conditions pré
 
 	  - Décret n°74-1184 1974-12-21 art. 34 à art. 36
 
-	**Cite**:
-
-	  - Décret n°74-1184 1974-12-21 art. 34, art. 36
-
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Cite**:
+
+	  - Décret n°2004-1464 2004-12-23 art. 29, art. 31
+
+	**Modifié par**:
+
+	  - Décret n°2004-1463 du 23 décembre 2004 - art. 37 () JORF 30 décembre 2004
 
 
 ##### Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires
@@ -27887,10 +27897,11 @@ Les inspections occasionnelles ont lieu de façon inopinée.
 ###### Article R821-6
 
 Chaque inspection est prescrite par le garde des sceaux, ministre de la justice, soit d'office, soit à la demande du
-président du tribunal de commerce. Elle est conduite par le procureur de la République.
+président du tribunal de commerce ou du président du Conseil national des greffiers des tribunaux de commerce. Elle est
+conduite par le procureur de la République.
 
 Un ou plusieurs inspecteurs sont désignés pour chaque mission par le garde des sceaux, ministre de la justice, parmi les
-greffiers des tribunaux de commerce en activité ou honoraires.
+greffiers des tribunaux de commerce en activité ou parmi les honoraires ayant cessé leur activité depuis moins de trois ans.
 
 Les greffiers ainsi désignés sont choisis sur une liste comprenant quarante noms au moins, établie avant le début de chaque
 année par le bureau du Conseil national des greffiers des tribunaux de commerce.
@@ -27906,11 +27917,7 @@ la liste des greffiers proposés pour faire l'objet d'une inspection périodique
 
 	**Modifié par**:
 
-	  - Décret n°91-743 du 31 juillet 1991 - art. 1 () JORF 1er août 1991 en vigueur le 1er janvier 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 2 () JORF 30 décembre 2004
 
 	**Cité par**:
 
@@ -27952,7 +27959,9 @@ toutes informations utiles à l'accomplissement de leur mission.
 Les inspecteurs adressent un compte rendu de leur mission au procureur de la République. Les inspections occasionnelles
 donnent lieu à l'établissement d'un rapport détaillé.
 
-Ces documents sont transmis au garde des sceaux, ministre de la justice, à l'issue de chaque inspection.
+Ces documents sont transmis au garde des sceaux, ministre de la justice, à l'issue de chaque inspection. Copie en est
+communiquée au président du Conseil national des greffiers des tribunaux de commerce et au président du tribunal de commerce
+lorsque l'inspection a été prescrite à la demande de ce dernier.
 
 **Liens relatifs à cet article**
 
@@ -27960,9 +27969,9 @@ Ces documents sont transmis au garde des sceaux, ministre de la justice, à l'is
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 3 () JORF 30 décembre 2004
 
 	**Nouveaux textes**:
 
@@ -28105,19 +28114,26 @@ qui sera désigné par arrêté du garde des sceaux, ministre de la justice, apr
 Les membres du conseil national sont élus par moitié tous les deux ans pour quatre ans et renouvelables une fois ; ils ne
 sont rééligibles que quatre ans après l'expiration de leur deuxième mandat.
 
+Après chaque renouvellement partiel, le Conseil national désigne en son sein, pour deux ans, les membres de sa formation
+disciplinaire, lesquels élisent leur président.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°91-743 du 31 juillet 1991 - art. 3 () JORF 1er août 1991
-
 	**Cité par**:
 
 	  - Décret n°91-743 du 31 juillet 1991 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 4 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28127,7 +28143,7 @@ sont rééligibles que quatre ans après l'expiration de leur deuxième mandat.
 ###### Article R821-14
 
 Chaque personne physique exerçant la profession de greffier de tribunal de commerce en activité est électeur et éligible dès
-sa prestation de serment. Elle cesse de l'être en cas de suspension provisoire, destitution ou démission.
+sa prestation de serment. Elle cesse de l'être en cas de destitution ou de démission.
 
 **Liens relatifs à cet article**
 
@@ -28135,9 +28151,13 @@ sa prestation de serment. Elle cesse de l'être en cas de suspension provisoire,
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-743 du 31 juillet 1991 - art. 3 () JORF 1er août 1991
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 5 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28472,17 +28492,26 @@ commerce et de faciliter l'obtention et la mise en oeuvre des stages et d'en ass
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce
 
-##### Section I : Procédure devant le tribunal de grande instance statuant disciplinairement.
+##### Section I : La procédure disciplinaire
+
+##### Sous-section I : L'enquête disciplinaire.
 
 ###### Article R822-1
 
-Le tribunal de grande instance est saisi, en matière disciplinaire, par l'assignation délivrée au greffier du tribunal de
-commerce à la requête du procureur de la République, quinze jours au moins avant l'audience.
+Le président du Conseil national des greffiers des tribunaux de commerce peut, soit de sa propre initiative, soit à la
+demande du procureur de la République ou sur la plainte de toute personne intéressée, procéder à une enquête sur le
+comportement d'un greffier du tribunal de commerce.
 
-L'assignation précise, à peine de nullité, les faits qui motivent l'action disciplinaire.
+Il peut désigner à cette fin un rapporteur parmi les membres ou anciens membres du Conseil national des greffiers des
+tribunaux de commerce. Le rapporteur ainsi désigné ne peut pas siéger dans la formation disciplinaire de ce Conseil appelée à
+délibérer sur l'affaire.
 
-Toute personne qui se prétend lésée peut demander des dommages-intérêts au tribunal de grande instance saisi
-disciplinairement.
+Il peut être procédé à l'audition de toute personne susceptible d'éclairer l'enquête. Il est dressé un procès-verbal de cette
+audition, signé par la personne entendue et annexé au rapport d'enquête.
+
+Lorsque la personne entendue est le greffier du tribunal de commerce dont le comportement est mis en cause, une convocation
+lui est adressée par lettre recommandée avec demande d'avis de réception. Il peut se faire assister d'un avocat ou d'un autre
+greffier de tribunal de commerce.
 
 **Liens relatifs à cet article**
 
@@ -28490,19 +28519,30 @@ disciplinairement.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-6 (V)
 
 
-###### Article R822-2
+###### Article R822-1-1
 
-Le greffier du tribunal de commerce cité à comparaître peut prendre connaissance de son dossier auprès du secrétariat-greffe
-du tribunal de grande instance.
+Au vu des éléments recueillis au cours de l'enquête disciplinaire, le président du Conseil national des greffiers des
+tribunaux de commerce classe l'affaire ou exerce l'action disciplinaire.
+
+Il en avise le procureur de la République, auquel il communique le rapport d'enquête. Le cas échéant, il informe le plaignant
+de sa décision.
+
+Lorsque le président du Conseil national des greffiers des tribunaux de commerce, saisi d'une demande d'enquête par le
+procureur de la République ou sur la plainte d'une personne intéressée, décide de ne pas y donner suite, il en avise l'auteur
+de la demande.
 
 **Liens relatifs à cet article**
 
@@ -28512,17 +28552,73 @@ du tribunal de grande instance.
 
 	**Créé par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-7 (V)
+
+
+##### Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce.
+
+###### Article R822-2
+
+La formation disciplinaire du Conseil national des greffiers des tribunaux de commerce est saisie par la dénonciation des
+faits motivant les poursuites que lui adresse soit le président du Conseil national des greffiers des tribunaux de commerce,
+soit le procureur de la République.
+
+Lorsque l'action disciplinaire est exercée par le président du Conseil national des greffiers des tribunaux de commerce, ce
+dernier adresse une copie de l'acte de poursuite, par lettre recommandée avec demande d'avis de réception, au procureur de la
+République ou, si le greffier est titulaire de plusieurs greffes établis dans le ressort de plusieurs tribunaux de grande
+instance, à chacun des procureurs de la République compétents.
+
+A compter de la réception de l'acte de poursuite, le procureur de la République près le tribunal de grande instance, désigné
+le cas échéant conformément au deuxième alinéa de l'article R. 822-6, dispose d'un délai d'un mois pour citer le greffier
+intéressé devant le tribunal de grande instance statuant disciplinairement. S'il use de cette faculté, il notifie une copie
+de la citation au président du Conseil national des greffiers des tribunaux de commerce et au président de sa formation
+disciplinaire. A défaut, l'instance se poursuit devant la formation disciplinaire du Conseil national des greffiers des
+tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-8 (V)
 
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-6 (M)
+
 
 ###### Article R822-3
 
-Le greffier du tribunal de commerce comparaît en personne ; il peut se faire assister par un avocat et, s'il le désire, par
-un autre greffier de tribunal de commerce.
+Le greffier du tribunal de commerce appelé à comparaître devant la formation disciplinaire du Conseil national des greffiers
+des tribunaux de commerce est convoqué au moins quinze jours à l'avance, par lettre recommandée avec demande d'avis de
+réception, à la diligence de l'autorité qui exerce l'action disciplinaire.
+
+La convocation comporte, à peine de nullité, l'indication précise des faits qui fondent les poursuites et la référence des
+dispositions législatives ou réglementaires énonçant les obligations auxquelles il est reproché au greffier poursuivi d'avoir
+contrevenu.
+
+Les pièces du dossier de la procédure disciplinaire, et notamment le rapport d'enquête disciplinaire et ses annexes, sont
+cotées et numérotées. Le greffier du tribunal de commerce poursuivi ou son conseil peut en prendre connaissance auprès du
+secrétariat de la formation disciplinaire du conseil national.
 
 **Liens relatifs à cet article**
 
@@ -28530,9 +28626,13 @@ un autre greffier de tribunal de commerce.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28541,11 +28641,13 @@ un autre greffier de tribunal de commerce.
 
 ###### Article R822-4
 
-Les débats ont lieu en chambre du conseil, le ministère public entendu.
+La formation disciplinaire du Conseil national des greffiers des tribunaux de commerce ne peut valablement délibérer que si
+tous ses membres titulaires ou suppléants sont présents.
 
-Le tribunal peut entendre la personne qui se prétend lésée.
-
-Il peut ordonner toutes mesures d'instruction et faire procéder à toutes auditions.
+Les débats sont publics. Toutefois, la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce
+peut, à la demande du procureur de la République, du président du Conseil national des greffiers des tribunaux de commerce ou
+du greffier poursuivi, ou s'il doit résulter de la publicité de ces débats une atteinte à l'intimité de la vie privée,
+décider qu'ils auront lieu ou se poursuivront en chambre du conseil.
 
 **Liens relatifs à cet article**
 
@@ -28553,9 +28655,13 @@ Il peut ordonner toutes mesures d'instruction et faire procéder à toutes audit
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28564,10 +28670,19 @@ Il peut ordonner toutes mesures d'instruction et faire procéder à toutes audit
 
 ###### Article R822-5
 
-Le dispositif du jugement est lu en audience publique.
+Le greffier du tribunal de commerce comparaît en personne. Il peut se faire assister par un avocat et, s'il le désire, par un
+autre greffier de tribunal de commerce.
 
-Le jugement est signifié à l'intéressé. Il est exécutoire à titre provisoire lorsqu'il prononce la destitution d'un greffier
-suspendu provisoirement de l'exercice de ses fonctions.
+Le président du Conseil national des greffiers des tribunaux de commerce est entendu, ainsi que le procureur de la République
+s'il a exercé l'action disciplinaire.
+
+Le dispositif de la décision disciplinaire est lu en audience publique.
+
+Cette décision est notifiée à l'intéressé, au procureur de la République et au président du Conseil national des greffiers
+des tribunaux de commerce. La notification est faite dans les quinze jours du prononcé de la décision, par lettre recommandée
+avec demande d'avis de réception.
+
+Le cas échéant, le plaignant est avisé lorsque la décision est passée en force de chose jugée.
 
 **Liens relatifs à cet article**
 
@@ -28575,19 +28690,65 @@ suspendu provisoirement de l'exercice de ses fonctions.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-11 (V)
 
 
+##### Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement.
+
 ###### Article R822-6
 
-La décision du premier président de la cour d'appel saisi par requête du ministère public, en application de l'article L.
-822-3, est une mesure d'administration judiciaire.
+Le tribunal de grande instance est saisi, en matière disciplinaire, par la citation délivrée au greffier du tribunal de
+commerce poursuivi à la requête du procureur de la République ou du président du Conseil national des greffiers des tribunaux
+de commerce, quinze jours au moins avant l'audience.
+
+Si le greffier du tribunal de commerce est titulaire de plusieurs greffes établis dans le ressort de plusieurs tribunaux de
+grande instance, l'autorité qui prend l'initiative de l'action disciplinaire saisit par requête le premier président de la
+cour d'appel, aux fins de désignation de la juridiction compétente. La décision du premier président de la cour d'appel est
+une mesure d'administration judiciaire.
+
+La citation devant le tribunal de grande instance statuant en matière disciplinaire comporte, à peine de nullité,
+l'indication précise des faits qui fondent les poursuites et la référence des dispositions législatives ou réglementaires
+énonçant les obligations auxquelles il est reproché au greffier poursuivi d'avoir contrevenu.
+
+Toute personne qui se prétend lésée peut demander des dommages-intérêts au tribunal de grande instance saisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-12 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-2 (Ab)
+
+
+###### Article R822-6-1
+
+Le greffier du tribunal de commerce cité à comparaître ou son conseil peut prendre connaissance de son dossier auprès du
+secrétariat-greffe du tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
@@ -28597,30 +28758,90 @@ La décision du premier président de la cour d'appel saisi par requête du mini
 
 	**Créé par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-3 (M)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-2 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. R743-12 (V)
+	  - Code de commerce. - art. R743-13 (V)
+
+
+###### Article R822-6-2
+
+Le greffier du tribunal de commerce comparaît en personne. Il peut se faire assister par un avocat et, s'il le désire, par un
+autre greffier de tribunal de commerce.
+
+Les débats sont publics, le ministère public entendu. Toutefois, le tribunal de grande instance peut, à la demande du
+procureur de la République, du président du Conseil national des greffiers des tribunaux de commerce ou du greffier
+poursuivi, ou s'il doit résulter de la publicité de ces débats une atteinte à l'intimité de la vie privée, décider qu'ils
+auront lieu ou se poursuivront en chambre du conseil.
+
+Le tribunal peut entendre la personne qui se prétend lésée par les faits reprochés au greffier du tribunal de commerce
+poursuivi.
+
+Il peut ordonner toutes mesures d'instruction et faire procéder à toutes auditions.
+
+Le président du Conseil national des greffiers des tribunaux de commerce est entendu s'il a exercé l'action disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-14 (V)
+
+
+###### Article R822-6-3
+
+Le dispositif du jugement est lu en audience publique.
+
+Le jugement est signifié à l'intéressé. Il est exécutoire à titre provisoire lorsqu'il prononce l'interdiction temporaire ou
+la destitution d'un greffier suspendu provisoirement de l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 6 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-15 (V)
 
 
 ##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.
 
 ###### Article R822-7
 
-Les peines disciplinaires de l'avertissement et du blâme sont réputées exécutées par la signification qui en est faite.
+Les peines disciplinaires du rappel à l'ordre, de l'avertissement, du blâme et du retrait de l'honorariat sont réputées
+exécutées par la signification qui en est faite.
 
-Le greffier de tribunal de commerce destitué doit, dès lors que la décision est devenue exécutoire, s'abstenir de tout acte
-professionnel. Il met immédiatement à la disposition de l'administrateur provisoire l'ensemble des documents et archives du
-greffe et notamment les répertoires et livres de comptabilité relatifs à l'année courante et aux années antérieures.
+Le greffier de tribunal de commerce interdit temporairement ou destitué doit, dès lors que la décision est devenue
+exécutoire, s'abstenir de tout acte professionnel. Il met immédiatement à la disposition de l'administrateur provisoire
+l'ensemble des documents et archives du greffe et notamment les répertoires et livres de comptabilité relatifs à l'année
+courante et aux années antérieures.
 
 **Liens relatifs à cet article**
 
@@ -28628,26 +28849,30 @@ greffe et notamment les répertoires et livres de comptabilité relatifs à l'an
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 7 () JORF 30 décembre 2004
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-14 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-16 (V)
 
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-14 (Ab)
+
 
 ###### Article R822-8
 
-En cas de destitution, l'administrateur provisoire nommé en application de l'article L. 822-7 est choisi parmi les greffiers
-en activité des tribunaux de commerce situés dans le ressort de la cour d'appel ou parmi les employés du greffe visés par
-l'article 2 du décret n° 87-601 du 29 juillet 1987. Il peut aussi être choisi parmi les greffiers honoraires des tribunaux de
-commerce ou parmi les personnes remplissant les conditions générales d'aptitude aux fonctions de greffier de tribunal de
-commerce.
+En cas d'interdiction temporaire ou de destitution, l'administrateur provisoire nommé en application de l'article L. 822-7
+est choisi parmi les greffiers en activité des tribunaux de commerce situés dans le ressort de la cour d'appel ou parmi les
+employés du greffe visés par l'article 2 du décret n° 87-601 du 29 juillet 1987. Il peut aussi être choisi parmi les
+greffiers honoraires des tribunaux de commerce ou parmi les personnes remplissant les conditions générales d'aptitude aux
+fonctions de greffier de tribunal de commerce.
 
 L'administrateur perçoit à son profit les émoluments ou honoraires particuliers relatifs aux actes qu'il accomplit. Il paie,
 à concurrence des produits du greffe, les charges afférentes au fonctionnement de cet office.
@@ -28679,9 +28904,13 @@ l'office puisse excéder le double de la part revenant à chacun des autres.
 	  - Décret n°87-601 du 29 juillet 1987 - art. 2 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-7 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 8 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28774,7 +29003,8 @@ documents professionnels qu'il établit pour le compte de l'office.
 
 ###### Article R822-12
 
-Le greffier destitué ne peut faire état de son ancienne qualité de greffier du tribunal de commerce.
+Le greffier interdit temporairement ou destitué ne peut faire état de son ancienne qualité de greffier du tribunal de
+commerce.
 
 **Liens relatifs à cet article**
 
@@ -28782,9 +29012,13 @@ Le greffier destitué ne peut faire état de son ancienne qualité de greffier d
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 9 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
@@ -28915,6 +29149,30 @@ L'appel n'est ouvert à la personne qui se prétend lésée qu'en ce qui concern
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-25 (V)
+
+
+###### Article R822-16-1
+
+L'appel interjeté contre une décision de la formation disciplinaire du Conseil national des greffiers des tribunaux de
+commerce est formé par simple déclaration au secrétariat-greffe de la cour d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-1462 du 23 décembre 2004 - art. 10 () JORF 30 décembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-26 (V)
 
 
 ###### Article R822-17
