@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-09-25
+Version Consolidée au 1983-10-01
 
 # Partie législative ancienne
 
@@ -10687,6 +10687,168 @@ Cet état est adressé au garde des sceaux, ministre de la justice.
 	**Anciens textes**:
 
 	  - Ordonnance 1826-04-15 art. 79
+
+
+#### Chapitre IV : Régime financier
+
+###### Article R*814-1
+
+Le chef du secrétariat-greffe tient la comptabilité administrative des opérations de recettes et de dépenses relatives aux
+opérations mentionnées au chapitre II du présent titre.
+
+Il est institué auprès de chaque secrétariat-greffe, pour les autres opérations dont celui-ci est chargé, une régie de
+recettes et une régie d'avances fonctionnant dans les conditions prévues par les décrets n° 64-486 du 28 mai 1964 et n°
+66-850 du 15 novembre 1966.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-486 1964-05-28 Décret 66-850 1966-11-15
+	  - Code de l'organisation judiciaire R812-1 à R812-19
+
+	**Anciens textes**:
+
+	  - Décret n°67-901 1967-10-12 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
+###### Article R*814-2
+
+Les attributions des régisseurs définies aux articles suivants sont confiées à un fonctionnaire du secrétariat-greffe autre
+que le chef de ce service. Toutefois, elles peuvent être confiées au chef du secrétariat-greffe dans les secrétariats-greffes
+dont la liste est dressée par arrêté du garde des sceaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-901 1967-10-12 art. 1 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
+###### Article R*814-3
+
+Les opérations d'encaissement ou de paiement incombant aux régisseurs sont exécutées par ceux-ci pour le compte des
+comptables directs du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-901 1967-10-12 art. 1 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-22 (V)
+
+
+###### Article R*814-4
+
+Par dérogation à l'article 9 du décret n° 64-486 du 28 mai 1964, les régisseurs paient l'ensemble des frais de justice
+criminelle, correctionnelle et de police visés à l'article R92 du Code de procédure pénale, ainsi que les frais qui leur sont
+assimilés par l'article R93 du même code.
+
+Les dispositions de l'article 10 du décret n° 64-486 du 28 mai 1964 concernant le blocage des crédits ne sont pas applicables
+aux avances consenties à ces régisseurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-486 1964-05-28 art. 9 et art. 10
+	  - Code de procédure pénale R92 et R93
+
+	**Anciens textes**:
+
+	  - Décret n°67-901 1967-10-12 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
+###### Article R*814-6
+
+Dans les tribunaux de grande instance à compétence commerciale, les régies instituées auprès du greffe sont également
+compétentes pour toutes les opérations, en recettes et en dépenses, liées à la compétence commerciale du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce 624
+
+
+###### Article R*814-7
+
+Pour l'ensemble des opérations visées aux articles R814-4 à R814-6, les régisseurs d'avances et les régisseurs de recettes
+sont tenus aux garanties et encourent les responsabilités définies par la réglementation des régies. Ils perçoivent une
+indemnité de responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-25 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
 
 
 ### Titre II : Le greffe du tribunal de commerce
