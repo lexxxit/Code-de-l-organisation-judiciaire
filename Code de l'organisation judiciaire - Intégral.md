@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1997-02-17
+Version Consolidée au 1997-04-25
 
 # Partie législative ancienne
 
@@ -298,7 +298,7 @@ chambres.
 L'assemblée plénière est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
 présidents de chambre.
 
-Elle comprend, en outre, les présidents et les doyens des chambres ainsi que deux conseillers de chaque chambre.
+Elle comprend, en outre, les présidents et les doyens des chambres ainsi qu'un conseiller pris au sein de chaque chambre.
 
 **Liens relatifs à cet article**
 
@@ -310,6 +310,18 @@ Elle comprend, en outre, les présidents et les doyens des chambres ainsi que de
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°97-395 du 23 avril 1997 - art. 1 () JORF 25 avril 1997 rectificatif JORF 3 juillet 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-5 (V)
 
 
 ### Titre III : Fonctionnement
@@ -522,45 +534,22 @@ L'arrêt emporte exécution forcée.
 	  - PILOTE_SUIVEUR: Code de procédure civile - art. 627 (V)
 
 
-###### Article L131-7
-
-Les conseillers référendaires siègent, avec voix consultative, dans la chambre à laquelle ils sont affectés. Ils ont voix
-délibérative dans le jugement des affaires qu'ils sont chargés de rapporter.
-
-En outre, un ou deux conseillers référendaires pris par ordre d'ancienneté dans leurs fonctions, dans le premier et à défaut
-dans le second grade, peuvent avec voix délibérative, être appelés à compléter la chambre à laquelle ils appartiennent,
-lorsque le nombre minimum de membres, prévu à l'article L131-6 (alinéa 1er) du présent code, n'est pas atteint.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-523 1967-07-03 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L131-6 al. 1
-
-
-#### Chapitre Ier : Le services des chambres de la Cour.
-
 ###### Article L131-6
 
-Les chambres ne rendent les arrêts que si cinq membres au moins ayant voix délibératives sont présents [*nombre minimum*].
+Après le dépôt des mémoires, les affaires soumises à une chambre civile sont examinées par une formation de trois magistrats
+appartenant à la chambre à laquelle elles ont été distribuées.
 
-Lorsque la solution du pourvoi lui paraît s'imposer, le premier président ou le président de la chambre concernée peut
-décider de faire juger l'affaire par une formation restreinte de trois magistrats. Cette formation peut renvoyer l'examen du
-pourvoi à l'audience de la chambre, à la demande de l'une des parties ; le renvoi est de droit si l'un des magistrats
-composant la formation restreinte le demande.
+Cette formation statue lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à
+l'audience de la chambre.
 
-Les chambres mixtes et l'assemblée plènière ne peuvent siéger que si tous les membres qui doivent les composer sont présents.
-En cas d'empêchement de l'un de ces membres, il est remplacé par un conseiller désigné par le premier président ou, à défaut
-de celui-ci, par le président de chambre qui le remplace.
+Toutefois, le premier président ou le président de la chambre concernée, ou leurs délégués, d'office ou à la demande du
+procureur général ou de l'une des parties, peuvent renvoyer directement une affaire à l'audience de la chambre par décision
+non motivée.
+
+Lorsque la solution d'une affaire soumise à la chambre criminelle lui paraît s'imposer, le premier président ou le président
+de la chambre criminelle peut décider de faire juger l'affaire par une formation de trois magistrats. Cette formation peut
+renvoyer l'examen de l'affaire à l'audience de la chambre à la demande de l'une des parties ; le renvoi est de droit si l'un
+des magistrats composant la formation restreinte le demande.
 
 **Liens relatifs à cet article**
 
@@ -575,13 +564,127 @@ de celui-ci, par le président de chambre qui le remplace.
 
 	**Modifié par**:
 
-	  - Loi n°79-9 1979-01-03 art. 3 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
-	  - Loi n°81-82 du 2 février 1981 - art. 60 () JORF 3 février 1981
-	  - Loi n°81-759 1981-08-06 art. 1 I, art. 1 II et art. 2 JORF 7 août 1981
+	  - Loi n°97-395 du 23 avril 1997 - art. 2 () JORF 25 avril 1997 rectificatif JORF 3 juillet 1997
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (V)
+
+
+###### Article L131-6-1
+
+A l'audience de la chambre, au moins cinq de ses membres ayant voix délibérative sont présents.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°97-395 du 23 avril 1997 - art. 3 () JORF 25 avril 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-5 (V)
+
+
+###### Article L131-6-2
+
+Les chambres mixtes et l'assemblée plénière ne peuvent siéger que si tous les membres qui doivent les composer sont présents.
+En cas d'empêchement de l'un de ces membres, il est remplacé par un conseiller désigné par le premier président ou, à défaut
+de celui-ci, par le président de chambre qui le remplace.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°97-395 du 23 avril 1997 - art. 4 () JORF 25 avril 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-8 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-6 (Ab)
+
+
+###### Article L131-7
+
+Les conseillers référendaires siègent, avec voix consultative, dans la chambre à laquelle ils sont affectés. Ils ont voix
+délibérative dans le jugement des affaires qu'ils sont chargés de rapporter.
+
+En outre, un ou deux conseillers référendaires pris par ordre d'ancienneté dans leurs fonctions, dans le premier et à défaut
+dans le second grade, peuvent avec voix délibérative, être appelés à compléter la chambre à laquelle ils appartiennent,
+lorsque le nombre minimum de membres, prévu au troisième alinéa de l'article L. 131-6 et à l'article L. 131-6-1 du présent
+code, n'est pas atteint.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 131-7 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°97-395 du 23 avril 1997 - art. 5 () JORF 25 avril 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-6 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-6-1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-7 (V)
 
 
 #### Chapitre II : Le ministère public.
