@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-08-03
+Version Consolidée au 2001-08-25
 
 # Partie législative ancienne
 
@@ -20224,7 +20224,7 @@ juges. Ce magistrat est désigné dans les conditions prévues à l'article R. 1
 
 ###### Article R442-1
 
-Les listes prévues par l'article L442-1 sont dressées entre le 1er et le 10 décembre de l'année précédant celle de
+Les listes prévues à l'article L. 442-1 sont dressées entre le 1er octobre et le 3 décembre de l'année précédant celle de
 l'élection.
 
 **Liens relatifs à cet article**
@@ -20237,13 +20237,17 @@ l'élection.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-829 du 21 septembre 1994 - art. 1 () JORF 27 septembre 1994
+	  - Décret n°2001-743 du 23 août 2001 - art. 1 () JORF 25 août 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
+	  - Code de l'organisation judiciaire - art. L442-1
 
 
 ### Titre V : Les juridictions de sécurité sociale
