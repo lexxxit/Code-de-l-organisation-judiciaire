@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-12-21
+Version Consolidée au 2003-05-10
 
 # Partie législative ancienne
 
@@ -22063,30 +22063,6 @@ tribunaux.
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
 
-### Titre X : Audiences foraines
-
-###### Article R*7-10-1-1
-
-En application des dispositions de l'article L. 7-10-1-1, le premier président de la cour d'appel, après avis du procureur
-général près ladite cour, fixe par ordonnance, en fonction des nécessités locales, le lieu, le jour et la nature des
-audiences que peuvent tenir les juridictions du ressort en des communes de leur propre ressort autres que celle où est fixé
-leur siège.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°96-157 du 27 février 1996 - art. 19 () JORF 1er mars 1996
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-10-1-1 (V)
-
-
 ### Titre Ier : L'année judiciaire
 
 ###### Article R*711-1
@@ -24440,6 +24416,87 @@ juridiction qu'il préside.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
+
+
+### Titre X : Audiences foraines et transfert provisoire du siège
+
+###### Article R*7-10-1-1
+
+En application des dispositions de l'article L. 7-10-1-1, le premier président de la cour d'appel, après avis du procureur
+général près ladite cour, fixe par ordonnance, en fonction des nécessités locales, le lieu, le jour et la nature des
+audiences que peuvent tenir les juridictions du ressort en des communes de leur propre ressort autres que celle où est fixé
+leur siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-420 du 9 mai 2003 - art. 1 () JORF 10 mai 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L7-10-1-1
+
+
+###### Article R*7-10-1-2
+
+Lorsque la solidité du bâtiment où siège la juridiction se trouve affectée et que la continuité du service de la justice ne
+peut plus être assurée dans les conditions offrant les garanties nécessaires au maintien de la sécurité des personnes et des
+biens, les services de la juridiction peuvent, à titre provisoire, être transférés, partiellement ou en totalité, dans une
+autre commune du ressort.
+
+Lorsque l'ensemble des services de la juridiction est transféré, le siège de la juridiction est le lieu dans lequel elle est
+transférée.
+
+Lorsque certains services sont transférés, le siège de la juridiction est, pour chaque service, le lieu dans lequel son
+activité se déroule.
+
+Dans tous les cas, la dénomination de la juridiction par son siège demeure celle du siège initial fixé par décret en Conseil
+d'Etat.
+
+La commission permanente de la juridiction, ou, pour les juridictions ne comportant pas de commission permanente, l'assemblée
+plénière ou l'assemblée générale, convoquée sans délai, émet un avis sur le projet de transfert.
+
+Le premier président de la cour d'appel, après avis du procureur général près ladite cour, prend par ordonnance la décision
+portant transfert total ou partiel des services de la juridiction. L'ordonnance indique le motif du transfert, la date à
+laquelle il sera effectif, la durée prévisible, l'adresse du ou des services transférés.
+
+Elle fait l'objet d'une publication dans deux journaux diffusés dans le ressort et de toute autre mesure de publicité dans
+tout lieu jugé utile.
+
+La durée du transfert ne peut excéder un an. Toutefois, si la situation l'exige, elle peut faire l'objet d'une première
+prorogation pour une durée égale dans les conditions définies ci-dessus. Toute autre prorogation ne peut être décidée que par
+arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-420 du 9 mai 2003 - art. 1 () JORF 10 mai 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-1 (V)
 
 
 ### Titre XI : Assistance du juge par le secrétaire de la juridiction
