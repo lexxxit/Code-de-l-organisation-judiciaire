@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-17
 
 # Partie législative ancienne
 
@@ -5842,6 +5842,38 @@ bibliothèques.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-9 (V)
+
+
+###### Article R*131-20
+
+Le premier président peut, s'il y a lieu, désigner par ordonnance l'un des présidents de chambre pour le suppléer dans les
+fonctions qui lui sont attribuées par l'article L. 221-2 du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du patrimoine art. L221-2
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°86-74 1986-01-15 art. 5 JORF 17 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-74 du 15 janvier 1986 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-8 (V)
 
 
 #### Chapitre II : Le ministère public
