@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-02-20
+Version Consolidée au 2002-03-05
 
 # Partie législative ancienne
 
@@ -1797,6 +1797,52 @@ La cour d'appel dresse la liste des syndics et administrateurs judiciaires.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+#### Chapitre VI : Dispositions particulières aux aspects civils de l'enlèvement international d'enfants
+
+###### Article L226-1
+
+Le magistrat visé au premier alinéa de l'article L. 223-2 ou son remplaçant désigné conformément au deuxième alinéa du même
+article siège dans la formation de la cour d'appel qui statue sur les recours formés contre les décisions rendues en première
+instance sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite
+international d'enfants.
+
+Le magistrat du parquet général visé au troisième alinéa de l'article L. 223-2 est également chargé du traitement des
+affaires de déplacements internationaux d'enfants.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 226-1 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 20 () JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-15 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L223-2
+
+
 ## Livre III : Le tribunal de grande instance et le tribunal d'instance
 
 ### Titre Ier : Le tribunal de grande instance
@@ -2375,6 +2421,31 @@ d'administration judiciaire non susceptibles de recours.
 
 	  - Code civil - art. 247 (M)
 	  - Code civil - art. 298 (M)
+
+
+###### Article L312-1-1
+
+Le siège et le ressort des tribunaux de grande instance compétents pour connaître des actions engagées sur le fondement des
+dispositions des instruments internationaux et communautaires relatives au déplacement illicite international d'enfants sont
+fixés par décret en Conseil d'Etat.
+
+Il existe un seul tribunal compétent par cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 21 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1 (V)
+	  - Nouveau code de procédure civile - art. 1210-4 (V)
 
 
 ##### Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales.
@@ -7429,35 +7500,6 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
 
-##### Section I : La cour d'appel.
-
-###### Article L931-2
-
-Les dispositions générales relatives à la cour d'appel et les dispositions particulières relatives d'une part aux pouvoirs
-des chefs de cour concernant le fonctionnement des juridictions du ressort, d'autre part à la protection de l'enfance,
-contenues au titre Ier et aux chapitres Ier, III et VI du titre II du livre II sont applicables dans les territoires visés au
-présent chapitre, sous réserve des dispositions de l'article L. 931-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
-
-
 ##### Section VI : Les secrétariats-greffes des juridictions.
 
 ###### Article L931-17
@@ -7480,6 +7522,24 @@ territoriaux ou des agents territoriaux.
 	**Modifié par**:
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
+
+##### Section II : Le tribunal du travail
+
+##### Sous-section I : Institution et compétence.
+
+###### Article L932-10-1
+
+En Nouvelle-Calédonie, le tribunal du travail connaît également des oppositions à contrainte formées par les employeurs et
+les travailleurs indépendants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 126 (V) JORF 5 mars 2002
 
 
 ### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
@@ -7528,6 +7588,57 @@ commissaire de la République " et de " préfet ".
 
 
 ##### Section I : La cour d'appel.
+
+###### Article L931-2
+
+Les dispositions générales relatives à la cour d'appel et les dispositions particulières relatives d'une part aux pouvoirs
+des chefs de cour concernant le fonctionnement des juridictions du ressort, d'autre part à la protection de l'enfance,
+contenues au titre Ier et aux chapitres Ier, III et VI du titre II du livre II sont applicables dans les territoires visés au
+présent chapitre, sous réserve des dispositions de l'article L. 931-3.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 2002-03-04 art. 19 JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R551-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-23 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-32 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
+
 
 ###### Article L931-3
 
@@ -7699,6 +7810,48 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-2 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-1 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-1 (V)
+
+
+###### Article L931-7-1
+
+Les dispositions de l'article L. 312-1-1 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-305 2002-03-04 art. 19 JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-2 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1-1 (M)
 
 
 ###### Article L931-8
@@ -10741,13 +10894,21 @@ sa personne ou par ses substituts, le ministère public devant toutes les juridi
 
 ###### Article L942-7
 
-Les dispositions des chapitres Ier et III du titre II du livre II relatives aux pouvoirs des chefs de cour concernant le
+Les dispositions des chapitres Ier, III et VI du titre II du livre II relatives aux pouvoirs des chefs de cour concernant le
 fonctionnement des juridictions du ressort et à la protection de l'enfance sont applicables à Mayotte, sous réserve des
 dispositions de l'alinéa suivant.
 
 Pour l'application du premier alinéa de l'article L. 223-2, le président du tribunal supérieur d'appel exerce les fonctions
 de délégué à la protection de l'enfance. Toutefois, le président du tribunal supérieur d'appel peut, par ordonnance, désigner
 un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -10758,7 +10919,16 @@ un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2002-305 2002-03-04 art. 19 JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-15 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R521-1 (Ab)
 
 	**Cite**:
 
