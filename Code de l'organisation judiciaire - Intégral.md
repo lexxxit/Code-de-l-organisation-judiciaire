@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-07-04
+Version Consolidée au 1998-08-22
 
 # Partie législative ancienne
 
@@ -6936,700 +6936,6 @@ L. 921-9, et d'un greffier. Les juges sont élus dans les conditions fixées aux
 	  - Code de l'organisation judiciaire L413-1 à L413-11 et L921-9
 
 
-#### Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon
-
-##### Section I : Dispositions relatives aux fonctions judiciaires
-
-###### Article L924-1
-
-Les fonctions judiciaires à Saint-Pierre-et-Miquelon sont exercées :
-
-1° Par les magistrats de l'ordre judiciaire ;
-
-2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel ;
-
-3° Par un suppléant du procureur de la République ;
-
-4° Par des intérimaires nommés dans les conditions prévues par l'article 56 du décret du 22 août 1928 ;
-
-Les personnes appelées à exercer des fonctions judiciaires et désignées aux 2°, 3° et 4° de l'alinéa précédent sont choisies
-parmi les personnes de nationalité française, âgées de plus de vingt-cinq ans, présentant des garanties de compétence et
-d'impartialité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1928-08-22 art. 56
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-2
-
-Les assesseurs et les intérimaires des juridictions de Saint- Pierre-et-Miquelon sont désignés par ordonnance du président du
-tribunal supérieur d'appel après avis du procureur de la République.
-
-Le suppléant du procureur de la République est désigné par le procureur de la République ou en cas d'absence ou d'empêchement
-de celui-ci, par le président du tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-10 (Ab)
-
-
-###### Article L924-3
-
-Avant d'entrer en fonctions, les assesseurs, les intérimaires et le suppléant du procureur de la République prêtent devant le
-tribunal supérieur d'appel le serment prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Section II : Le tribunal supérieur d'appel et le tribunal de première instance
-
-###### Article L924-4
-
-Il y a un tribunal supérieur d'appel et un tribunal de première instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-5
-
-Le siège du tribunal supérieur d'appel et celui du tribunal de première instance sont fixés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Sous-section I : Le tribunal supérieur d'appel
-
-###### Article L924-6
-
-Le tribunal supérieur d'appel connaît des appels interjetés contre les décisions rendues par le tribunal de première
-instance.
-
-Il statue, en outre, sur les appels interjetés contre les décisions d'autres juridictions dans les cas prévus par les lois et
-règlements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-7
-
-Pour l'application du premier alinéa de l'article L223-2 du présent code, le président du tribunal supérieur d'appel exerce
-les fonctions de délégué à la protection de l'enfance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L223-2
-
-
-###### Article L924-8
-
-Le tribunal supérieur d'appel comprend un président et deux assesseurs titulaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-9
-
-Les assesseurs titulaires et suppléants sont désignés dans les conditions prévues aux articles L924-1 et L924-2 ci-dessus.
-
-Les assesseurs du tribunal supérieur d'appel et le procureur suppléant peuvent, en cours d'année,  être relevés de leurs
-fonctions, dans les mêmes formes que celles qui ont été suivies pour leur désignation :
-
-1° Pour les nécessités du service ;
-
-2° Par mesure disciplinaire.
-
-Dans les deux cas, l'avis motivé du tribunal supérieur d'appel est nécessaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L924-1 et L924-2
-
-
-###### Article L924-10
-
-En cas d'empêchement, le président du tribunal supérieur d'appel est remplacé par un juge du tribunal de première instance et
-à défaut par un assesseur désigné dans les conditions prévues à l'alinéa 1er de l'article L924-2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-2 (M)
-
-
-###### Article L924-11
-
-Les assesseurs suppléants remplacent dans l'ordre de leur désignation, les assesseurs titulaires empêchés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Sous-section II : Le tribunal de première instance
-
-###### Article L924-12
-
-Le tribunal de première instance statue à juge unique en matière civile, commerciale et pénale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-12-1
-
-Pour l'application des deuxième et troisième alinéas de l'article 706-4 du Code de procédure pénale et de l'article L313-1 du
-présent code, le président du tribunal de première instance exerce les attributions dévolues à la commission d'indemnisation
-de certains dommages corporels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-	  - Code de l'organisation judiciaire L313-1
-
-
-###### Article L924-12-2
-
-Par dérogation aux dispositions de l'article L532-1, le président du tribunal de première instance exerce les fonctions de
-juge des enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L532-1
-
-
-###### Article L924-12-3
-
-Par dérogation aux deuxième et troisième alinéas de l'article 709-1 du Code de procédure pénale, le président du tribunal de
-première instance exerce les fonctions de juge des enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-
-
-###### Article L924-13
-
-Conformément à l'article 8 de l'ordonnance n° 77-1102 du 26 septembre 1977, les différends auxquels donne lieu l'application
-du régime de prévoyance sociale de Saint-Pierre-et-Miquelon sont portés devant le tribunal de première instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 8
-
-	**Cite**:
-
-	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 8 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-14
-
-En toutes matières, les dispositions non abrogées concernant la compétence et les attributions du juge de paix à compétence
-étendue sont applicables au tribunal de première instance et à ses membres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Section III : Dispositions relatives aux juridictions pénales
-
-###### Article L924-15
-
-Comme il est dit à l'article 20 de l'ordonnance n° 77-1100 du 26 septembre 1977, et sous réserve des dispositions figurant
-aux articles 21 et suivants de cette ordonnance, "dans le département de Saint-Pierre-et-Miquelon :
-
-1° Le tribunal supérieur d'appel exerce les compétences attribuées par le code de procédure pénale à la cour d'appel et à la
-chambre d'accusation ;
-
-2° Les compétences attribuées par le code de procédure pénale au tribunal de grande instance, à la cour d'assises, au premier
-président de la cour d'appel, au procureur général près la cour d'appel, et au juge du tribunal d'instance, sont exercées
-respectivement par le tribunal de première instance, le tribunal criminel, le président du tribunal supérieur d'appel, le
-procureur de la République près le tribunal supérieur d'appel et par un juge du tribunal de première instance".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 20 et 21
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 20 et 21
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-16
-
-Les règles relatives à la compétence, à l'organisation et au fonctionnement du tribunal criminel sont définies aux articles
-19, 20 et 22 de l'ordonnance n° 77-1100 du 26 septembre 1977.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 19, art.  20 et art. 21
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 19, art.  20 et art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Section IV : Le ministère public
-
-###### Article L924-18
-
-Les fonctions du ministère public près le tribunal supérieur d'appel sont exercées par le procureur de la République.
-
-Ses attributions sont alors celles des procureurs généraux près les cours d'appel de la métropole, dans la mesure où ces
-attributions sont compatibles avec les dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-19
-
-Le procureur de la République près le tribunal supérieur d'appel peut, en toutes matières, exercer le ministère public devant
-toutes juridictions du premier degré établies dans son ressort.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 77-1100 1977-09-26 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Section V : Les greffes des juridictions
-
-###### Article L924-20
-
-Le tribunal supérieur d'appel est assisté d'un greffier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-###### Article L924-21
-
-Les fonctions du greffe du tribunal de première instance sont exercées par un greffier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
-##### Section VI : Dispositions générales applicables à Saint-Pierre et Miquelon
-
-###### Article L924-22
-
-Sont applicables au département de Saint-Pierre-et-Miquelon :
-
-L'article L731-1 sur la récusation et l'article L731-2 sur le renvoi ;
-
-L'article L921-11 concernant les contraventions et délits réprimés par le Code disciplinaire et pénal de la marine
-marchande ;
-
-Les articles L632-1 à L632-3 relatifs aux juridictions des forces armées ;
-
-L'article L781-1 sur la responsabilité du fait du fonctionnement défectueux du service de la justice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-11 (M)
-	  - Code de l'organisation judiciaire L632-1 à L632-3, L731-1, L731-2, L781-1, L921-11
-
-
-###### Article L924-23
-
-Sont en outre applicables à Saint-Pierre-et-Miquelon à compter du 1er octobre 1978 [*date d'effet*] :
-
-Le titre II du livre IV sur les conseils de prud'hommes ;
-
-Les articles L871-1, L871-2 et le livre V sur les juridictions des mineurs, sous réserve des dispositions de l'article 26 de
-l'ordonnance n° 77-1100 du 26 septembre 1977 ;
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L871-1 et L871-2
-	  - Ordonnance 77-110 1977-09-26 art. 26
-
-	**Abrogé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
 #### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna
@@ -7662,6 +6968,29 @@ commissaire de la République " et de " préfet ".
 
 
 ##### Section I : La cour d'appel.
+
+###### Article L931-2
+
+Les dispositions générales relatives à la cour d'appel et les dispositions particulières relatives d'une part aux pouvoirs
+des chefs de cour concernant le fonctionnement des juridictions du ressort, d'autre part à la protection de l'enfance,
+contenues au titre Ier et aux chapitres Ier et III du titre II du livre II sont applicables dans les territoires visés au
+présent chapitre, sous réserve des dispositions de l'article L. 931-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 6 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
+
 
 ###### Article L931-3
 
@@ -7706,30 +7035,6 @@ dispositions du présent titre et par les dispositions de procédure pénale app
 	**Créé par**:
 
 	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
-
-##### Section 1 : La cour d'appel.
-
-###### Article L931-2
-
-Les dispositions générales relatives à la cour d'appel et les dispositions particulières à la protection de l'enfance
-contenues au titre Ier et au chapitre III du titre II du livre II (partie Législative) sont applicables dans les territoires
-visés au présent chapitre, sous réserve des dispositions de l'article L. 931-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
 
 
 ##### Section II : Le tribunal de première instance.
@@ -9754,9 +9059,9 @@ collectivité territoriale de Mayotte.
 
 ###### Article L942-7
 
-Les dispositions du chapitre III du titre II du livre II (partie Législative) relatives à la protection de l'enfance
-applicables en métropole le 14 août 1992 sont applicables dans la collectivité territoriale de Mayotte, sous réserve des
-dispositions de l'alinéa suivant.
+Les dispositions des chapitres Ier et III du titre II du livre II relatives aux pouvoirs des chefs de cour concernant le
+fonctionnement des juridictions du ressort et à la protection de l'enfance sont applicables dans la collectivité territoriale
+de Mayotte, sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application du premier alinéa de l'article L. 223-2, le président du tribunal supérieur d'appel exerce les fonctions
 de délégué à la protection de l'enfance. Toutefois, le président du tribunal supérieur d'appel peut, par ordonnance, désigner
@@ -9769,9 +9074,9 @@ un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 6 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -10545,6 +9850,648 @@ greffier du tribunal supérieur d'appel.
 	**Créé par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+
+
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Des fonctions judiciaires
+
+###### Article L951-1
+
+Les fonctions judiciaires dans la collectivité territoriale de Saint-Pierre-et-Miquelon sont exercées :
+
+1° Par les magistrats du corps judiciaire ;
+
+2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel ;
+
+3° Par des suppléants du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
+
+
+###### Article L951-2
+
+Les personnes appelées à exercer l'une des fonctions judiciaires mentionnées aux 2° et 3° de l'article L. 951-1 sont choisies
+parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits politiques, civils et de
+famille et présentant des garanties de compétence et d'impartialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-2 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-1 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R951-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 913 (V)
+
+
+###### Article L951-3
+
+Le garde des sceaux, ministre de la justice, arrête une liste comprenant :
+
+1° Deux assesseurs titulaires et quatre assesseurs suppléants au tribunal supérieur d'appel. Ces assesseurs sont désignés
+pour deux ans, sur proposition du président du tribunal supérieur d'appel, après avis du procureur de la République, sur la
+liste préparatoire dressée par le président du tribunal supérieur d'appel comprenant le nom des personnes ayant fait acte de
+candidature ;
+
+2° Deux suppléants du procureur de la République, qui sont désignés selon les mêmes formes et pour la même durée, sur
+proposition du procureur de la République, après avis du président du tribunal supérieur d'appel.
+
+Avant d'entrer en fonctions, les assesseurs et les suppléants du procureur de la République prêtent devant le tribunal
+supérieur d'appel le serment prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique
+relative au statut de la magistrature.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-4 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R951-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-10 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 928 (V)
+
+
+###### Article L951-4
+
+Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République peuvent, avant l'expiration de
+la période de deux ans prévue à l'article L. 951-3, être relevés de leurs fonctions, par arrêté du garde des sceaux, ministre
+de la justice, sur leur demande.
+
+Les assesseurs au tribunal supérieur d'appel peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
+de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 951-3, par décision du premier
+président de la cour d'appel de Paris, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils
+peuvent, selon les mêmes formes, à la demande du président du tribunal supérieur d'appel, être déclarés démissionnaires
+lorsque, sans motif légitime, ils se sont abstenus de déférer à plus de deux convocations successives.
+
+Les suppléants du procureur de la République peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
+de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 951-3, par arrêté du garde des sceaux,
+ministre de la justice, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils peuvent, selon les
+mêmes formes, à la demande du procureur de la République, être déclarés démissionnaires lorsque, sans motif légitime, ils se
+sont abstenus de déférer à plus de deux convocations successives. Dans les mêmes conditions et selon les mêmes formes, il
+peut également être mis fin à leurs fonctions pour les nécessités du service.
+
+Dans tous les cas, l'avis du président du tribunal supérieur d'appel et celui du procureur de la République sont nécessaires
+lorsque la décision n'intervient pas sur leur demande.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 951-4 du code de l'organisation judiciaire est abrogé à l'exception
+de son premier alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-4 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
+
+
+#### Chapitre II : Des juridictions
+
+##### Section I : Dispositions communes
+
+###### Article L952-1
+
+Pour l'application à la collectivité territoriale de Saint-Pierre-et-Miquelon du présent code (partie Législative), il y a
+lieu de lire :
+
+"tribunal supérieur d'appel" à la place de : "cour d'appel" ;
+
+"tribunal de première instance" à la place de : "tribunal de grande instance" ;
+
+"président du tribunal supérieur d'appel" à la place de : "premier président de la cour d'appel".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-1 (V)
+
+
+###### Article L952-2
+
+Le procureur de la République près le tribunal supérieur d'appel peut, en toutes matières, exercer le ministère public devant
+toutes juridictions du premier degré établies dans son ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-10 (V)
+
+
+###### Article L952-3
+
+En ce qui concerne les institutions de la justice pénale, les mesures d'adaptation nécessitées par l'application à la
+collectivité territoriale de Saint-Pierre-et-Miquelon des dispositions du code de procédure pénale sont énoncées au titre
+troisième du livre VI de ce même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+##### Section II : Le tribunal de première instance
+
+##### Sous-section I : Compétence.
+
+###### Article L952-4
+
+Le tribunal de première instance connaît de toutes les affaires dont la connaissance n'est pas expressément attribuée à une
+autre juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-1 (V)
+
+
+##### Sous-section II : Organisation et fonctionnement
+
+###### Article L952-5
+
+Le tribunal de première instance statue à juge unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-2 (V)
+
+
+###### Article L952-6
+
+En cas de vacance des postes de magistrat au tribunal de première instance, d'absence, d'empêchement ou d'incompatibilité
+légale, les fonctions de magistrat dans cette juridiction sont exercées par le président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-3 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 924 (V)
+	  - CODE DE PROCEDURE PENALE - art. 931 (V)
+
+
+###### Article L952-7
+
+I. - Si, pour l'une des causes énoncées à l'article L. 952-6, le président du tribunal supérieur d'appel ne peut intervenir,
+les fonctions de magistrat du tribunal de première instance sont alors assurées par un magistrat du siège désigné par le
+premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
+
+II. - Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
+prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par ledit magistrat
+depuis un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un
+moyen de communication audiovisuelle.
+
+Les modalités d'application des dispositions prévues au précédent alinéa sont fixées par décret en Conseil d'Etat.
+
+III. - Lorsqu'en vertu d'une disposition de la loi ou du règlement, le magistrat désigné selon les modalités fixées au I ci-
+dessus pour exercer les fonctions de magistrat du tribunal de première instance est appelé à statuer sans débat, sa décision
+peut être rendue au siège de la juridiction où il exerce ses autres fonctions.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 952-7 du code de l'organisation judiciaire est abrogé à l'exception
+du III qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie réglementaire du code
+de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-3 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-7 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 924 (V)
+	  - CODE DE PROCEDURE PENALE - art. 931 (V)
+
+
+###### Article L952-8
+
+Par dérogation aux dispositions de l'article L. 532-1, le président du tribunal de première instance exerce les fonctions de
+juge des enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-5 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L532-1
+
+
+##### Section III : Le tribunal supérieur d'appel
+
+##### Sous-section II : Organisation et fonctionnement.
+
+###### Article L952-9
+
+Le tribunal supérieur d'appel comprend un président et deux assesseurs figurant sur la liste prévue à l'article L. 951-3.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-7 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (V)
+
+
+###### Article L952-10
+
+En cas de vacance du poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
+supérieur d'appel sont exercées par le président du tribunal de première instance ou, à défaut, par un juge de ce tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-7 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 928 (V)
+
+
+###### Article L952-11
+
+I. - Si, pour l'une des causes énoncées à l'article L. 952-10, aucun magistrat du siège du tribunal de première instance ne
+peut remplacer le président du tribunal supérieur d'appel, ses fonctions sont assurées par un magistrat du siège désigné par
+le premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
+
+II. - Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
+prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par le magistrat depuis
+un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un moyen
+de communication audiovisuelle.
+
+Lorsque l'audience est collégiale, la formation de jugement est composée de trois magistrats, figurant sur la liste prévue au
+I ci-dessus, reliés à la salle d'audience selon le même procédé.
+
+Les modalités d'application des dispositions prévues aux deux alinéas précédents sont fixées par décret en Conseil d'Etat.
+
+III. - Lorsqu'en vertu d'une disposition de la loi ou du règlement, le magistrat désigné selon les modalités fixées au I ci-
+dessus pour remplacer le président du tribunal supérieur d'appel est appelé à statuer seul et sans débat, sa décision peut
+être rendue au siège de la juridiction où il exerce ses autres fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-9 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 907 (V)
+	  - CODE DE PROCEDURE PENALE - art. 928 (V)
+
+
+###### Article L952-12
+
+Par dérogation aux dispositions de l'article L. 223-2, le président du tribunal supérieur d'appel exerce les fonctions de
+délégué à la protection de l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-9 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 907 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L223-2
+
+
+###### Article L952-13
+
+Les fonctions du ministère public près le tribunal supérieur d'appel sont exercées par le procureur de la République.
+
+Ses attributions sont alors celles des procureurs généraux près les cours d'appel de métropole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-1 (V)
+
+
+###### Article L952-14
+
+En cas d'empêchement, qu'elle qu'en soit la cause, le procureur de la République est remplacé par l'un de ses suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-11 (V)
 
 
 # Partie réglementaire ancienne - Décrets en Conseil d'Etat
