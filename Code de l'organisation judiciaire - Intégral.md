@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-11-09
+Version Consolidée au 2002-12-12
 
 # Partie législative ancienne
 
@@ -17701,6 +17701,21 @@ liquidation de biens, d'une faillite personnelle ou d'autres sanctions prononcé
 	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
+###### Article R*411-4
+
+Le tribunal de commerce connaît en dernier ressort des demandes jusqu'à la valeur de 3800 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 1 () JORF 12 décembre 2002
+
+
 #### Chapitre II : Organisation et fonctionnement.
 
 ###### Article R412-1
@@ -28462,6 +28477,33 @@ Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R. 4
 	  - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
 
 
+###### Article R*921-10
+
+Les dispositions de l'article R. 411-4 sont applicables au tribunal mixte de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 2 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R732-5 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R411-4
+
+
 ### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
@@ -28688,7 +28730,7 @@ attribuée expressément à une autre juridiction en raison de la nature de l'af
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
 instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
-monnaie locale de 1680 euros.
+monnaie locale de 3771 euros.
 
 **Liens relatifs à cet article**
 
@@ -28703,7 +28745,7 @@ monnaie locale de 1680 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 3 () JORF 12 décembre 2002
 
 
 ###### Article R931-10
@@ -29398,6 +29440,23 @@ Le nombre des juges élus de chaque tribunal mixte de commerce est fixé par dé
 	**Modifié par**:
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+###### Article R932-12-1
+
+Le tribunal mixte de commerce connaît en dernier ressort des demandes jusqu'à la contrepartie en monnaie locale de 3771
+euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 4 () JORF 12 décembre 2002
 
 
 ##### Sous-section II : Organisation et fonctionnement.
@@ -30955,6 +31014,31 @@ instance statue en dernier ressort lorsque le montant de la demande en principal
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2 (Ab)
+
+
+###### Article R943-2-1
+
+Le tribunal de première instance, lorsqu'il statue en matière commerciale, connaît en dernier ressort des demandes jusqu'à la
+valeur de 460 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 5 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R927-6 (T)
 
 
 ###### Article R943-3
