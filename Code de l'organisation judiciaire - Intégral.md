@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-01-27
+Version Consolidée au 2005-01-28
 
 # Partie législative ancienne
 
