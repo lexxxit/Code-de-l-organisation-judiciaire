@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2004-11-04
 
 # Partie législative ancienne
 
@@ -18109,7 +18109,7 @@ politiques ;
 chambres d'agriculture ;
 
 3° Les décisions de la commission administrative relatives à la formation et à la révision des listes pour l'élection des
-membres des chambres de métiers.
+membres des chambres de métiers et de l'artisanat.
 
 **Liens relatifs à cet article**
 
@@ -18123,7 +18123,16 @@ membres des chambres de métiers.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-33 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-34 (M)
 
 
 ###### Article R*321-21
