@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-10-01
+Version Consolidée au 1983-12-18
 
 # Partie législative ancienne
 
@@ -12086,6 +12086,55 @@ cour d'appel et le président du tribunal de première instance est substitué a
 	**Cite**:
 
 	  - Code de l'organisation judiciaire R522-4
+
+
+###### Article R924-2
+
+Le tribunal de première instance connaît de toutes les affaires autres que pénales dont la compétence n'est pas attribuée
+expressément à une autre juridiction, et notamment de toutes les affaires dont la connaissance est attribuée aux tribunaux de
+grande instance, aux tribunaux d'instance et aux tribunaux de commerce par les règles relatives à l'organisation judiciaire
+et par des dispositions particulières.
+
+Il connaît également de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
+juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+
+###### Article R924-3
+
+Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
+dernier ressort des tribunaux d'instance prévu à l'article R321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R321-2
 
 
 ### Titre II : Dispositions particulières aux départements d'outre-mer
