@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-05-16
+Version Consolidée au 1979-05-18
 
 # Partie législative ancienne
 
@@ -4604,21 +4604,6 @@ Les règles relatives à la compétence, à l'organisation et au fonctionnement 
 	  - Loi n°91-1258 1991-12-17
 
 
-###### Article L924-17
-
-[*article abrogé*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°79-391 1979-05-14 art. 13 JORF 18 mai 1979
-
-
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section IV : Le ministère public.
 
 ###### Article L924-18
@@ -7725,6 +7710,25 @@ Dans les cas prévus à l'article R321-7 (5°), le tribunal compétent est celui
 
 
 ##### Section II : Organisation
+
+###### Article R*321-31
+
+Le siège et le ressort des tribunaux d'instance sont fixés par le tableau [*V annexé au présent code*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire Annexe tableau V
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-391 1979-05-14 art. 5 JORF 18 mai 1979
+
 
 ###### Article R*321-32
 
