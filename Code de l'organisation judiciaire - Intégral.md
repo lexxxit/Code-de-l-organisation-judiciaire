@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-01-09
+Version Consolidée au 2005-01-27
 
 # Partie législative ancienne
 
@@ -2917,6 +2917,28 @@ temporaire ou définitive de la liste, dans les conditions fixées par l'article
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+##### Section VI : Dispositions particulières aux actions immobilières possessoires.
+
+###### Article L312-7
+
+Les actions possessoires relèvent de la compétence exclusive du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 6 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
 #### Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels.
 
 ###### Article L313-1
@@ -3011,9 +3033,18 @@ Il y a dans le ressort de chaque cour d'appel des juridictions de première inst
 
 ###### Article L321-2
 
-Conformément à l'article L. 323-39 du Code du travail, toutes les contestations relatives à l'application de la section III
-du chapitre III du titre II du livre III dudit code concernant l'emploi obligatoire des pères de famille sont de la
-compétence du tribunal d'instance.
+Sous réserve des dispositions législatives ou réglementaires fixant la compétence particulière des autres juridictions, le
+tribunal d'instance connaît, en matière civile, à charge d'appel, de toutes actions personnelles ou mobilières jusqu'à la
+valeur de 10 000 euros. Il connaît aussi, à charge d'appel, des demandes indéterminées qui ont pour origine l'exécution d'une
+obligation dont le montant n'excède pas 10 000 euros.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -3024,16 +3055,170 @@ compétence du tribunal d'instance.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 1 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-4 (V)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-3 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-4 (Ab)
 
-	**Cite**:
+	**Anciens textes**:
 
 	  - Code du travail - art. L323-39 (M)
+
+
+###### Article L321-2-1
+
+Sous réserve des dispositions législatives ou réglementaires fixant la compétence particulière des autres juridictions, le
+tribunal d'instance connaît, en dernier ressort jusqu'à la valeur de 4 000 euros, et à charge d'appel lorsque la demande
+excède cette somme ou est indéterminée, des actions dont un contrat de louage d'immeubles ou un contrat portant sur
+l'occupation d'un logement est l'objet, la cause ou l'occasion, ainsi que des actions relatives à l'application de la loi n°
+48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et
+locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement.
+
+Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux visés par les articles L.
+145-1 et L. 145-2 du code de commerce.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+	  - Code de commerce. - art. L145-1 (V)
+	  - Code de commerce. - art. L145-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-26 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-38 (V)
+
+
+###### Article L321-2-2
+
+Le tribunal d'instance connaît à charge d'appel des actions aux fins d'expulsion des occupants sans droit ni titre des
+immeubles à usage d'habitation.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-26 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-5 (V)
+
+
+###### Article L321-2-3
+
+Le tribunal d'instance connaît, en dernier ressort jusqu'à la valeur de 4 000 euros, et à charge d'appel lorsque la demande
+excède cette somme ou est indéterminée, des actions relatives à l'application du chapitre Ier du titre Ier du livre III du
+code de la consommation.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-39 (V)
+
+
+###### Article L321-2-4
+
+Les compétences particulières du tribunal d'instance sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-5 (V)
 
 	**Anciens textes**:
 
@@ -3301,16 +3486,23 @@ proximité.
 
 ###### Article L331-2
 
-En matière civile, la juridiction de proximité connaît en dernier ressort des actions personnelles mobilières dont elle est
-saisie par une personne physique pour les besoins de sa vie non professionnelle, jusqu'à la valeur de 1500 euros ou d'une
-valeur indéterminée mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 1500 euros.
-
-Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+Sous réserve des dispositions législatives ou réglementaires fixant la compétence particulière des autres juridictions, la
+juridiction de proximité connaît en matière civile, en dernier ressort, des actions personnelles ou mobilières jusqu'à la
+valeur de 4 000 euros. Elle connaît aussi à charge d'appel des demandes indéterminées qui ont pour origine l'exécution d'une
+obligation dont le montant n'excède pas 4 000 euros.
 
 Elle connaît aussi, dans les mêmes conditions, en vue de lui donner force exécutoire, de la demande d'homologation du constat
 d'accord formée par les parties, à l'issue d'une tentative préalable de conciliation menée en application de l'article 21 de
 la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et
 administrative.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -3323,9 +3515,18 @@ administrative.
 
 	  - Loi n°95-125 du 8 février 1995 - art. 21 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 3 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-3 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-3 (VT)
 
 	**Cité par**:
 
@@ -3333,6 +3534,69 @@ administrative.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12-1 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 (Ab)
+
+
+###### Article L331-2-1
+
+La juridiction de proximité connaît, en dernier ressort, jusqu'à la valeur de 4 000 euros, des actions relatives à
+l'application de l'article 22 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
+modification de la loi n° 86-1290 du 23 décembre 1986.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 22 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 4 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-4 (VT)
+
+
+###### Article L331-2-2
+
+Les compétences particulières de la juridiction de proximité en matière civile sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 4 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-4 (VT)
 
 
 ###### Article L331-3
@@ -3389,24 +3653,38 @@ statue en tant que juridiction de proximité.
 ###### Article L331-5
 
 En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
-relatives au ministère public près cette juridiction sont fixées par l'article 706-72 du code de procédure pénale et, en ce
-qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+relatives au ministère public près cette juridiction sont fixées par le deuxième alinéa de l'article 521 du code de procédure
+pénale et, en ce qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
+délinquante.
+
+Le président du tribunal de grande instance établit avant le début de l'année judiciaire la liste des juges de proximité de
+son ressort susceptibles de siéger en qualité d'assesseur au sein de la formation collégiale du tribunal correctionnel.
+
+Cette formation ne peut comprendre plus d'un juge de proximité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-72 (M)
+	  - CODE DE PROCEDURE PENALE - art. 521 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 5 () JORF 27 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-6 (VT)
 
 
 ##### Section II : Organisation
