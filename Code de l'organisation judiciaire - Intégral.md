@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-07-09
+Version Consolidée au 1983-09-01
 
 # Partie législative ancienne
 
@@ -1807,6 +1807,56 @@ temporaire ou définitive de la liste, dans les conditions fixées par l'article
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+
+#### Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels.
+
+###### Article L313-1
+
+Il y a dans le ressort de chaque tribunal de grande instance une commission juridictionnelle chargée de statuer sur les
+demandes d'indemnité présentées par les victimes de dommages corporels résultant d'une infraction.
+
+Cette commission a le caractère d'une juridiction civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°83-608 1983-07-08 art. 22 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+
+###### Article L313-2
+
+Les règles concernant la compétence et la composition de la commission prévue à l'article précédent, ainsi que celles qui
+sont relatives au ministère public près cette commission, sont fixées par l'article 706-4 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°83-608 1983-07-08 art. 22 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
 
 
 ### Titre II : Le tribunal d'instance
