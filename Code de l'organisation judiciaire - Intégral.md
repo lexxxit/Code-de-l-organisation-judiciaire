@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2004-12-10
 
 # Partie législative ancienne
 
@@ -4304,13 +4304,29 @@ Les juges d'un tribunal de commerce sont élus dans le ressort de la juridiction
 2° Des membres du tribunal de commerce ainsi que des anciens membres du tribunal ayant demandé à être inscrits sur la liste
 électorale.
 
-Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition de n'avoir pas été déchues
-de leurs fonctions ni condamnées à une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
-électoral ou par l'article L. 625-8 du code de commerce, ou à une interdiction d'exercer une activité commerciale.
+Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition :
+
+- de ne pas avoir été déchues de leurs fonctions ;
+
+- de ne pas avoir été condamnées pénalement pour des agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
+
+- de n'avoir pas été frappées de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre
+V du titre II du livre VI du code de commerce, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et
+à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, ou d'une
+mesure d'interdiction définie à l'article L. 625-8 du code de commerce ou d'une mesure d'interdiction d'exercer une activité
+commerciale.
 
 Les délégués consulaires sont désignés dans les conditions prévues aux articles L. 713-6 à L. 713-18 du code de commerce.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - Code de commerce L625-8, L713-6 à L713-18
+	  - Code de commerce. - art. L625-8 (M)
 
 	**Codifié par**:
 
@@ -4319,14 +4335,7 @@ Les délégués consulaires sont désignés dans les conditions prévues aux art
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 11 () JORF 17 avril 2004
-
-	**Cite**:
-
-	  - Code de commerce L625-8, L713-6 à L713-18
-	  - Code de commerce. - art. L625-8 (M)
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -4381,6 +4390,12 @@ tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes ;
 
 2° Qui remplissent la condition de nationalité prévue à l'article L. 2 du code électoral ;
 
+2° bis A l'encontre desquelles une procédure de redressement ou de liquidation judiciaires n'a pas été ouverte ;
+
+2° ter Qui, s'agissant des personnes mentionnées au 1° ou au 2° de l'article L. 713-7 du code de commerce, n'appartiennent
+pas à une société ou à un établissement public ayant fait l'objet d'une procédure de redressement ou de liquidation
+judiciaires ;
+
 3° Et qui justifient soit d'une immatriculation pendant les cinq dernières années au moins au registre du commerce et des
 sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, de l'une des qualités énumérées à l'article L.
 713-8 du code de commerce ou de l'une des professions énumérées au d du 1° de l'article L. 713-7.
@@ -4401,7 +4416,11 @@ sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -4413,15 +4432,8 @@ sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, 
 
 ###### Article L413-3-1
 
-Est inéligible aux fonctions de membre d'un tribunal de commerce :
-
-1° Tout candidat à l'égard duquel est ouverte une procédure de redressement ou de liquidation judiciaires ;
-
-2° Tout candidat mentionné au 1° ou au 2° de l'article L. 713-7 du code de commerce, lorsque la société ou l'établissement
-public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires ;
-
-3° Pour une période d'une durée de dix ans, toute personne ayant fait l'objet d'une mesure de déchéance de la qualité de
-membre d'un tribunal de commerce.
+Toute personne ayant été déchue de ses fonctions de membre d'un tribunal de commerce est inéligible à cette fonction pour une
+durée de dix ans.
 
 **Liens relatifs à cet article**
 
@@ -4430,17 +4442,17 @@ membre d'un tribunal de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L713-7 (T)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2004-328 2004-04-15 art. 12 JORF 17 avril 2004
 
 
 ###### Article L413-3-2
