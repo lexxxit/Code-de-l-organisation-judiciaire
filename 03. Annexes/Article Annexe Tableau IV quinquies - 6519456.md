@@ -2,393 +2,1343 @@
 
 Tableau IV quinquies
 
-Liste des maisons de justice et du droit
+**Liste des maisons de justice et du droit.**
 
-DÉPARTEMENTS
+<table>
+  <tbody>
+    <tr>
+      <td width="205">
 
-TRIBUNAL DE GRANDE INSTANCE
+DÉPARTEMENT
 
-MAISONS DE JUSTICE ET DU DROIT
+</td>
+      <td width="184">
 
-Cour d'appel d'Aix-en-Provence
+TRIBUNAL DE GRANDE
+
+instance
+
+</td>
+      <td width="225">
+
+MAISON DE JUSTICE
+
+et du droit
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+d'Aix-en-Provence**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Alpes-Maritimes
 
-Nice.
+</td>
+      <td width="184">
+
+Nice
+
+</td>
+      <td width="225">
 
 Nice (Ariane). 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Bouches-du-Rhône
 
-Aix-en-Provence.
+</td>
+      <td width="184">
 
-Aix-en-Provence (Jas du Bouffan), Martigues. 
+Aix-en-Provence
 
-Marseille.
+</td>
+      <td width="225">
 
-Aubagne. 
+Aix-en-provence (Jas du Bouffan), Martigues.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Marseille
+
+</td>
+      <td width="225">
+
+Aubagne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Var
 
-Toulon.
+</td>
+      <td width="184">
+
+Toulon
+
+</td>
+      <td width="225">
 
 La Seyne-sur-Mer, Toulon. 
 
-Cour d'appel d'Amiens
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel d'Amiens**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Oise
 
-Beauvais.
+</td>
+      <td width="184">
+
+Beauvais
+
+</td>
+      <td width="225">
 
 Méru/Vexin-Thelle-Sablons. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Somme
 
-Amiens.
+</td>
+      <td width="184">
+
+Amiens
+
+</td>
+      <td width="225">
 
 Amiens. 
 
-Cour d'appel d'Angers
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel d'Angers**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Sarthe
 
-Le Mans.
+</td>
+      <td width="184">
+
+Le Mans
+
+</td>
+      <td width="225">
 
 Allonnes. 
 
-Cour d'appel de Bordeaux
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Bordeaux**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Charente
 
-Angoulême.
+</td>
+      <td width="184">
+
+Angoulême
+
+</td>
+      <td width="225">
 
 Angoulême. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Dordogne
 
-Bergerac.
+</td>
+      <td width="184">
+
+Bergerac
+
+</td>
+      <td width="225">
 
 Bergerac. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Gironde
 
-Bordeaux.
+</td>
+      <td width="184">
 
-Bordeaux/Bastide, Bordeaux/Nord. 
+Bordeaux
 
-Cour d'appel de Bourges
+</td>
+      <td width="225">
+
+Bordeaux (Bastide), Bordeaux-Nord. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Bourges**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Cher
 
-Bourges.
+</td>
+      <td width="184">
+
+Bourges
+
+</td>
+      <td width="225">
 
 Vierzon. 
 
-Cour d'appel de Caen
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Caen**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Calvados
 
-Caen.
+</td>
+      <td width="184">
+
+Caen
+
+</td>
+      <td width="225">
 
 Hérouville-Saint-Clair. 
 
-Cour d'appel de Chambéry
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Chambéry**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Savoie
 
-Thonon-les-Bains.
+</td>
+      <td width="184">
+
+Thonon-les-Bains
+
+</td>
+      <td width="225">
 
 Annemasse. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Savoie
 
-Chambéry.
+</td>
+      <td width="184">
+
+Chambéry
+
+</td>
+      <td width="225">
 
 Aix-les-Bains, Chambéry. 
 
-Cour d'appel de Colmar
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Colmar**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Bas-Rhin
 
-Strasbourg.
+</td>
+      <td width="184">
+
+Strasbourg
+
+</td>
+      <td width="225">
 
 Strasbourg. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Haut-Rhin
 
-Colmar.
+</td>
+      <td width="184">
+
+Colmar
+
+</td>
+      <td width="225">
 
 Colmar. 
 
-Mulhouse.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Mulhouse
+
+</td>
+      <td width="225">
 
 Mulhouse. 
 
-Cour d'appel de Dijon
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Dijon**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Saône-et-Loire
 
-Chalon-sur-Saône.
+</td>
+      <td width="184">
+
+Chalon-sur-Saône
+
+</td>
+      <td width="225">
 
 Chalon-sur-Saône. 
 
-Mâcon.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Mâcon
+
+</td>
+      <td width="225">
 
 Mâcon. 
 
-Cour d'appel de Douai 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Douai**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Nord
 
-Lille.
+</td>
+      <td width="184">
 
-Roubaix, Tourcoing. 
+Lille Roubaix,
 
-Avesnes-sur-Helpe.
+</td>
+      <td width="225">
+
+Tourcoing. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Avesnes-sur-Helpe
+
+</td>
+      <td width="225">
 
 Aulnoy-Aymeries, Maubeuge. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Pas-de-Calais
 
-Béthune.
+</td>
+      <td width="184">
+
+Béthune
+
+</td>
+      <td width="225">
 
 Lens. 
 
-Boulogne-sur-Mer.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Boulogne-sur-Mer
+
+</td>
+      <td width="225">
 
 Calais. 
 
-Cour d'appel de Fort-de-France
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Fort-de-France**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Guyane
 
-Cayenne.
+</td>
+      <td width="184">
+
+Cayenne
+
+</td>
+      <td width="225">
 
 Saint-Laurent-du-Maroni. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Martinique
 
-Fort-de-France.
+</td>
+      <td width="184">
+
+Fort-de-France
+
+</td>
+      <td width="225">
 
 Fort-de-France. 
 
-Cour d'appel de Grenoble 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Grenoble**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Drôme
 
-Valence.
+</td>
+      <td width="184">
+
+Valence
+
+</td>
+      <td width="225">
 
 Romans-sur-Isère. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Isère
 
-Grenoble.
+</td>
+      <td width="184">
+
+Grenoble
+
+</td>
+      <td width="225">
 
 Grenoble. 
 
-Vienne.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="184">
+
+Vienne
+
+</td>
+      <td width="225">
 
 Villefontaine. 
 
-Cour d'appel de Limoges
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Limoges**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Corrèze
 
-Brive.
+</td>
+      <td width="184">
+
+Brive
+
+</td>
+      <td width="225">
 
 Brive. 
 
-Cour d'appel de Lyon
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Lyon**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Loire
 
-Saint-Etienne.
+</td>
+      <td width="184">
+
+Saint-Etienne
+
+</td>
+      <td width="225">
 
 Saint-Etienne. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Rhône
 
-Lyon.
+</td>
+      <td width="184">
 
-Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux. 
+Lyon
 
-Cour d'appel de Metz
+</td>
+      <td width="225">
+
+Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Metz**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Moselle
 
-Metz.
+</td>
+      <td width="184">
+
+Metz
+
+</td>
+      <td width="225">
 
 Woippy. 
 
-Cour d'appel de Montpellier
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel 
+
+de Montpellier**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Aude
 
-Narbonne.
+</td>
+      <td width="184">
+
+Narbonne
+
+</td>
+      <td width="225">
 
 Narbonne. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Hérault
 
-Montpellier.
+</td>
+      <td width="184">
+
+Montpellier
+
+</td>
+      <td width="225">
 
 Lunel, Montpellier (La Paillade). 
 
-Cour d'appel de Nancy
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Nancy**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Meurthe-et-Moselle
 
-Nancy.
+</td>
+      <td width="184">
 
-Haut-du-Lièvre, Tomblaine, Vandoeuvre-lès-Nancy. 
+Nancy
 
-Cour d'appel de Nîmes
+</td>
+      <td width="225">
+
+Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Nîmes**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Gard
 
-Nîmes.
+</td>
+      <td width="184">
+
+Nîmes
+
+</td>
+      <td width="225">
 
 Bagnols-sur-Cèze, Nîmes. 
 
-Cour d'appel d'Orléans 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
-Indre-et-Loire
+**Cour d'appel d'Orléans**
 
-Tours.
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Indre-et-Loir
+
+</td>
+      <td width="184">
+
+Tours
+
+</td>
+      <td width="225">
 
 Joué-lès-Tours. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Loiret
 
-Orléans.
+</td>
+      <td width="184">
+
+Orléans
+
+</td>
+      <td width="225">
 
 Orléans. 
 
-Cour d'appel de Paris
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Paris**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Essonne
 
-Evry.
+</td>
+      <td width="184">
+
+Evry
+
+</td>
+      <td width="225">
 
 Athis-Mons, Les Ulis. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Paris
 
-Paris.
+</td>
+      <td width="184">
 
-Paris (10e), Paris (14e), Paris (17e). 
+Paris
+
+</td>
+      <td width="225">
+
+Paris (10e) Paris (14e) Paris (17e). 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Seine-et-Marne
 
-Meaux.
+</td>
+      <td width="184">
 
-Chelles, Meaux, Val-Maubuée. 
+Meaux
 
-Melun.
+</td>
+      <td width="225">
 
-Pontault-Combault, Savigny-le-Temple. 
+Chelles, Meaux, Val Maubuée, Pontault-Combault, Savigny-le-Temple. 
 
-Seine-Saint-Denis
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
-Bobigny.
+</td>
+      <td width="184">
+
+Melun
+
+</td>
+      <td width="225">
 
 Aubervilliers, Epinay, La Courneuve. 
 
-Cour d'appel de Poitiers
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Seine-Saint-Denis
+
+</td>
+      <td width="184">
+
+Bobigny
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Poitiers**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Charente-Maritime
 
-La Rochelle.
+</td>
+      <td width="184">
+
+La Rochelle
+
+</td>
+      <td width="225">
 
 La Rochelle. 
 
-Cour d'appel de Reims
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Reims**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ardennes
 
-Charleville-Mézières.
+</td>
+      <td width="184">
+
+Charleville-Mézières
+
+</td>
+      <td width="225">
 
 Charleville-Mézières, Sedan. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Marne
 
-Reims.
+</td>
+      <td width="184">
+
+Reims
+
+</td>
+      <td width="225">
 
 Reims. 
 
-Cour d'appel de Rennes
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
-Côtes-d'Armor
+**Cour d'appel de Rennes**
 
-Guingamp.
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Côtes d'Armor
+
+</td>
+      <td width="184">
+
+Guingamp
+
+</td>
+      <td width="225">
 
 Lannion. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Loire-Atlantique
 
-Nantes.
+</td>
+      <td width="184">
+
+Nantes
+
+</td>
+      <td width="225">
 
 Nantes. 
 
-Cour d'appel de Riom
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Riom**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Allier
 
-Montluçon.
+</td>
+      <td width="184">
+
+Montluçon
+
+</td>
+      <td width="225">
 
 Montluçon. 
 
-Cour d'appel de Rouen
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel de Rouen**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Eure
 
-Evreux.
+</td>
+      <td width="184">
+
+Evreux
+
+</td>
+      <td width="225">
 
 Louviers, Vernon. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Seine-Maritime
 
-Le Havre.
+</td>
+      <td width="184">
+
+Le Havre
+
+</td>
+      <td width="225">
 
 Le Havre. 
 
-Rouen.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
-Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray. 
+</td>
+      <td width="184">
 
-Cour d'appel de Toulouse 
+Rouen
+
+</td>
+      <td width="225">
+
+Elbeuf-sur-Seine, Canteleu, Rouen, Saint- Etienne-du-Rouvray. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Toulouse**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Garonne
 
-Toulouse.
+</td>
+      <td width="184">
+
+Toulouse
+
+</td>
+      <td width="225">
 
 Toulouse. 
 
-Cour d'appel de Versailles
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+**Cour d'appel
+
+de Versailles**
+
+</td>
+      <td width="184">
+
+</td>
+      <td width="225">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Eure-et-Loir
 
-Chartres.
+</td>
+      <td width="184">
 
-Dreux. 
+Chartres
+
+</td>
+      <td width="225">
+
+Dreux 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Val-d'Oise
 
-Pontoise.
+</td>
+      <td width="184">
+
+Pontoise
+
+</td>
+      <td width="225">
 
 Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
 Yvelines
 
-Versailles.
+</td>
+      <td width="184">
 
-Les Mureaux, Saint-Quentin-en-Yvelines.
+Versailles
+
+</td>
+      <td width="225">
+
+Les Mureaux, Saint-Quentin-en-Yvelines. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-10-29 art. 1 et annexe JORF 9 novembre 2002
+	  - Arrêté 2003-11-21 art. 2 JORF 11 décembre 2003
+	  - Arrêté du 14 janvier 2005, v. init.
 
 	**Codifié par**:
 
