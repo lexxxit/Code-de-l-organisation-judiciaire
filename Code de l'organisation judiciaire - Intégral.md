@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2003-07-05
+Version Consolidée au 2003-09-15
 
 # Partie législative ancienne
 
@@ -15415,7 +15415,7 @@ pénale.
 	  - Code de procédure pénale
 
 
-## Livre III : Le tribunal de grande instance et le tribunal d'instance
+## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité
 
 ### Titre Ier : Le tribunal de grande instance
 
@@ -15426,8 +15426,7 @@ pénale.
 ###### Article R*311-1
 
 Le tribunal de grande instance connaît, à charge d'appel, de toutes les affaires pour lesquelles compétence n'est pas
-attribuée expressément à une autre juridiction, en raison de la nature de l'affaire ou du montant de la demande
-[*compétence*].
+attribuée expressément à une autre juridiction, en raison de la nature de l'affaire ou du montant de la demande.
 
 **Liens relatifs à cet article**
 
@@ -15438,6 +15437,19 @@ attribuée expressément à une autre juridiction, en raison de la nature de l'a
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R211-3 (V)
 
 	**Cité par**:
 
@@ -15464,13 +15476,9 @@ Code de procédure civile, est inférieur ou égal à 3800 euros.
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 2 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*311-3
@@ -15490,11 +15498,7 @@ devant le tribunal de grande instance contre les décisions du juge des tutelles
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 42 JORF 14 mai 1981
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1215 et 1221
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*311-4
@@ -15508,8 +15512,8 @@ nature causés par un véhicule quelconque.
 
 	**Cite**:
 
-	  - Loi n°57-1424 1957-12-31
-	  - CODE DE PROCEDURE PENALE - art. 3 (V)
+	  - Loi n°57-1424 du 31 décembre 1957
+	  - Code de procédure pénale - art. 3
 
 	**Anciens textes**:
 
@@ -15518,6 +15522,14 @@ nature causés par un véhicule quelconque.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*311-5
@@ -15538,9 +15550,17 @@ bateaux de navigation intérieure et tous engins de transport par voie d'eau.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-4
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*311-6
@@ -15554,13 +15574,13 @@ par le nouveau Code de procédure civile, et notamment par ses articles 42 à 52
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 42 et s.
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 42 à 52
 
 
 ##### Section II : Organisation
@@ -15569,12 +15589,13 @@ par le nouveau Code de procédure civile, et notamment par ses articles 42 à 52
 
 Le siège et le ressort des tribunaux de grande instance sont fixés conformément au tableau n° I annexé au présent code.
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, la liste des tribunaux de grande instance compétents en métropole est fixée au tableau VIII
-annexé au présent code.    Lorsqu'un tribunal de grande instance est créé ou lorsque le ressort d'un tribunal de grande
-instance est modifié par suite d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, le tribunal
-compétent primitivement saisi demeure compétent pour statuer sur les procédures introduites antérieurement à la date de
-création du tribunal ou de modification du ressort.
+Pour l'application de l'article L. 621-5 du code de commerce, la liste des tribunaux de grande instance compétents en
+métropole est fixée au tableau VIII annexé au présent code.
+
+Lorsqu'un tribunal de grande instance est créé ou lorsque le ressort d'un tribunal de grande instance est modifié par suite
+d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, le tribunal compétent primitivement saisi
+demeure compétent pour statuer sur les procédures introduites antérieurement à la date de création du tribunal ou de
+modification du ressort.
 
 Lorsqu'un tribunal de grande instance est supprimé, toutes les procédures en cours devant cette juridiction à la date
 d'entrée en vigueur du décret de suppression sont transférées en l'état au tribunal de grande instance dans le ressort duquel
@@ -15589,8 +15610,8 @@ ministère de la justice.
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire annexe
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
@@ -15598,7 +15619,7 @@ ministère de la justice.
 
 	**Modifié par**:
 
-	  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*311-8
@@ -15616,6 +15637,14 @@ moins sont hors classe.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 
 ###### Article R*311-12
 
@@ -15627,6 +15656,10 @@ sur requête.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Anciens textes**:
 
@@ -15643,6 +15676,10 @@ par le nouveau Code de procédure civile, le Code de procédure pénale et les t
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Anciens textes**:
 
@@ -15667,6 +15704,18 @@ instance.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-1 (V)
+
 
 ###### Article R311-10
 
@@ -15682,6 +15731,18 @@ chambres.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-2 (V)
 
 
 ###### Article R311-11
@@ -15699,6 +15760,18 @@ prévus par la loi.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-3 (M)
+
 
 ##### Section III : Fonctionnement
 
@@ -15715,6 +15788,14 @@ des sceaux, ministre de la justice.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Anciens textes**:
 
 	  - Loi n°1838-04-11 art. 7
@@ -15729,6 +15810,14 @@ Le président du tribunal prend par ordonnance les mesures d'administration judi
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*311-16
@@ -15746,6 +15835,19 @@ Le président peut toujours présider une chambre quand il l'estime convenable.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-3 (M)
 
 
 ###### Article R*311-17
@@ -15765,6 +15867,18 @@ en cas d'empêchement de ce dernier, par le plus ancien des vice-présidents.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-4 (V)
+
 
 ###### Article R*311-22
 
@@ -15780,6 +15894,18 @@ autant que faire se peut, l'ordre des nominations à ce tribunal.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-5 (V)
 
 
 ###### Article R*311-23
@@ -15803,11 +15929,19 @@ Un magistrat peut être affecté à plusieurs chambres.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 4 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-6 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire - art. L710-1
 
 	**Cité par**:
 
@@ -15831,11 +15965,19 @@ est transmise aux chefs de la cour d'appel.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 5 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-6 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*311-26
@@ -15849,6 +15991,18 @@ d'affectation.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-6 (V)
 
 
 ###### Article R*311-27
@@ -15865,6 +16019,18 @@ chambre du tribunal.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-6 (V)
 
 
 ###### Article R*311-28
@@ -15893,6 +16059,18 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-10 (V)
+
 
 ###### Article R311-18
 
@@ -15912,9 +16090,21 @@ désigné suivant les modalités fixées à l'article R311-17 ci-dessus ou, à d
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-4 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-17
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R311-19
@@ -15931,9 +16121,21 @@ modalités fixées à l'article R311-17 ci-dessus ou, à défaut, par le juge le
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-4 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-17
+	  - Code de l'organisation judiciaire
 
 	**Anciens textes**:
 
@@ -15947,17 +16149,29 @@ ordonnance du président en cas de cessation ou interruption des fonctions du su
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-4 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-17, R311-18 et R311-19
+	  - Code de l'organisation judiciaire
 
 	**Anciens textes**:
 
 	  - Décret n°1808-03-30 art. 47
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
 
 
 ###### Article R311-21
@@ -15976,9 +16190,21 @@ ou, à défaut, par le magistrat du siège présent le plus ancien dans le grade
 
 	  - Décret n°88-778 du 22 juin 1988 - art. 3 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-5 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R311-17
+	  - Code de l'organisation judiciaire
 
 	**Anciens textes**:
 
@@ -16003,15 +16229,11 @@ les diverses chambres du tribunal.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29 (T)
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 817
 
 
 ###### Article R311-29-2
@@ -16040,11 +16262,19 @@ initialement désignée qui en assure la transmission.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 6 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-10 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R311-29-3
@@ -16061,13 +16291,21 @@ comprend le juge qui a ordonné le renvoi.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 247 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-2 (M)
-	  - Code de l'organisation judiciaire L311-12-2, L312-1
+	  - Code civil - art. 247
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L311-12-2
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-7 (V)
 
 	**Cité par**:
 
@@ -16089,7 +16327,11 @@ articles R761-1 à R761-50 et R763-1.
 
 	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 6 JORF 28 décembre 1983
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cité par**:
 
@@ -16097,7 +16339,7 @@ articles R761-1 à R761-50 et R763-1.
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-1 à R761-50 et R763-1
+	  - Code de l'organisation judiciaire
 
 
 ##### Sous-section IV : Le ministère public
@@ -16116,6 +16358,18 @@ Le procureur de la République répartit ses substituts entre les chambres du tr
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-12 (V)
+
 
 ###### Article R*311-35
 
@@ -16125,13 +16379,25 @@ Il peut exercer lui-même les fonctions qu'il leur a spécialement déléguées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1810-08-18 art. 19
-
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-12 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1810-08-18 art. 19
 
 
 ###### Article R*311-36
@@ -16153,11 +16419,19 @@ dans le grade le plus élevé et, à défaut, par un magistrat désigné dans le
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 7 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-14 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L221-2
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*311-37
@@ -16177,13 +16451,25 @@ adjoints ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1810-08-18 art. 28
-
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-15 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1810-08-18 art. 28
 
 
 ##### Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort
@@ -16208,6 +16494,49 @@ magistrats qu'ils ont délégués au premier président ou au procureur généra
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-58 (V)
+
+
+##### Sous-section VI : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des juridictions de proximité de leur ressort
+
+###### Article R*311-38-1
+
+Le président et le procureur de la République du tribunal de grande instance procèdent à l'inspection des juridictions de
+proximité de leur ressort.
+
+Ils s'assurent, chacun en ce qui le concerne, de la bonne administration des services judiciaires et de l'expédition normale
+des affaires ; ils peuvent respectivement déléguer ces pouvoirs pour des actes déterminés à des magistrats du siège ou du
+parquet placés sous leur autorité ; ils rendent compte de leurs constatations ou de celles qui ont été faites par les
+magistrats qu'ils ont délégués au premier président ou au procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 1 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-58 (V)
+
 
 ##### Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance
 
@@ -16225,13 +16554,21 @@ limitrophes ayant leur siège dans la même circonscription de tribunal de grand
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-20 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*311-40
@@ -16244,9 +16581,17 @@ Le magistrat chargé de la présidence de la chambre détachée administre la ch
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-21 (V)
 
 
 ###### Article R*311-41
@@ -16260,9 +16605,17 @@ chargé du service de la chambre détachée désigné par le président du tribu
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-21 (V)
 
 
 ###### Article R*311-42
@@ -16279,13 +16632,21 @@ grande instance. Cette ordonnance précise le nombre, le jour et la nature des a
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 8 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-21 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 #### Chapitre II : Dispositions particulières à certaines matières
@@ -16309,11 +16670,19 @@ des affaires mentionnées à l'article L. 312-1.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 3 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-8 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L312-1
+	  - Code de l'organisation judiciaire
 
 
 ##### Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.
@@ -16345,7 +16714,7 @@ intellectuelle, sont fixés conformément au tableau IV annexé au présent code
 
 	**Modifié par**:
 
-	  - Décret n°94-1056 du 8 décembre 1994 - art. 1 () JORF 10 décembre 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux
@@ -16361,17 +16730,31 @@ demandes mentionnées à l'alinéa précédent".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-960 du 30 septembre 1953 - art. 29 (Ab)
-
 	**Cite**:
+
+	  - Décret n°53-960 du 30 septembre 1953 - art. 29
+
+	**Anciens textes**:
 
 	  - Décret n°53-960 du 30 septembre 1953 - art. 29 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R211-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-41 (V)
 
 
 ##### Section V : Dispositions particulières en matière commerciale
@@ -16387,9 +16770,21 @@ tribunal de commerce.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Anciens textes**:
 
 	  - Code de commerce 641
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-5 (V)
 
 
 ##### Section VI : Dispositions particulières à la saisie immobilière
@@ -16404,9 +16799,13 @@ L'adjudication a lieu en l'audience des saisies immobilières. L'audience peut �
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 2 JORF 18 juillet 1984
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab) JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -16419,9 +16818,7 @@ L'adjudication a lieu en l'audience des saisies immobilières. L'audience peut �
 
 Lorsqu'il existe plusieurs juges de l'application des peines dans un tribunal de grande instance, le président désigne, après
 avis de l'assemblée générale des magistrats du siège, le juge de l'application des peines qui exerce les attributions
-mentionnées au titre XI du Code de procédure pénale (troisième partie :
-
-Décrets).
+mentionnées au titre XI du Code de procédure pénale (troisième partie :Décrets).
 
 **Liens relatifs à cet article**
 
@@ -16429,9 +16826,13 @@ Décrets).
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-461 1986-03-14 art. 10 JORF 16 mars 1986
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*312-8
@@ -16447,13 +16848,21 @@ oralement à l'assemblée générale des magistrats du siège et du parquet.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-461 1986-03-14 art. 10 JORF 16 mars 1986
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R50-30 (Ab)
+	  - Code de procédure pénale - art. R50-30
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-44 (V)
 
 
 ##### Section VIII : Dispositions particulières en matière de nationalité.
@@ -16469,15 +16878,24 @@ tableau XII annexé au présent code.
 	**Cite**:
 
 	  - Code de l'organisation judiciaire annexe tableau XII
-	  - Code civil - art. 29-1 (V)
+	  - Code civil - art. 29-1
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1361 du 30 décembre 1993 - art. 1 () JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-12 (V)
 
 
 ##### Section IX : Dispositions particulières en matière de marque communautaire
@@ -16493,13 +16911,22 @@ intellectuelle sont portées devant le tribunal de grande instance de Paris.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L717-4 (V)
+	  - Code de la propriété intellectuelle - art. L717-4
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R211-7 (V)
 
 
 ##### Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires
@@ -16512,23 +16939,27 @@ annexé au présent code.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe
+	  - Code de l'environnement - art. L218-29
+
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-196 2002-02-11 art. 1 JORF 16 février 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'environnement - art. L218-29 (M)
-	  - Code de l'organisation judiciaire annexe
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ### Titre II : Le tribunal d'instance
 
-#### Chapitre I : Dispositions générales
+#### Chapitre Ier : Dispositions générales
 
 ##### Section I : Institution et compétence
 
@@ -16536,9 +16967,10 @@ annexé au présent code.
 
 ###### Article R*321-1
 
-Sous réserve des dispositions des articles suivants, le tribunal d'instance connaît, en matière civile, de toutes actions
-personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 3800 euros et à charge d'appel jusqu'à la valeur de 7600
-euros.
+Sous réserve des dispositions des articles R. 321-2 à R. 321-23, R. 331-1 et R. 331-2, le tribunal d'instance connaît, en
+matière civile, de toutes actions personnelles ou mobilières, en dernier ressort jusqu'à la valeur de 3 800 Euros et à charge
+d'appel jusqu'à la valeur de 7 600 euros. Sous les mêmes réserves, il connaît aussi, à charge d'appel, des demandes
+indéterminées qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 7 600 euros.
 
 Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal d'instance statuant en
 premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières, dans la limite des
@@ -16558,26 +16990,26 @@ taux prévus à l'alinéa précédent.
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 2 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-2 à R321-30
+	  - CODE DE L'ORGANISATION JUDICIAIRE R321-2 à R321-23, R331-1, R331-2
 
 
 ###### Article R*321-2
 
-Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît, en dernier
-ressort, jusqu'à la valeur de 3800 euros et à charge d'appel lorsque la demande excède cette somme ou est indéterminée, des
-actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en autorisation,
-validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait contestation de la
-part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
+Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît en dernier
+ressort, jusqu'à la valeur de 3 800 euros et à charge d'appel lorsque la demande excède cette somme ou est indéterminée, des
+actions dont le contrat de louage d'immeubles est l'objet, la cause ou l'occasion, ainsi que de celles relatives à
+l'application de la loi n° 48-1360 du 1er septembre 1948.
 
 Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux à loyer d'immeubles ou de
 locaux à usage commercial, industriel ou artisanal régis par le décret n° 53-960 du 30 septembre 1953.
@@ -16586,8 +17018,8 @@ locaux à usage commercial, industriel ou artisanal régis par le décret n° 53
 
 	**Cite**:
 
+	  - Loi n°48-1360 1948-09-01
 	  - Décret n°53-960 1953-09-30
-	  - Loi n°48-1160 1948-09-01
 
 	**Anciens textes**:
 
@@ -16601,13 +17033,14 @@ locaux à usage commercial, industriel ou artisanal régis par le décret n° 53
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 3 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
 
 
 ###### Article R*321-3
@@ -16627,33 +17060,13 @@ d'injonction de payer et de faire.
 
 	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 4 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-4
 
-Le tribunal d'instance connaît, lorsque les causes de la saisie sont dans les limites de sa compétence :
-
-1° Des contestations en matière de saisie-brandon ;
-
-2° Des contestations en matière de saisie-exécution ;
-
-3° Des demandes en déclaration affirmative, validité, nullité ou mainlevée de saisies-arrêts et oppositions, autres que
-celles qui concernent les administrations de l'enregistrement et des contributions indirectes, sous réserve des dispositions
-relatives à la saisie-arrêt des sommes dues à titre de rémunération d'un travail effectué pour le compte d'un employeur ;
-
-4° Des demandes en validité, nullité ou mainlevée de saisies conservatoires ;
-
-5° Des demandes en validité, nullité ou mainlevée de saisies sur débiteurs forains ;
-
-6° Des demandes en validité, nullité ou mainlevée de saisie-revendication autres que celles qui sont prévues à l'article 819
-du Code de procédure civile, alors même qu'il y aurait contestation de la part d'un tiers.
-
-Le tribunal d'instance a en outre qualité pour autoriser, s'il y a lieu, les saisies visées au présent article dont les
-causes n'excèdent pas les limites de sa compétence.
-
-Il connaît également, lorsque l'objet du litige n'excède pas ces limites, des actions en validité et en nullité d'offres
-réelles autres que celles qui concernent les administrations de l'enregistrement ou des contributions indirectes.
+Il connaît, dans les limites de l'article R. 321-1, des actions en validité et en nullité d'offres réelles autres que celles
+qui concernent les administrations de l'enregistrement ou des contributions indirectes.
 
 **Liens relatifs à cet article**
 
@@ -16665,15 +17078,24 @@ réelles autres que celles qui concernent les administrations de l'enregistremen
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 4 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cite**:
 
-	  - Nouveau Code de procédure civile 819
+	  - CODE DE L'ORGANISATION JUDICIAIRE R321-1
 
 
 ###### Article R*321-5
 
 Le tribunal d'instance connaît des demandes de mainlevée de l'opposition frappant les titres perdus ou volés dans les
-conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956 [*compétence*].
+conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956.
+
+**Nota:**
+
+NOTA : Les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956 ont été transférés aux articles 19 et 20 de ce décret.
 
 **Liens relatifs à cet article**
 
@@ -16681,13 +17103,24 @@ conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cite**:
 
-	  - Décret n°56-27 1956-01-11 art. 29 et 30
+	  - Décret n°56-27 du 11 janvier 1956 - art. 19 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 20 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 29 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 30 (Ab)
 
 	**Anciens textes**:
 
 	  - Décret n°56-27 du 11 janvier 1956 - art. 29 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-6 (V)
 
 
 ###### Article R*321-6
@@ -16721,13 +17154,9 @@ d'enseignement public ou privé ;
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 5 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-7
@@ -16761,6 +17190,10 @@ d'exploitation.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article R*321-8
 
@@ -16792,6 +17225,10 @@ remboursement.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-9
@@ -16835,18 +17272,18 @@ ajournement du partage en matière de bien de famille insaisissable ;
 règlement des indemnités ;
 
 15° Des contestations relatives à l'établissement et à l'exercice des servitudes instituées par les articles 123, 124, 126,
-127, 135, 136 et 137 du Code rural, ainsi qu'aux indemnités dues en raison de ces servitudes ;
+127, 135, 136 et 137 du Code rural, ainsi qu'aux indemnités dues en raison de ces servitudes (1) ;
 
 16° Des contestations relatives aux servitudes établies au profit des associations syndicales prévues par la loi du 21 juin
-1865.
+1865 (2) .
+
+**Nota:**
+
+NOTA : (1) Les articles cités du code rural ont été abrogés par l'article  5 de la loi n° 92-1383 du 11 décembre 1992.
+
+(2) : La loi du 21 juin 1865 a été abrogée par l'ordonnance n° 2004-632 du 1er juillet 2004.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 123, 124, 126, 127, 135, 136, 137
-	  - Code civil - art. 674 (V)
-	  - Loi n°1865-06-21
 
 	**Anciens textes**:
 
@@ -16858,7 +17295,11 @@ règlement des indemnités ;
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 5 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cite**:
+
+	  - Code civil - art. 674 (V)
 
 
 ###### Article R*321-10
@@ -16880,11 +17321,15 @@ animaux domestiques non gardés.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article R*321-11
 
-Le tribunal d'instance connaît des contestations relatives à l'application du titre VI du livre VI du Code rural concernant
-la location de jardins familiaux, dans les limites de sa compétence ordinaire.
+Le tribunal d'instance connaît des contestations relatives à l'application du titre VI du livre V du Code rural concernant la
+location de jardins familiaux, dans les limites de sa compétence ordinaire.
 
 **Liens relatifs à cet article**
 
@@ -16895,6 +17340,10 @@ la location de jardins familiaux, dans les limites de sa compétence ordinaire.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-12
@@ -16917,6 +17366,10 @@ de ce dernier, concernant les mesures à prendre dans l'intérêt de la salubrit
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article R*321-14
 
@@ -16934,6 +17387,10 @@ dudit code.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
@@ -16966,20 +17423,16 @@ est inférieure ou égale à 3800 euros.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-16
 
 Le tribunal d'instance connaît dans les limites de sa compétence ordinaire fixée par l'article R321-1 des réclamations
-relatives au montant des indemnités allouées pour les réquisitions de biens ou de services faites en application de
-l'ordonnance n° 59-63 du 6 janvier 1959.
+relatives au montant des indemnités allouées pour les réquisitions de biens ou de services faites en application des articles
+L. 2213-1, L. 2213-3, L. 2213-4, L. 2233-1, L. 2234-6 et L. 2234-11 à L. 2234-25 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -16991,10 +17444,13 @@ l'ordonnance n° 59-63 du 6 janvier 1959.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-1
-	  - Ordonnance 59-63 1953-01-06
+	  - Code de l'organisation judiciaire R321-1 Code de la défense L2213-1, L2213-3, L2213-4, L2233-1, L2234-6 et L2234-11 à L2234-25
 
 
 ###### Article R*321-17
@@ -17022,6 +17478,21 @@ destinées aux élections suivantes :
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-26 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-30 (V)
+
 
 ###### Article R*321-18
 
@@ -17048,6 +17519,18 @@ les listes électorales qu'à la régularité des élections suivantes  :
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-27 (V)
+
 
 ###### Article R*321-19
 
@@ -17066,11 +17549,19 @@ Le tribunal d'instance connaît encore en dernier ressort des contestations sur 
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 10 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-32 (M)
 
 	**Cite**:
 
-	  - Code de la mutualité - art. R125-3 (M)
+	  - Code de la mutualité - art. R125-3
 
 
 ###### Article R*321-20
@@ -17096,6 +17587,10 @@ membres des chambres de métiers.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article R*321-21
 
@@ -17114,17 +17609,14 @@ mesures conservatoires prises après l'ouverture d'une succession.
 
 	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 5 et art. 7 JORF 13 août 1986 en vigueur le 1 er octobre 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-951 1986-07-30 art. 7
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article R*321-22
 
-Le tribunal d'instance connaît de toutes les exceptions ou moyens de défense qui ne soulèvent pas une question relevant de la
-compétence exclusive d'une autre juridiction, alors même qu'ils exigeraient l'interprétation d'un contrat.
+Le tribunal d'instance connaît de toutes les demandes incidentes, exceptions ou moyens de défense, qui ne soulèvent pas une
+question relevant de la compétence exclusive d'une autre juridiction, alors même qu'ils exigeraient l'interprétation d'un
+contrat.
 
 Toutefois, si l'exception ou le moyen de défense implique l'examen d'une question de nature immobilière pétitoire, le
 tribunal d'instance pourra se prononcer, mais à charge d'appel.
@@ -17139,11 +17631,16 @@ tribunal d'instance pourra se prononcer, mais à charge d'appel.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 5 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article R*321-23
 
 Le tribunal d'instance peut autoriser le mineur à ester en justice devant lui pour faire valoir les droits découlant de
-l'apprentissage ou de l'exercice d'une profession [*compétence*].
+l'apprentissage ou de l'exercice d'une profession.
 
 **Liens relatifs à cet article**
 
@@ -17154,6 +17651,14 @@ l'apprentissage ou de l'exercice d'une profession [*compétence*].
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Sous-section II : Compétence territoriale
@@ -17170,13 +17675,13 @@ dispositions ci-après.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 42
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 42 à 52
 
 
 ###### Article R*321-25
@@ -17194,9 +17699,21 @@ lieu où la convention a été passée ou exécutée lorsqu'une des parties est 
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-49 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-6, R321-7
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-26
@@ -17213,6 +17730,10 @@ le tribunal du lieu de la situation des biens.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
@@ -17236,11 +17757,19 @@ Dans le cas prévu à l'article R321-12, la demande est portée devant le tribun
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 5 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-47 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-12
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-28
@@ -17258,39 +17787,21 @@ domicile de l'expéditeur ou devant celui du domicile du destinataire.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'organisation judiciaire R321-8 al. 3 et al. 4
-
-
-###### Article R*321-29
-
-Dans les cas prévus à l'article R. 321-4 (1°, 2°, 4° et 5°) le tribunal compétent est celui de la saisie ; dans le cas prévu
-à l'article R. 321-4 (3°), et sous réserve des dispositions contenues dans le Code du travail, le tribunal compétent est
-celui du domicile du débiteur saisi ou du tiers saisi.
-
-Les autorisations de saisie sont accordées par le tribunal d'instance du lieu du domicile ou de la résidence du débiteur ou
-du lieu où la saisie doit être faite, sous réserve des dispositions de l'article R. 145-3 du Code du travail donnant
-compétence exclusive au juge du lieu de la résidence du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1284 1958-12-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Abrogé par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-51 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-4
-	  - Code du travail - art. R145-3 (Ab)
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-30
@@ -17307,9 +17818,21 @@ Dans les cas prévus à l'article R321-7 (5°), le tribunal compétent est celui
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-50 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-7 5°
+	  - Code de l'organisation judiciaire
 
 
 ##### Section II : Organisation
@@ -17343,13 +17866,22 @@ justice.
 
 	**Modifié par**:
 
-	  - Décret n°93-1360 du 30 décembre 1993 - art. 1 () JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 26-2 (V)
-	  - Code civil - art. 31-1 (V)
+	  - Code civil - art. 26-2
+	  - Code civil - art. 31-1
 	  - Code de l'organisation judiciaire annexe
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-2 (V)
 
 
 ##### Section III : Fonctionnement
@@ -17369,9 +17901,17 @@ des tribunaux de grande instance, ne sont pas dotés d'un effectif propre.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-5 (M)
+	  - Code de l'organisation judiciaire - art. L321-5
 
 
 ###### Article R*321-34
@@ -17394,14 +17934,29 @@ leur siège dans la même circonscription de tribunal de grande instance.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-2 (V)
+
 
 ###### Article R*321-35
 
 Lorsque le service d'un tribunal d'instance est assuré par deux ou plusieurs magistrats du siège d'un tribunal de grande
-instance, celui d'entre eux du rang le plus élevé administre le tribunal d'instance et répartit conformément aux dispositions
-de l'article L. 710-1 dans la première quinzaine du mois de décembre le service entre les magistrats compte tenu, le cas
+instance, celui d'entre eux du rang le plus élevé administre le tribunal et répartit conformément aux dispositions de
+l'article L. 710-1 dans la première quinzaine du mois de décembre le service entre les magistrats, compte tenu, le cas
 échéant, de la participation qu'ils apportent au fonctionnement d'autres tribunaux d'instance ou du tribunal de grande
 instance auquel ils appartiennent.
+
+Lorsque le service d'un tribunal d'instance est assuré par un seul magistrat du siège d'un tribunal de grande instance,
+celui-ci administre le tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -17415,31 +17970,21 @@ instance auquel ils appartiennent.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 11 () JORF 1er mars 1996
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
-
-
-###### Article R*321-36
-
-Lorsqu'un vice-président et un premier juge ont été désignés pour assurer le service d'un tribunal d'instance, les fonctions
-de direction et d'administration de ce tribunal sont exercées par le vice-président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 1958-12-22
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
+	  - Décret n°2003-542 du 23 juin 2003 - art. 6 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Abrogé par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 8 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-3 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*321-37
@@ -17460,9 +18005,21 @@ ancien dans l'ordre des nominations au tribunal de grande instance, et, éventue
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-35 et R321-36
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-38
@@ -17481,9 +18038,21 @@ ce tribunal.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-34 et R321-37
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-41
@@ -17504,12 +18073,20 @@ ils sont membres.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 12 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-6 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
-	  - Code de l'organisation judiciaire L710-1, R321-34
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L710-1
 
 
 ###### Article R*321-42
@@ -17529,9 +18106,17 @@ Les dispositions de l'article R323-3 ci-dessous sont également applicables dans
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R323-3
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*321-43
@@ -17550,12 +18135,30 @@ désigner un juge d'instance pour exercer lesdites fonctions.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-11 (V)
+
 
 ###### Article R*321-44
 
 Pendant la première quinzaine du mois qui précède l'année judiciaire, le magistrat chargé de la direction et de
 l'administration du tribunal d'instance fixe, après avis des chefs du tribunal de grande instance, le nombre, le jour et la
-nature des audiences du tribunal d'instance.
+nature des audiences du tribunal d'instance et de la juridiction de proximité.
+
+En application des dispositions de l'article L. 331-8, le magistrat chargé de la direction et de l'administration du tribunal
+d'instance fixe par ordonnance, en fonction des nécessités locales et après avis des chefs du tribunal de grande instance, le
+lieu, le jour et la nature des audiences que peut tenir la juridiction de proximité en tout lieu public approprié autre que
+celui où est fixé son siège. Ces audiences peuvent se tenir à la mairie ou à la mairie d'arrondissement avec l'accord du
+maire, ainsi que dans les maisons de justice et du droit et tout local ouvert au public et aménagé à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -17563,9 +18166,23 @@ nature des audiences du tribunal d'instance.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 45 JORF 14 mai 1981
+	  - Décret n°2003-542 du 23 juin 2003 - art. 7 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-3 (VT)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L331-8
 
 
 ###### Article R*321-45
@@ -17579,13 +18196,17 @@ articles R762-1 à R762-8 et R763-1.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 7 JORF 28 décembre 1983
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R762-1 à R762-8 et R763-1
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre II : Dispositions particulières à la tutelle
@@ -17609,6 +18230,18 @@ tribunaux d'instance de son ressort qui, en l'absence du juge des tutelles, sont
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-2 (V)
+
 
 #### Chapitre III : Attributions non juridictionnelles
 
@@ -17619,6 +18252,10 @@ tribunaux d'instance peuvent être confiées, par ordonnance du premier préside
 suppléants de juge d'instance choisis parmi les anciens suppléants non rétribués de juge de paix, les auxiliaires de justice
 ou les personnalités locales non pourvus d'un mandat électif réunissant des garanties de compétence et d'impartialité.
 
+**Nota:**
+
+Le décret 58-1277 du 22 décembre 1958 a reclassé les juges de paix dans le nouveau corps judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17628,6 +18265,18 @@ ou les personnalités locales non pourvus d'un mandat électif réunissant des g
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-4 (V)
 
 
 ###### Article R323-1
@@ -17652,6 +18301,10 @@ Ils reçoivent, en outre, le serment de toutes autres personnes dans les cas pr�
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Anciens textes**:
 
 	  - Décret-loi 1926-11-05 art. 2
@@ -17672,11 +18325,218 @@ d'instance.
 
 	**Modifié par**:
 
-	  - Décret n°2001-650 du 19 juillet 2001 - art. 76 (Ab) JORF 21 juillet 2001 en vigueur le 1er octobre 2001
+	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-45 (V)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1926-11-05 art. 2
+
+
+### Titre III : La juridiction de proximité
+
+#### Chapitre unique : Dispositions générales
+
+##### Section I : Institution et compétence
+
+##### Sous-section I : Compétence d'attribution
+
+###### Article R*331-1
+
+Dans les conditions fixées par l'article L. 331-2, la juridiction de proximité connaît des actions personnelles mobilières,
+notamment celles prévues aux articles R. 321-1 à R. 321-16, à l'exclusion des contestations prévues à l'alinéa 2 de l'article
+R. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE L331-2, R321-1 à R321-16, R321-2
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
+
+
+###### Article R*331-2
+
+La juridiction de proximité connaît de toutes les demandes incidentes, exceptions ou moyens de défense qui ne soulèvent pas
+une question relevant de la compétence exclusive d'une autre juridiction.
+
+Toutefois, si l'exception ou le moyen de défense implique l'examen d'une question de nature immobilière pétitoire, la
+juridiction de proximité doit relever son incompétence au profit du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-5 (M)
+
+
+##### Sous-section II : Compétence territoriale
+
+###### Article R*331-3
+
+La compétence territoriale du juge de proximité en matière civile est déterminée selon les règles applicables au tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-6 (VT)
+
+
+##### Section II : Organisation
+
+###### Article R*331-4
+
+Le siège et le ressort des juridictions de proximité sont fixés par le tableau V bis annexé au présent code.
+
+Lorsqu'une juridiction de proximité est créée ou lorsque le ressort d'une juridiction de proximité est modifié par suite
+d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, la juridiction de proximité compétente
+primitivement saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date de création de
+la juridiction de proximité ou de modification du ressort.
+
+Lorsqu'une juridiction de proximité est supprimée, toutes les procédures en cours devant cette juridiction à la date d'entrée
+en vigueur du décret de suppression sont transférées en l'état à la juridiction de proximité dans le ressort de laquelle est
+situé le siège de la juridiction de proximité supprimée sans qu'il y ait lieu de renouveler les actes, formalités et
+jugements régulièrement intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations
+données aux parties et aux témoins à fin de comparution personnelle. Les archives et minutes du secrétariat-greffe de la
+juridiction de proximité supprimée sont transférées au secrétariat-greffe de la juridiction de proximité dans le ressort de
+laquelle est situé le siège de la juridiction de proximité supprimée. Les frais de transfert de ces archives et minutes sont
+pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D231-1 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-2 (V)
+
+
+###### Article R*331-5
+
+Il est procédé à l'installation des juges de proximité, en séance publique, par le magistrat chargé de la direction et de
+l'administration du tribunal d'instance dans le ressort duquel la juridiction de proximité a son siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-1 (VT)
+
+
+###### Article R*331-6
+
+Le juge de proximité élabore annuellement un rapport général d'activité adressé au magistrat chargé de la direction et de
+l'administration du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-2 (VT)
+
+
+###### Article R*331-7
+
+Les membres de la juridiction de proximité portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un
+ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré. D'un module de 65 mm, elle porte
+à l'avers la mention "République française" et une tête symbolisant la République, placée de profil, tournée à droite.
+
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm et de couleur bleu ciel, partagé en son milieu, dans le sens vertical, par un liseré noir d'une largeur de 5 mm.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 20 () JORF 14 mai 2005
 
 
 ## Livre IV : Les juridictions spécialisées non pénales
@@ -22294,6 +23154,31 @@ peut, à peine de nullité de l'arrêt ou du jugement, être appelé à composer
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
 
 
+###### Article R*721-4
+
+Le président du tribunal de grande instance saisi dans les conditions du quatrième alinéa de l'article 41-22 de l'ordonnance
+n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature transmet, sans délai, le dossier à
+un autre juge de proximité du ressort du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 41-22
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 11 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 ### Titre III : Récusation et renvoi
 
 ###### Article R731-1
@@ -23350,7 +24235,11 @@ financière, ou en matière militaire et de sûreté de l'Etat, conformément au
 pénale ;
 
 9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur la désignation par le président de celui qui
-exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets).
+exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets) ;
+
+10° Emet un avis sur le projet d'ordonnance préparé par le président désignant un juge du tribunal d'instance pour exercer
+les fonctions du juge de proximité en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se révèle
+insuffisant.
 
 **Liens relatifs à cet article**
 
@@ -23364,19 +24253,15 @@ exercera les attributions mentionnées au titre XI du Code de procédure pénale
 	  - CODE DE PROCEDURE PENALE - art. 702 (M)
 	  - CODE DE PROCEDURE PENALE - art. 704 (M)
 	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-	  - Code de l'organisation judiciaire L313-1
+	  - CODE DE L'ORGANISATION JUDICIAIRE L313-1
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
-
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 17 () JORF 1er mars 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 12 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ##### Sous-section III : L'assemblée des magistrats du parquet
@@ -24191,7 +25076,9 @@ prévues à l'article R761-33.
 	  - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité
+
+##### Section I : Le tribunal d'instance
 
 ###### Article R*762-1
 
@@ -24206,17 +25093,33 @@ plénière du tribunal d'instance.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-21 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-31 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-2 à R761-10, R761-12 à R761-14, et R761-34 à R761-37
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*762-2
@@ -24230,17 +25133,22 @@ d'instance En cas d'absence ou d'empêchement, il est fait application des dispo
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-35 à R321-37
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*762-3
@@ -24252,24 +25160,37 @@ L311-15.
 
 Les dispositions des articles R761-17, R761-19 et R761-20 sont applicables à l'assemblée mentionnée à l'alinéa ci-dessus.
 
+Chaque année, les juges de proximité présentent oralement à l'assemblée leur rapport général d'activité mentionné à l'article
+R. 331-6.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II, III JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-18 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-26 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-27 (VT)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-15 (M)
-	  - Code de l'organisation judiciaire L311-15, R761-17, R761-19 et R761-20
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L311-15
 
 
 ###### Article R*762-4
@@ -24284,13 +25205,19 @@ magistrats.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-23 (V)
 
 
 ###### Article R*762-5
@@ -24304,13 +25231,20 @@ magistrats du tribunal.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-22 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (V)
 
 
 ###### Article R*762-6
@@ -24329,17 +25263,25 @@ Les dispositions des articles R761-27 à R761-33 sont applicables à cette assem
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-18 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-28 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-27 à R761-33
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*762-7
@@ -24353,17 +25295,29 @@ restreinte, conformément aux dispositions des articles R761-38 à R761-50.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-33 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-34 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-35 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-36 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-37 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-38 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-38 à R761-50
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*762-8
@@ -24377,13 +25331,125 @@ cour d'appel les procès-verbaux des délibérations des assemblées de la jurid
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 2003-06-23 art. 13 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-21 (V)
+
+
+##### Section II : La juridiction de proximité
+
+###### Article R*762-9
+
+Il est tenu une assemblée des magistrats du siège et du parquet dans les juridictions de proximité comportant un effectif
+d'au moins trois juges de proximité. Cette assemblée est composée du magistrat chargé des fonctions de direction et
+d'administration du tribunal d'instance, des juges de proximité et du magistrat qui exerce les fonctions du ministère public
+conformément aux dispositions de l'article L. 311-15.
+
+Elle émet un avis sur :
+
+1° Le nombre, le jour et la nature des audiences ;
+
+2° Les questions intéressant le fonctionnement interne de la juridiction.
+
+Les délibérations sont prises à la majorité des membres présents ou représentés.
+
+L'assemblée procède à des échanges de vue sur l'activité de la juridiction. Elle étudie l'évolution de la jurisprudence. Elle
+examine toutes les questions concernant l'ensemble des magistrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
 	**Créé par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-10 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-5 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-9 (VT)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L311-15
+
+
+###### Article R*762-10
+
+Il est tenu une assemblée des magistrats du siège dans les juridictions de proximité comportant un effectif d'au moins trois
+juges de proximité. Cette assemblée est composée du magistrat chargé des fonctions de direction et d'administration du
+tribunal d'instance et des juges de proximité. Elle émet un avis sur leur répartition dans les différents services de la
+juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-5 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-7 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-8 (VT)
+
+
+###### Article R*762-11
+
+Les assemblées visées aux articles R. 762-9 et R. 762-10 sont présidées par le magistrat chargé des fonctions de direction et
+d'administration du tribunal d'instance. En cas d'absence ou d'empêchement, il est fait application des dispositions de
+l'article R. 321-38.
+
+Ce magistrat transmet au premier président de la cour d'appel les procès-verbaux des délibérations des assemblées de la
+juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 13 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-6 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-7 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-9 (VT)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre III : Consultation des juridictions
@@ -25085,6 +26151,29 @@ aux notifications utiles.
 	**Créé par**:
 
 	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+
+
+###### Article R*811-7
+
+Le greffe de la juridiction de proximité est le secrétariat-greffe du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 14 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-4 (VT)
 
 
 #### Chapitre II : Fonctionnement
@@ -33074,6 +34163,49 @@ Robe noire sans simarre et toque noire.
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
+###### Article Annexe Tableau I
+
+**Tableau I : Siège et ressort des cours d'appel et des tribunaux de grande instance.**
+
+Siège des tribunaux d'instance.
+
+**Nota:**
+
+Décret 2008-145 du 15 février 2008 art. 4 : A compter du 1er janvier 2010, les tableaux I et V annexés au code de
+l'organisation judiciaire sont remplacés par le tableau A  Siège et ressort des cours d'appel et des tribunaux supérieurs
+d'appel, des tribunaux de grande instance et de première instance, des sections détachées des tribunaux de première instance,
+des tribunaux d'instance et des juridictions de proximité » annexé au présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°78-919 1978-09-05 art. 2 JORF 8 septembre 1978
+	  - Décret n°78-1119 1978-11-23 art. 1 JORF 2 décembre 1978
+	  - Décret n°82-1033 1982-12-03 art. 2 JORF 5 décembre 1982
+	  - Décret n°84-713 1984-07-17 art. 2 JORF 25 juillet 1984
+	  - Décret n°89-219 du 12 avril 1989 - art. 2 (V) JORF 14 avril 1989 en vigueur le 1er août 1989
+	  - Décret n°89-309 du 11 mai 1989 - art. 1 () JORF 17 mai 1989 en vigueur le 1er septembre 1989
+	  - Décret n°92-87 du 22 janvier 1992 - art. 3 (V) JORF 26 janvier 1992
+	  - Décret n°93-956 1993-07-26 art. 2 JORF 28 juillet 1993
+	  - Décret n°93-955 du 26 juillet 1993 - art. 3 () JORF 28 juillet 1993
+	  - Décret n°97-96 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+	  - Décret n°2003-542 du 23 juin 2003 - art. 15 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'organisation judiciaire R212-1, R311-7
+
+
 ###### Article Annexe Tableau II
 
 **Siège et ressort des tribunaux d'instance
@@ -34107,6 +35239,21 @@ des tribunaux d'instance et des juridictions de proximité » annexé au présen
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'organisation judiciaire R321-31
+
+
+###### Article Annexe Tableau V bis
+
+Tableau V bis : Siège et ressort des juridictions de proximité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 15 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article Annexe Tableau VI
