@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-01
 
 # Partie législative ancienne
 
@@ -2111,134 +2111,1115 @@ de l'ordre judiciaire et résidant dans le ressort du tribunal d'instance, lorsq
 
 #### Chapitre Ier : Institution et compétence.
 
-###### Article L411-2
+###### Article L411-1
 
-Les tribunaux de commerce connaissent [*compétence*] :
+Les tribunaux de commerce sont des juridictions du premier degré, composées de juges élus et d'un greffier. Leur compétence
+est déterminée par le code de commerce et par les lois particulières.
 
-1° Des contestations relatives aux engagements et transactions entre négociants, marchands et banquiers ;
-
-2° Des contestations entre associés, pour raison d'une société de commerce ;
-
-3° De celles relatives aux actes de commerce entre toutes personnes ;
-
-Toutefois les parties peuvent, au moment où elles contractent, convenir de soumettre à des arbitres les contestations ci-
-dessus énumérées, dans le cas où elles viendraient à se produire.
+L'appel des jugements rendus par les tribunaux de commerce est porté devant la cour d'appel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de commerce 631
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L411-2
+
+Les tribunaux de commerce sont créés par décret en Conseil d'Etat. Ce décret fixe leur siège et leur ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L411-3
 
-Comme il est dit à l'article 632 du code du commerce : ...
-
-**Nota:**
-
-NOTA : Voir le texte de cet article (définition légale des actes de commerce).
+Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le tribunal de grande instance connaît des matières
+attribuées aux tribunaux de commerce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
-
-	  - Code de commerce 632
-
-	**Anciens textes**:
-
-	  - Code de commerce 632
-
-
-###### Article L411-4
-
-Comme il est dit à l'article 633 du code du commerce : ...
-
-**Nota:**
-
-[*Nota : Voir le texte de cet article (définition légale des actes de commerce)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+#### Chapitre II : Organisation et fonctionnement.
+
+###### Article L412-1
+
+Les jugements des tribunaux de commerce sont rendus par des juges délibérant en nombre impair. Sauf dispositions qui
+prévoient un juge unique, ils sont rendus par trois juges au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
 	**Créé par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V)
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de commerce 633
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de commerce 633
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-8 (Ab)
 
 
-###### Article L411-8
+###### Article L412-2
 
-Conformément à l'article 5 de la loi n° 67-563 du 13 juillet 1967 le tribunal de commerce est le tribunal compétent pour
-connaître procédures concernant le règlement judiciaire et la liquidation de biens si le débiteur est commerçant.
-
-Conformément à l'article 105 de cette loi, il est compétent pour connaître des procédures relatives à la faillite
-personnelle.
+Lorsque le tribunal de commerce statue en matière de redressement judiciaire dans les conditions prévues au titre Ier de la
+loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, la formation de
+jugement ne peut comprendre, sous réserve de l'application des dispositions de l'article L. 412-14, qu'une majorité de juges
+ayant exercé des fonctions judiciaires pendant plus de deux ans.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13 art. 5 et art. 105
-
-	**Anciens textes**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1 er janvier 1988
-
-
-###### Article L411-9
-
-Conformément à l'article 2 de l'ordonnance n° 67-820 du 23 septembre 1967, le tribunal compétent pour connaître des
-procédures tendant à faciliter le redressement économique et financier de certaines entreprises est le tribunal de commerce
-si le débiteur est commerçant.
-
-**Liens relatifs à cet article**
+	  - Loi n°91-1258 1991-12-17
 
 	**Cite**:
 
-	  - Ordonnance n°67-820 du 23 septembre 1967 - art. 2 (Ab)
+	  - Loi n°85-98 1985-01-25
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Ordonnance n°67-820 du 23 septembre 1967 - art. 2 (Ab)
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-10 (Ab)
+
+
+###### Article L412-3
+
+La formation de jugement est présidée par le président du tribunal de commerce ou par un juge de ce tribunal ayant exercé des
+fonctions judiciaires pendant au moins trois ans, sous réserve de l'application des dispositions de l'article L. 412-14.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
 
 	**Abrogé par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1 er janvier 1988
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L913-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-8 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-10 (Ab)
+
+
+###### Article L412-4
+
+Sous réserve de l'application des dispositions de l'article L. 412-14, nul ne peut être désigné pour exercer les fonctions de
+juge-commissaire dans les conditions prévues à l'article 10 de la loi n° 85-98 du 25 janvier 1985 précitée, s'il n'a exercé
+pendant deux ans au moins des fonctions judiciaires dans un tribunal de commerce.
+
+Le président du tribunal de commerce dresse, au début de chaque année judiciaire, par ordonnance prise après avis de
+l'assemblée générale du tribunal, la liste des juges pouvant exercer les fonctions de juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25 art. 10
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L412-5
+
+Le procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve le siège du tribunal de
+commerce exerce le ministère public devant cette dernière juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-16 (Ab)
+
+
+###### Article L412-6
+
+Lorsqu'un tribunal de commerce ne peut se constituer ou statuer, la cour d'appel, saisie sur requête du procureur général,
+désigne, s'il n'a pas été fait application des dispositions des articles L. 412-13 et L. 412-14, le tribunal de grande
+instance [*de renvoi*] situé dans le ressort de la cour d'appel appelé à connaître des affaires inscrites au rôle du tribunal
+de commerce et de celles dont il aurait été saisi ultérieurement. Si le renvoi résulte de l'impossibilité de respecter les
+prescriptions de l'article L. 412-2, le tribunal de grande instance n'est saisi que des affaires de redressement et de
+liquidation judiciaires. Le greffier du tribunal de commerce n'est pas dessaisi de ses attributions et continue d'exercer ses
+fonctions auprès du tribunal de renvoi.
+
+Lorsque l'empêchement qui avait motivé le renvoi a cessé, la cour d'appel, saisie sur requête du procureur général, fixe la
+date à partir de laquelle le tribunal de commerce connaît à nouveau des affaires de sa compétence. A cette date, les affaires
+sont transmises, en l'état, au tribunal de commerce. Le tribunal de renvoi reste toutefois saisi des affaires de règlement
+amiable et, lorsqu'il est statué au fond, des affaires autres que celles de règlement judiciaire, de liquidation de biens, de
+redressement et de liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-2 (M)
+	  - Code de l'organisation judiciaire L412-2, L412-13 et L412-14
+
+
+###### Article L412-7
+
+Sous réserve des dispositions du second alinéa de l'article L. 413-8, les juges des tribunaux de commerce sont élus pour deux
+ans lors de leur première élection et pour quatre ans lors des élections suivantes [*mandat, durée*]. Les juges des tribunaux
+de commerce sont rééligibles.
+
+Lorsque le mandat des juges des tribunaux de commerce vient à expiration avant le commencement de la période fixée pour
+l'installation de leurs successeurs, ils restent en fonctions jusqu'à cette installation, sans que cette prorogation puisse
+dépasser une période de trois mois.
+
+Avant d'entrer en fonctions, les membres des tribunaux de commerce prêtent serment.
+
+Le serment est celui des magistrats de l'ordre judiciaire. Il est reçu par la cour d'appel, lorsque le tribunal de commerce
+est établi au siège de la cour d'appel et, dans les autres cas, par le tribunal de grande instance dans le ressort duquel le
+tribunal de commerce a son siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-28 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L413-8 al. 2
+
+
+###### Article L412-8
+
+La cessation des fonctions de membre d'un tribunal de commerce résulte :
+
+1° De l'expiration du mandat électoral, sous réserve des dispositions du deuxième alinéa de l'article L. 412-7 et du
+troisième alinéa de l'article L. 412-11 ;
+
+2° De la suppression du tribunal ;
+
+3° De la démission ;
+
+4° De la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L412-7 al. 2 et L412-11 al. 3
+
+
+###### Article L412-9
+
+Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à l'égard d'un membre d'un tribunal de
+commerce, l'intéressé cesse ses fonctions à compter de la date du jugement d'ouverture. Il est réputé démissionnaire.
+
+Les mêmes dispositions s'appliquent à un membre du tribunal de commerce qui a une des qualités mentionnées à l'avant-dernier
+alinéa de l'article 6 de la loi n° 87-550 du 16 juillet 1987 relative aux juridictions commerciales et au mode d'élection des
+délégués consulaires et des membres des chambres de commerce et d'industrie, lorsque la société ou l'établissement public
+auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Cite**:
+
+	  - Loi n°87-550 1987-07-16 art. 6
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L412-10
+
+Lorsqu'un tribunal de grande instance a été désigné dans les conditions prévues au premier alinéa de l'article L. 412-6, le
+mandat des juges du tribunal de commerce dessaisi n'est pas interrompu pendant la période de dessaisissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L412-6 al. 1
+
+
+###### Article L412-11
+
+Le président du tribunal de commerce est choisi parmi les juges du tribunal qui ont exercé des fonctions dans un tribunal de
+commerce pendant six ans au moins, sous réserve des dispositions de l'article L. 412-13.
+
+Le président est élu pour quatre ans au scrutin secret par les juges du tribunal de commerce réunis en assemblée générale
+sous la présidence du président sortant ou, à défaut, du doyen d'âge. L'élection a lieu à la majorité absolue aux deux
+premiers tours de scrutin et à la majorité relative au troisième tour. En cas d'égalité de voix au troisième tour, le
+candidat ayant la plus grande ancienneté dans les fonctions judiciaires est proclamé élu ; en cas d'égalité d'ancienneté, le
+plus âgé est proclamé élu.
+
+Le président reste en fonctions jusqu'à l'installation de son successeur sans que cette prorogation puisse dépasser une
+période de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-13 (Ab)
+
+
+###### Article L412-12
+
+Lorsque, pour quelque cause que ce soit, le président du tribunal de commerce cesse ses fonctions en cours de mandat, le
+nouveau président est élu dans un délai de trois mois pour la période restant à courir du mandat de son prédécesseur.
+
+En cas d'empêchement, le président est suppléé dans ses fonctions par le juge qu'il aura désigné par ordonnance prise dans la
+première quinzaine du mois de janvier. A défaut de désignation ou en cas d'empêchement du magistrat désigné, le président est
+remplacé par le juge ayant la plus grande ancienneté dans les fonctions judiciaires.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'article L. 412-12 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-437 du 25 mars 2007 publié
+le 27 mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-6 (Ab)
+
+
+###### Article L412-13
+
+Lorsque aucun des candidats ne remplit la condition d'ancienneté requise pour être président du tribunal de commerce, le
+premier président de la cour d'appel, saisi par requête du procureur général, peut décider, par ordonnance, que l'ancienneté
+requise ne sera pas exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-11 (Ab)
+
+
+###### Article L412-14
+
+Lorsque aucun des juges du tribunal de commerce ne remplit les conditions d'ancienneté requises soit pour statuer en matière
+de redressement judiciaire conformément aux dispositions de l'article L. 412-2, soit pour présider une formation de jugement
+dans les conditions prévues par l'article L. 412-3, soit pour remplir les fonctions de juge-commissaire dans les conditions
+prévues par l'article L. 412-4, le premier président de la cour d'appel, saisi par requête du procureur général, peut
+décider, par ordonnance, que l'ancienneté requise ne sera pas exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-4 (Ab)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L412-2, L412-3 et L412-4
+
+
+###### Article L412-15
+
+Le mandat des membres élus des tribunaux de commerce est  gratuit .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+#### Chapitre III : Election des juges des tribunaux de commerce
+
+##### Section I : Electorat.
+
+###### Article L413-1
+
+Les juges des tribunaux de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé :
+
+1° Des délégués consulaires ;
+
+2° Des membres en exercice des tribunaux de commerce et des chambres de commerce et d'industrie ;
+
+3° Des anciens membres des tribunaux de commerce et des chambres de commerce et d'industrie ayant demandé à être inscrits sur
+la liste électorale.
+
+Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition de n'avoir pas été déchues
+de leurs fonctions ni condamnées à une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
+électoral ou par les articles 192 ou 194 de la loi n° 85-98 du 25 janvier 1985 précitée ou à une interdiction d'exercer une
+activité commerciale.
+
+Les délégués consulaires et les membres des chambres de commerce et d'industrie sont désignés dans les conditions prévues aux
+articles 6 à 18 de la loi n° 87-550 du 16 juillet 1987 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25 art. 192 et art. 194 Loi 87-550 1987-07-16 art. 6 à art. 18
+	  - Code électoral L5 et L6
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
+
+
+###### Article L413-2
+
+La liste électorale pour les élections aux tribunaux de commerce est établie par une commission présidée par le juge commis à
+la surveillance du registre du commerce et des sociétés. En cas de création d'un tribunal de commerce, le premier président
+de la cour d'appel désigne comme président de la commission un magistrat de l'ordre judiciaire.
+
+Les dispositions du premier alinéa de l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral sont
+applicables en cas de contestation portant sur la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°2005-808 du 18 juillet 2005 - art. 5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code électoral L25 al. 1, L34 et L35
+
+
+##### Section II : Eligibilité.
+
+###### Article L413-3
+
+Sous réserve des dispositions de l'article L. 413-4, sont éligibles aux fonctions de membre d'un tribunal de commerce
+[*conditions d'éligibilité*] les personnes âgées de trente ans au moins [*âge minimum*] inscrites sur la liste électorale
+dressée en application de l'article 7 de la loi n° 87-550 du 16 juillet 1987 précitée dans le ressort du tribunal de commerce
+ou dans le ressort des tribunaux de commerce limitrophes et justifiant soit d'une immatriculation depuis cinq ans [*durée*]
+au moins au registre du commerce et des sociétés, soit, pendant le même délai, de l'exercice de l'une des qualités énumérées
+à l'avant-dernier alinéa de l'article 6 de ladite loi.
+
+Est inéligible aux fonctions de membre d'un tribunal de commerce [*inéligibilité*] tout candidat à l'égard duquel est ouverte
+une procédure de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des
+qualités mentionnées à l'avant-dernier alinéa de l'article 6 de la loi n° 87-550 du 16 juillet 1987 précitée, lorsque la
+société ou l'établissement public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation
+judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°87-550 1987-07-16 art. 6, art. 7
+	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 24 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-10 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (M)
+
+
+###### Article L413-4
+
+Après quatorze années de fonctions judiciaires ininterrompues dans un même tribunal de commerce, les magistrats des tribunaux
+de commerce ne sont plus éligibles dans ce tribunal pendant un an.
+
+Toutefois, le président sortant peut être réélu en qualité de membre du tribunal de commerce après quatorze ans pour une
+nouvelle période de quatre ans. Cette période expirée, il n'est plus éligible pendant un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L913-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
+
+
+###### Article L413-5
+
+Un membre d'un tribunal de commerce ne peut être simultanément membre d'un conseil de prud'hommes ou membre d'un autre
+tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-8 (M)
+
+
+##### Section III : Scrutin et opérations électorales.
+
+###### Article L413-6
+
+Chaque électeur ne dispose que d'une voix dans le ressort d'un même tribunal de commerce.
+
+Le droit de vote peut être exercé par procuration ou par correspondance dans des conditions fixées par décret. Chaque
+électeur ne peut disposer que d'une procuration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L413-7
+
+Les élections des membres des tribunaux de commerce ont lieu au scrutin plurinominal majoritaire à deux tours.
+
+Sont déclarés élus au premier tour les candidats ayant obtenu un nombre de voix au moins égal à la majorité des suffrages
+exprimés et au quart des électeurs inscrits. Si aucun candidat n'est élu ou s'il reste des sièges à pourvoir, l'élection est
+acquise au second tour à la majorité relative des suffrages exprimés. Si plusieurs candidats obtiennent le même nombre de
+voix au second tour, le plus âgé est proclamé élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L413-8
+
+Des élections ont lieu tous les ans dans la première quinzaine du mois d'octobre dans chaque tribunal de commerce où il y a
+des sièges à pourvoir pour quelque cause que ce soit.
+
+Si, en cours d'année, le nombre des vacances dépasse le tiers des effectifs d'un tribunal, le commissaire de la République
+peut décider qu'il sera procédé à des élections complémentaires. Dans ce cas, le mandat des membres élus expire à la fin de
+l'année judiciaire.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'article L. 413-8 du code de l'organisation judiciaire est abrogé à l'exception
+de son premier alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-437 du 25 mars 2007 publié
+le 27 mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
+
+
+###### Article L413-9
+
+Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du code électoral s'appliquent aux opérations
+électorales organisées en vue de la désignation des membres des tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code électoral - art. L49 (M)
+	  - Code électoral - art. L50 (V)
+	  - Code électoral L49, L50, L58 à L67, L86 à L117
+
+
+###### Article L413-10
+
+Une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel est
+chargée de veiller à la régularité du scrutin et de proclamer les résultats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 2005 - art. 2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-9 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-10 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-13 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-15 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-16 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-17 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L413-11
+
+Les contestations relatives à l'électorat, à l'éligibilité et aux opérations électorales organisées en vue de la désignation
+des membres des tribunaux de commerce sont de la compétence du tribunal d'instance qui statue en dernier ressort.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-437 du 25 mars 2007 publié
+le 27 mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-24 (V)
+
+
+#### Chapitre IV : Discipline des membres des tribunaux de commerce.
+
+###### Article L414-1
+
+Tout manquement d'un membre d'un tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
+constitue une faute disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
+
+
+###### Article L414-2
+
+Le pouvoir disciplinaire est exercé par une commission nationale de discipline qui est présidée par un président de chambre à
+la Cour de cassation, désigné par le premier président de la Cour de cassation, et qui comprend [*composition*] :
+
+1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+
+2° Deux magistrats du siège des cours d'appel désignés par le premier président de la Cour de cassation sur une liste établie
+par les premiers présidents des cours d'appel, chacun d'eux arrêtant le nom d'un magistrat du siège de sa cour d'appel après
+avis de l'assemblée générale des magistrats du siège de la cour d'appel ;
+
+3° Quatre membres des tribunaux de commerce élus par l'ensemble des présidents des tribunaux de commerce.
+
+Des suppléants en nombre égal sont désignés dans les mêmes conditions. Les membres de la commission nationale de discipline
+sont désignés pour quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-5 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-6 (Ab)
+
+
+###### Article L414-3
+
+Après audition de l'intéressé par le président du tribunal auquel il appartient, la commission nationale de discipline peut
+être saisie par le garde des sceaux, ministre de la justice.
+
+Elle peut prononcer soit le blâme, soit la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
+
+
+###### Article L414-4
+
+Sur proposition du garde des sceaux, ministre de la justice, le président de la commission nationale de discipline peut
+suspendre un membre d'un tribunal de commerce pour une durée qui ne peut excéder six mois, lorsqu'il existe contre
+l'intéressé, qui aura été préalablement entendu par le président du tribunal auquel il appartient, des faits de nature à
+entraîner une sanction disciplinaire. La suspension peut être renouvelée une fois par la commission nationale pour une durée
+qui ne peut excéder six mois. Si le membre du tribunal de commerce fait l'objet de poursuites pénales, la suspension peut
+être ordonnée par le président de la commission nationale jusqu'à l'intervention de la décision pénale définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-18 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-17 (Ab)
+
+
+###### Article L414-5
+
+La commission nationale de discipline ne peut délibérer que si quatre de ses membres au moins, y compris le président, sont
+présents. En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L414-6
+
+Les décisions de la commission nationale de discipline et celles de son président doivent être motivées [*motivation
+obligatoire*] . Elles ne sont susceptibles de recours que devant la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L414-7
+
+Indépendamment des décisions qui pourraient intervenir en application des articles L. 414-3 et L. 414-4, lorsqu'il apparaît,
+postérieurement à son élection, qu'un membre du tribunal de commerce a encouru, avant ou après son installation, une des
+condamnations, déchéances ou incapacités mentionnées à l'article L. 413-1, il est déchu de plein droit de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
+	  - Code de l'organisation judiciaire L413-1, L413-3 et L413-4
 
 
 ### Titre III : Le juge de l'expropriation
@@ -2291,128 +3272,6 @@ Il y a des prud'hommes pêcheurs.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-## Livre IV : Les juridictions spécialisées non pénales Titre I : Le tribunal de commerce Chapitre I : Institution et compétence.
-
-###### Article L411-1
-
-Il y a des tribunaux de commerce. Ces tribunaux relèvent du garde des sceaux, ministre de la justice et sont placés sous sa
-surveillance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Code de commerce 630
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'organisation judiciaire L921-4 (Départements d'outre-mer)
-
-
-###### Article L411-5
-
-Les tribunaux de commerce [*compétence*] connaissent aussi :
-
-1° [*abrogé*] ;
-
-2° Des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics ;
-
-3° Des billets à ordre lorsque ceux-ci portent en même temps des signatures de personnes négociantes et de personnes non
-négociantes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Loi n°82-372 du 6 mai 1982 - art. 37 () JORF 7 mai 1982
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-	**Anciens textes**:
-
-	  - Code de commerce 634
-	  - Code de commerce - art. 634 (Ab)
-	  - Code de commerce - art. 637 (Ab)
-
-
-###### Article L411-6
-
-Lorsque ces billets à ordre ne portent que des signatures de personnes non négociantes et n'ont pas pour occasion des
-opérations de commerce, trafic, change, banque ou courtage, le tribunal de commerce est tenu de renvoyer au tribunal de
-grande instance [*compétence*] s'il en est requis par le défendeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-	**Anciens textes**:
-
-	  - Code de commerce 636
-	  - Code de commerce - art. 636 (Ab)
-
-
-###### Article L411-7
-
-Ne sont point de la compétence des tribunaux de commerce, les actions [*en justice*] intentées contre un propriétaire
-cultivateur ou vigneron, pour vente de denrées provenant de son cru, les actions intentées contre un commerçant pour paiement
-de denrées et marchandises achetées pour son usage particulier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-	**Anciens textes**:
-
-	  - Code de commerce 638
-	  - Code de commerce - art. 638 (Ab)
-
-
-###### Article L411-10
-
-Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le tribunal de grande instance est compétent, ainsi
-qu'il est dit à l'article L. 311-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1 er janvier 1988
-
-	**Anciens textes**:
-
-	  - Code de commerce 640
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L311-3
 
 
 ## Livre V : Les juridictions des mineurs
@@ -3879,13 +4738,12 @@ l'Etat.
 
 ### Titre II : Le greffe du tribunal de commerce
 
-###### Article L821-2
+#### Chapitre Ier : Dispositions générales.
 
-Conformément à l'article 91 de la loi du 18 avril 1816, les greffiers des tribunaux de commerce peuvent présenter à
-l'agrément du Gouvernement des successeurs pourvu qu'ils réunissent les qualités exigées par les lois.
+###### Article L821-1
 
-Les successeurs présentés à l'agrément en application du présent article peuvent être des personnes physiques ou des sociétés
-civiles professionnelles [*S.C.P.*].
+Les greffiers des tribunaux de commerce sont des officiers publics et ministériels. Ils peuvent exercer leur profession à
+titre individuel ou sous forme de sociétés civiles professionnelles [*S.C.P.*].
 
 **Liens relatifs à cet article**
 
@@ -3893,9 +4751,275 @@ civiles professionnelles [*S.C.P.*].
 
 	  - Décret n°78-329 1978-03-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-2-1 (Ab)
+
 	**Anciens textes**:
 
-	  - Loi n°1816-04-18 art. 91
+	  - Code de commerce - art. 624 (Ab)
+
+
+###### Article L821-2
+
+Les greffiers des tribunaux de commerce sont soumis, dans leur activité professionnelle, à des inspections sous l'autorité du
+garde des sceaux, ministre de la justice, dans des conditions prévues par décret en Conseil d'Etat. Au cours de ces
+inspections, ils sont tenus de fournir tous renseignements et documents utiles sans pouvoir opposer le secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L821-3
+
+Les règles d'accès à la profession, les conditions d'exercice de celle-ci et les émoluments des greffiers des tribunaux de
+commerce sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Anciens textes**:
+
+	  - Code de commerce - art. 624 (Ab)
+
+
+#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce.
+
+###### Article L822-1
+
+Tout manquement d'un greffier de tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
+constitue une faute disciplinaire.
+
+L'acceptation de la démission d'un greffier ne fait pas obstacle au prononcé d'une peine disciplinaire, si les faits qui lui
+ont été reprochés ont été commis pendant l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L822-2
+
+Les peines disciplinaires sont [*liste*] :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° La destitution.
+
+La destitution entraîne la radiation pendant un délai de cinq ans de la liste électorale prévue par l'article L. 11 du code
+électoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code électoral - art. L11 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-3-1 (Ab)
+
+
+###### Article L822-3
+
+L'action disciplinaire à l'encontre du greffier d'un tribunal de commerce est, à l'initiative du procureur de la République,
+exercée devant le tribunal de grande instance dans le ressort duquel le tribunal de commerce a son siège ou, lorsque le
+greffier est titulaire de plusieurs greffes, devant le tribunal de grande instance désigné par le premier président de la
+cour d'appel.
+
+Elle se prescrit par dix ans [*action disciplinaire, délai de presricption*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-6 (M)
+
+
+###### Article L822-4
+
+Le greffier du tribunal de commerce qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu
+provisoirement de l'exercice de ses fonctions par le tribunal de grande instance, saisi à la requête du procureur de la
+République.
+
+En cas d'urgence, la suspension provisoire peut être prononcée par le tribunal de grande instance avant même l'exercice de
+poursuites pénales ou disciplinaires.
+
+Le tribunal de grande instance peut mettre fin à la suspension provisoire à la requête du procureur de la République ou du
+greffier.
+
+La suspension cesse de plein droit dès que les actions pénale ou disciplinaire sont éteintes. Elle cesse également de plein
+droit, dans le cas prévu au deuxième alinéa, si, à l'expiration d'un délai d'un mois à compter de son prononcé, aucune
+poursuite pénale ou disciplinaire n'a été engagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-15 (Ab)
+
+
+###### Article L822-5
+
+Les décisions du tribunal de grande instance statuant en matière disciplinaire peuvent être déférées à la cour d'appel par le
+procureur de la République ou par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L822-6
+
+Le greffier suspendu ou destitué doit s'abstenir de tout acte professionnel. Les actes accomplis au mépris de cette
+prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du procureur de la République, par le tribunal de
+grande instance. La décision est exécutoire à l'égard de toute personne.
+
+Toute infraction aux dispositions du premier alinéa sera punie des peines prévues au premier alinéa de l'article 259 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code pénal 259 al. 1
+
+
+###### Article L822-7
+
+Le tribunal de grande instance qui prononce la suspension ou la destitution nomme un ou plusieurs administrateurs
+provisoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-8 (Ab)
 
 
 ### Titre III : Le secrétariat-greffe du conseil de prud'hommes.
@@ -4195,50 +5319,6 @@ portant Code disciplinaire et pénal de la marine marchande.
 	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre II : Le greffe du tribunal de commerce
-
-###### Article L821-1
-
-Il y a près de chaque tribunal de commerce un greffier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Code de commerce 624
-	  - Code de commerce - art. 624 (Ab)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-2-1 (Ab)
-
-
-###### Article L821-3
-
-Les droits, les devoirs ainsi que les émoluments des greffiers des tribunaux de commerce sont fixés par règlement
-d'administration publique.
-
-[* Loi n° 80-514 du 7 juillet 1980, JORF 9 juillet 1980 :
-
-Article unique - Dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
-d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
-décret en Conseil d'Etat.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Code de commerce - art. 624 (Ab)
-
-
 ## Livre IX : Dispositions particulières
 
 ### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
@@ -4355,6 +5435,107 @@ sur le règlement judiciaire, la liquidation des biens, la faillite personnelle 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.
+
+###### Article L913-1
+
+Il y a, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, des chambres commerciales du tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L913-2
+
+La compétence de la chambre commerciale est celle des tribunaux de commerce, à l'exception des affaires qui relèvent de la
+compétence du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L913-3
+
+La chambre commerciale est composée d'un membre du tribunal de grande instance, président, de deux assesseurs élus et d'un
+greffier. Les assesseurs sont élus dans les conditions fixées aux articles L. 413-1 à L. 413-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L413-1 à L413-11
+
+
+###### Article L913-4
+
+Les autres dispositions du titre premier du livre IV relatives aux tribunaux de commerce sont applicables à la chambre
+commerciale, à l'exception des articles L. 411-1 à L. 411-3, L. 412-3, L. 412-11 à L. 412-13 et du second alinéa de l'article
+L. 413-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
+
+	**Créé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
+	  - Code de l'organisation judiciaire L411-1 à L411-3, L412-3, L412-11 à L412-13, L413-4
+
+
 #### Chapitre IV : Les conseils de prud'hommes.
 
 ###### Article L914-1
@@ -4452,6 +5633,170 @@ d'instance sont fixées par des décrets en Conseil d'Etat. Ces décrets peuvent
 	  - Loi n°91-1258 1991-12-17
 
 
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*
+
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+##### Section III : Le tribunal mixte de commerce.
+
+###### Article L921-4
+
+Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, il y a des tribunaux mixtes de
+commerce.
+
+Leur compétence est déterminée par le code de commerce et les lois particulières. Ces juridictions du premier degré sont
+composées du président du tribunal de grande instance, président, de juges élus, sous réserve des dispositions de l'article
+L. 921-9, et d'un greffier. Les juges sont élus dans les conditions fixées aux articles L. 413-1 à 413-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L413-1 à L413-11 et L921-9
+
+
+###### Article L921-5
+
+Les tribunaux mixtes de commerce sont créés par décret en Conseil d'Etat, qui fixe leur siège et leur ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L921-6
+
+Dans les circonscriptions où il n'est pas établi de tribunal mixte de commerce, le tribunal de grande instance connaît des
+matières attribuées aux tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+
+###### Article L921-7
+
+Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique, par une formation
+comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues par l'article L. 921-9. En cas de
+partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-9 (M)
+
+
+###### Article L921-8
+
+Les dispositions du titre Ier du livre IV relatives aux tribunaux de commerce sont applicables au tribunal mixte de commerce,
+à l'exception des articles L. 411-1, L. 411-2, L. 412-1, L. 412-3, L. 412-11 à L. 412-13 et du second alinéa de l'article L.
+413-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
+	  - Code de l'organisation judiciaire L411-1, L412-1, L412-3, L412-11 à L412-13 et 413-4 al. 2
+
+
+###### Article L921-9
+
+A la liste des candidats déclarés élus, la commission prévue par l'article L. 413-10 annexe une liste complémentaire
+comprenant les nom, qualité et domicile des candidats non élus en mentionnant le nombre de voix qu'ils ont obtenues. Le
+premier président de la cour d'appel, après avis du président du tribunal mixte de commerce, établit à partir de cette liste
+complémentaire une liste de quinze personnes au plus qui, ayant leur résidence dans la ville, sont en mesure de compléter le
+tribunal mixte. Si le nombre des juges se révèle insuffisant en cours d'année à l'occasion d'une audience, le président du
+tribunal mixte procède au tirage au sort en séance publique entre tous les noms de la liste arrêtée par le premier président.
+Les personnes dont le nom a été tiré au sort prêtent serment devant le président du tribunal mixte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-7 (Ab)
+
+
 ## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre I : Le tribunal d'instance.
 
 ###### Article L911-3
@@ -4470,61 +5815,6 @@ Le tribunal d'instance est le tribunal de l'exécution forcée tant en matière 
 	  - Décret n°78-329 1978-03-16
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.
-
-###### Article L913-1
-
-Il y a dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle des chambres commerciales du tribunal de grande
-instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 25
-
-
-###### Article L913-2
-
-La chambre commerciale [*composition*] comprend un membre du tribunal de grande instance, président, et deux assesseurs élus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 26
-
-
-###### Article L913-3
-
-La compétence d'attribution de la chambre commerciale du tribunal de grande instance est celle qui est déterminée par les
-articles L. 411-2 et suivants du présent code pour le tribunal de commerce, sous réserve des dispositions de l'article L.
-911-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L911-1 (Ab)
-	  - Code de l'organisation judiciaire L411-2, L911-1
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 29
-
-
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion Section II : Le tribunal de grande instance et le tribunal d'instance
 
 ###### Article L921-3
@@ -4539,125 +5829,6 @@ A cet effet, li peut être désigné auprès de chaque tribunal d'instance un ou
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
-
-
-## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion Section III : Le tribunal mixte de commerce.
-
-###### Article L921-4
-
-L'article L. 411-1 du présent code [*modalités d'application*] n'est pas applicable dans les départements de la Guadeloupe,
-de la Guyane, de la Martinique et de la Réunion.
-
-Il y a des tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L411-1
-
-
-###### Article L921-5
-
-Les tribunaux mixtes de commerce sont créés, suivant les besoins, par décrets. Ces décrets fixent pour chacun des
-départements le nombre et le ressort de ces tribunaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-
-###### Article L921-6
-
-Dans les circonscriptions où il n'est pas établi de tribunal mixte de commerce, le tribunal de grande instance [*compétence*]
-et les membres de ce tribunal connaissent des matières et exercent les fonctions attribuées aux tribunaux mixtes de commerce
-et à leurs membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Code de commerce 640
-
-
-###### Article L921-7
-
-La compétence d'attribution des tribunaux mixtes de commerce est celle qui est définie pour les tribunaux de commerce de
-France métropolitaine par les articles L. 411-2 à L. 411-9 du présent code et par les textes particuliers en la matière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L411-2 à L411-9
-
-
-###### Article L921-8
-
-Les juges consulaires et leurs suppléants sont élus. Ils continuent leurs fonctions jusqu'à la nomination de leurs
-successeurs. Leur mandat est gratuit [*rémunération : non*] et indéfiniment renouvelable [*durée*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-
-###### Article L921-9
-
-Avant d'entrer en fonctions, les juges consulaires et leurs suppléants prêtent serment devant la cour d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-7 (Ab)
-
-
-###### Article L921-10
-
-Lorsque, par suite de récusation ou d'empêchement, il ne reste pas un nombre suffisant de juges ou de suppléants, le
-président du tribunal tire au sort, en séance publique, les noms des juges complémentaires pris dans une liste dressée
-annuellement par le tribunal.
-
-Cette liste, où ne sont portés que les éligibles ayant leur résidence dans la ville, ou en cas d'insuffisance, des électeurs
-ayant légalement leur résidence dans la ville où siège le tribunal, est de quinze noms au plus.
-
-Les juges complémentaires sont appelés dans l'ordre fixé par le tirage au sort fait en séance publique par le président du
-tribunal entre tous les noms de la liste.
-
-Ils prêtent serment dans les mêmes conditions que les juges titulaires et suppléants. Leurs fonctions sont également
-gratuites et leur mandat est indéfiniment renouvelable, mais ne peut pas être prolongé au-delà d'un an jusqu'à
-l'établissement de la nouvelle liste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 4 () JORF 19 juillet 1987 en vigueur le 1 er janvier 1988
 
 
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion Section IV : Les juridictions pénales
@@ -7247,6 +8418,34 @@ par le nouveau Code de procédure civile, et notamment par ses articles 42 à 52
 
 ##### Section II : Organisation
 
+###### Article R*311-7
+
+Le siège et le ressort des tribunaux de grande instance sont fixés conformément au tableau n° I annexé au présent code.
+
+Pour l'application de l'article 7 de la loi 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires
+des entreprises, la liste des tribunaux de grande instance compétents en métropole est fixée au tableau VIII annexé au
+présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire Annexe tableau I
+	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 6 () JORF 15 janvier 1988
+
+	**Anciens textes**:
+
+	  - Nouveau code de procédure civile
+
+
 ###### Article R*311-8
 
 Les tribunaux de grande instance forment une classe unique. Toutefois, ceux de ces tribunaux qui comportent trois chambres au
@@ -7344,27 +8543,6 @@ prévus par la loi.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
-
-
-##### Chapitre I : Dispositions générales.
-
-###### Article R*311-7
-
-Le siège et le ressort des tribunaux de grande instance sont fixés conformément au tableau n° I annexé au présent code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire Annexe tableau I
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Anciens textes**:
-
-	  - Nouveau code de procédure civile
 
 
 ##### Section III : Fonctionnement
@@ -9186,29 +10364,62 @@ des commissaires-priseurs et des courtiers établis ou exerçant leurs fonctions
 
 ###### Article R*411-1
 
-Le nombre et le siège des tribunaux de commerce sont fixés par décret en Conseil d'Etat.
+Le siège et le ressort des tribunaux de commerce sont fixés conformément au tableau VII annexé au présent code.
 
-Le ressort, le nombre de juges et, s'il y a lieu, le nombre de chambres de chaque tribunal de commerce sont déterminés par
-décret.
+Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort des juridictions commerciales
+compétentes en métropole sont fixés conformément au tableau IX annexé au présent code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°58-1283 1958-12-22 art. 5-1
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988 en vigueur le 1er janvier 1988
+
+
+###### Article R*411-2
+
+Le nombre des juges et le nombre des chambres de chaque tribunal de commerce sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Anciens textes**:
+
+	  - Code de commerce 639
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R721-3 (V)
+
 
 ###### Article R*411-3
 
-Lorsque le ressort d'un tribunal de commerce où d'un tribunal de grande instance statuant en matière commerciale est modifié
-par suite d'une nouvelle délimitation de circonscriptions administratives ou judiciaires, le tribunal primitivement saisi
-demeure compétent pour statuer sur les procédures introduites antérieurement à la date de modification du ressort ainsi que
-sur toutes celles qui découlent d'un règlement judiciaire, d'une faillite, d'une liquidation des biens, d'une faillite
-personnelle ou d'autres sanctions prononcées par ce tribunal.
+Lorsqu'une juridiction commerciale est créée ou lorsque le ressort d'un tribunal de commerce ou d'un tribunal de grande
+instance statuant en matière commerciale est modifié par suite d'une nouvelle délimitation des circonscriptions
+administratives ou judiciaires, le tribunal compétent primitivement saisi demeure compétent pour statuer sur les procédures
+introduites antérieurement à la date de création du tribunal ou de modification du ressort ainsi que sur toutes les
+procédures qui découlent d'un règlement judiciaire, d'un redressement judiciaire, d'une liquidation judiciaire, d'une
+liquidation de biens, d'une faillite personnelle ou d'autres sanctions prononcées par ce tribunal.
 
 **Liens relatifs à cet article**
 
@@ -9220,11 +10431,25 @@ personnelle ou d'autres sanctions prononcées par ce tribunal.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-###### Article R*411-4
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
-Le tribunal de commerce connaît, dans les conditions fixées par le nouveau Code de procédure civile, de la procédure
-d'injonction de payer *compétence*.
+
+#### Chapitre II : Organisation et fonctionnement.
+
+###### Article R412-1
+
+Au cours de la semaine suivant celle de l'élection des juges nouvellement élus, le procureur général invite les juges du
+tribunal de commerce établi au siège de la cour d'appel qui n'ont pas encore exercé de fonctions judiciaires dans un tribunal
+de commerce à se présenter à l'audience de la cour d'appel pour prêter serment.
+
+Lorsque le siège du tribunal de commerce n'est pas établi au siège de la cour d'appel, le procureur de la République près le
+tribunal de grande instance dans le ressort duquel siège le tribunal de commerce invite les juges qui n'ont pas encore exercé
+de fonctions judiciaires dans un tribunal de commerce à se présenter à l'audience du tribunal de grande instance pour prêter
+serment.
+
+Il est dressé procès-verbal de la réception du serment.
 
 **Liens relatifs à cet article**
 
@@ -9234,11 +10459,1817 @@ d'injonction de payer *compétence*.
 
 	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 46 JORF 14 mai 1981
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 	**Abrogé par**:
 
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-7 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-9 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-13 (Ab)
+
+
+###### Article R412-2
+
+Lorsqu'il y a lieu de procéder à l'élection du président du tribunal de commerce, l'assemblée générale du tribunal est
+convoquée dans les conditions et les délais prévus au deuxième alinéa de l'article R. 412-12. Sauf dans le cas prévu au
+premier alinéa de l'article L. 412-12, l'élection doit avoir lieu entre le 20 octobre et le 10 novembre précédant la fin du
+mandat du président en  exercice.
+
+L'ordonnance portant convocation de l'assemblée générale précise que le dépôt des candidatures aux fonctions de président
+devra être effectué au greffe du tribunal huit jours avant la date de l'assemblée générale. A l'expiration de ce délai, le
+président procède à la clôture de la liste des candidats et fait aussitôt afficher cette liste au greffe du tribunal.
+
+Par dérogation aux dispositions de l'article R. 412-13, le bureau de l'assemblée générale au cours de laquelle il est procédé
+à l'élection du président du tribunal est présidé par le doyen d'âge à défaut du président sortant et est composé des deux
+premiers dans l'ordre du tableau des présidents de chambre présents à l'assemblée générale ou, en l'absence de présidents de
+chambre, des deux juges les plus anciens présents à l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
 	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°94-370 du 6 mai 1994 - art. 5 (V)
+	  - Décret n°96-1019 du 26 novembre 1996 - art. 5 (V)
+	  - Décret n°97-594 du 28 mai 1997 - art. 4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-11 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-8 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-12 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-13 (Ab)
+
+
+###### Article R412-3
+
+Les recours relatifs à l'élection du président du tribunal de commerce sont formés par déclaration écrite déposée ou remise
+au greffe de la cour d'appel dans les dix jours du scrutin. Le recours n'est ouvert qu'aux magistrats consulaires en exercice
+du tribunal de commerce et au procureur de la République. Le président dont l'élection est contestée peut valablement être
+installé et remplir ses fonctions tant qu'il n'a pas été définitivement statué sur le recours.
+
+La cour d'appel statue dans les dix jours de sa saisine après avoir convoqué le requérant et le président dont l'élection est
+contestée pour les entendre en leurs explications.
+
+Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à 1008 du nouveau code de procédure civile. Le
+délai de pourvoi court à compter de la date de l'arrêt rendu par la cour d'appel ; il est compté dans les conditions fixées
+aux articles 641 et 642 du nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-9 (V)
+
+
+###### Article R412-4
+
+L'installation publique du président et des juges nouvellement élus a lieu dans la première quinzaine du mois de janvier.
+
+En cas de création d'un tribunal de commerce, le premier président de la cour d'appel dans le ressort duquel la juridiction
+consulaire a son siège procède à l'installation publique des magistrats élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-9 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-10 (V)
+
+
+###### Article R412-5
+
+Le président du tribunal de commerce prend par ordonnance les mesures d'administration judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-6 (V)
+
+
+###### Article R412-6
+
+Le président du tribunal de commerce est suppléé dans ses fonctions par un vice-président. Celui-ci est désigné dans les
+conditions fixées au deuxième alinéa de l'article L. 412-12. Il est choisi parmi les juges ayant exercé des fonctions dans un
+tribunal de commerce pendant trois ans au moins.
+
+L'ordonnance désignant le vice-président peut être modifiée en cours d'année judiciaire, en cas de cessation des fonctions du
+juge initialement désigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-11 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-12 (V)
+
+
+###### Article R412-7
+
+Chaque chambre du tribunal de commerce est présidée par le président du tribunal ou par un président de chambre désigné dans
+les conditions fixées aux articles R.* 412-8 et R.* 412-10.
+
+Le président du tribunal de commerce peut toujours présider une chambre quand il l'estime convenable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-13 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-10 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-8 (M)
+
+
+###### Article R412-8
+
+Les présidents de chambre sont choisis parmi les juges ayant exercé des fonctions dans un tribunal de commerce pendant trois
+ans [*durée*] au moins et sont désignés chaque année dans la quinzaine de l'installation des juges nouvellement élus par
+ordonnance du président du tribunal de commerce prise après avis de l'assemblée générale. Cette ordonnance peut être modifiée
+en cours d'année judiciaire, en cas de cessation des fonctions des magistrats initialement désignés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-14 (V)
+
+
+###### Article R412-9
+
+Chaque année, dans la quinzaine de l'installation des juges nouvellement élus, le président du tribunal fixe, par ordonnance
+prise après avis de l'assemblée générale, le tableau des membres du tribunal de commerce. Ceux-ci sont inscrits sur le
+tableau dans l'ordre suivant :
+
+1° Le président du tribunal ;
+
+2° Le vice-président ;
+
+3° Les présidents de chambre ;
+
+4° Les juges.
+
+Le rang des présidents de chambre est fixé par l'ancienneté dans les fonctions de président de chambre exercées dans le
+tribunal de commerce ; en cas d'égalité dans l'ancienneté, la priorité appartient au plus âgé.
+
+Le rang des juges est fixé par l'ancienneté dans les fonctions judiciaires exercées dans le tribunal de commerce et, entre
+les juges élus par le même scrutin, par le nombre de voix que chacun d'entre eux a obtenu dans l'élection ; en cas d'égalité
+de suffrages, la priorité appartient au plus âgé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-15 (V)
+
+
+###### Article R412-10
+
+Chaque année, dans la quinzaine de l'installation des juges nouvellement élus, le président du tribunal de commerce fixe, par
+ordonnance prise après avis de l'assemblée générale, la répartition dans les chambres et services du tribunal des présidents
+de chambre et juges composant le tribunal. Cette ordonnance précise le nombre, le jour et la nature des audiences. Elle peut
+être modifiée dans les mêmes formes en cas de cessation des fonctions d'un ou plusieurs des juges composant la juridiction.
+
+Un juge peut être affecté à plusieurs chambres.
+
+En cas d'empêchement du président de chambre ou d'un ou plusieurs des juges composant une chambre d'un tribunal de commerce,
+celle-ci peut, sous réserve des dispositions des articles L. 412-2 et L. 412-3, être complétée par un ou plusieurs des
+présidents de chambre ou juges affectés dans les autres chambres du tribunal. En cas d'empêchement du président de chambre,
+celle-ci est présidée par le premier dans l'ordre du tableau des juges la composant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-16 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-7 (Ab)
+
+
+###### Article R412-11
+
+Une expédition des ordonnances rendues par le président du tribunal de commerce en application des articles R. 412-2 et R.*
+412-6 à R.* 412-10 est transmise aux chefs de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-17 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-2 (Ab)
+	  - Code de l'organisation judiciaire R412-2, R412-6 à R412-10
+
+
+###### Article R412-12
+
+L'assemblée générale du tribunal de commerce est composée des membres en exercice du tribunal de commerce. Elle est présidée
+par le président du tribunal de commerce.
+
+La date et l'ordre du jour de l'assemblée générale sont fixés par ordonnance du président du tribunal de commerce prise
+quinze jours au moins avant la date de l'assemblée générale.
+
+L'assemblée générale ne peut délibérer que sur les questions inscrites à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°94-370 du 6 mai 1994 - art. 5 (V)
+	  - Décret n°94-378 du 9 mai 1994 - art. 4 (V)
+	  - Décret n°96-1019 du 26 novembre 1996 - art. 5 (V)
+	  - Décret n°97-594 du 28 mai 1997 - art. 4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-1 (V)
+
+
+###### Article R412-13
+
+Un bureau est constitué pour chaque réunion de l'assemblée générale. Il est composé du président du tribunal, du vice-
+président et du premier dans l'ordre du tableau des présidents de chambre présents à l'assemblée générale. En cas d'absence
+du vice-président, celui-ci est remplacé par le premier dans l'ordre du tableau des présidents de chambre présents et ce
+dernier est lui-même remplacé par le président de chambre suivant dans l'ordre du tableau. A défaut de président de chambre,
+il est fait appel au juge le plus ancien présent à l'assemblée générale.
+
+Le bureau veille [*attributions*] au bon fonctionnement de l'assemblée, tient les feuilles de présence et de vote, statue sur
+les quorums, fait procéder au vote et surveille le déroulement des scrutins dont les résultats sont proclamés par le
+président.
+
+Le greffier du tribunal de commerce assiste à l'assemblée générale et rédige le procès-verbal. Il signe le procès-verbal avec
+le président qui en transmet une copie aux chefs de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-2 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-2 (Ab)
+
+
+###### Article R412-14
+
+L'assemblée générale ne peut valablement délibérer que si la moitié au moins de ses membres est présente ou représentée.
+
+Si le quorum prévu à l'alinéa précédent n'est pas atteint, l'assemblée est à nouveau convoquée dans le délai d'un mois, sur
+le même ordre du jour. Elle peut alors valablement délibérer si un quart au moins de ses membres est présent ou représenté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-3 (V)
+
+
+###### Article R412-15
+
+Les membres en exercice du tribunal de commerce peuvent se faire représenter à l'assemblée générale par un mandataire choisi
+parmi les autres membres du tribunal de commerce.
+
+Chaque mandataire ne dispose que d'une seule procuration.
+
+La procuration doit être donnée par écrit ; elle est annexée au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-4 (V)
+
+
+###### Article R412-16
+
+Le ministère public est représenté devant le tribunal de commerce dans les conditions fixées aux articles L. 412-5 et R.
+311-34 à R. 311-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-5 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-5 (Ab)
+	  - Code de l'organisation judiciaire L412-5, R311-34, R311-35, R311-36, R311-37
+
+
+###### Article R412-17
+
+Les membres des tribunaux de commerce désireux de résilier leur mandat adressent leur démission au président du tribunal de
+commerce qui la transmet sans délai au commissaire de la République et au procureur de la République. La démission devient
+définitive à la date où le commissaire de la République en accuse réception ou, à défaut, un mois après un nouvel envoi par
+lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-18 (V)
+
+
+###### Article R412-18
+
+Sous réserve des dispositions de l'article R. 414-20, les présidents, vice-présidents, présidents de chambre et juges des
+tribunaux de commerce ayant exercé des fonctions dans une juridiction commerciale pendant douze ans au moins sont autorisés à
+se prévaloir de l'honorariat des fonctions qu'ils ont exercées en dernier lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 11 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-20 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-19 (V)
+
+
+###### Article R412-19
+
+Les membres honoraires d'un tribunal de commerce peuvent assister aux audiences d'installation et, avec voix consultative,
+aux assemblées générales de ce tribunal. Ils peuvent revêtir aux audiences, aux assemblées générales, et, s'il y a lieu, dans
+les cérémonies publiques le costume porté par les membres en exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-20 (V)
+	  - Code de commerce. - art. R722-20 (V)
+
+
+###### Article R412-20
+
+Le président, le vice-président, les présidents de chambre et les juges en exercice ou honoraires des tribunaux de commerce
+ne peuvent faire état de leur qualité sans préciser le tribunal de commerce où ils exercent ou ont exercé leurs fonctions ;
+ils ne peuvent en faire mention dans la publicité et la correspondance commerciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R722-21 (V)
+
+
+#### Chapitre III : Election des juges des tribunaux de commerce
+
+##### Section I : Electorat.
+
+###### Article R413-1
+
+Dans le mois qui suit l'élection des délégués consulaires, la commission mentionnée à l'article L. 413-2 établit la liste des
+membres du collège électoral du tribunal de commerce. Cette commission comprend, outre son président, un juge du tribunal de
+commerce désigné au début de l'année judiciaire par ordonnance du président du tribunal de commerce prise après avis de
+l'assemblée générale du tribunal de commerce et un représentant du commissaire de la République.
+
+La commission se réunit à l'initiative de son président.
+
+Le secrétariat de la commission est assuré par le greffier du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-1 (V)
+
+
+###### Article R413-2
+
+Pour établir la liste des membres du collège électoral, la commission se fait remettre une copie, certifiée par le
+commissaire de la République, du procès-verbal de l'élection des délégués consulaires, une expédition de l'ordonnance fixant
+le tableau des juges composant la juridiction et l'état nominatif des membres des chambres de commerce et d'industrie ayant
+la qualité d'électeurs consulaires dans le ressort du tribunal de commerce. Cet état est certifié par chacun des présidents
+des chambres de commerce et d'industrie intéressées.
+
+La commission procède à la radiation des membres du collège électoral qui sont décédés, qui ont démissionné, qui ont été
+déclarés déchus de leurs fonctions ou qui ont été condamnés à l'une des peines, déchéances ou sanctions prévues au deuxième
+alinéa de l'article L. 413-1. La commission procède en outre à l'inscription des juges et des membres de chambres de commerce
+et d'industrie dont l'élection est intervenue postérieurement à celle des délégués consulaires ainsi qu'à celle des anciens
+membres des tribunaux de commerce et des chambres de commerce et d'industrie qui demandent à être inscrits en application de
+l'article L. 413-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°2005-808 du 18 juillet 2005 - art. 5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-4 (Ab)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-2 (V)
+
+
+###### Article R413-3
+
+Au plus tard le 15 juillet de chaque année, la commission arrête la liste électorale qui sera utilisée lors de l'élection
+prévue à l'article L. 431-8. Cette liste est aussitôt affichée au greffe du tribunal de commerce et le demeure jusqu'au jour
+du scrutin. Une copie en est transmise au commissaire de la République. La liste est rectifiée à la diligence du greffier du
+tribunal du commerce en cas de notification par tout intéressé d'un jugement intervenu en application des articles L. 25 et
+L. 34 du code électoral. Ces rectifications sont aussitôt portées à la connaissance du commissaire de la République et, après
+l'ouverture du scrutin, du président de la commission électorale mentionnée à l'article R. 413-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. L34 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-3 (V)
+
+
+###### Article R413-4
+
+En cas de modification du ressort de deux ou plusieurs juridictions commerciales, la liste des membres du collège électoral
+de chacun des tribunaux de commerce concernés par cette modification est rectifiée dans les conditions prévues à l'article R.
+413-2. Les greffiers desdites juridictions procèdent entre eux à toutes les communications utiles en vue des inscriptions ou
+radiations qu'implique cette mise à jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°99-659 du 30 juillet 1999 - art. 3 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-4 (V)
+
+
+##### Section III : Scrutin et opérations électorales.
+
+###### Article R413-5
+
+Les candidatures aux fonctions de juge d'un tribunal de commerce sont déclarées au commissaire de la République. Nul ne peut
+se porter simultanément candidat dans plusieurs tribunaux de commerce.
+
+Les déclarations de candidature pour le premier tour de scrutin sont recevables jusqu'au vingtième jour précédant celui du
+scrutin. Les déclarations doivent être faites par écrit et signées par les candidats. Elles peuvent être individuelles ou
+collectives.
+
+Chaque candidat doit, à l'appui de sa candidature, déposer une déclaration écrite sur l'honneur qu'il remplit les conditions
+d'éligibilité fixées à l'article L. 413-4, qu'il n'est frappé d'aucune des incapacités, déchéances ou inéligibilités prévues
+aux articles L. 413-1 et L. 413-3, qu'il ne fait pas l'objet d'une mesure de suspension prise en application de l'article L.
+414-4 et qu'il n'est pas candidat dans un autre tribunal de commerce.
+
+Le commissaire de la République enregistre les candidatures et en donne récépissé. Il refuse celles qui ne sont pas assorties
+de la déclaration exigée à l'alinéa précédent et en avise les intéressés.
+
+Les candidatures enregistrées sont immédiatement affichées à la préfecture et portées à la connaissance du procureur général
+près la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-6 (V)
+
+
+###### Article R413-6
+
+L'élection des membres d'un tribunal de commerce a lieu dans la commune où le tribunal a son siège.
+
+Le collège électoral est convoqué par un arrêté du commissaire de la République pris un mois avant la date du scrutin. Cet
+arrêté fixe la date, les heures et le lieu de chacun des deux tours de scrutin. Un délai de quatre jours ouvrables doit
+séparer la date des deux tours de scrutin.
+
+Chaque électeur est en outre convoqué individuellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 24 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-7 (V)
+
+
+###### Article R413-7
+
+La commission prévue à l'article L. 413-10 comprend, outre son président, deux juges d'instance. Ces trois magistrats sont
+désignés par le premier président après avis de l'assemblée générale de la cour d'appel.
+
+Le secrétariat de la commission électorale est assuré par le greffier du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-8 (V)
+
+
+###### Article R413-8
+
+Chaque électeur, après que la commission électorale ait vérifié son identité, vote à l'aide d'un bulletin qu'il rédige lui-
+même. Il peut aussi utiliser l'un des bulletins imprimés mis par certains candidats, avec l'approbation de la commission
+électorale, à la disposition des électeurs dans la salle du scrutin. Ce bulletin imprimé peut être modifié de façon
+manuscrite. Chaque électeur ne met sous enveloppe et ne dépose dans l'urne qu'un seul bulletin.
+
+Le nombre des candidats désignés par chaque électeur sur son bulletin doit être égal ou inférieur à celui des juges à élire.
+
+Les suffrages exprimés en faveur des personnes dont la candidature n'a pas été enregistrée et affichée conformément aux
+dispositions de l'article R. 413-5 ne sont pas comptés lors du recensement des votes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-9 (V)
+
+
+###### Article R413-9
+
+Tout électeur désirant voter par procuration fait établir celle-ci par acte dressé sans frais par le juge d'instance de sa
+résidence.
+
+L'électeur ne peut désigner en qualité de mandataire qu'un autre électeur inscrit sur la même liste électorale que lui.
+
+Le juge d'instance peut être saisi à tout moment jusqu'à l'avant-veille du premier tour de scrutin à midi.
+
+L'électeur doit justifier devant le juge d'instance de son identité. Il doit en outre produire un certificat établi par le
+greffier du tribunal de commerce attestant de son inscription et de celle de son mandataire sur la liste électorale
+mentionnée à l'article R. 413-3.
+
+L'électeur doit se présenter en personne devant le juge d'instance. La présence du mandataire n'est pas indispensable.
+
+Le juge d'instance dresse l'acte de procuration en deux originaux : l'un est remis à l'électeur, le second auquel est annexé
+le certificat établi par le greffier du tribunal de commerce est conservé au rang des minutes du tribunal d'instance.
+
+La validité de la procuration est limitée à la seule élection pour laquelle elle est établie.
+
+Au cours du premier tour de scrutin, le mandataire remet au président de la commission électorale l'acte de procuration
+établi par le juge d'instance. Le secrétaire de la commission électorale porte sur la liste d'émargement, en face du nom de
+l'électeur ayant demandé à voter par procuration, la mention de cette demande et le nom du mandataire désigné par la
+procuration et, en face du nom de l'électeur désigné en qualité de mandataire, la mention de cette qualité et du nom de
+l'électeur représenté. La procuration est annexée à la liste d'émargement et conservée dans les conditions fixées par
+l'article R413-13. Le mandataire peut alors participer aux deux tours de scrutin au nom de l'électeur qu'il représente et
+pour lequel il émarge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 2005 - art. 2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-11 (Ab)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+	  - Code de l'organisation judiciaire L413-3, L413-13
+
+
+###### Article R413-10
+
+Tout électeur désirant voter par correspondance en fait la demande auprès du préfet. Cette demande est recevable jusqu'au
+vingtième jour précédant la date du scrutin. La demande, formulée par écrit et signée par l'électeur, doit indiquer ses nom,
+prénoms et domicile ainsi que la qualité lui donnant droit à participer au vote.
+
+Si la demande est tardive ou si l'intéressé ne figure pas sur la liste électorale mentionnée à l'article R. 413-3, le préfet
+avise aussitôt l'intéressé du rejet de sa demande en lui donnant les motifs de son refus.
+
+Lorsque le préfet fait droit à la demande, il adresse à l'électeur, douze jours avant la date du premier tour de scrutin,
+deux enveloppes électorales destinées, pour chaque tour de scrutin, à recevoir le bulletin de vote et deux enveloppes d'envoi
+portant la mention "Election des juges du tribunal de commerce. - Vote par correspondance" et les nom et prénoms de
+l'électeur. L'une des deux enveloppes d'envoi porte en outre la mention "Premier tour de scrutin" et l'indication de la date
+du premier tour, la seconde enveloppe porte la mention "Second tour de scrutin" et l'indication de la date du second tour.
+
+Pour chaque tour de scrutin, l'électeur place son bulletin de vote dans l'enveloppe électorale sans la cacheter et place
+cette enveloppe dans l'enveloppe d'envoi prévue pour le tour de scrutin considéré. Il cachette cette deuxième enveloppe et
+l'adresse au commissaire de la République sous pli fermé.
+
+Le préfet dresse la liste des électeurs ayant demandé à voter par correspondance. Il y mentionne ceux des électeurs dont il a
+reçu l'enveloppe électorale. La liste est close la veille du premier tour de scrutin à dix-huit heures. Les plis parvenant
+ultérieurement sont retournés aux électeurs avec la mention de la date et de l'heure auxquelles ils sont parvenus à la
+préfecture. La liste est remise avec les enveloppes cachetées contenant les enveloppes électorales au président de la
+commission électorale immédiatement après que celui-ci ait ouvert le scrutin.
+
+Entre le premier et le second tour de scrutin, le préfet dresse la liste des électeurs dont il a reçu l'enveloppe électorale
+pour le second tour. Il clôt la liste la veille du second tour de scrutin à dix-huit heures et procède ensuite comme il est
+dit à l'alinéa qui précède.
+
+Le secrétaire de la commission électorale porte sur la liste d'émargement, en face du nom de chaque électeur autorisé à voter
+par correspondance, la mention "Vote par correspondance". Le président de la commission électorale ouvre ensuite chaque pli,
+énonce publiquement le nom de l'électeur, émarge et place dans l'urne, pour être dépouillée avec les autres, l'enveloppe
+contenant le bulletin de vote.
+
+A la clôture du scrutin, les enveloppes électorales et la liste des électeurs autorisés à voter par correspondance sont
+annexées à la liste d'émargement et conservées dans les conditions fixées par l'article R. 413-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+	  - Code de l'organisation judiciaire L413-3, L413-13
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-15 (V)
+
+
+###### Article R413-11
+
+Les dispositions des articles R. 48, R. 49, R. 52, R. 54 (alinéa 1), R. 55 (alinéas 1 et 3), R. 57, R. 58, R. 59, R. 61
+(alinéa 1), R. 62, R. 63, R. 67 (alinéa 3) et R. 68 du code électoral s'appliquent aux opérations électorales organisées en
+vue de la désignation des membres des tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-16 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R48, R49, R52, R54, R55, R57, R58, R59, R61, R62, R63, R67, R68
+
+
+###### Article R413-12
+
+Le recensement des votes est effectué par la commission électorale. Les résultats sont proclamés publiquement par le
+président de la commission électorale. La liste des candidats élus, établie dans l'ordre dégressif du nombre de voix obtenu
+par chacun d'entre eux, est immédiatement affichée au greffe du tribunal de commerce.
+
+Le procès-verbal des opérations électorales est dressé en trois exemplaires revêtus de la signature des membres de la
+commission électorale : le premier exemplaire est envoyé au procureur général, le deuxième au commissaire de la République et
+le troisième est conservé au greffe du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-17 (V)
+
+
+###### Article R413-13
+
+Les listes d'émargement signées par le président de la commission électorale demeurent déposées pendant huit jours au greffe
+du tribunal de commerce où elles sont communiquées à tout électeur qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-21 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-19 (V)
+
+
+###### Article R413-14
+
+Dans les huit jours du scrutin, tout électeur peut contester la régularité des opérations électorales devant le tribunal
+d'instance dans le ressort duquel se trouve situé le siège du tribunal de commerce.
+
+Le recours est également ouvert au commissaire de la République et au procureur de la République qui peuvent l'exercer dans
+un délai de quinze jours à compter de la réception du procès-verbal mentionné à l'article R. 413-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-20 (V)
+
+
+###### Article R413-15
+
+Le recours est formé par déclaration écrite remise ou adressée au greffe du tribunal d'instance. La déclaration indique les
+nom, prénoms et adresse du réquérant, la qualité en laquelle il agit et l'objet du recours. La déclaration mentionne les
+noms, prénoms et adresses de la ou des personnes dont l'élection est contestée.
+
+Le recours est porté à la connaissance du président du tribunal de commerce et du procureur de la République par le greffier
+du tribunal d'instance qui le notifie immédiatement aux personnes dont l'élection est contestée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-21 (V)
+
+
+###### Article R413-16
+
+Dans les dix jours du recours, le tribunal d'instance statue sans formalité, sans frais et sur simple avertissement donné
+trois jours à l'avance à toutes les parties en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-22 (V)
+
+
+###### Article R413-17
+
+La décision du tribunal d'instance est notifiée dans les trois jours par le greffier du tribunal d'instance aux parties par
+lettre recommandée avec demande d'avis de réception. Le greffier en donne avis au commissaire de la République et au
+procureur de la République dans le même délai.
+
+La décision du tribunal n'est susceptible ni d'appel ni d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-23 (V)
+
+
+###### Article R413-18
+
+Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à 1022 du nouveau code de procédure civile. Le
+délai de pourvoi court à compter de la notification prévue à l'article R. 413-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code de procédure civile 999 à 1022
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-25 (V)
+
+
+###### Article R413-19
+
+Les juges dont l'élection est contestée peuvent valablement prêter serment, être installés et siéger tant qu'il n'a pas été
+définitivement statué sur le recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-26 (V)
+
+
+###### Article R413-20
+
+Les délais mentionnés au présent chapitre sont comptés dans les conditions fixées aux articles 640 à 647 du nouveau code de
+procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code de procédure civile 640 à 647
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R723-27 (V)
+
+
+#### Chapitre IV : Discipline des membres des tribunaux de commerce.
+
+###### Article R414-1
+
+La Commission nationale de discipline prévue à l'article L. 414-2 siège à la Cour de cassation. Elle est dénommée Commission
+nationale de discipline des membres des tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-1 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
+
+
+###### Article R414-2
+
+Le secrétariat de la commission est assuré par le secrétaire général de la première présidence de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-9 (V)
+
+
+###### Article R414-3
+
+Les membres titulaires et suppléants de la commission sont désignés tous les quatre ans entre le 21 février et le 31 mars .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-2 (V)
+
+
+###### Article R414-4
+
+L'année où il est procédé au renouvellement des membres de la commission, les premiers présidents des cours d'appel font
+connaître, le 15 février au plus tard, au premier président de la Cour de cassation le nom du président de chambre ou du
+conseiller appartenant à leur cour qu'ils proposent de désigner en application du 2° de l'article L. 414-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-3 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
+
+
+###### Article R414-5
+
+L'année où il est procédé au renouvellement des membres de la commission, les présidents des tribunaux de commerce font
+connaître par écrit, le 15 février au plus tard, au secrétaire de la commission les noms, prénoms, adresses, dates et lieux
+de naissance des magistrats appartenant à leur juridiction se portant candidats en application du 3° de l'article L. 414-2.
+
+Le secrétaire de la commission établit la liste des candidatures le 20 février au plus tard et en adresse aussitôt une copie
+à tous les présidents des tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-4 (V)
+
+
+###### Article R414-6
+
+L'élection des membres de la commission mentionnés au 3° de l'article L. 414-2 a lieu à la majorité des bulletins exprimés.
+En cas d'égalité de suffrages, le plus âgé est proclamé élu.
+
+Le vote a lieu par correspondance. Chaque président de tribunal de commerce doit rédiger son bulletin de vote en y portant le
+nom de quatre des candidats. Chaque président de tribunal de commerce place ensuite son bulletin dans une enveloppe sur
+laquelle il porte la mention "Election des membres de la Commission nationale de discipline des membres des tribunaux de
+commerce". Il revêt cette enveloppe de sa signature après y avoir indiqué ses nom et prénoms et y avoir apposé le timbre de
+sa juridiction, puis il la place, après l'avoir cachetée, dans une seconde enveloppe qu'il adresse, le 10 mars au plus tard,
+au secrétaire de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-5 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
+
+
+###### Article R414-7
+
+Le bureau de la Cour de cassation se réunit entre le 15 et le 31 mars sur convocation du premier président. Il procède au
+dépouillement du scrutin et classe les candidats dans l'ordre dégressif du nombre de voix obtenu par chacun d'eux. Le premier
+président proclame élus en qualité de titulaires les quatre candidats en tête de la liste et en qualité de suppléants les
+quatre candidats qui viennent ensuite.
+
+Le bureau de la Cour de cassation règle les difficultés et les contestations relatives à la préparation et au déroulement du
+scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-6 (V)
+
+
+###### Article R414-8
+
+La liste des membres de la Commission nationale de discipline des membres des tribunaux de commerce est publiée au Journal
+officiel de la République française à la diligence du premier président de la Cour de cassation.
+
+Les membres de la commission sont installés dans leurs fonctions par le premier président de la Cour de cassation entre le 10
+et le 20 avril suivant leur désignation ou leur élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-7 (V)
+
+
+###### Article R414-9
+
+Le membre de la commission qui désire résilier son mandat adresse sa démission au garde des sceaux, ministre de la justice.
+La démission n'est définitive qu'après acceptation par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-8 (V)
+
+
+###### Article R414-10
+
+La date et l'ordre du jour des séances de la commission sont fixés par ordonnance du président de la commission. Une copie de
+l'ordonnance est adressée au garde des sceaux, ministre de la justice, et est jointe à la convocation adressée par le
+secrétaire de la commission.
+
+Le procès-verbal des séances est signé du président et du secrétaire de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-10 (V)
+
+
+###### Article R414-11
+
+Lorsqu'il saisit la commission en application des articles L. 414-1, L. 414-4 ou R. 414-20, le garde des sceaux, ministre de
+la justice, transmet au président de la commission toutes les pièces afférentes à la poursuite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-11 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-20 (Ab)
+
+
+###### Article R414-12
+
+Dès la saisine de la commission, le magistrat poursuivi en est informé par lettre recommandée avec demande d'avis de
+réception du secrétaire de la commission, qui lui précise qu'il peut prendre connaissance, au secrétariat de la commission,
+des pièces afférentes à la poursuite.
+
+Le président de la commission désigne parmi les membres de la commission un rapporteur, qui procède à toutes investigations
+utiles. Le rapporteur entend l'intéressé et, s'il y a lieu, le plaignant et les témoins. Il peut les faire entendre par un
+magistrat du siège de la cour d'appel auquel il donne délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-12 (V)
+
+
+###### Article R414-13
+
+Le magistrat poursuivi peut se faire assister par l'un de ses pairs, par un avocat au Conseil d'Etat et à la Cour de
+cassation ou par un avocat inscrit à un barreau.
+
+Le dossier de la procédure doit être mis à la disposition de l'intéressé et de son conseil quarante-huit heures au moins
+avant chaque séance de la commission ou chaque audition par le rapporteur ou son délégué du magistrat poursuivi. Celui-ci
+peut à tout moment de la procédure verser aux débats les pièces qu'il estime utiles et déposer des mémoires en défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-13 (V)
+
+
+###### Article R414-14
+
+Le magistrat poursuivi est cité à comparaître devant la commission par lettre recommandée avec demande d'avis de réception
+par le secrétaire de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-14 (V)
+
+
+###### Article R414-15
+
+Le magistrat poursuivi est tenu de comparaître en personne. Toutefois, il peut être autorisé en cas de maladie ou
+d'empêchement reconnu justifié à se faire représenter par le conseil qu'il a choisi en application de l'article R. 414-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-15 (V)
+
+
+###### Article R414-16
+
+Après lecture du rapport et après audition du représentant du garde des sceaux, ministre de la justice, le magistrat
+poursuivi est invité à fournir ses explications et moyens de défense sur les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-16 (V)
+
+
+###### Article R414-17
+
+La commission siège et statue à huis clos.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-17 (V)
+
+
+###### Article R414-18
+
+Lorsqu'il est saisi en application de l'article L. 414-4, le président de la commission statue par ordonnance rendue dans les
+dix jours de sa saisine. La décision du président est immédiatement exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-18 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+
+
+###### Article R414-19
+
+Les décisions de la commission rendues en application des articles L. 414-1, L. 414-3 et R. 414-20 et les ordonnances de son
+président rendues en application de l'article L. 414-4 sont notifiées par lettre recommandée avec demande d'avis de réception
+du secrétaire de la commission.
+
+Le délai de pourvoi est de dix jours à compter de la date de réception de la lettre de la notification. Le pourvoi est formé
+et instruit conformément aux dispositions des articles 974 à 982 du nouveau code de procédure civile. Il est porté devant
+l'assemblée plénière de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-19 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-20 (Ab)
+	  - Nouveau code de procédure civile 974 à 982
+
+
+###### Article R414-20
+
+La commission peut, sur proposition du garde des sceaux, ministre de la justice, retirer l'honorariat à un ancien membre d'un
+tribunal de commerce dans les conditions fixées aux articles L. 414-1, L. 414-3, L. 414-5, L. 414-6, R. 414-11 à R. 414-17 et
+R. 414-19.
+
+Le président de la commission peut aussi, dans les conditions fixées aux articles L. 414-4, R. 414-18 et R. 414-19, interdire
+temporairement à un ancien membre d'un tribunal de commerce de se prévaloir de l'honorariat.
+
+Les dispositions des deux alinéas qui précèdent ne sont pas applicables lorsque l'intéressé renonce définitivement à se
+prévaloir de l'honorariat par une déclaration écrite qu'il adresse au garde des sceaux, ministre de la justice, ou au
+président de la Commission nationale de discipline des tribunaux de commerce si celle-ci est déjà saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-18 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-20 (V)
+
+
+###### Article R414-21
+
+Les délais mentionnés au présent chapitre sont comptés dans les conditions fixées aux articles 641 à 647 du nouveau code de
+procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R724-21 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 641 à 647
 
 
 ### Titre II : Le conseil de prud'hommes
@@ -13438,13 +16469,17 @@ indemnité de responsabilité.
 
 ###### Article R821-1
 
-Le greffier tient la plume aux audiences de la juridiction.
+Le greffier assiste les membres du tribunal de commerce à l'audience et dans tous les cas prévus par la loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
 
 	**Anciens textes**:
 
@@ -13457,9 +16492,9 @@ Le greffier tient la plume aux audiences de la juridiction.
 
 ###### Article R821-2
 
-Le greffier dirige, sous l'autorité du président du tribunal et sous la surveillance du ministère public, l'ensemble des
-services du greffe. Il est dépositaire des minutes et archives dont il assure la conservation. Il délivre les expéditions et
-copies et a la garde des scellés et de toutes sommes déposées au greffe.
+Le greffier dirige [*attributions*], sous l'autorité du président du tribunal et sous la surveillance du ministère public,
+l'ensemble des services du greffe. Il est dépositaire des minutes et archives dont il assure la conservation. Il délivre les
+expéditions et copies et a la garde des scellés et de toutes sommes déposées au greffe.
 
 Il dresse les actes de greffe et procède aux formalités pour lesquelles compétence lui est attribuée.
 
@@ -13468,21 +16503,21 @@ Il dresse les actes de greffe et procède aux formalités pour lesquelles compé
 	**Cité par**:
 
 	  - Décret n°70-708 du 31 juillet 1970 - art. 10-1 (Ab)
-	  - Arrêté du 26 février 2016 - art. 4 (V)
 	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+	  - Arrêté du 26 février 2016 - art. 4 (V)
 	  - Décret n°2016-230 du 26 février 2016 - art. 10 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R741-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°80-307 1980-04-20 art. 21 JORF 3 mai 1980
 
 
 ###### Article R821-3
@@ -13496,6 +16531,10 @@ Cet état est adressé au garde des sceaux, ministre de la justice.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
 
 
 ###### Article R821-4
@@ -13513,23 +16552,137 @@ de cour d'appel.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
 	**Nouveaux textes**:
 
+	  - Code de commerce. - art. R742-29 (V)
 	  - Code de commerce. - art. R741-3 (V)
 	  - Code de commerce. - art. R742-29 (M)
 
 
 ###### Article R821-5
 
+Sans préjudice des dispositions de l'article R. 213-29, chaque greffe de tribunal de commerce fait l'objet d'une inspection
+au moins une fois tous les quatre ans. Il peut, en outre, être soumis à des inspections occasionnelles portant sur un domaine
+particulier de l'activité professionnelle du greffier ou sur l'ensemble de celle-ci.
+
+Les inspections occasionnelles ont lieu de façon inopinée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R213-29
+
+
+###### Article R821-6
+
+Chaque inspection est prescrite par le garde des sceaux, ministre de la justice, soit d'office, soit à la demande du
+président du tribunal de commerce. Elle est conduite par le procureur de la République.
+
+Un ou plusieurs inspecteurs sont désignés pour chaque mission par le garde des sceaux, ministre de la justice, parmi les
+greffiers des tribunaux de commerce en activité ou honoraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-2 (M)
+
+
+###### Article R821-7
+
+Les inspecteurs disposent, dans l'exécution de leur mission, d'un pouvoir général d'investigation et de contrôle.
+
+Ils peuvent se faire assister d'un expert-comptable et d'un commissaire aux comptes. Le personnel du greffe inspecté doit
+répondre aux questions qui lui sont posées par les inspecteurs et doit leur fournir toutes informations utiles à
+l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-3 (M)
+
+
+###### Article R821-8
+
+Les inspecteurs adressent un compte rendu de leur mission au procureur de la République. Les inspections occasionnelles
+donnent lieu à l'établissement d'un rapport détaillé.
+
+Ces documents sont transmis au garde des sceaux, ministre de la justice, à l'issue de chaque inspection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-4 (V)
+
+
+###### Article R821-9
+
 Lorsqu'un centre de formalités des entreprises a été créé par une chambre de commerce et d'industrie ou une chambre des
 métiers, le greffier peut, à la demande de la chambre de commerce et d'industrie ou de la chambre des métiers, être autorisé
 par arrêté du garde des sceaux, ministre de la justice, à exercer tout ou partie des activités dévolues aux centres de
-formalités des entreprises par le décret n° 81-257 du 18 mars 1981, lorsque, dans l'intérêt des usagers, l'ouverture d'une
-annexe de ces centres apparaît nécessaire dans la ville où la juridiction commerciale a son siège.
+formalités des entreprises par le décret n° 81-257 du 18 mars 1981 modifié lorsque, dans l'intérêt des usagers, l'ouverture
+d'une annexe de ces centres apparaît nécessaire dans la ville où la juridiction commerciale a son siège.
 
-En vue de cette autorisation, le greffier soumet au garde des sceaux une convention conclue avec la chambre de commerce ou
-des métiers déterminant les droits et obligations de chacune des parties. Cette convention doit être approuvée par arrêté
-conjoint du ministre de l'industrie et de la recherche et du ministre du commerce et de l'artisanat.
+En vue de cette autorisation, le greffier soumet au garde des sceaux, ministre de la justice, une convention conclue avec la
+chambre de commerce ou des métiers déterminant les droits et obligations de chacune des parties. Cette convention doit être
+approuvée par arrêté conjoint des ministres chargés de l'industrie, du commerce et de l'artisanat.
 
 L'autorisation peut être révoquée par le garde des sceaux, ministre de la justice, notamment lorsque l'exercice de ces
 activités nuit à l'accomplissement par le greffier de ses obligations ou donne lieu à des réclamations justifiées.
@@ -13544,23 +16697,591 @@ activités nuit à l'accomplissement par le greffier de ses obligations ou donne
 
 	  - Décret n°81-257 1981-03-18
 
-	**Modifié par**:
-
-	  - Décret n°84-405 1984-05-30 art. 3 JORF 31 mai 1984
-
 	**Créé par**:
 
-	  - Décret n°84-406 du 30 mai 1984 - art. 86 () JORF 31 mai 1984
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-7 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. R743-1 (V)
+	  - Code de commerce. - art. R741-4 (V)
+
+
+###### Article R821-10
+
+En cas de modification du ressort de deux ou plusieurs juridictions commerciales et sous réserve des dispositions des
+articles 5 à 15 du décret n° 69-389 du 18 avril 1969 relatif au fonctionnement des juridictions commerciales dont le ressort
+est modifié par suite d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, le greffier du
+tribunal antérieurement compétent conserve les minutes, registres, actes, pièces et documents déposés à son greffe avant la
+modification du ressort. Il a seul qualité pour en délivrer expédition, copie ou extrait en mentionnant toutefois la date de
+modification du ressort et le tribunal désormais compétent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°69-389 1969-04-18 art. 5 à 15
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R741-7 (V)
+
+
+###### Article R821-11
+
+Jusqu'à l'expiration du délai légal de communication aux tiers, lorsque le greffier du tribunal désormais compétent délivre
+des expéditions, copies ou extraits de minutes, registres, actes, pièces et documents concernant des personnes physiques ou
+morales dont le domicile ou dont le siège est situé dans les cantons, communes ou sections de communes précédemment compris
+dans le ressort d'un autre tribunal, il mentionne sur ces expéditions, copies ou extraits le tribunal antérieurement
+compétent et la date de modification du ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R741-8 (V)
+
+
+#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce
+
+##### Section I : Procédure devant le tribunal de grande instance statuant disciplinairement.
+
+###### Article R822-1
+
+Le tribunal de grande instance est saisi, en matière disciplinaire, par l'assignation délivrée au greffier du tribunal de
+commerce à la requête du procureur de la République, quinze jours au moins avant l'audience.
+
+L'assignation précise, à peine de nullité, les faits qui motivent l'action disciplinaire.
+
+Toute personne qui se prétend lésée peut demander des dommages-intérêts au tribunal de grande instance saisi
+disciplinairement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-6 (V)
+
+
+###### Article R822-2
+
+Le greffier du tribunal de commerce cité à comparaître peut prendre connaissance de son dossier auprès du secrétariat-greffe
+du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-8 (V)
+
+
+###### Article R822-3
+
+Le greffier du tribunal de commerce comparaît en personne ; il peut se faire assister par un avocat et, s'il le désire, par
+un autre greffier de tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-9 (V)
+
+
+###### Article R822-4
+
+Les débats ont lieu en chambre du conseil, le ministère public entendu.
+
+Le tribunal peut entendre la personne qui se prétend lésée.
+
+Il peut ordonner toutes mesures d'instruction et faire procéder à toutes auditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-10 (V)
+
+
+###### Article R822-5
+
+Le dispositif du jugement est lu en audience publique.
+
+Le jugement est signifié à l'intéressé. Il est exécutoire à titre provisoire lorsqu'il prononce la destitution d'un greffier
+suspendu provisoirement de l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-11 (V)
+
+
+###### Article R822-6
+
+La décision du premier président de la cour d'appel saisi par requête du ministère public, en application de l'article L.
+822-3, est une mesure d'administration judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-3 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-12 (V)
+
+
+##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.
+
+###### Article R822-7
+
+Les peines disciplinaires de l'avertissement et du blâme sont réputées exécutées par la signification qui en est faite.
+
+Le greffier de tribunal de commerce destitué doit, dès lors que la décision est devenue exécutoire, s'abstenir de tout acte
+professionnel. Il met immédiatement à la disposition de l'administrateur provisoire l'ensemble des documents et archives du
+greffe et notamment les répertoires et livres de comptabilité relatifs à l'année courante et aux années antérieures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-16 (V)
+
+
+###### Article R822-8
+
+En cas de destitution, l'administrateur provisoire nommé en application de l'article L. 822-7 est choisi parmi les greffiers
+en activité des tribunaux de commerce situés dans le ressort de la cour d'appel ou parmi les employés du greffe visés par
+l'article 2 du décret n° 87-601 du 29 juillet 1987. Il peut aussi être choisi parmi les greffiers honoraires des tribunaux de
+commerce ou parmi les personnes remplissant les conditions générales d'aptitude aux fonctions de greffier de tribunal de
+commerce.
+
+L'administrateur perçoit à son profit les émoluments ou honoraires particuliers relatifs aux actes qu'il accomplit. Il paie,
+à concurrence des produits du greffe, les charges afférentes au fonctionnement de cet office.
+
+Lorsque plusieurs administrateurs provisoires ont été nommés, les émoluments et honoraires perçus sont répartis entre eux à
+parts égales. Ils peuvent toutefois stipuler une autre répartition, sans que la part de l'un d'eux dans les produits nets de
+l'office puisse excéder le double de la part revenant à chacun des autres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°71-688 du 11 août 1971 - art. 55 (Ab)
+	  - Décret n°71-688 du 11 août 1971 - art. 58 (Ab)
+	  - Décret n°71-688 du 11 août 1971 - art. 63 (Ab)
+	  - Décret n°71-688 du 11 août 1971 - art. 75 (Ab)
+	  - Décret n°93-86 du 21 janvier 1993 - art. 37 (Ab)
+	  - Décret n°93-86 du 21 janvier 1993 - art. 39 (Ab)
+	  - Décret n°93-86 du 21 janvier 1993 - art. 44 (Ab)
+	  - Décret n°93-86 du 21 janvier 1993 - art. 51 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Cite**:
+
+	  - Décret n°87-601 du 29 juillet 1987 - art. 2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-17 (V)
+
+
+###### Article R822-9
+
+Le procureur de la République notifie sans délai à l'administrateur la décision qui l'a nommé. Si l'administrateur n'est pas
+greffier de tribunal de commerce en exercice, il prête serment devant le tribunal de commerce auprès duquel il exercera sa
+mission.
+
+L'administrateur prend ses fonctions à compter, selon le cas, soit de la notification qui lui est faite de la décision
+l'ayant nommé, soit de sa prestation de serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-18 (V)
+
+
+###### Article R822-10
+
+Dans un délai de huit jours, l'administrateur arrête les comptes de l'office à la date de son entrée en fonctions. Un état de
+ces comptes est remis au procureur de la République.
+
+Dans le même délai, l'administrateur avise les administrations concernées et les établissements bancaires qui ont ouvert un
+compte professionnel au nom du greffier destitué. Ces comptes fonctionnent désormais exclusivement sur l'ordre de
+l'administrateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-19 (V)
+
+
+###### Article R822-11
+
+L'administrateur assume l'activité du greffe et en assure la gestion. Il fait mention de sa qualité dans les actes et
+documents professionnels qu'il établit pour le compte de l'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-20 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-14 (Ab)
+
+
+###### Article R822-12
+
+Le greffier destitué ne peut faire état de son ancienne qualité de greffier du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-21 (V)
+
+
+##### Section III : La suspension provisoire.
+
+###### Article R822-13
+
+Le tribunal de grande instance est saisi de la demande de suspension provisoire par l'assignation à jour fixe délivrée au
+greffier du tribunal de commerce à la requête du procureur de la République.
+
+L'audience a lieu en chambre du conseil.
+
+Le tribunal statue après conclusion du ministère public, le greffier entendu ou appelé. Ce dernier peut se faire assister par
+un avocat et, s'il le désire, par un autre greffier de tribunal de commerce.
+
+Le jugement prononçant la suspension provisoire est exécutoire à titre provisoire sur minute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-22 (V)
+
+
+###### Article R822-14
+
+Les dispositions du deuxième alinéa de l'article R. 822-7 et celles des articles R. 822-8 à R. 822-11 sont applicables à la
+suspension provisoire. Cependant, l'administrateur ou les administrateurs nommés ne perçoivent à leur profit que la moitié
+des émoluments ou honoraires particuliers relatifs aux actes qu'ils accomplissent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-23 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-7 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-8 (M)
+
+
+###### Article R822-15
+
+La cessation de plein droit de la suspension provisoire pour l'une des causes prévues au quatrième alinéa de l'article L.
+822-4 ou la décision du tribunal de grande instance mettant fin à cette mesure sont notifiées sans délai par le procureur de
+la République au greffier intéressé et à l'administrateur provisoire.
+
+La mission de l'administrateur prend fin dès réception de cette notification.
+
+Dans un délai de huit jours, le greffier et l'administrateur provisoire arrêtent en commun les comptes de l'office. Un état
+de ces comptes est remis au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-24 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-4 (Ab)
+
+
+##### Section IV : Les voies de recours.
+
+###### Article R822-16
+
+L'appel interjeté contre une décision du tribunal de grande instance statuant en matière disciplinaire est formé par simple
+déclaration au secrétariat-greffe du tribunal.
+
+L'appel n'est ouvert à la personne qui se prétend lésée qu'en ce qui concerne ses intérêts civils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-25 (V)
+
+
+###### Article R822-17
+
+Le délai d'appel est d'un mois ; il est réduit à quinze jours en matière de suspension provisoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-27 (V)
+
+
+###### Article R822-18
+
+La procédure suivie devant le tribunal de grande instance statuant disciplinairement est applicable devant la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-28 (V)
+
+
+##### Section V : Dispositions communes.
+
+###### Article R822-19
+
+Les dispositions du nouveau code de procédure civile s'appliquent pour tout ce qui n'est pas réglé par les dispositions de
+procédure contenues dans le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-5 (V)
 
 
 ### Titre IV : Le secrétariat des juridictions de l'expropriation
@@ -14025,6 +17746,89 @@ répartition des magistrats du siège dans les chambres du tribunal.
 	  - Ordonnance 1879-06-13 art. 9 Loi locale art. 112 et s.
 
 
+###### Article R*913-3
+
+Le nombre des assesseurs de chambre commerciale de des tribunaux de grande instance des départements du Bas-Rhin, du Haut-
+Rhin et de la Moselle est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°61-923 1961-08-03 art. 39 et art. 40
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R731-3 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1924-06-01 art. 26
+
+
+###### Article R*913-4
+
+Les assesseurs des chambres commerciales sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R413-1 à R413-20
+
+	**Anciens textes**:
+
+	  - Loi n°1924-06-01 art. 28 al. 1
+
+
+###### Article R*913-5
+
+Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R. 414-1 à R. 414-21 sont applicables aux
+assesseurs des chambres commerciales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R731-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1924-06-01 art. 28 al. 2
+
+
 #### Chapitre V : Les secrétariats-greffes
 
 ###### Article R*915-1
@@ -14197,81 +18001,6 @@ travail.
 	  - Nouveau code de procédure civile Annexe art. 34
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.
-
-###### Article R*913-4
-
-La durée du mandat des assesseurs des chambres commerciales des tribunaux de grande instance est de quatre ans avec
-renouvellement par moitié tous les deux ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 28 al. 1
-
-
-###### Article R*913-5
-
-Les assesseurs sortant d'exercice après quatre années peuvent être réélus pour une seconde période de quatre années.
-
-Ces deux périodes expirées, ils ne sont rééligibles qu'après deux ans d'intervalle [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 28 al. 2
-
-
-###### Article R*913-6
-
-L'assesseur élu en remplacement d'un autre par suite de décès ou de toute autre cause, ne demeure en exercice que pour la
-durée restant à courir du mandat de son prédécesseur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 28 al. 4
-
-
-###### Article R*913-7
-
-Un assesseur ayant accompli deux judicatures successives n'est pas rééligible immédiatement même si l'une d'elles a été
-incomplète.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 art. 28 al. 3
-
-
 ### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*
 
 #### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
@@ -14391,72 +18120,25 @@ tribunal de grande instance pour exercer celles-ci.
 	  - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal mixte de commerce
+###### Article R921-5-1
 
-###### Article R*921-7
-
-Le tribunal mixte de commerce comprend le président du tribunal de grande instance, président ; deux juges titulaires élus
-pour deux ans et trois juges suppléants élus dans les mêmes formes et conditions et qui sont chargés de les remplacer en cas
-d'absence ou d'empêchement ; le procureur de la République du ressort ou son substitut ; un greffier du ressort.
-
-Le président désigne par ordonnance pour le remplacer, en cas d'absence ou d'empêchement dans l'exercice de ses fonctions, un
-magistrat du siège du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-198 1974-02-26 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-
-###### Article R*921-9
-
-Par dérogation à l'article 31 du décret précité du 3 août 1961, le collège électoral est convoqué tous les deux ans
-[*périodicité*] entre le 1er et le 15 juin inclus, par un arrêté préfectoral pris un mois avant la date du scrutin.
+Pour l'application de l'article L. 621-5 du code de commerce, la liste des tribunaux de grande instance compétents dans les
+départements d'outre-mer est fixée au tableau X annexé au présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-923 du 3 août 1961 - art. 31 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°74-198 1974-02-26 art. 6
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Créé par**:
 
-###### Article R*921-11
-
-Ne sont pas applicables [*modalités d'application*] dans les départements de la Guadeloupe, de la Guyane, de la Martinique et
-de la Réunion les dispositions relatives à la rémunération du greffier prévue au troisième alinéa de l'article 8 du décret
-susvisé du 3 août 1961, ainsi que celles qui sont relatives à la durée du mandat des membres des tribunaux de commerce
-prévues aux articles 18 et 24 de ce même décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°61-923 1961-08-03 art. 8 al. 3, art. 18 et art. 24
-
-	**Anciens textes**:
-
-	  - Décret n°74-198 1974-02-26 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
+	  - Décret n°88-38 du 13 janvier 1988 - art. 7 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
 ##### Section V : Les secrétariats-greffes et secrétariats
@@ -14620,24 +18302,6 @@ France, être désignés par le premier président de ladite cour pour assurer �
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la de la Guyane
-
-###### Article R*922-2
-
-La compétence en matière commerciale des tribunaux d'instance de la Guyane est fixée dans les mêmes limites que leur
-compétence en matière personnelle et mobilière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
-
-
 #### Chapitre III : Dispositions particulières au département de la Réunion
 
 ###### Article R*923-1
@@ -14774,8 +18438,11 @@ dernier ressort des tribunaux d'instance prévu à l'article R321-2.
 
 ###### Article R*921-6
 
-Le décret créant un tribunal mixte de commerce est contresigné par le garde des sceaux, ministre de la justice, et par le
-ministre chargé des départements d'outre-mer [*formalités*].
+Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau n° VII annexé au présent code.
+
+Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes dans les départements d'outre-
+mer sont fixés conformément au tableau IX annexé au présent code.
 
 **Liens relatifs à cet article**
 
@@ -14787,26 +18454,43 @@ ministre chargé des départements d'outre-mer [*formalités*].
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-###### Article R*921-8
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
 
-Les juges titulaires et les juges suppléants sont élus suivant les formes et conditions prévues aux articles 29 à 36, 40
-(2ème alinéa), 43 (1er et 2ème alinéas), 44 et 45 du décret n° 61-923 du 3 août 1961 relatif aux tribunaux de commerce et aux
-chambres de commerce et d'industrie.
+
+###### Article R*921-7
+
+Le nombre des juges élus de chaque tribunal mixte de commerce est fixé par décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Décret n°61-923 1961-08-03 art. 29, art. 30, art. 31, art. 32, art. 33, art. 34, art. 35, art. 36, art. 40 al. 2, art. 43 al. 1 et al. 2, art. 44 et art. 45
-	  - Décret n°61-923 du 3 août 1961 - art. 29 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 30 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 31 (M)
-	  - Décret n°61-923 du 3 août 1961 - art. 32 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 33 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 34 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 35 (Ab)
-	  - Décret n°61-923 du 3 août 1961 - art. 36 (Ab)
+	  - Décret n°74-198 1974-02-26 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R732-2 (V)
+
+
+###### Article R*921-8
+
+Les juges des tribunaux mixtes de commerce sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-20.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
@@ -14816,57 +18500,71 @@ chambres de commerce et d'industrie.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-###### Article R*921-10
-
-Par dérogation aux dispositions du deuxième alinéa de l'article 45 dudit décret du 3 août 1961, aucune élection ne peut avoir
-lieu dans les trois mois [*délai*] qui précèdent le renouvellement du mandat des juges titulaires et juges suppléants.
-
-**Liens relatifs à cet article**
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 	**Cite**:
 
-	  - Décret n°61-923 1961-08-03 art. 45 al. 2
+	  - Code de l'organisation judiciaire R413-1 à R413-20
+
+
+###### Article R*921-9
+
+Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R. 414-1 à R. 414-21 sont applicables aux juges
+élus des tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°74-198 1974-02-26 art. 10
+	  - Décret n°74-198 1974-02-26 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 	**Abrogé par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. R732-5 (V)
-
-
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.
-
-###### Article R*913-3
-
-L'élection des assesseurs des chambres commerciales a lieu aux conditions et suivant la procédure prévues pour l'élection des
-juges aux tribunaux de commerce.
-
-Toutefois, les dispositions des articles 39 et 40 du décret n° 91-923 du 3 août 1961 ne sont pas applicables.
-
-**Liens relatifs à cet article**
+	  - Code de commerce. - art. R732-4 (V)
 
 	**Cite**:
 
-	  - Décret n°61-923 1961-08-03 art. 39 et art. 40
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-4 (M)
+	  - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
+
+
+### TITRE III :  Dispositions particulières aux territoires d'outre-mer et aux collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
+
+###### Article R931-1
+
+Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises, le siège et le ressort des juridictions des territoires d'outre-mer et des collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte sont fixés conformément aux tableaux n°s X et XI annexés au présent
+code.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1924-06-01 art. 26
+	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
 
 
 # Annexes
@@ -14925,5 +18623,18 @@ Marseille
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'organisation judiciaire R623-1
+
+
+###### Article Annexe Tableau VII
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
