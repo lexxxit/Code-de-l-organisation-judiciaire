@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-03-18
+Version Consolidée au 1979-05-16
 
 # Partie législative ancienne
 
@@ -1677,6 +1677,41 @@ Code civil, notamment par les articles 247 et suivants et l'article 298 de ce co
 
 	  - Code civil - art. 247 (M)
 	  - Code civil - art. 298 (M)
+
+
+##### Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales.
+
+###### Article L312-2
+
+Les tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention par application de la loi
+n° 68-1 du 2 janvier 1968 et des actions civiles en matière d'obtention végétales par application de la loi n° 70-489 du 11
+juin 1970 sont déterminés par un décret pris sur le rapport du garde des sceaux, ministre de la justice.
+
+Ce décret fixe également le ressort dans lequel ces juridictions exercent les attributions qui leur sont dévolues par ces
+lois.
+
+Le nombre des tribunaux de grande instance compétents pour connaître du contentieux civil créé en application de la loi du 11
+juin 1970 précitée ne peut être inférieur à dix.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-931 1979-05-14 art. 2 JORF 16 mai 1979
+
+	**Cite**:
+
+	  - Loi n°68-1 1968-01-02
+	  - Loi n°70-489 1970-06-11
+
+	**Anciens textes**:
+
+	  - Loi n°68-1 1968-01-02 art. 54 Loi 70-489 1970-06-11 art. 33
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
 
 ##### Section IV : Dispositions particulières aux professions juridiques et judiciaires.
