@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-01-26
+Version Consolidée au 1992-03-14
 
 # Partie législative ancienne
 
@@ -7565,7 +7565,8 @@ garde des sceaux, ministre de la justice.
 
 Le service de documentation et d'études établit deux bulletins mensuels, l'un pour les chambres civiles, l'autre pour la
 chambre criminelle dans lesquels sont insérés les arrêts de la Cour de cassation dont la publication est proposée par le
-président de chaque chambre. Le service établit des tables périodiques.
+président de chaque chambre. Sont également insérés dans le bulletin mensuel établi pour les chambres civiles les avis de la
+Cour de cassation dont la publication est décidée par le premier président. Le service établit des tables périodiques.
 
 Un arrêté du garde des sceaux, ministre de la justice, règle les modalités de diffusion des bulletins.
 
@@ -7581,7 +7582,7 @@ Un arrêté du garde des sceaux, ministre de la justice, règle les modalités d
 
 	**Modifié par**:
 
-	  - Décret n°84-134 1984-02-20 art. 1 JORF 25 fevrier 1984
+	  - Décret n°92-228 du 12 mars 1992 - art. 3 () JORF 14 mars 1992
 
 
 ###### Article R*131-18
@@ -7835,6 +7836,24 @@ les articles R15-7 à R15-16 du Code de procédure pénale.
 
 	  - Code de procédure pénale
 	  - Code de procédure pénale - art. 16-2
+
+
+### Titre V : Saisine pour avis de la Cour de cassation.
+
+###### Article R151-1
+
+Les dispositions réglementant la saisine pour avis de la Cour de cassation, prises en application des articles L. 151-1 à L.
+151-3, sont celles prévues au nouveau code de procédure civile, livre II, titre VII, chapitre VI.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 2 () JORF 14 mars 1992
 
 
 ## Livre II : La cour d'appel
