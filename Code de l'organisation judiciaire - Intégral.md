@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1991-12-19
+Version Consolidée au 1992-01-01
 
 # Partie législative ancienne
 
@@ -5264,21 +5264,31 @@ l'Etat.
 ###### Article L821-1
 
 Les greffiers des tribunaux de commerce sont des officiers publics et ministériels. Ils peuvent exercer leur profession à
-titre individuel ou sous forme de sociétés civiles professionnelles [*S.C.P.*].
+titre individuel, sous forme de sociétés civiles professionnelles ou sous forme de sociétés d'exercice libéral telles que
+prévues par la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
+soumises à un statut législatif ou réglementaire ou dont le titre est protégé. Ils peuvent aussi être membres d'un groupement
+d'intérêt économique ou d'un groupement européen d'intérêt économique ou associés d'une société en participation régie par le
+titre II de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
+soumises à un statut législatif ou réglementaire ou dont le titre est protégé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+	  - Loi n°90-1258 1990-12-31
 
 	**Modifié par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Loi n°90-1259 du 31 décembre 1990 - art. 61 () JORF 5 janvier 1991 en vigueur le 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -7972,11 +7982,8 @@ les lois et règlements.
 
 ###### Article R*212-4
 
-L'assemblée des chambres connaît des demandes en annulation de l'élection des bâtonniers ou des membres des conseils de
-l'ordre et de recours dirigés contre les décisions ou délibérations de ces conseils [*compétence*].
-
-Elle reçoit le serment des magistrats et procède à l'installation des membres de la cour et du parquet général ainsi que du
-greffier en chef.
+L'assemblée des chambres reçoit le serment des magistrats et procède à l'installation des membres de la cour et du parquet
+général, ainsi que du greffier en chef.
 
 A Paris, les attributions conférées par le présent article à l'assemblée de ces chambres sont exercées par les trois
 premières chambres de la cour.
@@ -7997,10 +8004,25 @@ chambres.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 275 () JORF 28 novembre 1991 en vigueur le 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-10 (V)
+
 
 ###### Article R*212-5
 
 En matière civile, les renvois après cassation d'un arrêt sont portés aux audiences solennelles.
+
+Le contentieux des élections au Conseil national des barreaux ou au conseil de l'ordre ou de celles des bâtonniers, ainsi que
+les recours dirigés contre les décisions ou délibérations de ces conseils sont portés aux audiences solennelles.
 
 Ces audiences se tiennent devant deux chambres sous la présidence du premier président.
 
@@ -8016,6 +8038,10 @@ chambre civile le service de ces audiences.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 276 () JORF 28 novembre 1991 en vigueur le 1er janvier 1992
 
 
 ###### Article R*212-6
@@ -18423,15 +18449,25 @@ président du tribunal de commerce. Elle est conduite par le procureur de la Ré
 Un ou plusieurs inspecteurs sont désignés pour chaque mission par le garde des sceaux, ministre de la justice, parmi les
 greffiers des tribunaux de commerce en activité ou honoraires.
 
+Les greffiers ainsi désignés sont choisis sur une liste comprenant quarante noms au moins, établie avant le début de chaque
+année par le bureau du Conseil national des greffiers des tribunaux de commerce.
+
+Avant le début de chaque année, le bureau du conseil national adresse également au garde des sceaux, ministre de la justice,
+la liste des greffiers proposés pour faire l'objet d'une inspection périodique au cours de l'année suivante.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
+	  - Décret n°91-743 du 31 juillet 1991 - art. 1 () JORF 1er août 1991 en vigueur le 1er janvier 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
 
 	**Cité par**:
 
@@ -18446,9 +18482,12 @@ greffiers des tribunaux de commerce en activité ou honoraires.
 
 Les inspecteurs disposent, dans l'exécution de leur mission, d'un pouvoir général d'investigation et de contrôle.
 
-Ils peuvent se faire assister d'un expert-comptable et d'un commissaire aux comptes. Le personnel du greffe inspecté doit
-répondre aux questions qui lui sont posées par les inspecteurs et doit leur fournir toutes informations utiles à
-l'accomplissement de leur mission.
+Ils peuvent se faire assister d'un expert-comptable et d'un commissaire aux comptes ; les frais occasionnés par cette
+assistance sont avancés par le Conseil national des greffiers des tribunaux de commerce ; ils sont recouvrés sur le greffier
+du tribunal de commerce inspecté si celui-ci est l'objet d'une sanction disciplinaire.
+
+Le personnel du greffe inspecté doit répondre aux questions qui lui sont posées par les inspecteurs et doit leur fournir
+toutes informations utiles à l'accomplissement de leur mission.
 
 **Liens relatifs à cet article**
 
@@ -18456,9 +18495,9 @@ l'accomplissement de leur mission.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
+	  - Décret n°91-743 du 31 juillet 1991 - art. 2 () JORF 1er août 1991 en vigueur le 1er janvier 1992
 
 	**Nouveaux textes**:
 
