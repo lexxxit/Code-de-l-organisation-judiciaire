@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-02-16
+Version Consolidée au 2002-02-20
 
 # Partie législative ancienne
 
@@ -15496,6 +15496,28 @@ tableau XII annexé au présent code.
 	  - Décret n°93-1361 du 30 décembre 1993 - art. 1 () JORF 31 décembre 1993 en vigueur le 1er janvier 1994
 
 
+##### Section IX : Dispositions particulières en matière de marque communautaire
+
+###### Article R*312-10
+
+Toutes les actions et demandes en matière de marque communautaire prévues par l'article L. 717-4 du code de la propriété
+intellectuelle sont portées devant le tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L717-4 (V)
+
+
 ##### Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires
 
 ###### Article R*312-11
@@ -27812,6 +27834,27 @@ affaires mentionnées à l'article L. 312-1.
 	  - Code de l'organisation judiciaire L312-1
 
 
+###### Article R931-10-2
+
+Les dispositions de l'article R. 312-10 sont applicables en Polynésie française, dans les îles Wallis et Futuna et en
+Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R312-10
+
+
 ##### Sous-section II : Organisation.
 
 ###### Article R931-11
@@ -29313,6 +29356,26 @@ françaises les juridictions de l'ordre judiciaire ayant leur siège à Saint-De
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
+###### Article R935-2
+
+Les dispositions de l'article R. 312-10 sont applicables dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R312-10
+
+
 ### Titre IV : Dispositions particulières à Mayotte
 
 #### Chapitre Ier : Dispositions générales.
@@ -30412,6 +30475,34 @@ affaires mentionnées à l'article L.312-1.
 	**Abrogé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R943-18-1
+
+Les dispositions de l'article R. 312-10 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-3 (Ab)
 
 	**Cite**:
 
