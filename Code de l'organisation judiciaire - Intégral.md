@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2003-09-15 00:00:01 +0200
+Version Consolidée au 2003-09-27
 
 # Partie législative ancienne
 
@@ -8254,32 +8254,6 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
-
-##### Section VI : Les secrétariats-greffes des juridictions.
-
-###### Article L931-17
-
-Le service des secrétariats-greffes de la cour d'appel et du tribunal de première instance est assuré par des fonctionnaires
-de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
-territoriaux ou des agents territoriaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
 #### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
 
 ##### Section II : Le tribunal du travail
@@ -8936,6 +8910,34 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ##### Section VI : Les secrétariats-greffes des juridictions.
 
+###### Article L931-17
+
+Le service des secrétariats-greffes de la cour d'appel, du tribunal de première instance et de la juridiction de proximité
+est assuré par des fonctionnaires de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des
+fonctionnaires des cadres territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L533-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L553-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L563-1 (V)
+
+
 ###### Article L931-18
 
 Les fonctions de greffier du tribunal de première instance, du tribunal du travail, du tribunal mixte de commerce et du
@@ -9335,6 +9337,52 @@ localement.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-9 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-18 (V)
+
+
+##### Section I bis : La juridiction de proximité
+
+###### Article L932-9-1
+
+Les articles L. 331-1, L. 331-2 à l'exception de son dernier alinéa, les articles L. 331-4 à L. 331-9 sont applicables en
+Nouvelle-Calédonie et en Polynésie française.
+
+Pour leur application dans ces collectivités, la somme de "1 500 euros" prévue à l'article L. 331-2 est remplacée par sa
+contrepartie en monnaie locale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
+	  - Code de l'organisation judiciaire L331-1, L331-2, L331-4 à L331-9
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-13 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-14 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-15 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-16 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-17 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-18 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-29 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-30 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-31 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-32 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-33 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-34 (VT)
 
 
 ##### Section 2 : Le tribunal du travail
@@ -11375,6 +11423,46 @@ cour d'appel et désigné par le procureur général.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-18 (V)
 
 
+##### Section II bis : La juridiction de proximité
+
+###### Article L934-8-1
+
+Les articles L. 331-1, L. 331-2 à l'exception de son dernier alinéa, les articles L. 331-4 à L. 331-9 sont applicables dans
+les îles Wallis et Futuna.
+
+Pour leur application dans cette collectivité, la somme de "1 500 euros" prévue à l'article L. 331-2 est remplacée par sa
+contrepartie en monnaie locale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
+	  - Code de l'organisation judiciaire L331-1, L331-2, L331-4 à L331-9
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-19 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-20 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-21 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-22 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-23 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-24 (VT)
+
+
 ##### Section III : Les juridictions des mineurs.
 
 ###### Article L934-9
@@ -12569,6 +12657,32 @@ applicables à Mayotte.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
+
+
+#### Chapitre III bis : La juridiction de proximité
+
+###### Article L943-12-1
+
+Les articles L. 331-1 à L. 331-9 sont applicables à Mayotte.
+
+Pour leur application à Mayotte, la somme de "1 500 Euros" prévue à l'article L. 331-2 est remplacée par la somme de "250
+Euros".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
+	  - Code de l'organisation judiciaire L331-1 à L331-9, L331-2
 
 
 #### Chapitre IV : Les juridictions des mineurs.
