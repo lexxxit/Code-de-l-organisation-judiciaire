@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-18
 
 # Partie législative ancienne
 
@@ -4263,18 +4263,19 @@ au moins à l'avance, à la mairie par voie d'affiches, en vue de procéder à l
 [*mode*] secret et à la majorité relative, des deux membres titulaires et de deux suppléants de chaque catégorie et, s'il y a
 lieu, de chaque section devant composer le tribunal paritaire.
 
+Le droit de vote peut également être exercé par correspondance dans des conditions fixées par décret en Conseil d'Etat.
+
 Chacun des bailleurs et preneurs ne peut exercer son droit de vote que dans une seule commune.
 
 Les convocations sont faites à la diligence du préfet. Le préfet peut fixer les heures d'ouverture et de clôture du scrutin.
 
 Avant l'ouverture du scrutin, il est procédé à la désignation d'un bureau composé [*composition*] du maire ou d'un adjoint,
 président, et de deux membres. Ce bureau procède aux opérations de dépouillement dans les mêmes conditions que pour les
-élections municipales et sous la responsabilité du maire ou de son adjoint.
-
-Les résultats, ainsi que les feuilles de dépouillement, les bulletins de vote et les enveloppes sont transmis sur-le-champ au
-chef-lieu du département où il est procédé à la vérification des opérations électorales par une commission présidée par le
-préfet ou son représentant assisté d'un magistrat désigné par le premier président de la cour d'appel et de cinq membres
-désignés par les organisations syndicales agricoles proportionnellement à leur importance.
+élections municipales et sous la responsabilité du maire ou de son adjoint.    Les résultats, ainsi que les feuilles de
+dépouillement, les bulletins de vote et les enveloppes sont transmis sur-le-champ au chef-lieu du département où il est
+procédé à la vérification des opérations électorales par une commission présidée par le préfet ou son représentant assisté
+d'un magistrat désigné par le premier président de la cour d'appel et de cinq membres désignés par les organisations
+syndicales agricoles proportionnellement à leur importance.
 
 La composition des tribunaux paritaires est affichée au greffe du tribunal [*délai*] cinq jours francs au moins avant la
 première audience de la session.
@@ -4295,7 +4296,7 @@ instruites et jugées comme en matière d'élections municipales.
 
 	**Modifié par**:
 
-	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 23 () JORF 18 janvier 2002
 
 
 ###### Article L442-4
