@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-03-10
 
 # Partie législative ancienne
 
@@ -860,11 +860,11 @@ Les modalités d'application du présent titre et du titre II ci-dessus sont fix
 
 ### Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation
 
-#### Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire.
+#### Chapitre Ier : La commission nationale de réparation des détentions.
 
 ###### Article L141-1
 
-Il y a auprès de la Cour de cassation une commission juridictionnelle chargée de statuer sur les demandes d'indemnité
+Il y a auprès de la Cour de cassation une commission juridictionnelle chargée de statuer sur les demandes de réparation
 présentées par certaines personnes ayant fait l'objet, dans les conditions prévues à l'article 149 du code de procédure
 pénale, d'une détention provisoire.
 
@@ -875,6 +875,15 @@ pénale, d'une détention provisoire.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 126 X 1°, 2° JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
@@ -883,11 +892,15 @@ pénale, d'une détention provisoire.
 
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
 
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
+
 
 ###### Article L141-2
 
 Les règles concernant la compétence et la composition de la commission mentionnée à l'article précédent, ainsi que celles qui
-sont relatives au ministère public près cette commission, sont fixées par les articles 149-1 et 149-2 du Code de procédure
+sont relatives au ministère public près cette commission, sont fixées par les articles 149-1 à 149-4 du Code de procédure
 pénale.
 
 **Liens relatifs à cet article**
@@ -897,15 +910,26 @@ pénale.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 149-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
-	  - Code de l'organisation judiciaire L141-1
+	  - Loi n°2004-204 2004-03-09 art. 126 X 1°, 3° JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
 	  - Code de procédure pénale 149-1 et 149-2
+
+	**Cite**:
+
+	  - Code de procédure pénale 149-1 à 149-4
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
 
 
 #### Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale.
@@ -2559,28 +2583,6 @@ degré établies dans son ressort.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
 
 
-##### Sous-section IV bis : Composition des audiences pénales.
-
-###### Article L311-15-1
-
-La composition prévisionnelle des audiences pénales est déterminée par le président du tribunal et le procureur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 131 () JORF 10 mars 2004
-
-
 ##### Section IV : Les chambres détachées.
 
 ###### Article L311-16
@@ -3565,6 +3567,9 @@ En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de
 fonctions de ce juge sont exercées par un juge du tribunal d'instance, désigné à cet effet par ordonnance prise par le
 président du tribunal de grande instance.
 
+Le juge d'instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de proximité lorsque aucun juge
+de proximité n'a été affecté au sein de la juridiction de proximité.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3572,9 +3577,17 @@ président du tribunal de grande instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 146 () JORF 10 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L232-2 (VT)
 
 	**Cité par**:
 
