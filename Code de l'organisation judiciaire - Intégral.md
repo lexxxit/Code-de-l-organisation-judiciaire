@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1999-12-29
+Version Consolidée au 2000-06-16
 
 # Partie législative ancienne
 
@@ -2081,6 +2081,24 @@ degré établies dans son ressort.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-3 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
+
+
+##### Sous-section IV bis : Composition des audiences pénales.
+
+###### Article L311-15-1
+
+La composition prévisionnelle des audiences pénales est déterminée par le président du tribunal et le procureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 78 () JORF 16 juin 2000
 
 
 ##### Section IV : Les chambres détachées.
@@ -4939,14 +4957,12 @@ En cas d'empêchement momentané du titulaire, le tribunal de grande instance d�
 
 ###### Article L611-1
 
-Il y a dans chaque tribunal de grande instance un ou plusieurs juges d'instruction.
-
 Les juges d'instruction exercent leur activité au siège du tribunal de grande instance auquel ils appartiennent. Toutefois,
 un décret en Conseil d'Etat peut les autoriser à exercer leur activité dans une commune du ressort de leur tribunal autre que
 celle du siège de la juridiction.
 
 Les règles concernant les conditions de nomination et les attributions du juge d'instruction sont fixées par les articles 49
-à 51 et 79 et suivants du Code de procédure pénale.
+à 51 et 79 et suivants du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -4957,7 +4973,11 @@ Les règles concernant les conditions de nomination et les attributions du juge 
 
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 91 (V) JORF 3 juillet 1998
+	  - Loi n°2000-516 du 15 juin 2000 - art. 47 () JORF 16 juin 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
@@ -4968,6 +4988,10 @@ Les règles concernant les conditions de nomination et les attributions du juge 
 
 	  - CODE DE PROCEDURE PENALE - art. 79 (V)
 	  - Code de procédure pénale 49 à 51, 79
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
 
 
 #### Chapitre II : La chambre de l'instruction.
