@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-12-30
+Version Consolidée au 1982-05-07
 
 # Partie législative ancienne
 
@@ -2119,35 +2119,6 @@ Comme il est dit à l'article 633 du code du commerce : ...
 	  - Code de commerce 633
 
 
-###### Article L411-5
-
-Les tribunaux de commerce [*compétence*] connaissent aussi :
-
-1° Dans les conditions prévues à l'article L. 517-1 du code du travail des actions [*en justice*] contre les facteurs, commis
-des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés ;
-
-2° Des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics ;
-
-3° Des billets à ordre lorsque ceux-ci portent en même temps des signatures de personnes négociantes et de personnes non
-négociantes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Code de commerce 634
-	  - Code de commerce - art. 634 (Ab)
-	  - Code de commerce - art. 637 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L517-1 (P)
-
-
 ###### Article L411-8
 
 Conformément à l'article 5 de la loi n° 67-563 du 13 juillet 1967 le tribunal de commerce est le tribunal compétent pour
@@ -2272,6 +2243,38 @@ surveillance.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'organisation judiciaire L921-4 (Départements d'outre-mer)
+
+
+###### Article L411-5
+
+Les tribunaux de commerce [*compétence*] connaissent aussi :
+
+1° [*abrogé*] ;
+
+2° Des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics ;
+
+3° Des billets à ordre lorsque ceux-ci portent en même temps des signatures de personnes négociantes et de personnes non
+négociantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Modifié par**:
+
+	  - Loi n°82-372 du 6 mai 1982 - art. 37 () JORF 7 mai 1982
+
+	**Abrogé par**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Anciens textes**:
+
+	  - Code de commerce 634
+	  - Code de commerce - art. 634 (Ab)
+	  - Code de commerce - art. 637 (Ab)
 
 
 ###### Article L411-6
