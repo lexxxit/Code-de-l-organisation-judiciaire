@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1984-01-01
+Version Consolidée au 1984-02-25
 
 # Partie législative ancienne
 
@@ -5496,6 +5496,176 @@ paraissent de nature à remédier aux difficultés constatées.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-10 (V)
+
+
+###### Article R*131-14
+
+Les auditeurs à la Cour de cassation exercent des attributions administratives auprès de la Cour de cassation. 
+
+Ils participent aux travaux d'aide à la décision tels que définis par le premier président ainsi qu'à ceux du service de
+documentation et d'études, notamment en ce qui concerne l'informatique. 
+
+Ils peuvent assister aux audiences des chambres. 
+
+Sur la demande du procureur général et avec leur accord, le premier président peut déléguer des auditeurs à la Cour de
+cassation au parquet général, pour y exercer des fonctions autres que celles du ministère public. Cette délégation est
+effectuée pour une durée d'un an renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1208 1967-12-22 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°84-134 1984-02-20 art. 2 JORF 25 février 1984
+
+
+###### Article R*131-15
+
+Le service de documentation et d'études de la Cour de cassation est placé sous l'autorité du premier président. 
+
+Son fonctionnement est assuré, sous la direction d'un conseiller à la Cour de cassation désigné par le premier président
+après avis du procureur général, par les auditeurs à la Cour de cassation dont l'effectif est fixé par décret. 
+
+Les conseillers référendaires affectés à une chambre peuvent également, sur décision du premier président, participer aux
+travaux de ce service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1208 1967-12-22 art. 10-1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°84-134 1984-02-20 art. 1 et art. 3 JORF 25 février 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R433-1 (V)
+
+
+###### Article R*131-16
+
+Le service de documentation et d'études de la Cour de cassation rassemble les éléments d'information utiles aux travaux de la
+Cour et procède aux recherches nécessaires [*attributions*]. Il assure le classement méthodique de tous les pourvois dès le
+dépôt du mémoire ampliatif. Il analyse et met en mémoire informatique les moyens de cassation aux fins, notamment, de
+faciliter les rapprochements entre les affaires en cours. 
+
+Le service participe à la conception des applications informatiques à la Cour de cassation et administre les moyens mis en
+oeuvre à cet effet. 
+
+Le service tient un fichier central, contenant sous une série unique de rubriques, d'une part, les sommaires de toutes les
+décisions rendues par la Cour de cassation, d'autre part, les sommaires des décisions les plus importantes rendues par les
+autres juridictions. A cet effet, les décisions judiciaires présentant un intérêt particulier sont communiquées au service,
+dans les conditions fixées par un arrêté du garde des sceaux, ministre de la justice, par les premiers présidents des cours
+d'appel, ou directement, par les présidents ou juges assurant la direction des diverses juridictions du premier degré. 
+
+Un arrêté du garde des sceaux, ministre de la justice, fixe les conditions dans lesquelles la documentation du service est
+mise à la disposition des juridictions de l'ordre judiciaire et de l'ordre administratif, ainsi que des services relevant du
+garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1208 1967-12-22 art. 10-2
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°84-134 1984-02-20 art. 1 et art. 4 JORF 25 février 1984
+
+
+###### Article R*131-17
+
+Le service de documentation et d'études établit deux bulletins mensuels, l'un pour les chambres civiles, l'autre pour la
+chambre criminelle dans lesquels sont insérés les arrêts de la Cour de cassation dont la publication est proposée par le
+président de chaque chambre. Le service établit des tables périodiques.
+
+Un arrêté du garde des sceaux, ministre de la justice, règle les modalités de diffusion des bulletins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1208 1967-12-22 art. 10-3
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°84-134 1984-02-20 art. 1 JORF 25 fevrier 1984
+
+
+###### Article R*131-18
+
+Le service peut, moyennant le paiement de participations versées au titre d'offres de concours, communiquer des fiches
+analytiques des décisions classées par ses soins ainsi que le texte de ces décisions.
+
+Les sommes ainsi versées donnent lieu à un rattachement au budget de la justice par la procédure du fonds de concours et sont
+affectées aux dépenses de fonctionnement de ce service.
+
+Un arrêté du garde des sceaux, ministre de la justice, et du ministre de l'économie et des finances détermine les conditions
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°84-134 1984-02-20 art. 1 JORF 25 février 1984
+
+
+###### Article R*131-19
+
+La direction de la bibliothèque est assurée, sous le contrôle du premier président, par un conservateur, nommé dans les
+conditions prévues par le décret n° 69-1265 du 31 décembre 1969 modifié portant statut du personnel scientifique des
+bibliothèques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°69-1265 du 31 décembre 1969
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°84-134 1984-02-20 art. 5 JORF 25 février 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-9 (V)
 
 
 #### Chapitre II : Le ministère public
