@@ -42,17 +42,17 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Audience ordinaire.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Noire à grandes manches.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 De soie noire.
 
@@ -80,7 +80,7 @@ Blanche plissée.
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience des chambres réunies et lors des cérémonies publiques.
 
@@ -96,17 +96,17 @@ avocat général et les présidents de chambre : garniture de fourrure.
 Comme ci-dessus.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Comme ci-dessus (pas d'épitoge pour le premier président et le procureur général).
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De soie rouge à glands d'or.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -125,6 +125,11 @@ CONSEILLERS RÉFÉRENDAIRES
 Même costume que celui des conseillers de la cour d'appel
 
 **Magistrats de la cour d'appel et membres du parquet près ladite cour**
+
+**
+**
+
+**
 
 <table>
   <tbody>
@@ -184,12 +189,12 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De soie rouge avec franges.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De velours noir avec : quatre galons d'or pour le premier président et le procureur général ; trois galons d'or pour les
 présidents de chambre et les avocats généraux ; deux galons d'or pour les conseillers et les substituts généraux.
@@ -218,7 +223,7 @@ chambre et les avocats généraux).
 Comme ci-dessus.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -242,9 +247,13 @@ Comme ci-dessus.
   </tbody>
 </table>
 
-**Magistrats du tribunal de grande instance et du tribunal d'instance
+**Magistrats du tribunal supérieur d'appel et membres du parquet près ledit tribunal**
 
-et membres du parquet près le tribunal de grande instance**
+Président du tribunal supérieur d'appel et procureur de la République près cette juridiction, même costume que celui,
+respectivement, des conseillers de la cour d'appel et des substituts généraux. Vice-présidents, juges au tribunal supérieur
+d'appel et substituts du procureur de la République près cette juridiction, même costume que celui des magistrats du tribunal
+de grande instance et du tribunal d'instance et des membres du parquet près le tribunal de grande instance. Magistrats du
+tribunal de grande instance et du tribunal d'instance et membres du parquet près le tribunal de grande instance
 
 <table>
   <tbody>
@@ -284,12 +293,12 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience ordinaire.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Noire à grandes manches.
 
@@ -304,7 +313,7 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
       </td><td width="14%" valign="top">
 
 De laine noire avec un galon d'argent (double galon d'argent pour le président et le procureur de la République).
@@ -317,12 +326,12 @@ Blanche plissée.
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience solennelle et cérémonies publiques.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus (robe rouge à grandes manches pour le président du tribunal de grande instance de Paris et le procureur de la
 République près cette juridiction).
@@ -333,7 +342,7 @@ République près cette juridiction).
 Comme ci-dessus.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -390,17 +399,17 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 Noire à grandes manches.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 De soie noire.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 De soie bleu-clair avec franges.
 
@@ -410,7 +419,7 @@ De soie bleu-clair avec franges.
 De laine noire avec galon d'argent.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 Blanche plissée.
 
@@ -420,6 +429,11 @@ Blanche plissée.
 </table>
 
 **Président et juges du tribunal de commerce**
+
+**
+**
+
+**
 
 <table>
   <tbody>
@@ -452,7 +466,7 @@ Noire à grandes manches avec revers de velours (pour le président du tribunal 
 solennelles et cérémonies publiques : robe rouge avec des parements de velours noir).
 
 </td>
-      <td width="25%" valign="top">
+      <td valign="top" width="25%">
 
 De soie noire.
 
@@ -471,27 +485,32 @@ Blanche plissée.
   </tbody>
 </table>
 
-**
+**Membre des tribunaux des juridictions de sécurité sociale
 
-**
+(Décret n° 2003-614 du 3 juillet 2003, art. 16)**
 
-**Membre des commissions de première instance de sécurité sociale**
+Les assesseurs des juridictions de sécurité sociale portent, soit à l'audience, soit dans les cérémonies publiques, suspendue
+à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en métal vert et noir. D'un module de 45 mm
+sur 65 mm, elle porte à l'avers la mention République française » et la mention du nom de la juridiction à laquelle ils
+appartiennent entourant le motif d'une balance. La médaille est suspendue à un ruban d'une largeur de 35 mm, divisé dans le
+sens vertical en deux parties égales, noire et verte.
 
-Insigne métallique, dont les caractéristiques sont fixées par le garde des sceaux, ministre de la justice, et le ministre
-chargé de la sécurité sociale.
+Les présidents de tribunal du contentieux de l'incapacité, lorsqu'ils ne sont pas magistrats, portent cette médaille
+suspendue à un ruban d'une largeur de 35 mm de couleur verte.
 
 **Membres des conseils de prud'hommes
 
-(Art. R. 514-3 du code du travail)**
+(Art. R. 512-12 du code du travail)**(Ancien art. R. 514-3 du code du travail)
 
-"Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
-en sautoir, une médaille signe de leurs fonctions. Cette médaille est en vermeil pour le président du conseil de prud'hommes
-et, à l'audience, pour le président du bureau de jugement ; elle est en argente pour les autres conseillers. D'un module de
-65 millimètres, elle porte à l'avers une tête symbolisant la République, placée de profil, tournée à droite et entourée de la
-mention "République française".
+(Décret n° 79-1022 du 23 novembre 1979, art. 1
+  <sup>er</sup> et 11.) - Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies
+publiques, suspendue à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré pour le
+président du conseil de prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est en bronze argenté
+pour les autres conseillers. D'un module de 65 mm, elle porte à l'avers la mention "République française" et une tête
+symbolisant la République, placée de profil, tournée à droite.
 
-Au moyen d'une attache d'une largeur de 75 millimètres portant des rameaux de laurier et d'olivier, la médaille est suspendue
-à un ruban d'une largeur de 75 millimètres, divisé dans le sens vertical en deux parties égales, rouge et bleue."
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
 
 **Greffiers en chef, greffiers et secrétaires-greffiers**
 
@@ -533,19 +552,19 @@ Même costume que les conseillers de la Cour de cassation, sans or à la toque. 
     </tr>
     <tr>
       <td valign="top" width="33%">
-      </td><td width="33%" valign="top">
+      </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Cour d'appel.
 
@@ -562,25 +581,25 @@ Même costume que les conseillers de la cour d'appel, sans galon à la toque.
 </td>
     </tr>
     <tr>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
       </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
     <tr>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Tribunal de grande instance et tribunal d'instance.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Greffier en chef.
 
@@ -593,12 +612,12 @@ Même costume que les juges du tribunal de grande instance, sans galon à la toq
     </tr>
     <tr>
       <td valign="top" width="33%">
-      </td><td width="33%" valign="top">
+      </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Robe noire sans simarre et toque noire.
 
@@ -610,12 +629,12 @@ Robe noire sans simarre et toque noire.
 Tribunal de commerce.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Greffier.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Même costume que les juges consulaires, sans galon à la toque.
 
@@ -628,25 +647,21 @@ Même costume que les juges consulaires, sans galon à la toque.
 Commis-greffier assermenté.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
   </tbody>
-</table>
+</table>****
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
 	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 3 JORF 28 juillet 1993
+	  - Décret n°2003-614 du 3 juillet 2003 (V)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: CODE DE L'ORGANISATION JUDICIAIRE. - art. R741-6 (M)
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)

@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2003-05-10
+Version Consolidée au 2003-07-05
 
 # Partie législative ancienne
 
@@ -21370,18 +21370,14 @@ l'élection.
 
 ### Titre V : Les juridictions de sécurité sociale
 
-#### Chapitre Ier : La commission de première instance de sécurité sociale
+#### Chapitre Ier : Le tribunal des affaires de sécurité sociale
 
 ###### Article R*451-1
 
-Les règles concernant la compétence, l'organisation et le fonctionnement de la commission de première instance de sécurité
-sociale [*contentieux*] sont fixées par les articles 7 à 13-1 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal des affaires de sécurité sociale sont
+fixées par les articles R. 142-8 à R. 142-14 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1291 1958-12-22 art. 7 à 13-1
 
 	**Anciens textes**:
 
@@ -21391,21 +21387,49 @@ sociale [*contentieux*] sont fixées par les articles 7 à 13-1 du décret n° 5
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-#### Chapitre II : Les commissions techniques de sécurité sociale
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
 
-##### Section I : Les commissions régionales
+	**Abrogé par**:
+
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale R142-8 à R142-14
+
+
+###### Article R*451-2
+
+Le siège et le ressort des tribunaux des affaires de sécurité sociale sont fixés conformément au tableau annexé au livre Ier
+du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+
+#### Chapitre II : Le contentieux technique
+
+##### Section I : Les tribunaux du contentieux de l'incapacité
 
 ###### Article R*452-1
 
-Les règles concernant la compétence, l'organisation et le fonctionnement des commissions régionales de sécurité sociale
-[*contentieux*] sont fixées par les  articles 29 à 32 et 50 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement des tribunaux du contentieux de l'incapacité sont
+fixées par les articles R. 143-1 à R. 143-5-3 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1291 1958-12-22 art. 29 à art. 32 et art. 50
 
 	**Anciens textes**:
 
@@ -21415,20 +21439,48 @@ Les règles concernant la compétence, l'organisation et le fonctionnement des c
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
 
-##### Section II : La commission nationale technique
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale R143-1 à R143-5-3
+
+
+###### Article R*452-1-1
+
+Le siège et le ressort des tribunaux du contentieux de l'incapacité sont fixés conformément au tableau annexé au livre Ier du
+code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+
+##### Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail
 
 ###### Article R*452-2
 
-Les règles relatives à la compétence, à l'organisation et au fonctionnement de la commission nationale technique de sécurité
-sociale sont fixées par les articles 38 à 40 et 50 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement de la Cour nationale de l'incapacité et de la
+tarification de l'assurance des accidents du travail sont fixées par les articles R. 143-15 à R. 143-20 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1291 1958-12-22 art. 38 à 40, art. 50
-	  - Décret n°58-1291 du 22 décembre 1958 - art. 50 (Ab)
 
 	**Anciens textes**:
 
@@ -21438,6 +21490,18 @@ sociale sont fixées par les articles 38 à 40 et 50 du décret n° 58-1291 du 2
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale R143-15 à R143-20
 
 
 ### Titre VI : Les prud'hommes pêcheurs
@@ -22387,10 +22451,18 @@ Les secrétaires-greffiers.
 
 Les costumes des magistrats de la Cour de cassation, de la cour d'appel, du tribunal de grande instance, du tribunal
 d'instance, des auditeurs de justice, des membres du tribunal de commerce, des greffiers en chef, greffiers et secrétaires-
-greffiers ainsi que les insignes portés par les membres des conseils de prud'hommes et des commissions de première instance
-de sécurité sociale sont définis dans l'annexe du présent code.
+greffiers ainsi que les insignes portés par les membres des conseils de prud'hommes et les assesseurs des juridictions de
+sécurité sociale sont définis dans l'annexe du présent code.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
 
 	**Liens**:
 
@@ -22404,10 +22476,6 @@ de sécurité sociale sont définis dans l'annexe du présent code.
 	**Cite**:
 
 	  - Code de l'organisation judiciaire Annexe tableau des costumes et insignes
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
 
 
 ### Titre V : Dispositions générales relatives au ministère public
@@ -28452,9 +28520,14 @@ L'audience solennelle prévue à l'article R. 711-2 est tenue chaque année pend
 
 ###### Article R*923-2
 
-Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité sociale, "les fonctions de secrétaire du
-tribunal des affaires de sécurité sociale sont assumées, dans le même département, par un fonctionnaire en activité ou
-honoraire de la direction départementale".
+Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité sociale, " Les attributions du directeur
+régional des affaires sanitaires et sociales sont, dans le département de la Réunion, exercées par le directeur
+départemental.
+
+Dans les départements mentionnés à l'article L. 751-1, les fonctions de secrétaire de tribunal des affaires de sécurité
+sociale et de tribunal du contentieux de l'incapacité sont assurées par un fonctionnaire des services déconcentrés exerçant,
+en matière de sécurité sociale, les missions qui, en métropole, sont dévolues aux directions régionales des affaires
+sanitaires et sociales ".
 
 **Liens relatifs à cet article**
 
@@ -28468,11 +28541,15 @@ honoraire de la direction départementale".
 
 	**Modifié par**:
 
-	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 15 () JORF 5 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R752-14 (M)
+	  - Code de la sécurité sociale. - art. R752-14
 
 
 ### Titre II : Dispositions particulières aux départements d'outre-mer
@@ -32372,17 +32449,17 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Audience ordinaire.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Noire à grandes manches.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 De soie noire.
 
@@ -32410,7 +32487,7 @@ Blanche plissée.
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience des chambres réunies et lors des cérémonies publiques.
 
@@ -32426,17 +32503,17 @@ avocat général et les présidents de chambre : garniture de fourrure.
 Comme ci-dessus.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Comme ci-dessus (pas d'épitoge pour le premier président et le procureur général).
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De soie rouge à glands d'or.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -32455,6 +32532,11 @@ CONSEILLERS RÉFÉRENDAIRES
 Même costume que celui des conseillers de la cour d'appel
 
 **Magistrats de la cour d'appel et membres du parquet près ladite cour**
+
+**
+**
+
+**
 
 <table>
   <tbody>
@@ -32514,12 +32596,12 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De soie rouge avec franges.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 De velours noir avec : quatre galons d'or pour le premier président et le procureur général ; trois galons d'or pour les
 présidents de chambre et les avocats généraux ; deux galons d'or pour les conseillers et les substituts généraux.
@@ -32548,7 +32630,7 @@ chambre et les avocats généraux).
 Comme ci-dessus.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -32572,9 +32654,13 @@ Comme ci-dessus.
   </tbody>
 </table>
 
-**Magistrats du tribunal de grande instance et du tribunal d'instance
+**Magistrats du tribunal supérieur d'appel et membres du parquet près ledit tribunal**
 
-et membres du parquet près le tribunal de grande instance**
+Président du tribunal supérieur d'appel et procureur de la République près cette juridiction, même costume que celui,
+respectivement, des conseillers de la cour d'appel et des substituts généraux. Vice-présidents, juges au tribunal supérieur
+d'appel et substituts du procureur de la République près cette juridiction, même costume que celui des magistrats du tribunal
+de grande instance et du tribunal d'instance et des membres du parquet près le tribunal de grande instance. Magistrats du
+tribunal de grande instance et du tribunal d'instance et membres du parquet près le tribunal de grande instance
 
 <table>
   <tbody>
@@ -32614,12 +32700,12 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience ordinaire.
 
 </td>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Noire à grandes manches.
 
@@ -32634,7 +32720,7 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
       </td><td width="14%" valign="top">
 
 De laine noire avec un galon d'argent (double galon d'argent pour le président et le procureur de la République).
@@ -32647,12 +32733,12 @@ Blanche plissée.
 </td>
     </tr>
     <tr>
-      <td width="14%" valign="top">
+      <td valign="top" width="14%">
 
 Audience solennelle et cérémonies publiques.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus (robe rouge à grandes manches pour le président du tribunal de grande instance de Paris et le procureur de la
 République près cette juridiction).
@@ -32663,7 +32749,7 @@ République près cette juridiction).
 Comme ci-dessus.
 
 </td>
-      <td valign="top" width="14%">
+      <td width="14%" valign="top">
 
 Comme ci-dessus.
 
@@ -32720,17 +32806,17 @@ CRAVATE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 Noire à grandes manches.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 De soie noire.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 De soie bleu-clair avec franges.
 
@@ -32740,7 +32826,7 @@ De soie bleu-clair avec franges.
 De laine noire avec galon d'argent.
 
 </td>
-      <td valign="top" width="20%">
+      <td width="20%" valign="top">
 
 Blanche plissée.
 
@@ -32750,6 +32836,11 @@ Blanche plissée.
 </table>
 
 **Président et juges du tribunal de commerce**
+
+**
+**
+
+**
 
 <table>
   <tbody>
@@ -32782,7 +32873,7 @@ Noire à grandes manches avec revers de velours (pour le président du tribunal 
 solennelles et cérémonies publiques : robe rouge avec des parements de velours noir).
 
 </td>
-      <td width="25%" valign="top">
+      <td valign="top" width="25%">
 
 De soie noire.
 
@@ -32801,27 +32892,32 @@ Blanche plissée.
   </tbody>
 </table>
 
-**
+**Membre des tribunaux des juridictions de sécurité sociale
 
-**
+(Décret n° 2003-614 du 3 juillet 2003, art. 16)**
 
-**Membre des commissions de première instance de sécurité sociale**
+Les assesseurs des juridictions de sécurité sociale portent, soit à l'audience, soit dans les cérémonies publiques, suspendue
+à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en métal vert et noir. D'un module de 45 mm
+sur 65 mm, elle porte à l'avers la mention République française » et la mention du nom de la juridiction à laquelle ils
+appartiennent entourant le motif d'une balance. La médaille est suspendue à un ruban d'une largeur de 35 mm, divisé dans le
+sens vertical en deux parties égales, noire et verte.
 
-Insigne métallique, dont les caractéristiques sont fixées par le garde des sceaux, ministre de la justice, et le ministre
-chargé de la sécurité sociale.
+Les présidents de tribunal du contentieux de l'incapacité, lorsqu'ils ne sont pas magistrats, portent cette médaille
+suspendue à un ruban d'une largeur de 35 mm de couleur verte.
 
 **Membres des conseils de prud'hommes
 
-(Art. R. 514-3 du code du travail)**
+(Art. R. 512-12 du code du travail)**(Ancien art. R. 514-3 du code du travail)
 
-"Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
-en sautoir, une médaille signe de leurs fonctions. Cette médaille est en vermeil pour le président du conseil de prud'hommes
-et, à l'audience, pour le président du bureau de jugement ; elle est en argente pour les autres conseillers. D'un module de
-65 millimètres, elle porte à l'avers une tête symbolisant la République, placée de profil, tournée à droite et entourée de la
-mention "République française".
+(Décret n° 79-1022 du 23 novembre 1979, art. 1
+  <sup>er</sup> et 11.) - Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies
+publiques, suspendue à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré pour le
+président du conseil de prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est en bronze argenté
+pour les autres conseillers. D'un module de 65 mm, elle porte à l'avers la mention "République française" et une tête
+symbolisant la République, placée de profil, tournée à droite.
 
-Au moyen d'une attache d'une largeur de 75 millimètres portant des rameaux de laurier et d'olivier, la médaille est suspendue
-à un ruban d'une largeur de 75 millimètres, divisé dans le sens vertical en deux parties égales, rouge et bleue."
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
 
 **Greffiers en chef, greffiers et secrétaires-greffiers**
 
@@ -32863,19 +32959,19 @@ Même costume que les conseillers de la Cour de cassation, sans or à la toque. 
     </tr>
     <tr>
       <td valign="top" width="33%">
-      </td><td width="33%" valign="top">
+      </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Cour d'appel.
 
@@ -32892,25 +32988,25 @@ Même costume que les conseillers de la cour d'appel, sans galon à la toque.
 </td>
     </tr>
     <tr>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
       </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
     <tr>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Tribunal de grande instance et tribunal d'instance.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Greffier en chef.
 
@@ -32923,12 +33019,12 @@ Même costume que les juges du tribunal de grande instance, sans galon à la toq
     </tr>
     <tr>
       <td valign="top" width="33%">
-      </td><td width="33%" valign="top">
+      </td><td valign="top" width="33%">
 
 Secrétaire-greffier.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Robe noire sans simarre et toque noire.
 
@@ -32940,12 +33036,12 @@ Robe noire sans simarre et toque noire.
 Tribunal de commerce.
 
 </td>
-      <td width="33%" valign="top">
+      <td valign="top" width="33%">
 
 Greffier.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Même costume que les juges consulaires, sans galon à la toque.
 
@@ -32958,28 +33054,24 @@ Même costume que les juges consulaires, sans galon à la toque.
 Commis-greffier assermenté.
 
 </td>
-      <td valign="top" width="33%">
+      <td width="33%" valign="top">
 
 Robe noire sans simarre et toque noire.
 
 </td>
     </tr>
   </tbody>
-</table>
+</table>****
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
 	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 3 JORF 28 juillet 1993
+	  - Décret n°2003-614 du 3 juillet 2003 (V)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: CODE DE L'ORGANISATION JUDICIAIRE. - art. R741-6 (M)
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article Annexe Tableau II
