@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-09-10
 
 # Partie législative ancienne
 
@@ -1843,7 +1843,7 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - Code de l'organisation judiciaire L223-2
 
 
-## Livre III : Le tribunal de grande instance et le tribunal d'instance
+## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité
 
 ### Titre Ier : Le tribunal de grande instance
 
@@ -1865,6 +1865,18 @@ Il y a dans le ressort de chaque cour d'appel des juridictions de première inst
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-2 (V)
 
 
 ###### Article L311-2
@@ -1924,6 +1936,18 @@ en agriculture (art. 18 du décret n° 69-119 du 1er février 1969) ;
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-4 (V)
+
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 33
@@ -1941,6 +1965,14 @@ membres par le présent code et par les textes particuliers à chaque matière.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
@@ -1970,12 +2002,28 @@ toute nature causés par un véhicule quelconque".
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 
 ##### Section II : Organisation.
 
 ###### Article L311-5
 
 Le siège et le ressort des tribunaux de grande instance sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1990,7 +2038,15 @@ Le siège et le ressort des tribunaux de grande instance sont fixés par décret
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 5 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-1 (V)
 
 
 ###### Article L311-6
@@ -2011,6 +2067,18 @@ définis aux articles L. 311-10 à L. 311-12 ci-dessous.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-1 (V)
 
 	**Cite**:
 
@@ -2036,11 +2104,31 @@ Les jugements [*des tribunaux de grande instance*] sont rendus par des magistrat
 
 	  - Loi n°1883-08-30 art. 4
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
+
 
 ###### Article L311-8
 
 Sauf disposition contraire, les jugements sont rendus par trois juges au moins. Lorsque les membres d'un tribunal [*de grande
 instance*] siégeant dans une affaire sont en nombre pair, le dernier des juges dans l'ordre du tableau doit s'abstenir.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2052,6 +2140,20 @@ instance*] siégeant dans une affaire sont en nombre pair, le dernier des juges 
 	**Anciens textes**:
 
 	  - Loi n°1883-08-30 art. 4
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-7 (V)
 
 
 ###### Article L311-9
@@ -2070,6 +2172,18 @@ instance.
 
 	  - Loi AN12-VE-22 22 ventôse an XII art. 30 Décret 1806-03-30 art. 49
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-4 (V)
+
 
 ##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.
 
@@ -2087,6 +2201,15 @@ saisi, soit d'office.
 Toutefois, les dispositions du présent article ne sont pas applicables en matières disciplinaires ou relatives à l'état des
 personnes, sous réserve des dispositions particulières aux matières de la compétence du juge aux affaires familiales.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 311-10 du code de l'organisation judiciaire est abrogé à l'exception
+de ses premier et troisième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant refonte de la
+partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2100,13 +2223,30 @@ personnes, sous réserve des dispositions particulières aux matières de la com
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 50 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-9 (V)
 
 
 ###### Article L311-10-1
 
 Le tribunal de grande instance connaît à juge unique des litiges auxquels peuvent donner lieu les accidents de la circulation
 terrestre. Le juge peut toujours renvoyer une affaire en l'état à la formation collégiale.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2121,11 +2261,19 @@ terrestre. Le juge peut toujours renvoyer une affaire en l'état à la formation
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-8 (V)
 
 
 ###### Article L311-11
@@ -2136,6 +2284,14 @@ et actes publics étrangers ainsi que des sentences arbitrales françaises ou é
 Il connaît également à juge unique des ventes de biens de mineurs et de celles qui leur sont assimilées.
 
 Le juge peut toujours renvoyer une affaire en l'état à la formation collégiale.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2150,7 +2306,15 @@ Le juge peut toujours renvoyer une affaire en l'état à la formation collégial
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-8 (V)
 
 
 ###### Article L311-12
@@ -2161,6 +2325,15 @@ cette délégation.
 
 Les incidents relatifs à la répartition des affaires sont tranchés sans recours par le président du tribunal de grande
 instance.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 311-12 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2175,7 +2348,16 @@ instance.
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-11 (V)
 
 
 ###### Article L311-12-1
@@ -2196,6 +2378,16 @@ Les décisions du juge de l'exécution, à l'exception des mesures d'administrat
 une formation de la cour d'appel qui statue à bref délai. L'appel n'est pas suspensif. Toutefois, le premier président de la
 cour d'appel peut ordonner qu'il soit sursis à l'exécution de la mesure.
 
+**Nota:**
+
+Ordonnance 2006-461 du 21 avril 2006 art. 25 : La présente ordonnance entre en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23.L'article 168 du décret 2006-936 du 27 juillet 2006 a fixé cette date au 1er
+janvier 2007.
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 311-12-1 du code de l'organisation judiciaire est abrogé à
+l'exception de ses quatrième et cinquième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant
+refonte de la partie réglementaire du code de l'organisation judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2203,14 +2395,18 @@ cour d'appel peut ordonner qu'il soit sursis à l'exécution de la mesure.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 8 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
 	**Cité par**:
 
 	  - Décret n°92-755 du 31 juillet 1992 - art. 8 (Ab)
 	  - Code du travail - art. L145-5 (AbD)
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 
 ###### Article L311-12-2
@@ -2225,21 +2421,37 @@ l'exécution.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 8 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-7 (V)
+
 
 ###### Article L311-13
 
 Les décisions relatives à la composition de la formation de jugement, prises en application des articles L. 311-10, L.
 311-10-1, L. 311-11 et L. 311-12-2, sont des mesures d'administration judiciaire non susceptibles de recours.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2254,13 +2466,23 @@ Les décisions relatives à la composition de la formation de jugement, prises e
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-10-1 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-2 (M)
 	  - Code de l'organisation judiciaire L311-10, L311-10-1, L311-11, L311-12-2
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-12 (V)
 
 
 ##### Sous-section IV : Le ministère public.
@@ -2277,9 +2499,21 @@ instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 39 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-6 (V)
 
 
 ###### Article L311-15
@@ -2297,6 +2531,18 @@ degré établies dans son ressort.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L122-2 (V)
 
 	**Cité par**:
 
@@ -2317,9 +2563,13 @@ La composition prévisionnelle des audiences pénales est déterminée par le pr
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 78 () JORF 16 juin 2000
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 131 () JORF 10 mars 2004
 
 
 ##### Section IV : Les chambres détachées.
@@ -2331,6 +2581,14 @@ Conseil d'Etat, pour juger dans leur ressort les affaires civiles et pénales.
 
 Les articles L. 311-6 à L. 311-9 sont applicables aux chambres détachées.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2338,9 +2596,18 @@ Les articles L. 311-6 à L. 311-9 sont applicables aux chambres détachées.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D212-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-18 (V)
 
 	**Cite**:
 
@@ -2353,6 +2620,14 @@ La présidence et le service des chambres détachées sont assurés, pour ce qui
 magistrats du siège, par les magistrats du tribunal de grande instance désignés à cet effet dans les formes prévues pour la
 nomination des magistrats du siège.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2360,9 +2635,13 @@ nomination des magistrats du siège.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 
 ###### Article L311-18
@@ -2374,6 +2653,14 @@ désormais de sa compétence, sans qu'il y ait lieu de renouveler les actes, for
 
 Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2381,9 +2668,17 @@ Les citations et assignations produisent cependant leurs effets ordinaires inter
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-18 (V)
 
 
 #### Chapitre II : Dispositions particulières à certaines matières
@@ -2406,6 +2701,15 @@ Il peut renvoyer à la formation collégiale du tribunal de grande instance au s
 juge aux affaires familiales. Les décisions relatives à la composition de la formation de jugement sont des mesures
 d'administration judiciaire non susceptibles de recours.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 312-1 du code de l'organisation judiciaire est abrogé à l'exception
+de la seconde phrase du cinquième alinéa qui est abrogée compter de la date d'entrée en vigueur du décret portant refonte de
+la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2415,12 +2719,22 @@ d'administration judiciaire non susceptibles de recours.
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 50 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 	**Anciens textes**:
 
 	  - Code civil - art. 247 (M)
 	  - Code civil - art. 298 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-9 (V)
 
 
 ###### Article L312-1-1
@@ -2431,6 +2745,14 @@ fixés par décret en Conseil d'Etat.
 
 Il existe un seul tribunal compétent par cour d'appel.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2438,9 +2760,18 @@ Il existe un seul tribunal compétent par cour d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 21 () JORF 5 mars 2002
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
 
 	**Cité par**:
 
@@ -2462,11 +2793,15 @@ lois.
 Le nombre des tribunaux de grande instance compétents pour connaître du contentieux civil créé en application de la loi du 11
 juin 1970 précitée ne peut être inférieur à dix.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-931 1979-05-14 art. 2 JORF 16 mai 1979
 
 	**Cite**:
 
@@ -2476,11 +2811,26 @@ juin 1970 précitée ne peut être inférieur à dix.
 	**Anciens textes**:
 
 	  - Loi n°68-1 1968-01-02 art. 54 Loi 70-489 1970-06-11 art. 33
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-5 al 3 et 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-10 (V)
 
 
 ##### Section IV : Dispositions particulières aux professions juridiques et judiciaires.
@@ -2506,6 +2856,18 @@ disciplinairement soit devant la chambre de discipline soit devant le tribunal d
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-8 (V)
 
 
 ###### Article L312-4
@@ -2533,6 +2895,14 @@ et 33 de l'ordonnance précitée.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 
 ###### Article L312-5
 
@@ -2542,11 +2912,11 @@ décembre 1971.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 57 (M)
 
-	**Cite**:
+	**Anciens textes**:
 
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 57 (M)
 
@@ -2554,6 +2924,14 @@ décembre 1971.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L312-6
@@ -2572,6 +2950,14 @@ temporaire ou définitive de la liste, dans les conditions fixées par l'article
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 
 #### Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels.
 
@@ -2589,13 +2975,17 @@ Cette commission a le caractère d'une juridiction civile.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-608 1983-07-08 art. 22 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L214-1 (V)
 
 
 ###### Article L313-2
@@ -2610,17 +3000,21 @@ sont relatives au ministère public près cette commission, sont fixées par l'a
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-608 1983-07-08 art. 22 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L214-2 (V)
 
 
 ### Titre II : Le tribunal d'instance
@@ -2644,6 +3038,18 @@ Il y a dans le ressort de chaque cour d'appel des juridictions de première inst
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-2 (V)
+
 
 ###### Article L321-2
 
@@ -2657,6 +3063,10 @@ compétence du tribunal d'instance.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -2678,6 +3088,14 @@ compétence du tribunal d'instance.
 
 Le siège et le ressort des tribunaux d'instance sont fixés par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2691,7 +3109,15 @@ Le siège et le ressort des tribunaux d'instance sont fixés par décret en Cons
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 5 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
 ###### Article L321-4
@@ -2708,6 +3134,18 @@ Le tribunal d'instance statue à juge unique.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-1 (V)
 
 
 ##### Section III : Fonctionnement.
@@ -2731,7 +3169,15 @@ les formes prévues pour la nomination des magistrats du siège.
 
 	**Modifié par**:
 
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-2 (V)
 
 	**Cité par**:
 
@@ -2743,7 +3189,7 @@ les formes prévues pour la nomination des magistrats du siège.
 ###### Article L322-1
 
 Ainsi qu'il est dit à l'article 393 du code civil les fonctions de juge des tutelles sont exercées par un juge du tribunal
-d'instance.
+d'instance dans le ressort duquel le mineur a son domicile.
 
 **Liens relatifs à cet article**
 
@@ -2752,13 +3198,25 @@ d'instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 393 (AbD)
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
 	  - Code civil - art. 393 (AbD)
+
+	**Cite**:
+
+	  - Code civil - art. 393 (AbD)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-3 (V)
 
 
 ###### Article L322-2
@@ -2796,13 +3254,21 @@ des pensions militaires d'invalidité et des victimes de guerre.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
 	**Cité par**:
 
 	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-9 (VT)
 
 
 #### Chapitre III : Attributions non juridictionnelles.
@@ -2811,6 +3277,14 @@ des pensions militaires d'invalidité et des victimes de guerre.
 
 Les juges des tribunaux d'instance peuvent recevoir le serment de tous experts non assermentés, commis par les juridictions
 de l'ordre judiciaire et résidant dans le ressort du tribunal d'instance, lorsque la loi l'exige.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -2822,6 +3296,280 @@ de l'ordre judiciaire et résidant dans le ressort du tribunal d'instance, lorsq
 	**Anciens textes**:
 
 	  - Décret-loi 1926-11-05 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-43 (V)
+
+
+### Titre III : La juridiction de proximité
+
+#### Chapitre unique : Dispositions générales
+
+##### Section I : Institution, compétence et fonctionnement
+
+###### Article L331-1
+
+Il est institué, dans le ressort de chaque cour d'appel, des juridictions de première instance dénommées juridictions de
+proximité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-2 (VT)
+
+
+###### Article L331-2
+
+En matière civile, la juridiction de proximité connaît en dernier ressort des actions personnelles mobilières dont elle est
+saisie par une personne physique pour les besoins de sa vie non professionnelle, jusqu'à la valeur de 1500 euros ou d'une
+valeur indéterminée mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 1500 euros.
+
+Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+
+Elle connaît aussi, dans les mêmes conditions, en vue de lui donner force exécutoire, de la demande d'homologation du constat
+d'accord formée par les parties, à l'issue d'une tentative préalable de conciliation menée en application de l'article 21 de
+la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et
+administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 (Ab)
+
+
+###### Article L331-3
+
+En matière civile, la juridiction de proximité statue selon les règles de procédure applicables devant le tribunal
+d'instance. Elle se prononce après avoir cherché à concilier les parties par elle-même ou, le cas échéant et avec l'accord de
+celles-ci, en désignant une personne remplissant les conditions fixées par décret en Conseil d'Etat.
+
+Les parties peuvent se faire assister et représenter devant elle dans les mêmes conditions que devant le tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L331-4
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal d'instance qui
+statue en tant que juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-5 (VT)
+
+
+###### Article L331-5
+
+En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
+relatives au ministère public près cette juridiction sont fixées par l'article 706-72 du code de procédure pénale et, en ce
+qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-72 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+
+##### Section II : Organisation
+
+###### Article L331-6
+
+Le siège et le ressort des juridictions de proximité sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D231-1 (VT)
+
+
+###### Article L331-7
+
+La juridiction de proximité statue à juge unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L232-1 (VT)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 523-1 (VT)
+
+
+###### Article L331-8
+
+La juridiction de proximité peut tenir des audiences foraines en tout lieu public approprié dans des conditions fixées par
+décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-44 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-3 (VT)
+
+
+###### Article L331-9
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal d'instance, désigné à cet effet par ordonnance prise par le
+président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 523-1 (VT)
 
 
 ## Livre IV : Les juridictions spécialisées non pénales
@@ -6202,8 +6950,8 @@ vigueur des dispositions législatives concernant la responsabilité des magistr
 ###### Article L811-1
 
 Le service des secrétariats-greffes de la Cour de cassation, des cours d'appel, des tribunaux de grande instance, des
-tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale est assuré par des fonctionnaires
-de l'Etat.
+tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale ainsi que des juridictions de
+proximité est assuré par des fonctionnaires de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6218,7 +6966,15 @@ de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 7 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 9 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-1 (V)
 
 
 ###### Article L811-2
