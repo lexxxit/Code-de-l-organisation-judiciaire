@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1993-03-01
+Version Consolidée au 1993-06-01
 
 # Partie législative ancienne
 
@@ -6497,7 +6497,927 @@ juridictions du premier degré comprises dans le ressort de celle-ci.
 
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
+#### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna
+
+###### Article L931-1
+
+Pour l'application des dispositions étendues par le présent titre dans les territoires de la Nouvelle-Calédonie, de la
+Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
+
+1° " Tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
+
+2° " Tribunal mixte de commerce " à la place de " tribunal de commerce " ;
+
+3° " Tribunal du travail " à la place de " conseil de prud'hommes " ;
+
+4° " Haut commissaire de la République ", pour ce qui concerne les territoires de la Nouvelle-Calédonie et de la Polynésie
+française, et " administrateur supérieur ", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la place de "
+commissaire de la République " et de " préfet ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section I : La cour d'appel.
+
+###### Article L931-3
+
+L'article L. 213-2 applicable dans les territoires visés au présent chapitre est ainsi rédigé :
+
+" Art. L. 213-2. - Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la
+cour d'appel. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L213-2
+
+
+###### Article L931-4
+
+Les règles concernant la compétence, l'organisation et le fonctionnement de la chambre des appels correctionnels et de la
+chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
+dispositions du présent titre et par les dispositions de procédure pénale applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section 1 : La cour d'appel.
+
+###### Article L931-2
+
+Les dispositions générales relatives à la cour d'appel et les dispositions particulières à la protection de l'enfance
+contenues au titre Ier et au chapitre III du titre II du livre II (partie Législative) sont applicables dans les territoires
+visés au présent chapitre, sous réserve des dispositions de l'article L. 931-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
+
+
+##### Section II : Le tribunal de première instance.
+
+###### Article L931-5
+
+Il y a dans le ressort de chaque cour d'appel une ou plusieurs juridictions du premier degré dénommées tribunaux de première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-6
+
+Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-8
+
+En matière civile, le tribunal de première instance statue à juge unique.
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale.
+
+La décision de renvoi à la formation collégiale est une mesure d'administration judiciaire non susceptible de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-2 (Ab)
+
+
+###### Article L931-9
+
+Le procureur de la République représente, en sa personne ou par ses substituts, le ministère public devant le tribunal de
+première instance et toutes les juridictions du premier degré établies dans son ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-10
+
+Lorsqu'il statue en matière délictuelle, le tribunal de première instance est dénommé tribunal correctionnel.
+
+Lorsqu'il statue en matière contraventionnelle, il est dénommé tribunal de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-11
+
+Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal correctionnel et du tribunal de police
+ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions du présent titre et par
+les dispositions de procédure pénale applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-12
+
+Pour le jugement des affaires civiles, correctionnelles et de police, le premier président de la cour d'appel peut autoriser
+le tribunal de première instance à tenir des audiences foraines en des communes de son ressort fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-7 (V)
+
+
+##### Section 2 : Le tribunal de première instance.
+
+###### Article L931-7
+
+Le siège, le ressort, la composition et la classe des tribunaux de première instance sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section III : Les juridictions des mineurs.
+
+###### Article L931-13
+
+Les dispositions du livre V (partie Législative) relatives aux juridictions des mineurs sont applicables dans les territoires
+visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section IV : La cour d'assises.
+
+###### Article L931-14
+
+Il est tenu des assises à Nouméa, à Papeete et à Mata-Utu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-15
+
+Les règles concernant la compétence, l'organisation et le fonctionnement de la cour d'assises ainsi que celles relatives au
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section 5 : Dispositions communes à plusieurs juridictions.
+
+###### Article L931-16
+
+Les articles L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans les territoires visés au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
+	  - Code de l'organisation judiciaire L731-1 à L731-3, L781-1
+
+
+##### Section VI : Les secrétariats-greffes des juridictions.
+
+###### Article L931-17
+
+Le service des secrétariats-greffes de la cour d'appel et du tribunal de première instance est assuré par des fonctionnaires
+de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
+territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L931-18
+
+Les fonctions de greffier du tribunal de première instance, du tribunal du travail, du tribunal mixte de commerce et du
+tribunal pour enfants sont exercées par le greffier en chef ou par un greffier de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
 #### Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française
+
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.
+
+###### Article L932-1
+
+La formation collégiale prévue à l'article L. 931-8 est composée d'un président et de deux magistrats du siège du tribunal de
+première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8 (M)
+
+
+###### Article L932-2
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-3
+
+Le tribunal de première instance comprend des sections détachées, dont le siège et le ressort sont fixés par décret en
+Conseil d'Etat, compétentes pour juger dans leur ressort les affaires civiles, correctionnelles et de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-4
+
+La présidence des sections détachées est assurée par des magistrats du siège du tribunal de première instance désignés à cet
+effet dans les formes prévues pour la nomination des magistrats du siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 4 (V)
+
+
+###### Article L932-5
+
+Les magistrats chargés de la présidence des sections détachées peuvent être suppléés, en cas d'absence ou d'empêchement, par
+des magistrats du siège du tribunal de première instance désignés par ordonnance du premier président de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-3 (Ab)
+
+
+###### Article L932-6
+
+Les magistrats appelés à compléter les sections détachées lorsqu'elles statuent en formation collégiale sont désignés par le
+premier président de la cour d'appel parmi les magistrats du siège du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 4 (V)
+
+
+###### Article L932-7
+
+Le premier président de la cour d'appel peut autoriser une section détachée à tenir des audiences foraines dans les
+conditions prévues à l'article L. 931-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-12 (M)
+
+
+###### Article L932-8
+
+En cas de création d'une section détachée, les procédures en cours devant le tribunal de première instance ou devant une
+autre section à la date fixée pour l'entrée en activité de la nouvelle section sont transférées en l'état à cette dernière,
+dans la mesure où elles relèvent désormais de sa compétence, sans qu'il y ait lieu de renouveler les actes, formalités et
+jugements intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux
+parties et aux témoins.
+
+Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
+
+Toute autre modification du partage des compétences territoriales du tribunal de première instance et de ses sections
+détachées entraîne un transfert des procédures en cours dans les conditions prévues aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-46 (V)
+
+
+###### Article L932-9
+
+Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
+nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section II : Le tribunal du travail
+
+##### Sous-section I : Institution et compétence.
+
+###### Article L932-10
+
+Le tribunal du travail connaît des différends qui peuvent s'élever à l'occasion de tout contrat de travail entre les
+employeurs et les salariés qu'ils emploient.
+
+Il se prononce sur tous les différends individuels relatifs aux conventions collectives.
+
+Il y au moins un tribunal du travail dans le ressort de chaque tribunal de première instance.
+
+Le siège et le ressort du tribunal du travail sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Sous-section II : Organisation et fonctionnement.
+
+###### Article L932-11
+
+Le tribunal du travail est composé :
+
+- d'un magistrat désigné par le premier président de la cour d'appel, président ;
+
+- de deux assesseurs salariés et de deux assesseurs employeurs.
+
+En cas d'empêchement, les assesseurs titulaires sont remplacés par des assesseurs suppléants dont le nombre est égal à celui
+des titulaires.
+
+Le tribunal du travail est assisté d'un greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-12
+
+Les assesseurs du tribunal du travail doivent être de nationalité française, être âgés de vingt et un ans au moins et n'avoir
+encouru aucune condamnation prévue aux articles L. 5 et L. 6 du code électoral.
+
+Ils doivent en outre exercer depuis trois ans, apprentissage compris, une activité professionnelle et exercer cette activité
+dans le ressort du tribunal depuis au moins un an.
+
+Ils sont nommés par l'assemblée générale des magistrats du siège de la cour d'appel.
+
+Le mandat des assesseurs titulaires ou suppléants a une durée de deux ans. Il est renouvelable.
+
+Les fonctions d'assesseur titulaire ou suppléant sont gratuites vis-à-vis des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+
+
+###### Article L932-13
+
+Les assesseurs et leurs suppléants prêtent, devant le tribunal de première instance, le serment suivant :
+
+" Je jure de remplir mes devoirs avec zèle et intégrité et de garder le secret des délibérations. "
+
+Toutefois, en cas d'empêchement, le serment peut être prêté par écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Sous-section III : Statut des assesseurs.
+
+###### Article L932-14
+
+Les employeurs sont tenus de laisser aux salariés de leur entreprise assesseurs au tribunal le temps nécessaire pour exercer
+leurs fonctions d'assesseur.
+
+Le temps passé hors de l'entreprise pendant les heures de travail par les assesseurs salariés pour l'exercice de leurs
+fonctions est assimilé à une durée de travail effectif pour la détermination de la durée des congés payés, du droit aux
+prestations d'assurances sociales et aux prestations familiales, ainsi qu'au regard de tous les droits que le salarié tient
+du fait de son ancienneté dans l'entreprise.
+
+Les absences de l'entreprise des assesseurs salariés justifiées par l'exercice de leurs fonctions n'entraînent aucune
+diminution de leur rémunération et des avantages y afférents.
+
+En outre, des indemnités de séjour et de déplacement peuvent être allouées aux assesseurs salariés et employeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cité par**:
+
+	  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-15
+
+L'exercice des fonctions d'assesseur et la participation aux activités de formation prévues à l'article L. 932-16 ne
+sauraient être une cause de rupture du contrat de travail par l'employeur.
+
+Le licenciement par l'employeur d'un salarié exerçant les fonctions d'assesseur au tribunal du travail ou ayant cessé ses
+fonctions depuis moins de six mois est soumis à la procédure prévue par la législation applicable localement pour le
+licenciement des délégués syndicaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cité par**:
+
+	  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-16 (M)
+
+
+###### Article L932-16
+
+L'Etat organise, dans des conditions fixées par décret, la formation des assesseurs et en assure le financement.
+
+Les employeurs sont tenus d'accorder aux salariés de leur entreprise assesseurs au tribunal du travail, sur leur demande et
+pour les besoins de cette formation, des autorisations d'absence dans la limite d'une semaine par mandat. Ces absences sont
+rémunérées par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cité par**:
+
+	  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-15 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
+	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-17
+
+Les articles 4 et 5 du code civil, 126, 127 et 185 du code pénal sont applicables aux tribunaux du travail et à leurs membres
+pris individuellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - Code civil - art. 4 (V)
+	  - Code civil - art. 5 (V)
+
+
+###### Article L932-18
+
+Tout assesseur qui, sans motif légitime et après mise en demeure, refuse de remplir le service auquel il est appelé peut être
+déclaré démissionnaire.
+
+Le président constate le refus de service par un procès-verbal contenant l'avis motivé du tribunal du travail, l'assesseur
+préalablement entendu ou dûment appelé.
+
+Au vu du procès-verbal, la cour d'appel statue en audience non publique après avoir appelé l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-19
+
+Tout assesseur qui manque gravement à ses devoirs dans l'exercice de ses fonctions est appelé devant le tribunal du travail
+pour s'expliquer sur les faits qui lui sont reprochés.
+
+L'initiative de cet appel appartient au président du tribunal du travail et au procureur de la République.
+
+Dans le délai d'un mois à dater de la convocation, le procès-verbal de la séance de comparution est adressé par le président
+du tribunal au procureur de la République, qui le transmet avec son avis au ministère de la justice.
+
+Les peines applicables aux assesseurs sont :
+
+- la censure ;
+
+- la suspension, pour un temps qui ne peut excéder six mois ;
+
+- la déchéance.
+
+La censure et la suspension sont prononcées par arrêté du ministre de la justice. La déchéance est prononcée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-21 (V)
+
+
+###### Article L932-20
+
+L'assesseur qui a été condamné pour des faits prévus aux articles L. 5 et L. 6 du code électoral est déchu de plein droit de
+ses fonctions à la date de la condamnation devenue définitive.
+
+L'assesseur déclaré déchu ne peut plus être nommé aux mêmes fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+
+
+###### Article L932-21
+
+Sur proposition du premier président de la cour d'appel et du procureur général près ladite cour, le ministre de la justice,
+saisi d'une plainte ou informé de faits de nature à entraîner des poursuites pénales contre un assesseur, peut suspendre
+l'intéressé de ses fonctions pour une durée qui ne peut excéder six mois. Il est fait application de la procédure prévue à
+l'article L. 932-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-19 (M)
+
+
+###### Article L932-22
+
+Les assesseurs peuvent être récusés :
+
+1° Quand ils ont un intérêt personnel à la contestation, le seul fait d'être affiliés à une organisation syndicale ne
+constituant pas cet intérêt personnel ;
+
+2° Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
+
+3° Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, pénale ou civile entre eux et l'une des parties
+ou son conjoint ou ses parents ou alliés en ligne directe ;
+
+4° S'ils ont donné un avis écrit dans l'affaire ;
+
+5° S'ils sont employeurs ou salariés de l'une des parties en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
 
 ##### Section III : Le tribunal mixte de commerce
 
@@ -6517,6 +7437,29 @@ Les juges des tribunaux mixtes de commerce sont élus pour quatre ans. Ils sont 
 	**Créé par**:
 
 	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+
+
+###### Article L932-28
+
+Les dispositions du chapitre II du titre Ier du livre IV (partie Législative) relatives à l'organisation et au fonctionnement
+du tribunal de commerce sont applicables au tribunal mixte de commerce, à l'exception des articles L. 412-1, L. 412-3, du
+premier alinéa de l'article L. 412-7 et des articles L. 412-11 à L. 412-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-7 (M)
+	  - Code de l'organisation judiciaire L412-7, L412-11 à L412-13
 
 
 ##### Sous-section III : Election des juges des tribunaux mixtes de commerce
@@ -6872,6 +7815,544 @@ ressort.
 
 	  - Code de commerce. - art. R937-9 (V)
 	  - Code de commerce. - art. R947-9 (V)
+
+
+##### Section IV : Les juridictions des mineurs.
+
+###### Article L932-44
+
+Le tribunal pour enfants tient ses audiences au siège des sections détachées du tribunal de première instance pour le
+jugement des affaires entrant dans leur compétence territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-45
+
+Les juges chargés de la présidence des sections détachées exercent, dans leur ressort, les fonctions de juges des enfants.
+Ils président le tribunal pour enfants lorsque cette juridiction tient ses audiences au siège des sections détachées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L932-46
+
+En cas de création d'une section détachée ou en cas de modification du partage des compétences territoriales du tribunal de
+première instance et de ses sections détachées, les procédures en cours relevant de la compétence du juge des enfants sont
+transférées dans les conditions prévues à l'article L. 932-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-8 (M)
+
+
+#### Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie.
+
+###### Article L933-1
+
+En matière correctionnelle, lorsqu'ils statuent en formation collégiale, le tribunal de première instance et les sections
+détachées de ce tribunal sont complétés par deux assesseurs ayant voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-11 (Ab)
+
+
+###### Article L933-2
+
+Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux ans, parmi les personnes de nationalité
+française, âgées de plus de vingt-trois ans, présentant des garanties de compétences et d'impartialité et n'ayant fait
+l'objet d'aucune condamnation, incapacité ou déchéance prévue par les articles L. 5 et L. 6 du code électoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R933-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R933-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 832 (V)
+
+
+###### Article L933-3
+
+Avant l'expiration des fonctions des assesseurs en exercice, le garde des sceaux, ministre de la justice, arrête, pour le
+tribunal de première instance et pour chacune des sections détachées de ce tribunal, une liste comprenant deux assesseurs
+titulaires et, pour chacun d'eux, trois assesseurs suppléants. Les assesseurs sont choisis sur proposition du premier
+président, après avis du procureur général et de l'assemblée générale de la cour d'appel, sur la liste préparatoire dressée
+par le premier président pour le tribunal de première instance et pour chacune des sections détachées de ce tribunal. Cette
+liste préparatoire comprend le nom des personnes dont la candidature aura été déclarée aux maires des communes comprises dans
+le ressort de la formation de jugement. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-6 (V)
+
+
+###### Article L933-4
+
+Si le nombre des candidats remplissant les conditions fixées à l'article L. 933-2 n'est pas suffisant pour établir la liste
+des assesseurs titulaires et suppléants appelés à compléter le tribunal de première instance et les sections détachées de ce
+tribunal, le garde des sceaux, ministre de la justice, n'arrête pas de liste. En ce cas, le tribunal de première instance et
+les sections détachées de ce tribunal statuent sans assesseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-8 (Ab)
+
+
+###### Article L933-5
+
+Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
+liste d'assesseurs prévue à l'article L. 933-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-3 (M)
+
+
+###### Article L933-6
+
+Lorsque, en cours d'année, il y a lieu, pour quelque cause que ce soit, de compléter une liste d'assesseurs, il est pourvu,
+pour la partie de l'année judiciaire restant à courir, au remplacement des assesseurs titulaires ou suppléants. Le nouvel
+assesseur est alors désigné dans les formes prévues à l'article L. 933-3 et choisi sur la liste préparatoire mentionnée au
+même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-3 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-5 (V)
+
+
+###### Article L933-7
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant la cour d'appel le serment prévu à
+l'article 6 de l'ordonnance du 22 décembre 1958 susvisée portant loi organique relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L933-8
+
+Sous réserve de l'application de l'article L. 933-4, les assesseurs restent en fonctions jusqu'à l'installation de leurs
+successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut en aucun cas excéder une période de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4 (M)
+
+
+###### Article L933-9
+
+Les dispositions du titre VII du livre quatrième du code de procédure pénale relatives à la récusation des juges sont
+applicables aux assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L933-10
+
+Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
+successives peuvent, à la demande du président du tribunal de première instance ou du ministère public, après avoir été
+convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par la cour d'appel statuant en
+chambre du conseil.
+
+En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L933-11
+
+Lorsque, du fait de l'absence ou de l'empêchement d'un assesseur titulaire et de ses suppléants, la formation normalement
+compétente ne peut être légalement composée et que le cours de la justice s'en trouve interrompu, la cour d'appel, sur
+requête présentée par le procureur général, constate l'impossibilité pour la formation de se réunir dans la composition
+prévue à l'article L. 933-1 et renvoie la connaissance de l'affaire à la formation statuant sans assesseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-1 (M)
+
+
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna
+
+##### Section I : La cour d'appel.
+
+###### Article L934-1
+
+Les juridictions instituées dans le territoire des îles Wallis-et-Futuna en application du présent titre sont comprises dans
+le ressort de la cour d'appel de Nouméa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section II : Le tribunal de première instance.
+
+###### Article L934-2
+
+Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce, dans les conditions
+prévues à l'article L. 931-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8 (M)
+
+
+###### Article L934-3
+
+Lorsqu'il statue en formation collégiale, le tribunal de première instance est composé du président du tribunal et de deux
+assesseurs choisis, pour une durée de deux ans, parmi les personnes remplissant les conditions prévues à l'article L. 933-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
+
+
+###### Article L934-4
+
+Avant l'expiration des fonctions des assesseurs en exercice, le garde des sceaux, ministre de la justice, arrête une liste
+comprenant deux assesseurs titulaires et, pour chacun d'eux, deux assesseurs suppléants. Les assesseurs sont choisis sur
+proposition du premier président, après avis du procureur général et de l'assemblée générale de la cour d'appel, sur la liste
+préparatoire dressée par le premier président. Cette liste préparatoire comprend le nom des personnes dont la candidature
+aura été déclarée aux maires des communes du territoire. Un décret en Conseil d'Etat fixe les modalités d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-5 (V)
+
+
+###### Article L934-5
+
+Les articles L. 933-4 à L. 933-11 sont applicables aux assesseurs du tribunal de première instance, sous réserve des
+dispositions de l'alinéa suivant.
+
+Pour l'application de l'article L. 933-6, le nouvel assesseur est désigné dans les formes prévues à l'article L. 934-4 et
+choisi sur la liste préparatoire mentionnée au même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-6 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-4 (M)
+	  - Code de l'organisation judiciaire L933-4 à L933-11, L933-6, L934-4
+
+
+###### Article L934-6
+
+Les dispositions de l'article L. 731-1 sont applicables aux assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+
+
+###### Article L934-7
+
+Le président du tribunal de première instance exerce les fonctions de juge d'instruction dans les conditions prévues par les
+dispositions de procédure pénale applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+###### Article L934-8
+
+En cas d'empêchement ou lorsque, en matière pénale, il a participé à l'instruction de l'affaire, le président du tribunal de
+première instance est remplacé, par ordonnance du premier président, par un magistrat du siège appartenant au ressort de la
+cour d'appel.
+
+En cas d'empêchement, le procureur de la République est remplacé par un magistrat du parquet appartenant au ressort de la
+cour d'appel et désigné par le procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+
+##### Section III : Les juridictions des mineurs.
+
+###### Article L934-9
+
+Par dérogation à l'article L. 532-1, les fonctions de juge des enfants sont exercées par le président du tribunal de première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L532-1
+
+
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.
+
+###### Article L935-1
+
+Les attributions dévolues aux juridictions de l'ordre judiciaire instituées en métropole ou dans les départements d'outre-mer
+sont exercées, pour le territoire des Terres australes et antarctiques françaises, par des juridictions de même catégorie
+déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L713-8 (V)
 
 
 ### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte
