@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-08-22
+Version Consolidée au 1998-12-22
 
 # Partie législative ancienne
 
@@ -5336,6 +5336,100 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+
+
+### Titre XII : Maisons de justice et du droit.
+
+###### Article L7-12-1-1
+
+Il peut être institué des maisons de justice et du droit, placées sous l'autorité des chefs du tribunal de grande instance
+dans le ressort duquel elles sont situées.
+
+Elles assurent une présence judiciaire de proximité et concourent à la prévention de la délinquance, à l'aide aux victimes et
+à l'accès au droit.
+
+Les mesures alternatives de traitement pénal et les actions tendant à la résolution amiable des litiges peuvent y prendre
+place.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°98-1163 du 18 décembre 1998 - art. 21 () JORF 22 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-1 (V)
+
+
+###### Article L7-12-1-2
+
+Les modalités de création et de fonctionnement des maisons de justice et du droit sont déterminées par décret en Conseil
+d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°98-1163 du 18 décembre 1998 - art. 21 () JORF 22 décembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+
+###### Article L7-12-1-3
+
+Le présent titre est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+
+Dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les
+maisons de justice et du droit sont placées sous l'autorité des chefs du tribunal de première instance dans le ressort duquel
+elles sont situées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°98-1163 du 18 décembre 1998 - art. 21 () JORF 22 décembre 1998
 
 
 ### Titre III : Récusation et renvoi
