@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-02-16
 
 # Partie législative ancienne
 
@@ -15494,6 +15494,30 @@ tableau XII annexé au présent code.
 	**Créé par**:
 
 	  - Décret n°93-1361 du 30 décembre 1993 - art. 1 () JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+
+##### Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires
+
+###### Article R*312-11
+
+Le siège et le ressort des tribunaux de grande instance compétents pour connaître de la poursuite, de l'instruction et du
+jugement des infractions visées à l'article L. 218-29 du code de l'environnement sont fixés conformément au tableau IV quater
+annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2002-196 2002-02-11 art. 1 JORF 16 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-29 (M)
+	  - Code de l'organisation judiciaire annexe
 
 
 ### Titre II : Le tribunal d'instance
@@ -32195,6 +32219,148 @@ Pau, Montpellier, Toulouse.
 	**Abrogé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article Annexe Tableau IV quater
+
+**Siège et ressort des tribunaux compétents pour connaître de la poursuite, de l'instruction et du jugement des infractions
+visées à l'article L. 218-29 du code de l'environnement
+
+**
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAUX DE GRANDE INSTANCE 
+
+compétents 
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE 
+
+s'étendant au ressort 
+
+des cours d'appel de 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Le Havre 
+
+</td>
+      <td width="307">
+
+Douai, Amiens, Rouen, Caen. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Brest 
+
+</td>
+      <td width="307">
+
+Rennes, Poitiers, Bordeaux, Pau. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Marseille 
+
+</td>
+      <td width="307">
+
+Aix-en-Provence, Nîmes, Montpellier, Bastia. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Fort-de-France 
+
+</td>
+      <td width="307">
+
+Fort-de-France, Basse-Terre. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Saint-Denis-de-la Réunion 
+
+</td>
+      <td width="307">
+
+Saint-Denis-de-la-Réunion. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAL DE PREMIÈRE INSTANCE 
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE 
+
+s'étendant au ressort du tribunal 
+
+supérieur d'appel de 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Saint-Pierre-et-Miquelon 
+
+</td>
+      <td width="307">
+
+Saint-Pierre-et-Miquelon.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-196 2002-02-11 art. 1 JORF 16 février 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-29
 
 
 ###### Article Annexe Tableau V
