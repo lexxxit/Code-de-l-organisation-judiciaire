@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-05-18
+Version Consolidée au 1979-06-01
 
 # Partie législative ancienne
 
@@ -4121,21 +4121,6 @@ articles L. 411-2 et suivants du présent code pour le tribunal de commerce, sou
 
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion Section II : Le tribunal de grande instance et le tribunal d'instance
 
-###### Article L921-2
-
-[*article abrogé*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°79-391 1979-05-14 art. 14 JORF 18 mai 1979 en vigueur le 1er juin 1979
-
-
 ###### Article L921-3
 
 En ces de maladie, absence ou autre empêchement du juge d'instance, ses fonctions sont remplies par un suppléant.
@@ -7111,6 +7096,37 @@ connaissent des affaires de divorce et de séparation  de corps.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+
+##### Section II : Dispositions particulières en matière de brevets d'inventions et d'obtentions végétales
+
+###### Article R*312-2
+
+Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention par
+application de la loi n° 68-1 du 2 janvier 1968 et des actions civiles en matière d'obtentions végétales par application de
+la loi n° 70-489 du 11 juin 1970 sont fixés conformément au tableau IV annexé au présent code.
+
+En outre, le Tribunal de grande instance de Paris est compétent, pour les territoires d'outre-mer et la collectivité
+territoriale de Mayotte, pour connaître de ces mêmes actions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire Annexe tableau V
+	  - Loi n°68-1 1968-01-02 Loi 70-489 1970-06-11
+
+	**Anciens textes**:
+
+	  - Décret n°68-1098 1968-12-05 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-391 1979-05-14 art. 4 JORF 18 mai 1979 en vigueur le 1er juin 1979
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux
