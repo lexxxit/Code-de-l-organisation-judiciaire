@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-12-18
+Version Consolidée au 1983-12-28
 
 # Partie législative ancienne
 
@@ -6191,134 +6191,36 @@ justice.
 
 ##### Section II : Dispositions relatives aux assemblées générales
 
-###### Article R*213-14
+###### Article R*213-13
 
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1810-07-06 art. 62
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
-
-
-###### Article R*213-15
-
-[*article(s) abrogé(s)*].
+Les règles concernant l'organisation, le fonctionnement et les attributions de l'assemblée générale sont fixées par les
+articles R761-1 à R761-50 et R763-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°1810-07-06 art. 63
+	  - Décret n°1810-07-06 art. 7
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
 
-
-###### Article R*213-16
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1810-07-06 art. 64 et art. 65
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
 	**Abrogé par**:
 
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
+	**Nouveaux textes**:
 
-###### Article R*213-17
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
 
-[*article(s) abrogé(s)*].
+	**Cite**:
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
-
-	**Anciens textes**:
-
-	  - Ordonnance 1846-01-18 art. 1
-
-
-###### Article R*213-18
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1810-07-06 art. 66
-	  - Ordonnance 1808-03-30 art. 88
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
-
-
-###### Article R*213-19
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
-
-
-###### Article R*213-20
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1810-07-06 art. 69
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 4 JORF 28 décembre 1983
+	  - Code de l'organisation judiciaire
 
 
 ##### Section III : Le ministère public
@@ -7073,6 +6975,35 @@ autant que faire se peut, l'ordre des nominations à ce tribunal.
 	  - Décret n°78-330 1978-03-16
 
 
+###### Article R*311-23
+
+Pendant la première quinzaine du mois de décembre, le président après l'avis de l'assemblée générale des magistrats du siège,
+fixe par ordonnance la répartition dans les chambres et services du tribunal des vice-présidents et juges dont ce tribunal
+est composé.
+
+Cette ordonnance précise le nombre, le jour et la nature des audiences conformément aux dispositions en vigueur.
+
+Un magistrat peut être affecté à plusieurs chambres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-163 1974-02-27 art. 3 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-1162 1983-12-23 art. 5 JORF 28 décembre 1983
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-6-3 (V)
+
+
 ###### Article R*311-24
 
 Les ordonnances prises en application de l'article précédent peuvent être modifiées dans les mêmes formes en cours d'année
@@ -7300,43 +7231,10 @@ les diverses chambres du tribunal.
 
 ##### Sous-section III : Dispositions relatives aux assemblées générales
 
-###### Article R311-31
+###### Article R311-30
 
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 6 JORF 28 décembre 1983
-
-
-###### Article R311-32
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1808-03-30 art. 88
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 6 JORF 28 décembre 1983
-
-
-###### Article R311-33
-
-[*article(s) abrogé(s)*].
+Les règles concernant l'organisation, le fonctionnement et les attributions de l'assemblée générale sont fixées par les
+articles R761-1 à R761-50 et R763-1.
 
 **Liens relatifs à cet article**
 
@@ -7344,9 +7242,17 @@ les diverses chambres du tribunal.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°83-1162 1983-12-23 art. 6 JORF 28 décembre 1983
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R761-1 à R761-50 et R763-1
 
 
 ##### Sous-section IV : Le ministère public
@@ -8441,6 +8347,26 @@ nature des audiences du tribunal d'instance.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 45 JORF 14 mai 1981
+
+
+###### Article R*321-45
+
+Les règles concernant l'organisation, le fonctionnement et les attributions de l'assemblée générale sont fixées par les
+articles R762-1 à R762-8 et R763-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-1162 1983-12-23 art. 7 JORF 28 décembre 1983
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R762-1 à R762-8 et R763-1
 
 
 #### Chapitre II : Dispositions particulières à la tutelle
@@ -10494,6 +10420,44 @@ publique et, éventuellement, d'auxiliaires et de vacataires.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
 
 
+###### Article R*812-15
+
+A la Cour de cassation, dans les cours d'appel, les tribunaux de grande instance et les tribunaux d'instance le greffier en
+chef, et le cas échéant, le secrétaire en chef du parquet autonome participent à la préparation des projets de répartition de
+l'effectif des fonctionnaires. 
+
+Les chefs de la juridiction décident de la répartition de l'effectif des fonctionnaires entre les services du siège et du
+parquet. Dans les cours d'appel et les tribunaux de grande instance, la décision est prise, après avis des assemblées
+mentionnées aux articles R761-16 et R761-27.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 18 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 11 JORF 25 septembre 1983
+	  - Décret n°83-1162 1983-12-23 art. 8 JORF 28 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-15 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
 ###### Article R*812-16
 
 L'affectation à l'intérieur des divers services du siège ou du parquet est fixée par le greffier en chef, sous le contrôle
@@ -10578,6 +10542,39 @@ secrétariats-greffes du ressort.
 	**Modifié par**:
 
 	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R*812-19
+
+Les heures d'ouverture et de fermeture au public des secrétariats-greffes sont fixées par le premier président de la cour
+d'appel, après avis des assemblées mentionnées aux articles R761-16 et R761-27. La détermination de ces horaires tient
+compte, le cas échéant, des particularités locales.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-18 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+	**Anciens textes**:
+
+	  - Décret n°1808-03-30 art. 90
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-1162 1983-12-23 art. 9 JORF 28 décembre 1983
 
 	**Abrogé par**:
 
