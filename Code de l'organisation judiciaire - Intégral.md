@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1993-06-01
+Version Consolidée au 1993-06-29
 
 # Partie législative ancienne
 
@@ -21269,7 +21269,8 @@ Les régisseurs encaissent les recettes suivantes :
 
 3° Les sommes saisies-arrêtées prévues aux articles R145-1 à R145-21 du Code du travail ;
 
-4° Les consignations de partie civile prévues aux articles R236 à R240 du Code de procédure pénale ;
+4° Les consignations de partie civile prévues aux articles 88, 88-1 du code de procédure pénale pour garantir le paiement de
+l'amende civile.
 
 5° Les provisions pour expertise ;
 
@@ -21287,19 +21288,21 @@ matière pénale.
 
 	  - Décret n°67-901 1967-10-12 art. 3
 
-	**Cite**:
-
-	  - Code de procédure pénale R19 à R25, R236 à R240
-	  - Code du travail R145-1 à R145-21
-	  - Décret n°70-1223 1970-12-23 art. 138
-
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°93-867 du 28 juin 1993 - art. 22 () JORF 29 juin 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 88 (M)
+	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
+	  - Code de procédure pénale R19 à R25, 88, 88-1
+	  - Code du travail R145-1 à R145-21
+	  - Décret n°70-1223 1970-12-23 art. 138
 
 
 ###### Article R*814-6
