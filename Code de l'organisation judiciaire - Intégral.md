@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-03-10
+Version Consolidée au 1998-07-03
 
 # Partie législative ancienne
 
@@ -4941,6 +4941,10 @@ En cas d'empêchement momentané du titulaire, le tribunal de grande instance d�
 
 Il y a dans chaque tribunal de grande instance un ou plusieurs juges d'instruction.
 
+Les juges d'instruction exercent leur activité au siège du tribunal de grande instance auquel ils appartiennent. Toutefois,
+un décret en Conseil d'Etat peut les autoriser à exercer leur activité dans une commune du ressort de leur tribunal autre que
+celle du siège de la juridiction.
+
 Les règles concernant les conditions de nomination et les attributions du juge d'instruction sont fixées par les articles 49
 à 51 et 79 et suivants du Code de procédure pénale.
 
@@ -4951,13 +4955,19 @@ Les règles concernant les conditions de nomination et les attributions du juge 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de procédure pénale 49 à 51, 79 et s.
+	  - Loi n°98-546 du 2 juillet 1998 - art. 91 (V) JORF 3 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de procédure pénale 49 à 51, 79 et s.
+	  - CODE DE PROCEDURE PENALE - art. 79 (V)
+	  - Code de procédure pénale 49 à 51, 79
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 79 (V)
+	  - Code de procédure pénale 49 à 51, 79
 
 
 #### Chapitre II : La chambre de l'instruction.
