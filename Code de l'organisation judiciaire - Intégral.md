@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-31
 
 # Partie législative ancienne
 
@@ -1231,9 +1231,9 @@ Le procureur général représente en personne ou par ses substituts le ministè
 En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lorsque le renforcement temporaire et immédiat
 des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
 le premier président peut, par ordonnance, déléguer les présidents de chambre et les conseillers de la cour d'appel, les
-juges des tribunaux d'instance et de grande instance, pour exercer des fonctions judiciaires dans les tribunaux du ressort de
-la cour d'appel. Un magistrat ne peut être délégué plus de cinq fois au cours de la même année judiciaire. Ses délégations ne
-peuvent excéder une durée totale de trois mois.
+magistrats du siège des tribunaux d'instance et de grande instance, pour exercer des fonctions judiciaires dans les tribunaux
+du ressort de la cour d'appel. Un magistrat ne peut être délégué plus de cinq fois au cours de la même année judiciaire. Ses
+délégations ne peuvent excéder une durée totale de trois mois.
 
 En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de l'expropriation, la durée de la délégation
 prévue à l'alinéa précédent peut être portée à six mois.
@@ -1244,6 +1244,15 @@ seront exercées par le magistrat délégué.
 L'assemblée générale de la cour d'appel est informée chaque année du nombre et de la nature des délégations, des personnes
 déléguées et de l'incidence des délégations sur le fonctionnement des juridictions.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 221-1 du code de l'organisation judiciaire est abrogé à l'exception
+de son quatrième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -1253,7 +1262,16 @@ déléguées et de l'incidence des délégations sur le fonctionnement des jurid
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 1 () JORF 9 février 1995
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 34 () JORF 31 décembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-3 (V)
 
 
 ###### Article L221-2
@@ -1293,6 +1311,43 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-2 (V)
+
+
+###### Article L221-3
+
+Pour l'organisation du service de fin de semaine ou du service allégé pendant la période au cours de laquelle les magistrats
+bénéficient de leurs congés annuels, le procureur général peut désigner, après avis des procureurs de la République
+concernés, un magistrat du parquet d'un tribunal de grande instance de son ressort pour exercer également les compétences du
+ministère public près d'au plus deux autres tribunaux de grande instance du ressort de la cour d'appel.
+
+La décision portant désignation en précise le motif et la durée ainsi que les tribunaux pour lesquels elle s'applique.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 35 () JORF 31 décembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-4 (V)
 
 
 #### Chapitre II : Dispositions particulières en matière d'expropriation.
