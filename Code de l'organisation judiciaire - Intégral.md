@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1983-07-09
 
 # Partie législative ancienne
 
@@ -1299,42 +1299,6 @@ La cour d'appel dresse la liste des syndics et administrateurs judiciaires.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels.
-
-###### Article L231-1
-
-[*article abrogé*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°83-608 1983-07-08 art. 22-II JORF 9 juillet 1983
-
-
-###### Article L231-2
-
-[*article abrogé*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°83-608 1983-07-08 art. 22-II JORF 9 juillet 1983
-
-	**Anciens textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
 
 
 ## Livre III : Le tribunal de grande instance et le tribunal d'instance
