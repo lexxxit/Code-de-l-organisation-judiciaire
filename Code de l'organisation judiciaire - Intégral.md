@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-08-05
+Version Consolidée au 1993-01-05
 
 # Partie législative ancienne
 
@@ -5106,11 +5106,9 @@ sûreté publique, ou s'il existe des causes de récusation contre plusieurs jug
 
 ###### Article L731-3
 
-Comme il est dit à l'alinéa 1er de l'article 662 du Code de procédure pénale "en matière criminelle, correctionnelle ou de
+Comme il est dit à l'alinéa 1er de l'article 662 du code de procédure pénale "En matière criminelle, correctionnelle ou de
 police, la chambre criminelle de la Cour de cassation peut dessaisir toute juridiction d'instruction ou de jugement et
-renvoyer la connaissance de l'affaire à une autre juridiction du même ordre, soit si la juridiction normalement compétente ne
-peut être légalement composée, ou si le cours de la justice se trouve autrement interrompu, soit pour cause de suspicion
-légitime."
+renvoyer la connaissance de l'affaire à une autre juridiction du même ordre pour cause de suspicion légitime".
 
 **Liens relatifs à cet article**
 
@@ -5119,6 +5117,14 @@ légitime."
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 103 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 662 (M)
@@ -5126,6 +5132,10 @@ légitime."
 	**Anciens textes**:
 
 	  - Code de procédure pénale 662 al. 1
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-8 (V)
 
 
 ###### Article L731-4
