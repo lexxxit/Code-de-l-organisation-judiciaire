@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-06-19
+Version Consolidée au 2004-10-01
 
 # Partie législative ancienne
 
@@ -6517,6 +6517,165 @@ détention.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
+
+
+### Titre V : Les juridictions spécialisées prévues par les articles 704, 706-2 et 706-75 du code de procédure pénale.
+
+###### Article L650-1
+
+Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
+d'appel en application des articles 704 et 706-75 du code de procédure pénale, un ou plusieurs juges d'instruction désignés
+par le premier président après avis du président du tribunal de grande instance sont chargés spécialement des informations
+relatives aux crimes et délits entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74
+du même code.
+
+Un ou plusieurs magistrats du parquet désignés par le procureur général après avis du procureur de la République sont chargés
+spécialement de l'enquête et de la poursuite des crimes et délits entrant dans le champ d'application des articles 706-73, à
+l'exception du 11°, ou 706-74 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+	  - Code de l'organisation judiciaire 704, 706-73
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-11 (V)
+
+
+###### Article L650-2
+
+Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
+d'appel en application des articles 704 et 706-75 du code de procédure pénale, des magistrats du siège désignés par le
+premier président après avis du président du tribunal de grande instance sont chargés spécialement du jugement des délits
+entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+	  - Code de l'organisation judiciaire 704, 706-73
+
+
+###### Article L650-3
+
+Au sein de chaque cour d'assises dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel en
+application de l'article 706-75 du code de procédure pénale, des magistrats du siège désignés par le premier président
+conformément aux dispositions des articles 244 à 253 du même code sont chargés spécialement du jugement des crimes entrant
+dans le champ d'application des articles 706-73, à l'exception du 11°, ou 706-74 du même code, dans les affaires qui sont ou
+apparaîtraient d'une grande complexité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+	  - Code de procédure pénale 704, 706-2, 706-75, 244 à 253
+	  - Code de l'organisation judiciaire 706-73
+
+
+###### Article L650-4
+
+Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel en
+application des articles 704 et 706-75 du code de procédure pénale, des magistrats du siège désignés par le premier président
+sont chargés spécialement du jugement des délits entrant dans le champ d'application des articles 704, 706-73, à l'exception
+du 11°, ou 706-74 du même code.
+
+Un ou plusieurs magistrats du parquet général désignés par le procureur général sont chargés spécialement du traitement des
+affaires entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+	  - Code de l'organisation judiciaire 704, 706-73
+
+
+###### Article L650-5
+
+Au sein de chaque cour d'appel dans laquelle se trouve une juridiction compétente en application des articles 704, 706-2 et
+706-75 du code de procédure pénale, le procureur général anime et coordonne, en concertation avec les autres procureurs
+généraux du ressort interrégional, la conduite de la politique d'action publique pour l'application de ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
 
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
