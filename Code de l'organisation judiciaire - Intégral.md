@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-07-05
+Version Consolidée au 1992-08-01
 
 # Partie législative ancienne
 
@@ -1708,7 +1708,7 @@ instance.
 	  - Loi AN12-VE-22 22 ventôse an XII art. 30 Décret 1806-03-30 art. 49
 
 
-##### Sous-section II : Dispositions relatives au juge unique et au juge de la mise en état.
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.
 
 ###### Article L311-10
 
@@ -1733,6 +1733,11 @@ personnes, sous réserve des dispositions particulières au divorce et à la sé
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 
 ###### Article L311-10-1
@@ -1745,14 +1750,15 @@ terrestre. Le juge peut toujours renvoyer une affaire en l'état à la formation
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-677 1985-07-05 art. 47 date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-677 du 5 juillet 1985 - art. 45 () JORF 6 juillet 1985 en vigueur le 1 er janvier 1986
+	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 	**Cité par**:
 
@@ -1761,15 +1767,10 @@ terrestre. Le juge peut toujours renvoyer une affaire en l'état à la formation
 
 ###### Article L311-11
 
-Le tribunal de grande instance connaît à juge unique de tout ce qui a trait à l'exécution forcée des jugements et autres
-actes, y compris des demandes en reconnaissance et en exequatur des décisions judiciaires et actes publics étrangers ainsi
-que des sentences arbitrales françaises ou étrangères.
+Le tribunal de grande instance connaît à juge unique des demandes en reconnaissance et en exequatur des décisions judiciaires
+et actes publics étrangers ainsi que des sentences arbitrales françaises ou étrangères.
 
-Il connaît également des contestations qui s'élèveraient sur le fond du droit au cours de l'exécution, lorsque celle-ci porte
-sur les biens.
-
-Les ventes de biens de mineurs ainsi que les ventes qui leur sont assimilées sont également poursuivies devant le juge de
-l'exécution.
+Il connaît également à juge unique des ventes de biens de mineurs et de celles qui leur sont assimilées.
 
 Le juge peut toujours renvoyer une affaire en l'état à la formation collégiale.
 
@@ -1782,12 +1783,21 @@ Le juge peut toujours renvoyer une affaire en l'état à la formation collégial
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 
 ###### Article L311-12
 
-Les cas et conditions dans lesquels le tribunal de grande instance connaîtra à juge unique de ce qui a trait à l'exécution
-forcée des jugements et autres actes seront déterminés par le Code de procédure civile.
+Il est institué un juge de l'exécution dont les fonctions sont exercées par le président du tribunal de grande instance.
+Celui-ci peut déléguer ces fonctions à un ou plusieurs juges de ce tribunal. Il fixe la durée et l'étendue territoriale de
+cette délégation.
+
+Les incidents relatifs à la répartition des affaires sont tranchés sans recours par le président du tribunal de grande
+instance.
 
 **Liens relatifs à cet article**
 
@@ -1798,12 +1808,75 @@ forcée des jugements et autres actes seront déterminés par le Code de procéd
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article L311-12-1
+
+Le juge de l'exécution connaît des difficultés relatives aux titres exécutoires et des contestations qui s'élèvent à
+l'occasion de l'exécution forcée, même si elles portent sur le fond du droit à moins qu'elles n'échappent à la compétence des
+juridictions de l'ordre judiciaire.
+
+Dans les mêmes conditions, il autorise les mesures conservatoires et connaît des contestations relatives à leur mise en
+oeuvre.
+
+Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des
+mesures d'exécution forcée ou des mesures conservatoires.
+
+Tout juge autre que le juge de l'exécution doit relever d'office son incompétence.
+
+Les décisions du juge de l'exécution, à l'exception des mesures d'administration judiciaire, sont susceptibles d'appel devant
+une formation de la cour d'appel qui statue à bref délai. L'appel n'est pas suspensif. Toutefois, le premier président de la
+cour d'appel peut ordonner qu'il soit sursis à l'exécution de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 8 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 8 (Ab)
+	  - Code du travail - art. L145-5 (AbD)
+
+
+###### Article L311-12-2
+
+Le juge de l'exécution peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge de
+l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 8 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
 
 
 ###### Article L311-13
 
-Les décisions prises en vertu de l'article L 311-10 et du dernier alinéa de l'article L 311-11 sont des mesures
-d'administration non susceptibles de recours.
+Les décisions relatives à la composition de la formation de jugement, prises en application des articles L. 311-10, L.
+311-10-1, L. 311-11 et L. 311-12-2, sont des mesures d'administration judiciaire non susceptibles de recours.
 
 **Liens relatifs à cet article**
 
@@ -1814,10 +1887,17 @@ d'administration non susceptibles de recours.
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L311-10 et L311-11
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-10-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-2 (M)
+	  - Code de l'organisation judiciaire L311-10, L311-10-1, L311-11, L311-12-2
 
 
 ##### Sous-section IV : Le ministère public.
@@ -5916,6 +5996,35 @@ Les commandements de payer sont décernés par les tribunaux d'instance.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+###### Article L911-3
+
+Le tribunal d'instance est le tribunal de l'exécution forcée en matière immobilière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code local de procédure civile 764 et s
+	  - Loi n°1924-06-01 art. 141
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 90 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-2 (V)
+
+
 ###### Article L911-4
 
 Le service du livre foncier est assuré par le tribunal d'instance selon les règles fixées par décret.
@@ -6374,24 +6483,6 @@ juridictions du premier degré comprises dans le ressort de celle-ci.
 	**Créé par**:
 
 	  - Loi n°91-359 1991-04-15 art. 1 JORF 16 avril 1991
-
-
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre I : Le tribunal d'instance.
-
-###### Article L911-3
-
-Le tribunal d'instance est le tribunal de l'exécution forcée tant en matière mobilière qu'immobilière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code local de procédure civile 764 et s
-	  - Loi n°1924-06-01 art. 141
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
 
 
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion Section II : Le tribunal de grande instance et le tribunal d'instance
