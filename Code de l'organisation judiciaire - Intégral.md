@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1985-06-14
+Version Consolidée au 1985-12-21
 
 # Partie législative ancienne
 
@@ -14320,15 +14320,11 @@ L'audience solennelle prévue à l'article R. 711-2 est tenue chaque année pend
 
 ###### Article R*923-2
 
-Ainsi qu'il est dit à l'article 6 du décret n° 59-351 du 27 février 1959, "les fonctions de secrétaire de la commission de
-première instance de sécurité sociale sont assumées par un fonctionnaire en activité ou en retraite de la direction
-départementale".
+Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité sociale, "les fonctions de secrétaire du
+tribunal des affaires de sécurité sociale sont assumées, dans le même département, par un fonctionnaire en activité ou
+honoraire de la direction départementale".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-351 1959-02-27 art. 6
 
 	**Anciens textes**:
 
@@ -14337,6 +14333,14 @@ départementale".
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R752-14 (M)
 
 
 #### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon
