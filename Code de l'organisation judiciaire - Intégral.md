@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-12-22
+Version Consolidée au 1999-03-01
 
 # Partie législative ancienne
 
@@ -10841,10 +10841,8 @@ l'affectation des greffiers dans les chambres de la cour.
 
 ###### Article R*131-3
 
-Les deux conseillers de chaque chambre siégeant à l'assemblée plénière sont désignés par ordonnance du premier président sur
-proposition du président de chambre.
-
-L'un d'eux est désigné chaque année dans la première quinzaine du mois de décembre pour l'année judiciaire suivante.
+Le conseiller de chaque chambre siégeant à l'assemblée plénière est désigné par ordonnance du premier président sur
+proposition du président de cette chambre.
 
 **Liens relatifs à cet article**
 
@@ -10858,7 +10856,11 @@ L'un d'eux est désigné chaque année dans la première quinzaine du mois de d�
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 13 JORF 9 novembre 1979
+	  - Décret n°99-131 du 26 février 1999 - art. 1 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*131-4
@@ -10931,10 +10933,10 @@ de cessation ou d'interruption des fonctions ou pour prévoir un service allég�
 
 ###### Article R*131-6
 
-Le conseiller appelé à compléter une chambre mixte dans le cas prévu au dernier alinéa de l'article R131-4 et le conseiller
-appelé à remplacer un membre empêché d'une chambre mixte ou de l'assemblée plénière dans le cas prévu au troisième alinéa de
-l'article L131-6 sont désignés par ordonnance prise par le premier président ou, à défaut de celui-ci, par le président de
-chambre qui le remplace.
+Le conseiller appelé à compléter une chambre mixte dans le cas prévu au dernier alinéa de l'article R. 131-4 et le conseiller
+appelé à remplacer un membre empêché d'une chambre mixte ou de l'assemblée plénière dans le cas prévu à l'article L. 131-6-2
+sont désignés par ordonnance prise par le premier président ou, à défaut de celui-ci, par le président de chambre qui le
+remplace.
 
 Les conseillers doivent appartenir à la même chambre que les magistrats qu'ils remplacent.
 
@@ -10950,18 +10952,28 @@ Les conseillers doivent appartenir à la même chambre que les magistrats qu'ils
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 13 JORF 9 novembre 1979
+	  - Décret n°99-131 du 26 février 1999 - art. 2 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-13 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L131-6 al. 3, R131-4 al. 3
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L131-6-2
 
 
 ###### Article R*131-7
 
 A l'audience d'une chambre, si par l'effet des absences ou des empêchements, le nombre des membres ayant voix délibérative
-est inférieur à celui prévu à l'article L131-6, 1er alinéa, il peut être fait appel en suivant l'ordre d'ancienneté à des
-conseillers appartenant à d'autres chambres.
+est inférieur à celui prévu à l'article L. 131-6-1, il peut être fait appel en suivant l'ordre d'ancienneté à des conseillers
+appartenant à d'autres chambres.
 
 **Liens relatifs à cet article**
 
@@ -10969,9 +10981,21 @@ conseillers appartenant à d'autres chambres.
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°99-131 du 26 février 1999 - art. 3 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-6 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L131-6 al. 1
+	  - Code de l'organisation judiciaire - art. L131-6-1
 
 	**Anciens textes**:
 
@@ -12568,7 +12592,7 @@ attribuée expressément à une autre juridiction, en raison de la nature de l'a
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de grande
 instance statue en dernier ressort lorsque le montant de la demande, déterminé dans les conditions prévues par le nouveau
-Code de procédure civile, est inférieur ou égal à 13000 F [*francs*].
+Code de procédure civile, est inférieur ou égal à 25000 F [*francs*].
 
 **Liens relatifs à cet article**
 
@@ -12586,8 +12610,11 @@ Code de procédure civile, est inférieur ou égal à 13000 F [*francs*].
 
 	**Modifié par**:
 
-	  - Décret n°81-318 1981-09-01 art. 1 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10 art. 2 JORF 13 avril 1985
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
 
 
 ###### Article R*311-3
@@ -13608,10 +13635,12 @@ tableau XII annexé au présent code.
 ###### Article R*321-1
 
 Sous réserve des dispositions des articles suivants, le tribunal d'instance connaît, en matière civile, de toutes actions
-personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 13000 F et à charge d'appel jusqu'à la valeur de 30000 F
-[*francs*].    Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal
-d'instance statuant en premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières,
-dans la limite des taux prévus à l'alinéa précédent.
+personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 25000 F et à charge d'appel jusqu'à la valeur de 50000 F
+[*francs*].
+
+Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal d'instance statuant en
+premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières, dans la limite des
+taux prévus à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -13623,14 +13652,17 @@ dans la limite des taux prévus à l'alinéa précédent.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Modifié par**:
-
-	  - Décret n°81-818 1981-09-01  art. 2 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10  art. 3 JORF 13 avril 1985
-
 	**Cité par**:
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
 
 	**Cite**:
 
@@ -13639,13 +13671,21 @@ dans la limite des taux prévus à l'alinéa précédent.
 
 ###### Article R*321-2
 
-Sous réserve des dispositions législatives ou réglementaires particulieres, le tribunal d'instance connaît, en dernier
-ressort, jusqu'à la valeur de 13000 F [*francs*] et à charge d'appel lorsque la demande excède cette somme ou est
+Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît, en dernier
+ressort, jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel lorsque la demande excède cette somme ou est
 indéterminée, des actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en
 autorisation, validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait
 contestation de la part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
 
+Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux à loyer d'immeubles ou de
+locaux à usage commercial, industriel ou artisanal régis par le décret n° 53-960 du 30 septembre 1953.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-960 1953-09-30
+	  - Loi n°48-1160 1948-09-01
 
 	**Anciens textes**:
 
@@ -13655,18 +13695,17 @@ contestation de la part d'un tiers, ainsi que de celles relatives à l'applicati
 
 	  - Décret n°78-330 1978-03-16
 
-	**Modifié par**:
-
-	  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10 art. 4 JORF 13 avril 1985
-
 	**Cité par**:
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°48-1160 1948-09-01
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
 
 
 ###### Article R*321-3
@@ -13751,10 +13790,10 @@ conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier
 
 ###### Article R*321-6
 
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 13000 F [*francs*] et à charge d'appel à quelque
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel à quelque
 valeur que la demande puisse s'élever [*compétence*] :
 
-1° [*Abrogé*] ;
+1° (Abrogé) ;
 
 2° Des contestations relatives au contrat de salaire différé ;
 
@@ -13776,14 +13815,17 @@ d'enseignement public ou privé ;
 
 	  - Décret n°78-330 1978-03-16
 
-	**Modifié par**:
-
-	  - Décret n°81-818 1981-09-01 art. 4 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10 art. 5 JORF 13 avril 1985
-
 	**Cité par**:
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
 
 
 ###### Article R*321-7
@@ -14003,13 +14045,16 @@ Le tribunal d'instance connaît, à charge d'appel, [*compétence*] des contesta
 viagères mentionnées par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et
 par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 5000 F, et,
 quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est
-inférieure ou égale à 13000 F [*francs*].
+inférieure ou égale à 25000 F [*francs*].
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°49-420 1949-03-25 Loi 49-1098 1949-08-02 Loi 51-695 1951-05-24 art. 1 et art. 2
+	  - Loi n°49-420 1949-03-25
+	  - Loi n°49-1098 1949-08-02
+	  - Loi n°51-695 du 24 mai 1951 - art. 1 (V)
+	  - Loi n°51-695 du 24 mai 1951 - art. 2 (V)
 
 	**Anciens textes**:
 
@@ -14021,8 +14066,11 @@ inférieure ou égale à 13000 F [*francs*].
 
 	**Modifié par**:
 
-	  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
-	  - Décret n°85-422 1985-04-10 art. 7 JORF 13 avril 1985
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
 
 
 ###### Article R*321-16
