@@ -1,13 +1,18 @@
 # Article Annexe Tableau V bis
 
-Tableau V bis : Siège et ressort des juridictions de proximité.
+**Siège et ressort des juridictions de proximité**
+
+**Nota:**
+
+Décret 2008-145 du 15 février 2008 art. 8 : A compter du 1er janvier 2010, le tableau V bis annexé au code de l'organisation
+judiciaire est remplacé par le tableau A mentionné à l'article 4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-330 1978-03-16
+	  - Décret n°2008-145 du 15 février 2008 - art. 8 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 15 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
