@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-09-27
+Version Consolidée au 1994-12-10
 
 # Partie législative ancienne
 
@@ -12797,21 +12797,24 @@ des affaires mentionnées à l'article L. 312-1.
 	  - Code de l'organisation judiciaire L312-1
 
 
-##### Section II : Dispositions particulières en matière de brevets d'inventions et d'obtentions végétales
+##### Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.
 
 ###### Article R*312-2
 
-Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention par
-application de la loi n° 68-1 du 2 janvier 1968 et des actions civiles en matière d'obtentions végétales par application de
-la loi n° 70-489 du 11 juin 1970 sont fixés conformément au tableau IV annexé au présent code.
+Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de
+certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et
+d'obtentions végétales, en application des articles L. 611-2, L. 615-17, L. 622-7 et L. 623-31 du code de la propriété
+intellectuelle, sont fixés conformément au tableau IV annexé au présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire Annexe tableau V
-	  - Loi n°68-1 1968-01-02
-	  - Loi n°70-489 1970-06-11
+	  - Code de l'organisation judiciaire Annexe tableau IV
+	  - Code de la propriété intellectuelle - art. L611-2 (V)
+	  - Code de la propriété intellectuelle - art. L615-17 (V)
+	  - Code de la propriété intellectuelle - art. L622-7 (M)
+	  - Code de la propriété intellectuelle - art. L623-31 (V)
 
 	**Anciens textes**:
 
@@ -12823,7 +12826,7 @@ la loi n° 70-489 du 11 juin 1970 sont fixés conformément au tableau IV annex�
 
 	**Modifié par**:
 
-	  - Décret n°92-251 du 17 mars 1992 - art. 12 (Ab) JORF 19 mars 1992
+	  - Décret n°94-1056 du 8 décembre 1994 - art. 1 () JORF 10 décembre 1994
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux
@@ -27418,6 +27421,241 @@ Marseille
 	  - TXT_SOURCE: Code de l'organisation judiciaire R623-1
 
 
+###### Article Annexe Tableau IV
+
+**Tableau IV **
+
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats
+d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions
+végétales
+
+**
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+**TRIBUNAUX DE GRANDE INSTANCE**
+
+</td>
+      <td width="307">
+
+**COMPÉTENCE TERRITORIALE
+
+**s'étendant aux départements compris dans le ressort des cours d'appel de :
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="2">
+
+Cour d'appel d'Aix
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Marseille
+
+</td>
+      <td width="307">
+
+Aix-en-Provence, Bastia, Nîmes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="2">
+
+Cour d'appel de Bordeaux
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Bordeaux
+
+</td>
+      <td width="307">
+
+Agen, Bordeaux, Poitiers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="2">
+
+Cour d'appel de Colmar
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Strasbourg
+
+</td>
+      <td width="307">
+
+Colmar, Metz.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+Cour d'appel de Douai
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Lille
+
+</td>
+      <td width="307">
+
+Amiens, Douai.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+Cour d'appel de Limoges
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Limoges
+
+</td>
+      <td width="307">
+
+Bourges, Limoges, Riom.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+Cour d'appel de Lyon
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Lyon
+
+</td>
+      <td width="307">
+
+Chambéry, Lyon, Grenoble.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="2">
+
+Cour d'appel de Nancy
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nancy
+
+</td>
+      <td width="307">
+
+Besançon, Dijon, Nancy.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="2">
+
+Cour d'appel de Paris
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Paris
+
+</td>
+      <td width="307" valign="top">
+
+Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Madmouzou
+et Saint-Pierre-et-Miquelon.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+Cour d'appel de Rennes
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Rennes
+
+</td>
+      <td width="307">
+
+Angers, Caen, Rennes.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+Cour d'appel de Toulouse
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Toulouse
+
+</td>
+      <td width="307">
+
+Pau, Montpellier, Toulouse.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°94-1056 du 8 décembre 1994 - art. 1 () JORF 10 décembre 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'organisation judiciaire R312-2
+
+
 ###### Article Annexe Tableau IV bis
 
 **Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions
@@ -28325,27 +28563,5 @@ Ressort du tribunal de première instance de Mamoudzou.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'organisation judiciaire R312-9
-
-
-## Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales
-
-###### Article Annexe Tableau IV
-
-tableau non reproduit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°79-391 1979-05-14 art. 6 JORF 18 mai 1979 rectificatif JORF 17 novembre 1979
-	  - Décret n°92-251 du 17 mars 1992 - art. 2 () JORF 19 mars 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de l'organisation judiciaire R312-2
 
 
