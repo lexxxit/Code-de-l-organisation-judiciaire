@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-05-20
+Version Consolidée au 2001-07-13
 
 # Partie législative ancienne
 
@@ -5701,11 +5701,19 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ###### Article L7-12-1-3
 
-Le présent titre est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Le présent titre est applicable dans les territoires d'outre-mer et à Mayotte.
 
-Dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les
-maisons de justice et du droit sont placées sous l'autorité des chefs du tribunal de première instance dans le ressort duquel
-elles sont situées.
+Dans les territoires d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les maisons de
+justice et du droit sont placées sous l'autorité des chefs du tribunal de première instance dans le ressort duquel elles sont
+situées.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -5714,9 +5722,20 @@ elles sont situées.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-1163 du 18 décembre 1998 - art. 21 () JORF 22 décembre 1998
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R521-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R551-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-1 (V)
 
 
 ### Titre III : Récusation et renvoi
@@ -10450,14 +10469,13 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - Code de l'environnement - art. L713-8 (V)
 
 
-### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte
+### Titre IV : Dispositions particulières à Mayotte
 
 #### Chapitre Ier : Dispositions générales.
 
 ###### Article L941-1
 
-Pour l'application des dispositions étendues par le présent titre dans la collectivité territoriale de Mayotte, il y a lieu
-de lire :
+Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
 
 1° " Tribunal supérieur d'appel " à la place de " cour d'appel " ;
 
@@ -10474,14 +10492,14 @@ de lire :
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L941-2
 
-Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans la collectivité territoriale de Mayotte.
+Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10492,7 +10510,7 @@ Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans la
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -10505,40 +10523,7 @@ Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans la
 
 ###### Article L942-1
 
-Il y a dans la collectivité territoriale de Mayotte un tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
-
-###### Article L942-2
-
-Le tribunal supérieur d'appel connaît de l'appel des jugements rendus en application du droit commun par les juridictions du
-premier degré instituées dans la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
-
-###### Article L942-3
-
-Le siège du tribunal supérieur d'appel est fixé par décret en Conseil d'Etat.
+Il y a à Mayotte un tribunal supérieur d'appel.
 
 **Liens relatifs à cet article**
 
@@ -10549,7 +10534,68 @@ Le siège du tribunal supérieur d'appel est fixé par décret en Conseil d'Etat
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-11 (VT)
+
+
+###### Article L942-2
+
+Le tribunal supérieur d'appel connaît de l'appel des jugements rendus en application du droit commun par les juridictions du
+premier degré instituées à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L942-3
+
+Le siège du tribunal supérieur d'appel est fixé par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D522-10 (Ab)
 
 
 ###### Article L942-4
@@ -10557,6 +10603,14 @@ Le siège du tribunal supérieur d'appel est fixé par décret en Conseil d'Etat
 Le tribunal supérieur d'appel statue en formation collégiale. Les arrêts du tribunal supérieur d'appel sont rendus par un
 président et deux magistrats du siège de ce tribunal.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10564,13 +10618,21 @@ président et deux magistrats du siège de ce tribunal.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-11 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-11 (Ab)
 
 
 ###### Article L942-5
@@ -10578,7 +10640,7 @@ président et deux magistrats du siège de ce tribunal.
 Les fonctions du ministère public près le tribunal supérieur d'appel sont exercées par le procureur de la République.
 
 Ses attributions sont alors celles des procureurs généraux près les cours d'appel de la métropole, dans la mesure où ces
-attributions sont compatibles avec les dispositions législatives applicables dans la collectivité territoriale de Mayotte.
+attributions sont compatibles avec les dispositions législatives applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10587,16 +10649,15 @@ attributions sont compatibles avec les dispositions législatives applicables da
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L942-6
 
 En toutes matières relevant du droit commun, le procureur de la République près le tribunal supérieur d'appel représente, en
-sa personne ou par ses substituts, le ministère public devant toutes les juridictions du premier degré instituées dans la
-collectivité territoriale de Mayotte.
+sa personne ou par ses substituts, le ministère public devant toutes les juridictions du premier degré instituées à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10605,16 +10666,16 @@ collectivité territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L942-7
 
 Les dispositions des chapitres Ier et III du titre II du livre II relatives aux pouvoirs des chefs de cour concernant le
-fonctionnement des juridictions du ressort et à la protection de l'enfance sont applicables dans la collectivité territoriale
-de Mayotte, sous réserve des dispositions de l'alinéa suivant.
+fonctionnement des juridictions du ressort et à la protection de l'enfance sont applicables à Mayotte, sous réserve des
+dispositions de l'alinéa suivant.
 
 Pour l'application du premier alinéa de l'article L. 223-2, le président du tribunal supérieur d'appel exerce les fonctions
 de délégué à la protection de l'enfance. Toutefois, le président du tribunal supérieur d'appel peut, par ordonnance, désigner
@@ -10629,7 +10690,7 @@ un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 6 () JORF 22 août 1998
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -10639,8 +10700,7 @@ un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
 ###### Article L942-8
 
 Le tribunal supérieur d'appel exerce les compétences dévolues en métropole à la chambre des appels correctionnels et à la
-chambre de l'instruction dans les conditions prévues par les dispositions de procédure pénale applicables dans la
-collectivité territoriale de Mayotte.
+chambre de l'instruction dans les conditions prévues par les dispositions de procédure pénale applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10651,7 +10711,15 @@ collectivité territoriale de Mayotte.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-16 (VT)
 
 
 ###### Article L942-9
@@ -10666,9 +10734,17 @@ un magistrat du siège du tribunal supérieur d'appel ou, à défaut, par le pr�
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-17 (VT)
 
 
 ###### Article L942-10
@@ -10683,9 +10759,17 @@ juridiction, sont remplacés, pour les besoins du service, par des magistrats du
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-18 (VT)
 
 	**Cité par**:
 
@@ -10697,6 +10781,14 @@ juridiction, sont remplacés, pour les besoins du service, par des magistrats du
 Lorsque le tribunal supérieur d'appel ne peut être composé conformément aux articles L. 942-4 et L. 942-10, il est complété
 par des assesseurs désignés par ordonnance du président du tribunal supérieur d'appel.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10704,9 +10796,17 @@ par des assesseurs désignés par ordonnance du président du tribunal supérieu
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-19 (VT)
 
 	**Cite**:
 
@@ -10724,11 +10824,6 @@ Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux a
 française, âgées de plus de vingt-trois ans, présentant des garanties de compétence et d'impartialité et n'ayant fait l'objet
 d'aucune condamnation, incapacité ou déchéance prévue par les articles L. 5 et L. 6 du code électoral.
 
-**Nota:**
-
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10740,20 +10835,28 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance n°92-1141 du 12 octobre 1992 - art. 2 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-7 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R942-12 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Cite**:
 
 	  - Code électoral - art. L5 (M)
 	  - Code électoral - art. L6 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-20 (VT)
 
 
 ###### Article L942-13
@@ -10765,8 +10868,11 @@ comprenant le nom des personnes ayant fait acte de candidature auprès du prési
 
 **Nota:**
 
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -10779,10 +10885,6 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
@@ -10792,11 +10894,33 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-7 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R942-14 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-21 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-13 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-15 (Ab)
+
 
 ###### Article L942-14
 
 Les assesseurs appelés à remplacer les magistrats du siège du tribunal supérieur d'appel en application de l'article L.
 942-11 sont désignés dans l'ordre de la liste d'assesseurs prévue à l'article L. 942-13.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -10805,9 +10929,17 @@ Les assesseurs appelés à remplacer les magistrats du siège du tribunal supér
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-22 (VT)
 
 	**Cite**:
 
@@ -10827,9 +10959,17 @@ liste d'assesseurs prévue à l'article L. 942-13.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-23 (VT)
 
 	**Cite**:
 
@@ -10847,6 +10987,14 @@ pour la partie de l'année judiciaire restant à courir, au remplacement des ass
 assesseur est alors désigné dans les formes prévues à l'article L. 942-13 et choisi sur la liste préparatoire mentionnée au
 même article.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10854,24 +11002,27 @@ même article.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-13 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-18 (Ab)
 
 
 ###### Article L942-17
 
 Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant le tribunal supérieur d'appel le serment
 prévu à l'article 6 de l'ordonnance du 22 décembre 1958 susvisée portant loi organique relative au statut de la magistrature.
-
-**Nota:**
-
-[*En vigueur le 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au tribunal
-supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
 
 **Liens relatifs à cet article**
 
@@ -10888,13 +11039,21 @@ supérieur d'appel, au tribunal de première instance et au tribunal pour enfant
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-24 (VT)
 
 
 ###### Article L942-18
@@ -10909,9 +11068,17 @@ ne peut excéder une période de deux mois.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-25 (VT)
 
 
 ###### Article L942-19
@@ -10925,9 +11092,13 @@ Les dispositions de l'article L. 731-1 relatives à la récusation des juges son
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -10950,20 +11121,23 @@ En cas de faute grave entachant l'honneur ou la probité, leur déchéance est p
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-26 (VT)
 
 
 ###### Article L942-21
 
 Les fonctions d'assesseur au tribunal supérieur d'appel sont incompatibles avec celles d'assesseur au tribunal de première
 instance ou au tribunal pour enfants.
-
-**Nota:**
-
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
 
 **Liens relatifs à cet article**
 
@@ -10976,20 +11150,28 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-27 (VT)
 
 
 #### Chapitre III : Le tribunal de première instance.
 
 ###### Article L943-1
 
-Il y a dans la collectivité territoriale de Mayotte une juridiction du premier degré dénommée tribunal de première instance.
+Il y a à Mayotte une juridiction du premier degré dénommée tribunal de première instance.
 
 **Liens relatifs à cet article**
 
@@ -10998,9 +11180,17 @@ Il y a dans la collectivité territoriale de Mayotte une juridiction du premier 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-1 (VT)
 
 
 ###### Article L943-2
@@ -11014,9 +11204,17 @@ Le tribunal de première instance a compétence exclusive dans les matières dé
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-3 (V)
 
 
 ###### Article L943-3
@@ -11030,14 +11228,30 @@ Le tribunal de première instance exerce les compétences dévolues en métropol
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-4 (VT)
 
 
 ###### Article L943-4
 
 Le siège du tribunal de première instance est fixé par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -11048,7 +11262,15 @@ Le siège du tribunal de première instance est fixé par décret en Conseil d'E
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D522-1 (Ab)
 
 
 ###### Article L943-5
@@ -11059,6 +11281,15 @@ Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale
 
 La décision de renvoi à la formation collégiale est une mesure d'administration judiciaire non susceptible de recours.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 943-5 du code de l'organisation judiciaire est abrogé à l'exception
+de son troisième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -11068,13 +11299,29 @@ La décision de renvoi à la formation collégiale est une mesure d'administrati
 
 	**Modifié par**:
 
-	  - Loi n°98-144 1998-03-06 art. 7 JORF 10 mars 1998
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-5 (V)
 
 
 ###### Article L943-6
 
 Lorsqu'il statue en formation collégiale, le tribunal de première instance est composé d'un magistrat du siège de ce
 tribunal, président, et de deux assesseurs.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -11083,9 +11330,17 @@ tribunal, président, et de deux assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-6 (VT)
 
 
 ###### Article L943-7
@@ -11106,8 +11361,11 @@ première instance ou du ministère public.
 
 **Nota:**
 
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -11120,15 +11378,24 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
 	  - Décret n°94-183 du 1 mars 1994 - art. 2 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R374 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-7 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-6 (Ab)
 
 	**Cite**:
 
@@ -11151,20 +11418,23 @@ défaut d'une telle désignation, par l'assesseur titulaire non empêché le plu
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-8 (VT)
 
 
 ###### Article L943-9
 
 Les fonctions d'assesseur au tribunal de première instance sont incompatibles avec celles d'assesseur au tribunal supérieur
 d'appel ou au tribunal pour enfants.
-
-**Nota:**
-
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
 
 **Liens relatifs à cet article**
 
@@ -11177,20 +11447,28 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-9 (VT)
 
 
 ###### Article L943-10
 
 Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
-nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables dans la
-collectivité territoriale de Mayotte.
+nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables à
+Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -11199,9 +11477,17 @@ collectivité territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
 
 
 ###### Article L943-11
@@ -11217,16 +11503,24 @@ Lorsqu'il statue en matière contraventionnelle, il est dénommé tribunal de po
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
 
 
 ###### Article L943-12
 
 Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal correctionnel et du tribunal de police
 ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions de procédure pénale
-applicables dans la collectivité territoriale de Mayotte.
+applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -11235,9 +11529,17 @@ applicables dans la collectivité territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
 
 
 #### Chapitre IV : Les juridictions des mineurs.
@@ -11245,12 +11547,7 @@ applicables dans la collectivité territoriale de Mayotte.
 ###### Article L944-1
 
 Les dispositions du livre V (partie législative) relatives aux juridictions des mineurs applicables en métropole le 14 août
-1992 sont applicables dans la collectivité territoriale de Mayotte, sous réserve des dispositions de l'article L. 944-2.
-
-**Nota:**
-
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
+1992 sont applicables à Mayotte, sous réserve des dispositions de l'article L. 944-2.
 
 **Liens relatifs à cet article**
 
@@ -11263,13 +11560,17 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 
 	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -11288,9 +11589,9 @@ première instance désigné par ordonnance du président du tribunal supérieur
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -11306,10 +11607,8 @@ première instance désigné par ordonnance du président du tribunal supérieur
 Les fonctions d'assesseur au tribunal pour enfants sont incompatibles avec celles d'assesseur au tribunal supérieur d'appel
 ou au tribunal de première instance.
 
-**Nota:**
-
-[*Entre en vigueur au 16 octobre 1992 en tant que ces dispositions sont applicables à la désignation des assesseurs au
-tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants.*]
+sont applicables à la désignation des assesseurs au tribunal supérieur d'appel, au tribunal de première instance et au
+tribunal pour enfants.
 
 **Liens relatifs à cet article**
 
@@ -11318,24 +11617,28 @@ tribunal supérieur d'appel, au tribunal de première instance et au tribunal po
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-34 (VT)
 
 
 #### Chapitre V : La cour criminelle.
 
 ###### Article L945-1
 
-Il y a dans la collectivité territoriale de Mayotte une cour criminelle.
+Il y a à Mayotte une cour criminelle.
 
 **Liens relatifs à cet article**
 
@@ -11344,16 +11647,23 @@ Il y a dans la collectivité territoriale de Mayotte une cour criminelle.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-35 (VT)
 
 
 ###### Article L945-2
 
 Les règles concernant la compétence, l'organisation et le fonctionnement de la cour criminelle ainsi que celles relatives au
-ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables dans la collectivité
-territoriale de Mayotte.
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -11362,9 +11672,17 @@ territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-36 (VT)
 
 
 #### Chapitre VI : Les secrétariats-greffes des juridictions.
@@ -11382,16 +11700,23 @@ cadres territoriaux ou des agents territoriaux.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L523-1 (VT)
 
 
 ###### Article L946-2
 
 Les fonctions de greffier du tribunal de première instance et des autres juridictions du premier degré statuant en
-application du droit commun dans la collectivité territoriale de Mayotte sont exercées par le greffier en chef ou par un
-greffier du tribunal supérieur d'appel.
+application du droit commun à Mayotte sont exercées par le greffier en chef ou par un greffier du tribunal supérieur d'appel.
 
 **Liens relatifs à cet article**
 
@@ -11400,9 +11725,9 @@ greffier du tribunal supérieur d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
@@ -28514,14 +28839,13 @@ monnaie locale de 11000 francs.
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte
+### Titre IV : Dispositions particulières à Mayotte
 
 #### Chapitre Ier : Dispositions générales.
 
 ###### Article R941-1
 
-Pour l'application des dispositions étendues par le présent titre dans la collectivité territoriale de Mayotte, il y a lieu
-de lire :
+Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
 
 1° "Tribunal supérieur d'appel" à la place de "cour d'appel" ;
 
@@ -28538,23 +28862,22 @@ de lire :
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R941-2
 
-Les dispositions communes à plusieurs juridictions contenues au livre VII (partie Réglementaire) sont applicables dans la
-collectivité territoriale de Mayotte, à l'exception de l'article R. 721-2 et du titre VI de ce livre, et sous réserve des
-adaptations suivantes :
+Les dispositions communes à plusieurs juridictions contenues au livre VII (partie Réglementaire) sont applicables à Mayotte,
+à l'exception de l'article R. 721-2 et du titre VI de ce livre, et sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 721-3, la référence aux avocats ou avoués est remplacée par une référence aux avocats
 ou personnes agréés par le président du tribunal supérieur d'appel pour exercer les attributions dévolues aux conseils des
 parties ;
 
 2° Pour l'application de l'article R. 731-1, la référence aux articles 342 à 366 du nouveau code de procédure civile est
-remplacée par une référence aux dispositions de procédure civile applicables dans la collectivité territoriale de Mayotte.
+remplacée par une référence aux dispositions de procédure civile applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -28563,9 +28886,9 @@ remplacée par une référence aux dispositions de procédure civile applicables
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -28593,9 +28916,17 @@ Le siège du tribunal supérieur d'appel est fixé conformément au tableau I an
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D522-10 (Ab)
 
 
 ###### Article R942-2
@@ -28609,15 +28940,19 @@ L'installation des magistrats du tribunal supérieur d'appel a lieu en audience 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R942-3
 
 Le président du tribunal supérieur d'appel se prononce par ordonnance dans les cas et conditions prévus par les dispositions
-de procédure civile applicables dans la collectivité territoriale de Mayotte, notamment en référé ou sur requête.
+de procédure civile applicables à Mayotte, notamment en référé ou sur requête.
 
 **Liens relatifs à cet article**
 
@@ -28626,9 +28961,13 @@ de procédure civile applicables dans la collectivité territoriale de Mayotte, 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Section II : Fonctionnement
@@ -28646,9 +28985,13 @@ Un règlement est édicté au tribunal supérieur d'appel. Ce règlement est tra
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R942-5
@@ -28662,9 +29005,13 @@ Le président du tribunal supérieur d'appel prend par ordonnance les mesures d'
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R942-6
@@ -28672,7 +29019,7 @@ Le président du tribunal supérieur d'appel prend par ordonnance les mesures d'
 Pendant la première quinzaine du mois de décembre, le président du tribunal supérieur d'appel prend par ordonnance, pour
 l'année judiciaire suivante, les mesures propres à assurer le fonctionnement de la juridiction. Il fixe, notamment, le
 nombre, le jour et la nature des audiences des différentes formations de la juridiction conformément aux dispositions en
-vigueur dans la collectivité territoriale de Mayotte.
+vigueur à Mayotte.
 
 L'ordonnance prise en application de l'alinéa précédent peut être modifiée dans les mêmes formes en cours d'année judiciaire
 en cas de cessation ou d'interruption des fonctions ou en cas d'absence d'un des magistrats du tribunal supérieur d'appel. Il
@@ -28685,9 +29032,13 @@ en est de même en cas de nomination de magistrats dans la juridiction.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R942-7
@@ -28709,9 +29060,13 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Sous-section II : Le ministère public.
@@ -28728,9 +29083,9 @@ direction du procureur de la République.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R942-9
@@ -28745,9 +29100,13 @@ tribunal supérieur d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
 ###### Article R942-10
@@ -28763,9 +29122,13 @@ En cas d'absence ou d'empêchement, le procureur de la République est remplacé
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
 ###### Article R942-11
@@ -28785,9 +29148,13 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
 ##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.
@@ -28808,17 +29175,25 @@ sceaux, destinés à établir qu'il remplit les conditions prévues par l'articl
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-12 (Ab)
+
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-12 (M)
+	  - Code de l'organisation judiciaire - art. L942-12
 
 
 ###### Article R942-13
@@ -28833,13 +29208,21 @@ affichées au secrétariat-greffe du tribunal supérieur d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-12 (Ab)
 
 
 ###### Article R942-14
@@ -28854,17 +29237,25 @@ préparatoire prévue à l'article L. 942-13.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-13 (Ab)
+
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-13 (M)
+	  - Code de l'organisation judiciaire - art. L942-13
 
 
 ###### Article R942-15
@@ -28881,13 +29272,21 @@ préparatoire, une liste d'assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-14 (Ab)
 
 	**Cité par**:
 
@@ -28907,13 +29306,21 @@ désignés.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-16 (Ab)
 
 
 ###### Article R942-17
@@ -28930,13 +29337,21 @@ Il est dressé un procès-verbal de la réception du serment.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-17 (Ab)
 
 	**Cité par**:
 
@@ -28957,13 +29372,21 @@ Il est dressé un procès-verbal de cette installation.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-17 (Ab)
 
 
 ###### Article R942-19
@@ -28977,20 +29400,24 @@ Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs du tribunal su
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R721-1, R721-3
+	  - Code de l'organisation judiciaire
 
 
 ##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.
 
 ###### Article R942-20
 
-Les dispositions de l'article R. 213-29 sont applicables dans la collectivité territoriale de Mayotte.
+Les dispositions de l'article R. 213-29 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -28999,9 +29426,9 @@ Les dispositions de l'article R. 213-29 sont applicables dans la collectivité t
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -29024,9 +29451,18 @@ compétence n'est pas attribuée expressément à une autre juridiction en raiso
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2 (Ab)
 
 
 ###### Article R943-2
@@ -29041,9 +29477,9 @@ instance statue en dernier ressort lorsque le montant de la demande en principal
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -29052,11 +29488,11 @@ instance statue en dernier ressort lorsque le montant de la demande en principal
 
 ###### Article R943-3
 
-Les dispositions de l'article R. 311-4, du premier alinéa de l'article R. 311-5 et de l'article R. 311-6 sont applicables
-dans la collectivité territoriale de Mayotte, sous réserve des dispositions de l'alinéa suivant.
+Les dispositions de l'article R. 311-4, du premier alinéa de l'article R. 311-5 et de l'article R. 311-6 sont applicables à
+Mayotte, sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application de l'article R. 311-4, la référence à l'article 3 du code de procédure pénale est remplacée par une
-référence aux dispositions de procédure pénale applicables dans la collectivité territoriale de Mayotte.
+référence aux dispositions de procédure pénale applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29065,14 +29501,18 @@ référence aux dispositions de procédure pénale applicables dans la collectiv
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 3 (V)
-	  - Code de l'organisation judiciaire R311-5, R311-6, R311-4
+	  - Code de procédure pénale - art. 3
+	  - Code de l'organisation judiciaire
 
 
 ##### Section II : Organisation.
@@ -29081,25 +29521,25 @@ référence aux dispositions de procédure pénale applicables dans la collectiv
 
 Le siège du tribunal de première instance est fixé conformément au tableau I annexé au présent code.
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions compétentes dans la collectivité territoriale de Mayotte
-sont fixés conformément aux tableaux X et XI annexés au présent code.
+Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
+janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le siège et le ressort des
+juridictions compétentes à Mayotte sont fixés conformément aux tableaux X et XI annexés au présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire annexe
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -29117,15 +29557,19 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R943-6
 
-Le président se prononce par ordonnance dans les cas prévus par les dispositions de procédure civile applicables dans la
-collectivité territoriale de Mayotte, notamment en référé ou sur requête.
+Le président se prononce par ordonnance dans les cas prévus par les dispositions de procédure civile applicables à Mayotte,
+notamment en référé ou sur requête.
 
 **Liens relatifs à cet article**
 
@@ -29134,9 +29578,13 @@ collectivité territoriale de Mayotte, notamment en référé ou sur requête.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Section III : Fonctionnement
@@ -29155,9 +29603,13 @@ justice.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R943-8
@@ -29171,9 +29623,13 @@ Le président du tribunal de première instance prend par ordonnance les mesures
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R943-9
@@ -29189,9 +29645,17 @@ le magistrat le plus ancien du rang le plus élevé.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-4 (Ab)
 
 	**Cité par**:
 
@@ -29212,9 +29676,17 @@ le plus ancien du rang le plus élevé.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-5 (Ab)
 
 	**Cité par**:
 
@@ -29222,7 +29694,7 @@ le plus ancien du rang le plus élevé.
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-9 (M)
+	  - Code de l'organisation judiciaire - art. R943-9
 
 
 ###### Article R943-11
@@ -29237,9 +29709,17 @@ faire se peut, l'ordre des nominations au tribunal de première instance.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-5 (Ab)
 
 
 ###### Article R943-12
@@ -29247,8 +29727,7 @@ faire se peut, l'ordre des nominations au tribunal de première instance.
 Pendant la première quinzaine du mois de décembre, le président du tribunal de première instance fixe par ordonnance la
 répartition dans les services du tribunal des magistrats du siège dont ce tribunal est composé.
 
-Cette ordonnance précise le nombre, le jour et la nature des audiences, conformément aux dispositions en vigueur dans la
-collectivité territoriale de Mayotte.
+Cette ordonnance précise le nombre, le jour et la nature des audiences, conformément aux dispositions en vigueur à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29257,9 +29736,13 @@ collectivité territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cité par**:
 
@@ -29283,15 +29766,24 @@ Il en est de même en cas de nomination de magistrats dans le tribunal.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-5 (Ab)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-10 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-12 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-9 (M)
+	  - Code de l'organisation judiciaire - art. R943-10
+	  - Code de l'organisation judiciaire - art. R943-12
+	  - Code de l'organisation judiciaire - art. R943-9
 
 
 ###### Article R943-14
@@ -29306,13 +29798,17 @@ Une expédition des ordonnances rendues par le président du tribunal de premiè
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-12 (M)
+	  - Code de l'organisation judiciaire - art. R943-12
 
 
 ###### Article R943-15
@@ -29332,9 +29828,13 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Sous-section II : Les assesseurs du tribunal de première instance.
@@ -29362,19 +29862,27 @@ représentant du ministère public près la juridiction, à l'installation publi
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-956 1993-07-26 art. 5
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-6 (Ab)
+
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R942-15 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R942-17 (M)
-	  - Code de l'organisation judiciaire R942-12 à R942-18, R942-15, R942-17
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. R942-15
+	  - Code de l'organisation judiciaire - art. R942-17
 
 
 ###### Article R943-17
@@ -29388,13 +29896,17 @@ Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs du tribunal de
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R721-1, R721-3
+	  - Code de l'organisation judiciaire
 
 
 ##### Sous-section III : Dispositions particulières à certaines matières.
@@ -29413,17 +29925,21 @@ affaires mentionnées à l'article L.312-1.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 7 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L312-1
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R943-19
 
-L'article R. 311-29-3 est applicable dans la collectivité territoriale de Mayotte ; pour l'application de cette disposition,
-les mots "tribunal de première instance" sont substitués à ceux de "tribunal de grande instance".
+L'article R. 311-29-3 est applicable à Mayotte ; pour l'application de cette disposition, les mots "tribunal de première
+instance" sont substitués à ceux de "tribunal de grande instance".
 
 **Liens relatifs à cet article**
 
@@ -29432,26 +29948,29 @@ les mots "tribunal de première instance" sont substitués à ceux de "tribunal 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 7 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (M)
+	  - Code de l'organisation judiciaire - art. R311-29-3
 
 
 #### Chapitre IV : Les juridictions des mineurs.
 
 ###### Article R944-1
 
-Les dispositions du livre V (partie Réglementaire) relatives aux juridictions des mineurs sont applicables dans la
-collectivité territoriale de Mayotte, à l'exception de l'article R. 522-2, et sous réserve des dispositions de l'alinéa
-suivant.
+Les dispositions du livre V (partie Réglementaire) relatives aux juridictions des mineurs sont applicables à Mayotte, à
+l'exception de l'article R. 522-2, et sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application du second alinéa de l'article R. 522-10, les assesseurs titulaires et suppléants perçoivent, s'il y a
 lieu, les frais et indemnités de transport et de séjour prévus par les dispositions relatives aux frais de justice
-criminelle, correctionnelle et de police applicables dans la collectivité territoriale de Mayotte.
+criminelle, correctionnelle et de police applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29460,13 +29979,17 @@ criminelle, correctionnelle et de police applicables dans la collectivité terri
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R522-2, R522-10
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre V : La cour criminelle.
@@ -29482,9 +30005,13 @@ La cour criminelle siège à Mamoudzou.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 #### Chapitre VI : Les secrétariats-greffes des juridictions.
@@ -29507,9 +30034,13 @@ conditions prévues pour les autres services de la juridiction.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R946-2
@@ -29524,9 +30055,9 @@ agents du secrétariat-greffe du tribunal supérieur d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R946-3
@@ -29543,9 +30074,9 @@ instance et désignent un fonctionnaire responsable du secrétariat-greffe du tr
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R946-4
@@ -29561,9 +30092,9 @@ personnel assurant le service du secrétariat-greffe entre les services du sièg
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R946-5
@@ -29587,9 +30118,9 @@ responsable du secrétariat-greffe du tribunal de première instance ;
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36324,724 +36855,2115 @@ Ressort du tribunal d'instance de Versailles.
 
 ###### Article Annexe Tableau XII
 
-Tableau XII : Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour
-connaître des contestations sur la nationalité française ou étrangère des personnes physiques.
+**Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des
+contestations sur la nationalité française ou étrangère des personnes physiques
 
-Département
+**
 
-Tribunal de grande instance compétent dans le département
+**
+**
 
-Ressort dans lequel la juridiction exerce ses attributions
+**
+
+<table>
+  <tbody>
+    <tr>
+      <td width="205">
+
+DÉPARTEMENT
+
+</td>
+      <td width="205">
+
+TRIBUNAL DE GRANDE
+
+instance compétent
+
+dans le département
+
+</td>
+      <td width="205">
+
+RESSORT
+
+dans lequel la juridiction
+
+exerce ses attributions
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel d'Agen**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Gers
 
-Cour d'appel d'Agen
+</td>
+      <td width="205">
 
-Tribunal de grande instance d'Auch.
+Auch
 
-Ressort du tribunal de grande instance d'Auch.
+</td>
+      <td width="205">
+
+Auch.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Lot
 
-Tribunal de grande instance de Cahors
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Cahors.
+Cahors
+
+</td>
+      <td width="205">
+
+Cahors.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Lot-et-Garonne
 
-Tribunal de grande instance d'Agen.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Agen et de Marmande
+Agen
 
-Cour d'appel d'Aix-en-Provence
+</td>
+      <td width="205">
+
+Agen et Marmande.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel d'Aix-en-Provence**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Alpes-de-Haute-Provence
 
-Tribunal de grande instance de Digne.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Digne.
+Digne
+
+</td>
+      <td width="205">
+
+Digne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Alpes-Maritimes
 
-Tribunal de grande instance de Nice.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Grasse et Nice.
+Nice
 
-Bouches-du Rhône
+</td>
+      <td width="205">
 
-Tribunal de grande instance de Marseille.
+Grasse et Nice.
 
-Ressort des tribunaux de grande instance d'Aix-en-Provence, Marseille et Tarascon.
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Bouches-du-Rhône
+
+</td>
+      <td width="205">
+
+Marseille
+
+</td>
+      <td width="205">
+
+Aix-en-Provence, Marseille et Tarascon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Var
 
-Tribunal de grande instance de Toulon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Draguignan et de Toulon. Cour d'appel d'Amiens
+Toulon
+
+</td>
+      <td width="205">
+
+Draguignan et Toulon.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel d'Amiens**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Aisne
 
-Tribunal de grande instance de Laon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Laon, Saint-Quentin et Soissons.
+Laon
+
+</td>
+      <td width="205">
+
+Laon, Saint-Quentin et Soissons.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Oise
 
-Tribunal de grande instance de Beauvais.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Beauvais, Compiègne et Senlis.
+Beauvais
+
+</td>
+      <td width="205">
+
+Beauvais, Compiègne et Senlis.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Somme
 
-Tribunal de grande instance d'Amiens.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne
+Amiens
 
-Cour d'appel d'Angers
+</td>
+      <td width="205">
+
+Abbeville, Amiens et Péronne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel d'Angers**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Maine-et-Loire
 
-Tribunal de grande instance d'Angers.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Angers et de Saumur.
+Angers
+
+</td>
+      <td width="205">
+
+Angers et Saumur.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Mayenne
 
-Tribunal de grande instance de Laval.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Laval.
+Laval
+
+</td>
+      <td width="205">
+
+Laval.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Sarthe
 
-Tribunal de grande instance du Mans.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance du Mans
+Le Mans
 
-Cour d'appel de Bastia
+</td>
+      <td width="205">
+
+Le Mans.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Bastia**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Corse-du-Sud
 
-Tribunal de grande instance d'Ajaccio.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance d'Ajaccio.
+Ajaccio
+
+</td>
+      <td width="205">
+
+Ajaccio.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Corse
 
-Tribunal de grande instance de Bastia.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Bastia
+Bastia
 
-Cour d'appel de Besançon
+</td>
+      <td width="205">
+
+Bastia.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Besançon**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Territoire de Belfort
 
-Tribunal de grande instance de Belfort.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Belfort.
+Belfort
+
+</td>
+      <td width="205">
+
+Belfort.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Doubs
 
-Tribunal de grande instance de Besançon.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Besançon.
+Besançon
 
-Tribunal de grande instance de Montbéliard.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Montbéliard.
+Besançon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+      </td><td width="205">
+
+Montbéliard
+
+</td>
+      <td width="205">
+
+Montbéliard.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Jura
 
-Tribunal de grande instance de Lons-le-Saunier.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Dole et de Lons-le-Saunier.
+Lons-le-Saunier
+
+</td>
+      <td width="205">
+
+Dôle et Lons-le-Saunier.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Saône
 
-Tribunal de grande instance de Vesoul.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Lure et de Vesoul
+Vesoul
 
-Cour d'appel de Bordeaux
+</td>
+      <td width="205">
+
+Lure et Vesoul.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Bordeaux**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Charente
 
-Tribunal de grande instance d'Angoulême.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance d'Angoulême.
+Angoulême
+
+</td>
+      <td width="205">
+
+Angoulême.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Dordogne
 
-Tribunal de grande instance de Périgueux.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bergerac et de Périgueux.
+Périgueux
+
+</td>
+      <td width="205">
+
+Bergerac et Périgueux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Gironde
 
-Tribunal de grande instance de Bordeaux.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bordeaux et de Libourne.
+Bordeaux
 
-Cour d'appel de Bourges
+</td>
+      <td width="205">
+
+Bordeaux et Libourne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Bourges**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Cher
 
-Tribunal de grande instance de Bourges.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Bourges.
+Bourges
+
+</td>
+      <td width="205">
+
+Bourges.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Indre
 
-Tribunal de grande instance de Châteauroux.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Châteauroux.
+Châteauroux
+
+</td>
+      <td width="205">
+
+Châteauroux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Nièvre
 
-Tribunal de grande instance de Nevers.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Nevers
+Nevers
 
-Cour d'appel de Caen
+</td>
+      <td width="205">
+
+Nevers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Caen**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Calvados
 
-Tribunal de grande instance de Caen.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Caen et Lisieux.
+Caen
+
+</td>
+      <td width="205">
+
+Caen et Lisieux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Manche
 
-Tribunal de grande instance de Coutances.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Avranches, Cherbourg et Coutances.
+Coutances
+
+</td>
+      <td width="205">
+
+Avranches, Cherbourg et Coutances.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Orne
 
-Tribunal de grande instance de Alençon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Alençon et Argentan
+Alençon
 
-Cour d'appel de Chambéry
+</td>
+      <td width="205">
+
+Alençon et Argentan.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Chambéry**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Savoie
 
-Tribunal de grande instance de Chambéry
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Albertville et Chambéry.
+Chambéry
+
+</td>
+      <td width="205">
+
+Albertville et Chambéry.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Savoie
 
-Tribunal de grande instance d'Annecy.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Annecy, Bonneville et Thonon-les-Bains
+Annecy
 
-Cour d'appel de Colmar
+</td>
+      <td width="205">
+
+Annecy, Bonneville et Thonon-les-Bains.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Colmar**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Bas-Rhin
 
-Tribunal de grande instance de Strasbourg.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Saverne et Strasbourg.
+Strasbourg
+
+</td>
+      <td width="205">
+
+Saverne et Strasbourg.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haut-Rhin
 
-Tribunal de grande instance de Mulhouse.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Colmar et Mulhouse
+Mulhouse
 
-Cour d'appel de Dijon
+</td>
+      <td width="205">
+
+Colmar et Mulhouse.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Dijon**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Côte-d'Or
 
-Tribunal de grande instance de Dijon.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Dijon.
+Dijon
+
+</td>
+      <td width="205">
+
+Dijon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Marne
 
-Tribunal de grande instance de Chaumont.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Chaumont.
+Chaumont
+
+</td>
+      <td width="205">
+
+Chaumont.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Saône-et-Loire
 
-Tribunal de grande instance de Chalon-sur-Saône.
+</td>
+      <td width="205">
 
-Ressort des du tribunal de grande instance de Chalon-sur-Saône et Mâcon
+Chalon-sur-Saône
 
-Cour d'appel de Douai
+</td>
+      <td width="205">
+
+Chalon-sur-Saône et Mâcon.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Douai**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Nord
 
-Tribunal de grande instance de Lille.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Hazebrouck, Lille et Valenciennes.
+Lille
+
+</td>
+      <td width="205">
+
+Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Hazebrouck, Lille et Valenciennes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Pas-de-Calais
 
-Tribunal de grande instance de Béthune.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Arras, Béthune, Boulogne-sur-Mer et Saint-Omer
+Béthune
 
-Cour d'appel de Grenoble
+</td>
+      <td width="205">
+
+Arras, Béthune, Boulogne-sur-Mer et Saint-Omer.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Grenoble**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Hautes-Alpes
 
-Tribunal de grande instance de Gap.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Gap.
+Gap
+
+</td>
+      <td width="205">
+
+Gap.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Drôme
 
-Tribunal de grande instance de Valence.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Valence.
+Valence
+
+</td>
+      <td width="205">
+
+Valence.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Isère
 
-Tribunal de grande instance de Grenoble.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bourgoin-Jallieu, Grenoble et Vienne
+Grenoble
 
-Cour d'appel de Limoges
+</td>
+      <td width="205">
+
+Bourgoin-Jallieu, Grenoble et Vienne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Limoges**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Corrèze
 
-Tribunal de grande instance de Tulle.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Brive et Tulle.
+Tulle
+
+</td>
+      <td width="205">
+
+Brive et Tulle.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Creuse
 
-Tribunal de grande instance de Guéret.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Guéret.
+Guéret
+
+</td>
+      <td width="205">
+
+Guéret.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Vienne
 
-Tribunal de grande instance de Limoges.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Limoges.
+Limoges
 
-Cour d'appel de Lyon
+</td>
+      <td width="205">
+
+Limoges.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Lyon**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ain
 
-Tribunal de grande instance de Bourg-en-Bresse.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse.
+Bourg-en-Bresse
+
+</td>
+      <td width="205">
+
+Belley et Bourg-en-Bresse.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Loire
 
-Tribunal de grande instance de Saint-Etienne.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Montbrison, Roanne et Saint-Etienne.
+Saint-Etienne
+
+</td>
+      <td width="205">
+
+Montbrison, Roanne et Saint-Etienne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Rhône
 
-Tribunal de grande instance de Lyon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Lyon et Villefranche-sur-Saône
+Lyon
 
-Cour d'appel de Metz
+</td>
+      <td width="205">
+
+Lyon et Villefranche-sur-Saône.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Metz**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Moselle
 
-Tribunal de grande instance de Metz.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Metz, Sarreguemines et Thionville
+Metz
 
-Cour d'appel de Montpellier
+</td>
+      <td width="205">
+
+Metz, Sarreguemines et Thionville.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Montpellier**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Aude
 
-Tribunal de grande instance de Carcassonne.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Carcassonne et Narbonne.
+Carcassonne
+
+</td>
+      <td width="205">
+
+Carcassonne et Narbonne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Aveyron
 
-Tribunal de grande instance de Rodez.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Millau et Rodez.
+Rodez
+
+</td>
+      <td width="205">
+
+Millau et Rodez.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Hérault
 
-Tribunal de grande instance de Montpellier.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Béziers et Montpellier.
+Montpellier
+
+</td>
+      <td width="205">
+
+Béziers et Montpellier.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Pyrénées-Orientales
 
-Tribunal de grande instance de Perpignan.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Perpignan
+Perpignan
 
-Cour d'appel de Nancy
+</td>
+      <td width="205">
+
+Perpignan.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Nancy**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Meurthe-et-Moselle
 
-Tribunal de grande instance de Nancy.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Briey et Nancy.
+Nancy
+
+</td>
+      <td width="205">
+
+Briey et Nancy.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Meuse
 
-Tribunal de grande instance de Verdun.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
+Verdun
+
+</td>
+      <td width="205">
+
+Bar-le-Duc et Verdun.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Vosges
 
-Tribunal de grande instance d'Epinal.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Epinal et Saint-Dié
+Epinal
 
-Cour d'appel de Nîmes
+</td>
+      <td width="205">
+
+Epinal et Saint-Dié.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Nîmes**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ardèche
 
-Tribunal du grande instance de Privas.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Privas.
+Privas
+
+</td>
+      <td width="205">
+
+Privas.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Gard
 
-Tribunal de grande instance de Nîmes.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Alès et Nîmes.
+Nîmes
+
+</td>
+      <td width="205">
+
+Alès et Nîmes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Lozère
 
-Tribunal de grande instance de Mende.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Mende.
+Mende
+
+</td>
+      <td width="205">
+
+Mende.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Vaucluse
 
-Tribunal de grande instance d'Avignon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Avignon et Carpentras
+Avignon
 
-Cour d'appel d'Orléans
+</td>
+      <td width="205">
+
+Avignon et Carpentras.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel d'Orléans**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Indre-et-Loire
 
-Tribunal de grande instance de Tours.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Tours.
+Tours
+
+</td>
+      <td width="205">
+
+Tours.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Loir-et-Cher
 
-Tribunal de grande instance de Blois.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Blois.
+Blois
+
+</td>
+      <td width="205">
+
+Blois.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Loiret
 
-Tribunal de grande instance d'Orléans.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Montargis et d'Orléans
+Orléans
 
-Cour d'appel de Paris
+</td>
+      <td width="205">
+
+Montargis et Orléans.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Paris**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Essonne
 
-Tribunal de grande instance d'Evry.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance d'Evry.
+Evry
+
+</td>
+      <td width="205">
+
+Evry.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Seine-et-Marne
 
-Tribunal de grande instance de Melun.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Fontainebleau, Meaux et Melun.
+Melun
+
+</td>
+      <td width="205">
+
+Fontainebleau, Meaux et Melun.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Seine-Saint-Denis
 
-Tribunal de grande instance de Bobigny.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Bobigny.
+Bobigny
+
+</td>
+      <td width="205">
+
+Bobigny.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Val-de-Marne
 
-Tribunal de grande instance de Créteil.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Créteil.
+Créteil
+
+</td>
+      <td width="205">
+
+Créteil.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Yonne
 
-Tribunal de grande instance d'Auxerre.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Auxerre et Sens.
+Auxerre
+
+</td>
+      <td width="205">
+
+Auxerre et Sens.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Paris
 
-Tribunal de grande instance de Paris.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Paris
+Paris
 
-Cour d'appel de Pau
+</td>
+      <td width="205">
+
+Paris.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Pau**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Landes
 
-Tribunal de grande instance de Mont-de-Marsan.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Dax et Mont-de-Marsan.
+Mont-de-Marsan
+
+</td>
+      <td width="205">
+
+Dax et Mont-de-Marsan.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Pyrénées-Atlantiques
 
-Tribunal de grande instance de Pau.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bayonne et Pau.
+Pau
+
+</td>
+      <td width="205">
+
+Bayonne et Pau.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Hautes-Pyrénées
 
-Tribunal de grande instance de Tarbes.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Tarbes.
+Tarbes
 
-Cour d'appel de Poitiers
+</td>
+      <td width="205">
+
+Tarbes.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Poitiers**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Charente-Maritime
 
-Tribunal de grande instance de La Rochelle.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de La Rochelle et Rochefort.
+La Rochelle
 
-Tribunal de grande instance de Saintes.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Saintes.
+La Rochelle et Rochefort.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+      </td><td width="205">
+
+Saintes
+
+</td>
+      <td width="205">
+
+Saintes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Deux-Sèvres
 
-Tribunal de grande instance de Niort.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bressuire et Niort.
+Niort
+
+</td>
+      <td width="205">
+
+Bressuire et Niort.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Vendée
 
-Tribunal de grande instance de La Roche-sur-Yon.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de La Roche-sur-Yon et Les Sables-d'Olonne.
+La Roche-sur-Yon
+
+</td>
+      <td width="205">
+
+La Roche-sur-Yon et les Sables-d'Olonne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Vienne
 
-Tribunal de grande instance de Poitiers.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance Poitiers
+Poitiers
 
-Cour d'appel de Reims
+</td>
+      <td width="205">
+
+Poitiers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Reims**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ardennes
 
-Tribunal de grande instance de Charleville-Mézières.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Charleville-Mézières.
+Charleville-Mézières
+
+</td>
+      <td width="205">
+
+Charleville-Mézières.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Aube
 
-Tribunal de grande instance de Troyes.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Troyes.
+Troyes
+
+</td>
+      <td width="205">
+
+Troyes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Marne
 
-Tribunal de grande instance de Reims.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Châlons-sur-Marne et Reims
+Reims
 
-Cour d'appel de Rennes
+</td>
+      <td width="205">
+
+Châlons-en-Champagne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Rennes**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Côtes-d'Armor
 
-Tribunal de grande instance de Saint-Brieuc.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Dinan, Guingamp et Saint-Brieuc.
+Saint-Brieuc
+
+</td>
+      <td width="205">
+
+Dinan, Guingamp et Saint-Brieuc.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Finistère
 
-Tribunal de grande instance de Quimper.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Brest, Morlaix et Quimper.
+Quimper
+
+</td>
+      <td width="205">
+
+Brest, Morlaix et Quimper.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ille-et-Vilaine
 
-Tribunal de grande instance de Rennes.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Rennes et Saint-Malo.
+Rennes
+
+</td>
+      <td width="205">
+
+Rennes et Saint-Malo.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Loire-Atlantique
 
-Tribunal de grande instance de Nantes.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Nantes et Saint-Nazaire.
+Nantes
+
+</td>
+      <td width="205">
+
+Nantes et Saint-Nazaire.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Morbihan
 
-Tribunal de grande instance de Lorient.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Lorient et Vannes
+Lorient
 
-Cour d'appel de Riom
+</td>
+      <td width="205">
+
+Lorient et Vannes.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Riom**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Allier
 
-Tribunal de grande instance de Moulins.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins.
+Moulins
+
+</td>
+      <td width="205">
+
+Cusset, Montluçon et Moulins.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Cantal
 
-Tribunal de grande instance d'Aurillac.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance d'Aurillac.
+Aurillac
+
+</td>
+      <td width="205">
+
+Aurillac.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Loire
 
-Tribunal de grande instance du Puy-en-Velay.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance du Puy-en-Velay.
+Le Puy-en-Velay
+
+</td>
+      <td width="205">
+
+Le Puy-en-Velay.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Puy-de-Dôme
 
-Tribunal de grande instance de Clermont-Ferrand.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom
+Clermont-Ferrand
 
-Cour d'appel de Rouen
+</td>
+      <td width="205">
+
+Clermont-Ferrand et Riom.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Rouen**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Eure
 
-Tribunal de grande instance d'Evreux.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Bernay et Evreux.
+Evreux
+
+</td>
+      <td width="205">
+
+Bernay et Evreux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Seine-Maritime
 
-Tribunal de grande instance de Rouen.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Dieppe, Le Havre et Rouen
+Rouen
 
-Cour d'appel de Toulouse
+</td>
+      <td width="205">
+
+Dieppe, Le Havre et Rouen.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Toulouse**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Ariège
 
-Tribunal de grande instance de Foix.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Foix.
+Foix
+
+</td>
+      <td width="205">
+
+Foix.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Haute-Garonne
 
-Tribunal de grande instance de Toulouse.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Toulouse et Saint-Gaudens.
+Toulouse
+
+</td>
+      <td width="205">
+
+Toulouse et Saint-Gaudens.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Tarn
 
-Tribunal de grande instance d'Albi.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance d'Albi et Castres.
+Albi
+
+</td>
+      <td width="205">
+
+Albi et Castres.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Tarn-et-Garonne
 
-Tribunal de grande instance de Montauban.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Montauban
+Montauban
 
-Cour d'appel de Versailles
+</td>
+      <td width="205">
 
-Eure-et-Loir
+Montauban.
 
-Tribunal de grande instance de Chartres.
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
 
-Ressort du tribunal de grande instance de Chartres.
+**Cour d'appel de Versailles**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Eure-et-Loire
+
+</td>
+      <td width="205">
+
+Chartres
+
+</td>
+      <td width="205">
+
+Chartres.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Hauts-de-Seine
 
-Tribunal de grande instance de Nanterre.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Nanterre.
+Nanterre
+
+</td>
+      <td width="205">
+
+Nanterre.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Val-d'Oise
 
-Tribunal de grande instance Pontoise.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Pontoise.
+Pontoise
+
+</td>
+      <td width="205">
+
+Pontoise.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Yvelines
 
-Tribunal de grande instance de Versailles.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Versailles.
+Versailles
 
-Cour d'appel de Basse-Terre
+</td>
+      <td width="205">
+
+Versailles.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="614">
+
+**Cour d'appel de Basse-Terre**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Guadeloupe
 
-Tribunal de grande instance de Pointe-à-Pitre.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Basse-Terre et Pointe-à-Pitre
+Pointe-à-Pitre
 
-Cour d'appel de Fort-de-France
+</td>
+      <td width="205">
+
+Basse-Terre et Pointe-à-Pitre.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Fort-de-France**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Guyane
 
-Tribunal de grande instance de Cayenne.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Cayenne.
+Cayenne
+
+</td>
+      <td width="205">
+
+Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Martinique
 
-Tribunal de grande instance de Fort-de-France.
+</td>
+      <td width="205">
 
-Ressort du tribunal de grande instance de Fort-de-France
+Fort-de-France
 
-Cour d'appel de Saint-Denis (Réunion)
+</td>
+      <td width="205">
+
+Fort-de-France.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Cour d'appel de Saint-Denis-de-la-Réunion**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Réunion
 
-Tribunal de grande instance de Saint-Denis.
+</td>
+      <td width="205">
 
-Ressort des tribunaux de grande instance de Saint-Denis et Saint-Pierre
+Saint-Denis
 
-Cour d'appel de Nouméa
+</td>
+      <td width="205">
 
-Nouvelle-Calédonie
+Saint-Denis et Saint-Pierre.
 
-Tribunal de première instance de Nouméa.
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
 
-Ressort du tribunal de première instance de Nouméa.
+**Cour d'appel de Nouméa**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+La Nouvelle-Calédonie
+
+</td>
+      <td width="205">
+
+TPI Nouméa
+
+</td>
+      <td width="205">
+
+Ressort TPI Nouméa.
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Territoire des îles Wallis-et-Futuna
 
-Tribunal de première instance de Mata-Utu.
+</td>
+      <td width="205">
 
-Ressort du tribunal de première instance de Mata-Utu
+TPI Mata-Utu
 
-Cour d'appel de Papeete
+</td>
+      <td width="205">
 
-Territoire de Polynésie française
+Ressort TPI Mata-Utu.
 
-Tribunal de première instance de Papeete.
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
 
-Ressort de la cour d'appel de Papeete
+**Cour d'appel de Papeete**
 
-Tribunal supérieur d'appel de Saint-Pierre-et-Miquelon
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Territoire de Polynésie-Française
+
+</td>
+      <td width="205">
+
+TPI Papeete
+
+</td>
+      <td width="205">
+
+Ressort CA Papeete.
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
+
+**Tribunal supérieur d'appel de Saint-Pierre et Miquelon**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
 
 Collectivité territoriale de Saint-Pierre-et-Miquelon
 
-Tribunal de première instance de Saint-Pierre.
+</td>
+      <td width="205">
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre
+TPI Saint-Pierre
 
-Tribunal supérieur d'appel de Mamoudzou
+</td>
+      <td width="205">
 
-Collectivité territoriale de Mayotte
+Ressort du TSA Saint-Pierre.
 
-Tribunal de première instance de Mamoudzou.
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="3">
 
-Ressort du tribunal de première instance de Mamoudzou.
+**Tribunal supérieur d'appel de Mamoudzou**
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Mayotte
+
+</td>
+      <td width="205">
+
+TPI Mamoudzou
+
+</td>
+      <td width="205">
+
+Ressort TPI Mamoudzou.
+
+</td>
+    </tr>
+  </tbody>
+</table>**
 
 **Liens relatifs à cet article**
 
@@ -37051,7 +38973,11 @@ Ressort du tribunal de première instance de Mamoudzou.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Liens**:
 
@@ -37249,7 +39175,7 @@ Cher
 
 Tribunal d'instance de Bourges.
 
-Le département.
+Ledépartement.
 
 Indre
 
@@ -37545,7 +39471,7 @@ Pyrénées-Orientales
 
 Tribunal d'instance de Perpignan.
 
-Le département
+Ledépartement
 
 Cour d'appel de Nancy
 
@@ -38247,7 +40173,7 @@ Ressort du tribunal de première instance de Saint-Pierre
 
 Tribunal supérieur d'appel de Mamoudzou
 
-Collectivité territoriale de Mayotte
+Mayotte
 
 Tribunal de première instance de Mamoudzou.
 
@@ -38261,7 +40187,7 @@ Ressort du tribunal de première instance de Mamoudzou.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
