@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1991-04-16
+Version Consolidée au 1991-05-18
 
 # Partie législative ancienne
 
@@ -591,7 +591,7 @@ de celui-ci, par le président de chambre qui le remplace.
 Le procureur général porte la parole aux audiences des chambres mixtes et de l'assemblée plénière ainsi que dans les
 assemblées générales de la cour.
 
-Il la porte aux audiences des chambres quand il le juge convenable.
+Il la porte aux audiences des chambres et devant la formation prévue à l'article L. 151-2, quand il le juge convenable.
 
 **Liens relatifs à cet article**
 
@@ -602,6 +602,23 @@ Il la porte aux audiences des chambres quand il le juge convenable.
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-491 du 15 mai 1991 - art. 2 () JORF 18 mai 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-1 (M)
 
 
 ###### Article L132-2
@@ -820,6 +837,88 @@ ministère public près cette commission sont fixées par l'article 16-2 du Code
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
+
+
+### Titre V : Saisine pour avis de la Cour de cassation.
+
+###### Article L151-1
+
+Avant de statuer sur une demande soulevant une question de droit nouvelle, présentant une difficulté sérieuse et se posant
+dans de nombreux litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours,
+solliciter l'avis de la Cour de cassation qui se prononce dans le délai de trois mois de sa saisine.
+
+Il est sursis à toute décision sur le fond de l'affaire jusqu'à l'avis de la Cour de cassation ou, à défaut, jusqu'à
+l'expiration du délai ci-dessus mentionné. Toutefois, les mesures d'urgence ou conservatoires nécessaires peuvent être
+prises.
+
+L'avis rendu ne lie pas la juridiction qui a formulé la demande. Il est communiqué aux parties.
+
+Les dispositions du présent article ne sont pas applicables en matière pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R151-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-56 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-65 (V)
+	  - Code de procédure civile - art. 1031-1 (M)
+	  - Code de procédure pénale - art. 706-64 (V)
+	  - Livre des procédures fiscales - art. L190 (V)
+
+
+###### Article L151-2
+
+La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président.
+
+Elle comprend, en outre, les présidents de chambre et deux conseillers désignés par chaque chambre spécialement concernée.
+
+En cas d'empêchement du premier président, la formation est présidée par le président de chambre le plus ancien. En cas
+d'empêchement de l'un des autres membres de la formation, il est remplacé par un conseiller désigné par le premier président
+ou, à défaut de celui-ci, par le président de chambre qui le remplace.
+
+Elle ne peut siéger que si tous les membres qui doivent la composer sont présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
+
+
+###### Article L151-3
+
+Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
 
 
 ## Livre II : La cour d'appel
