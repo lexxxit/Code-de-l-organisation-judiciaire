@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-11-09
+Version Consolidée au 1979-12-02
 
 # Partie législative ancienne
 
@@ -2807,6 +2807,136 @@ En cas d'empêchement momentané du titulaire, le tribunal de grande instance d�
 	  - Décret n°78-329 1978-03-16
 
 
+## Livre IV : Les juridictions spécialisées non pénales Titre II : Le conseil de prud'hommes
+
+### Chapitre I : Attributions et institution.
+
+###### Article L421-1
+
+Les règles relatives aux attributions et à l'institution des conseils de prud'hommes sont fixées par les articles L511-1 à
+L511-3 du code du travail qui sont rédigés ainsi qu'il suit : ...
+
+**Nota:**
+
+NOTA : voir le contenu de ces articles dans le code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code du travail L511-1 à L511-3
+
+
+### Chapitre II : Organisation et fonctionnement.
+
+###### Article L422-1
+
+L'organisation et le fonctionnement des conseils de prud'hommes sont fixées par les articles L512-1 à L512-14 du code du
+travail ainsi qu'il suit : ...
+
+**Nota:**
+
+NOTA : Voir le contenu de ces articles dans le code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code du travail L512-1 à L512-14
+
+
+### Chapitre III : Election des conseillers prud'hommes.
+
+###### Article L421-1
+
+Les règles concernant l'élection des conseillers prud'hommes sont fixées par les articles L513-1 à L513-9 [*L513-10*] du code
+du travail ainsi qu'il suit : ...
+
+**Nota:**
+
+[*Nota : voir le contenu de ces articles dans le code du travail :
+
+- art. L513-1 (électorat) ;
+
+- art. L513-2 (éligibilité) ;
+
+- art. L513-3 (établissement des listes électorales) ;
+
+- art. L513-4 à art. L513-9 *]L513-10[* (scrutin, installation des conseillers prud'hommes et élections complémentaires).*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code du travail L513-1 à L513-9 *L513-10*
+
+
+### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé.
+
+###### Article L424-1
+
+La composition du bureau de conciliation, du bureau de jugement et de la formation de référé est fixée par les articles
+L515-1 à L515-4 du code du travail ainsi qu'il suit : ...
+
+**Nota:**
+
+[*Nota : voir le contenu de ces articles dans le code du travail.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code du travail L515-1 à L515-4
+
+
 ## Livre IV : Les juridictions spécialisées non pénales Titre V : Les juridictions de sécurité sociale
 
 ### Chapitre II : Les commissions techniques de sécurité sociale
@@ -3419,6 +3549,51 @@ publiée au JORF du 11 novembre 1999.
 	  - Code de justice militaire - art. 321 (Ab)
 
 
+#### Chapitre II : Dispositions particulières au conseil de prud'hommes.
+
+###### Article L732-1
+
+Les causes de récusation devant le conseil des prud'hommes sont énumérées à l'article L. 518-1 du code du travail qui est
+rédigé ainsi qu'il suit :
+
+Les conseillers prud'hommes peuvent être récusés :
+
+1. Quand ils ont un intérêt personnel à la contestation, le seul fait d'être affilié à une organisation syndicale ne
+constituant pas cet intérêt personnel ;
+
+2. Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
+
+3. Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, criminelle ou civile entre eux et une des
+parties ou son conjoint ou ses parents ou alliés en ligne directe ;
+
+4. S'ils ont donné un avis écrit dans l'affaire ;
+
+5. S'ils sont employeurs, cadres, ouvriers ou employés de l'une des parties en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 8 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L518-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L518-1 (M)
+
+
 ### Titre V : Dispositions générales relatives au ministère public.
 
 ###### Article L751-1
@@ -3559,6 +3734,38 @@ civiles professionnelles [*S.C.P.*].
 	**Anciens textes**:
 
 	  - Loi n°1816-04-18 art. 91
+
+
+### Titre III : Le secrétariat-greffe du conseil de prud'hommes.
+
+###### Article L831-1
+
+Ainsi qu'il est dit à l'article L. 512-14 du code du travail,
+
+"Le service des secrétariats-greffes des conseils de prud'hommes est assuré par des fonctionnaires de l'Etat."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 9 JORF 2 décembre 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L512-14 (AbD)
 
 
 ### Titre VII : Dispositions particulières au greffe des juridictions des mineurs.
