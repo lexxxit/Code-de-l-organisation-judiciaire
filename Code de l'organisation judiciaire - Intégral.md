@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1982-12-21
+Version Consolidée au 1982-12-30
 
 # Partie législative ancienne
 
@@ -9334,6 +9334,98 @@ annexé au présent code.
 
 ### Titre III : Les juridictions pénales spécialisées
 
+#### Chapitre II : Les juridictions des forces armées
+
+##### Section I : Des tribunaux territoriaux des forces armées
+
+###### Article R632-1
+
+Les règles relatives à l'établissement en temps de guerre des tribunaux territoriaux des forces armées sont fixées par un
+décret pris en application des articles 25 et 26 du Code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1156 1965-12-23 art. 1 à art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 25
+	  - Code de justice militaire - art. 26
+
+
+##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées
+
+###### Article R632-2
+
+Les règles relatives à l'établissement en temps de paix des tribunaux aux armées sont fixées par un décret pris en
+application de l'article 4 du Code de justice militaire.
+
+Les règles relatives à l'établissement en temps de guerre des tribunaux militaires aux armées sont fixées par un décret pris
+en en application de l'article 50 du Code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-1219 du 26 novembre 1956 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 4
+	  - Code de justice militaire - art. 50
+
+
+##### Section III : Des tribunaux prévôtaux
+
+###### Article R632-3
+
+Les tribunaux prévôtaux sont établis par décision du ministre chargé de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-163 du 27 février 1974 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 #### Chapitre III : Le tribunal maritime commercial
 
 ###### Article R633-1
@@ -10064,25 +10156,6 @@ du code de la sécurité sociale.
 ### Titre VIII : Dispositions particulières aux greffes des juridictions pénales
 
 #### Chapitre II : Les greffes des juridictions pénales spécialisées
-
-###### Article R882-1
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1048 1967-11-30
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°82-1146 1982-12-29 art. 2 I JORF 30 décembre 1982
-
 
 ###### Article R882-2
 
