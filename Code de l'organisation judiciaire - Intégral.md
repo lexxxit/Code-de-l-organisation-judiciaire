@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-09-01
+Version Consolidée au 1983-09-25
 
 # Partie législative ancienne
 
@@ -9925,47 +9925,693 @@ dispose autrement.
 
 ### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun
 
+#### Chapitre Ier : Organisation
+
+###### Article R*811-1
+
+La Cour de cassation, chaque cour d'appel, chaque tribunal de grande instance, comportent un secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 1 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 2 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R*811-2
+
+Le secrétariat-greffe des juridictions mentionnées à l'article précédent comprend l'ensemble des services administratifs du
+siège et du parquet.
+
+Toutefois, certaines juridictions, dont le garde des sceaux fixe par arrêté la liste, sont dotées d'un secrétariat de parquet
+autonome.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 2 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*811-3
+
+Les tribunaux d'instance et les tribunaux d'instance ayant compétence exclusive en matière pénale comportent chacun un
+secrétariat-greffe.
+
+A titre exceptionnel et pour des raisons d'ordre géographique, économique ou social, des annexes de secrétariat-greffe
+peuvent être créées dans le ressort du tribunal par arrêté du garde des sceaux, ministre de la justice, pris après avis des
+chefs de cour.
+
+L'organisation et les conditions de fonctionnement de ces annexes sont fixées par arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 3 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D222-7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-6 (V)
+
+
+###### Article R*811-4
+
+Les secrétariats-greffes et leurs annexes font partie de la juridiction dont ils dépendent.
+
+Les dépenses relatives au logement et au fonctionnement des secrétariats-greffes ainsi qu'au mobilier, au matériel et à
+l'entretien sont supportées dans les conditions prévues pour les autres services de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 4 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-2 (V)
+
+
+###### Article R*811-5
+
+L'Etat verse aux communes et aux départements une subvention pour tenir compte des frais de fonctionnement des secrétariats-
+greffes incombant à ces collectivités.
+
+Les modalités d'application du présent article sont fixées par arrêté du garde des sceaux, ministre de la justice, du
+ministre de l'intérieur et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 5 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 #### Chapitre II : Fonctionnement
 
-###### Article R*812-4
+###### Article R*812-1
 
-[*article(s) abrogé(s)*].
+Les chefs de juridiction sont responsables du fonctionnement de celle-ci. A ce titre, ils exercent leur autorité et un
+contrôle hiérarchique sur le greffier en chef, dans les conditions définies au présent chapitre. Ils ne peuvent toutefois se
+substituer à lui dans l'exercice de ses fonctions.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-847 1983-09-23 art. 6 JORF 25 septembre 1983
-
-	**Anciens textes**:
-
-	  - Ordonnance 1826-01-15 art. 77 Décret 1808-03-30 art. 91 Décret 1810-07-06 art. 56
-
-
-###### Article R*812-5
-
-[*article(s) abrogé(s)*].
+Le greffier en chef, sous réserve des attributions propres du secrétaire en chef du parquet prévues à l'article R. 812-13 du
+présent code, dirige l'ensemble des services aministratifs du secrétariat-greffe ; il est responsable de leur fonctionnement.
+Il définit et met en oeuvre les mesures d'application des directives générales qui lui sont données par les chefs de
+juridiction. Il tient ces derniers informés de ses diligences.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1273 1958-12-22 art. 6
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 6 ()
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 3 JORF 25 septembre 1983
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R812-13
+
+
+###### Article R*812-2
+
+Le greffier en chef et, le cas échéant, le secrétaire en chef du parquet participent à la préparation du projet de budget.
+
+Sous le contrôle des chefs de juridiction, le greffier en chef :
+
+1° Gère les crédits de fonctionnement de la juridiction ;
+
+2° Est chargé de l'acquisition, de la conservation et du renouvellement du matériel et du mobilier, ainsi que de la
+documentation ;
+
+3° Fait assurer et surveille l'entretien courant des locaux.
+
+Les demandes d'attribution de mobilier, matériel technique et autres équipements spéciaux non financées sur les crédits
+propres de la juridiction sont préparées par le greffier en chef et transmises par les chefs de juridiction qui peuvent les
+assortir de leurs observations ou avis.
+
+Sous réserve des dispositions d'ordre statutaire propres à chacune des catégories de personnel intéressées, et en se
+conformant aux dispositions en vigueur, le greffier en chef assure la gestion du personnel du secrétariat-greffe et
+l'organisation générale du service de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 7 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et 4 JORF 25 septembre 1983
+
 	**Abrogé par**:
 
-	  - Décret n°83-847 1983-09-23 art. 6 JORF 25 septembre 1983
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-4 (V)
+
+
+###### Article R*812-3
+
+Le greffier en chef est chargé de tenir les documents et les différents registres prévus par les textes en vigueur et celui
+des délibérations de la juridiction.
+
+Il est dépositaire, sous le contrôle des chefs de la juridiction, des minutes et archives dont il assure la conservation ; il
+délivre les expéditions et copies et a la garde des scellés et de toutes sommes et pièces déposées au greffe. Il tient la
+comptabilité administrative des opérations prévues au présent chapitre.
+
+L'établissement et la délivrance des reproductions de toute pièce conservée dans les services de la juridiction ne peuvent
+être assurés que par le greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 8 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 5 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-6 (V)
+
+
+###### Article R*812-6
+
+Selon les besoins du service, le greffier en chef peut désigner sous sa responsabilité un ou plusieurs agents du secrétariat-
+greffe pour exercer partie des fonctions qui lui sont attribuées aux articles précédents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 9 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-7 (V)
+
+
+###### Article R*812-7
+
+Lorsque le greffier en chef est absent ou empêché, sa suppléance est assurée par le greffier en chef adjoint. S'il existe
+plusieurs greffiers en chef adjoints, le greffier en chef désigne, dans la première quinzaine du mois qui précède l'année
+judiciaire, le greffier en chef adjoint ayant vocation à le suppléer. A défaut de greffier en chef adjoint, ou en cas
+d'absence ou d'empêchement de celui-ci, le greffier en chef désigne un chef de service ou un autre agent du secrétariat-
+greffe.
+
+Lorsque l'emploi du greffier en chef est vacant, et s'il n'existe aucun ou plusieurs greffiers en chef adjoints, les chefs de
+juridiction désignent, selon les distinctions prévues à l'alinéa précédent, un fonctionnaire chargé de l'intérim.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 10 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 7 JORF 25 septembre 1983
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2005 - art. Annexe (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-8 (V)
+
+
+###### Article R*812-8
+
+Les greffiers en chef adjoints assistent le greffier en chef dans les tâches prévues aux articles R812-2 et R812-3.
+
+Ils peuvent diriger plusieurs services du secrétariat-greffe ou contrôler l'activité de tout ou partie du personnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 11 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-9 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*812-9
+
+Les chefs de service de secrétariat-greffe sont placés à la tête d'un ou plusieurs services. Ils assistent le greffier en
+chef en l'absence de greffier en chef adjoint.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 12 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-10 (V)
+
+
+###### Article R*812-10
+
+Les secrétaires-greffiers sont chargés de coordonner l'exécution des diverses tâches confiées à tout ou partie du personnel
+du secrétariat-greffe.
+
+Ils peuvent être placés à la tête d'un service lorsque l'importance de celui-ci ne justifie pas que ces fonctions soient
+confiées à un fonctionnaire appartenant au corps des greffiers en chef.
+
+Dans certains tribunaux d'instance comportant un seul juge, ils peuvent également être chargés des fonctions de greffier en
+chef.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 13 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-5 (M)
+
+
+###### Article R*812-11
+
+A la Cour de cassation, à la cour d'appel, au tribunal de grande instance et au tribunal d'instance, le greffier en chef
+assiste aux audiences solennelles, aux audiences des chambres lorsque le service de la juridiction l'exige, ainsi qu'aux
+assemblées générales. 
+
+Le greffier en chef, les greffiers en chef adjoints, les greffiers de chambre de la Cour de cassation, les chefs de services
+de secrétariat-greffe et les fonctionnaires du corps des greffiers assistent les magistrats à l'audience et dans tous les cas
+prévus par la loi. 
+
+Ils dressent les actes de greffe, notes et procès-verbaux prévus par les codes ; ils procèdent aux formalités pour lesquelles
+compétence leur est attribuée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 14 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 8 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
+
+
+###### Article R*812-12
+
+Des personnels appartenant aux catégories C et D de la fonction publique, et, le cas échéant, des auxiliaires et des
+vacataires concourent au fonctionnement des différents services des secrétariats-greffes.
+
+Ces personnels peuvent, à titre exceptionnel et temporaire, et après avoir prêté le serment prévu à l'article 32 du décret n°
+67-472 du 20 juin 1967, être chargés des fonctions énumérées à l'article R812-11 et d'une partie des fonctions énumérées à
+l'article R812-3. Au-delà d'un délai de quatre mois, ils sont, sur leur demande, déchargés de ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-472 du 20 juin 1967
+	  - Code de l'organisation judiciaire
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 15 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 9 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-14 (M)
+
+
+###### Article R*812-13
+
+Dans les juridictions dotées d'un secrétariat de parquet autonome, le secrétaire en chef assure, sous l'autorité et le
+contrôle hiérarchique du chef de parquet et dans les conditions par ailleurs prévues au présent chapitre pour l'exercice des
+attributions du greffier en chef, la direction d'ensemble des services administratifs du parquet ; il a la responsabilité de
+leur fonctionnement.
+
+Lorsque le secrétaire en chef est absent ou empêché, il est suppléé par le secrétaire en chef adjoint. S'il existe plusieurs
+secrétaires en chef adjoints, le secrétaire en chef désigne, dans la première quinzaine du mois qui précède l'année
+judiciaire, le secrétaire en chef adjoint ayant vocation à le suppléer. A défaut de secrétaire en chef adjoint ou en cas
+d'absence ou d'empêchement de celui-ci, le secrétaire en chef désigne le chef de service ou l'agent de secrétariat de parquet
+ayant vocation à le suppléer.
+
+Lorsque l'emploi de secrétaire en chef est vacant, et s'il n'existe pas de secrétaire en chef adjoint, le chef de parquet
+désigne, selon les distinctions de l'alinéa précédent, un fonctionnaire chargé de l'intérim.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 17 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 10 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-14
+
+Les secrétaires-greffiers affectés à un secrétariat de parquet autonome en assurent le fonctionnement sous la direction du
+secrétaire en chef et, le cas échéant, des secrétaires en chef adjoints, chefs de service de secrétariat-greffe et
+secrétaires-greffiers divisionnaires et avec le concours de personnels appartenant aux catégories C et D de la fonction
+publique et, éventuellement, d'auxiliaires et de vacataires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 17 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-16
+
+L'affectation à l'intérieur des divers services du siège ou du parquet est fixée par le greffier en chef, sous le contrôle
+des chefs de la juridiction. Toutefois, dans les juridictions dotées d'un secrétariat de parquet autonome, l'affectation à
+l'intérieur des divers services du parquet est fixée par le secrétaire en chef, sous le contrôle du chef du parquet.
+
+Lorsque le greffier en chef envisage de modifier l'affectation d'un agent exerçant ses fonctions auprès d'un magistrat
+spécialisé, il doit au préalable recueillir l'avis de ce magistrat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 1967-11-30 art. 18 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 et art. 12 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-17
+
+Selon les besoins du service, les agents des secrétariats-greffes peuvent être délégués dans les services administratifs
+d'une autre juridiction du ressort de la même cour d'appel.
+
+Cette délégation est prononcée par décision des chefs de cour.
+
+Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler dans
+la limite d'une durée totale de huit mois.
+
+Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que celles qui sont
+prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du 10 août 1966.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-619 1966-08-10
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 19 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+
+###### Article R*812-18
+
+Le garde des sceaux, ministre de la justice, désigne, dans chaque cour d'appel, sur proposition du premier président et du
+procureur général, un ou plusieurs magistrats de la cour chargés de contrôler l'organisation et le fonctionnement des
+secrétariats-greffes du ressort.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1044 du 30 novembre 1967 - art. 21 ()
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 #### Chapitre III : Etats et statistiques
+
+###### Article R*813-1
+
+Le greffier en chef de la cour d'appel, du tribunal de grande instance ou du tribunal d'instance établit et certifie, aux
+dates prévues par les règlements et instructions en vigueur, un état de l'activité de la juridiction au cours de la période
+écoulée, conformément aux modèles fixés par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-848 1983-09-23 art. 1 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-19 (V)
+
 
 ###### Article R*813-2
 
@@ -9985,6 +10631,36 @@ concerne les activités étrangères au greffe.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+
+
+###### Article R*813-3
+
+Les états statistiques prévus aux articles précédents sont transmis aux dates prescrites par le ou les chefs de juridiction
+du premier degré puis par les chefs de la cour d'appel, avec leurs observations respectives, au ministère de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°83-848 1983-09-23 art. 2 JORF 25 septembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-19 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*813-4
