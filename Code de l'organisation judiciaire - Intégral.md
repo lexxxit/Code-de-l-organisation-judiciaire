@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-12-10
+Version Consolidée au 1995-02-09
 
 # Partie législative ancienne
 
@@ -955,10 +955,17 @@ Les cours d'appel statuent souverainement sur le fond des affaires.
 
 ###### Article L212-1
 
-La cour d'appel comprend, outre le premier président, des présidents de chambre et des conseillers [*composition,
-personnel*].
+La cour d'appel comprend, outre le premier président, des présidents de chambre et des conseillers.
 
-Le siège, le ressort, le nombre de chambres et la composition des cours d'appel sont fixés par un décret en Conseil d'Etat.
+Le siège et le ressort des cours d'appel sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -970,6 +977,19 @@ Le siège, le ressort, le nombre de chambres et la composition des cours d'appel
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 5 () JORF 9 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D311-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-8 (V)
 
 
 ###### Article L212-2
@@ -1109,8 +1129,8 @@ En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lor
 des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
 le premier président peut, par ordonnance, déléguer les présidents de chambre et les conseillers de la cour d'appel, les
 juges des tribunaux d'instance et de grande instance, pour exercer des fonctions judiciaires dans les tribunaux du ressort de
-la cour d'appel. La délégation d'un magistrat ne peut excéder une durée de deux mois consécutifs et ne peut être renouvelée
-au cours de la même année judiciaire.
+la cour d'appel. Un magistrat ne peut être délégué plus de cinq fois au cours de la même année judiciaire. Ses délégations ne
+peuvent excéder une durée totale de trois mois.
 
 En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de l'expropriation, la durée de la délégation
 prévue à l'alinéa précédent peut être portée à six mois.
@@ -1128,9 +1148,9 @@ déléguées et de l'incidence des délégations sur le fonctionnement des jurid
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+	  - Loi n°95-125 du 8 février 1995 - art. 1 () JORF 9 février 1995
 
 
 ###### Article L221-2
@@ -1139,10 +1159,18 @@ En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lor
 des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
 le procureur général peut déléguer, pour remplir les fonctions du ministère public près les tribunaux du ressort de la cour
 d'appel, un magistrat du parquet général ou un magistrat du parquet d'un tribunal de grande instance de ladite cour. Cette
-délégation ne peut excéder une durée de deux mois.
+délégation ne peut excéder une durée de trois mois.
 
 La décision mentionnée au premier alinéa précise le motif et la durée de la délégation ainsi que la nature des fonctions qui
 seront exercées par le magistrat délégué.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1151,9 +1179,17 @@ seront exercées par le magistrat délégué.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+	  - Loi n°95-125 du 8 février 1995 - art. 2 () JORF 9 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-2 (V)
 
 
 #### Chapitre II : Dispositions particulières en matière d'expropriation.
@@ -1615,8 +1651,7 @@ toute nature causés par un véhicule quelconque".
 
 ###### Article L311-5
 
-Le siège, le ressort et la composition des tribunaux de instance, ainsi que le nombre des chambres, sont fixés par décret en
-Conseil d'Etat.
+Le siège et le ressort des tribunaux de grande instance sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1628,6 +1663,10 @@ Conseil d'Etat.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 5 () JORF 9 février 1995
 
 
 ###### Article L311-6
@@ -1941,6 +1980,70 @@ degré établies dans son ressort.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
 
 
+##### Section IV : Les chambres détachées.
+
+###### Article L311-16
+
+Un tribunal de grande instance peut comprendre des chambres détachées, dont le siège et le ressort sont fixés par décret en
+Conseil d'Etat, pour juger dans leur ressort les affaires civiles et pénales.
+
+Les articles L. 311-6 à L. 311-9 sont applicables aux chambres détachées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L311-6 à L311-9
+
+
+###### Article L311-17
+
+La présidence et le service des chambres détachées sont assurés, pour ce qui concerne les attributions dévolues aux
+magistrats du siège, par les magistrats du tribunal de grande instance désignés à cet effet dans les formes prévues pour la
+nomination des magistrats du siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+
+
+###### Article L311-18
+
+En cas de création d'une chambre détachée, les procédures en cours devant le tribunal de grande instance à la date fixée pour
+l'entrée en activité de la nouvelle chambre sont transférées en l'état à cette dernière, dans la mesure où elles relèvent
+désormais de sa compétence, sans qu'il y ait lieu de renouveler les actes, formalités et jugements intervenus antérieurement
+à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins.
+
+Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 4 () JORF 9 février 1995
+
+
 #### Chapitre II : Dispositions particulières à certaines matières
 
 ##### Section I : Dispositions particulières en matière familiale.
@@ -2206,7 +2309,7 @@ compétence du tribunal d'instance.
 
 ###### Article L321-3
 
-Le siège, le ressort et la composition des tribunaux d'instance sont fixés par décret en Conseil d'Etat.
+Le siège et le ressort des tribunaux d'instance sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2218,6 +2321,10 @@ Le siège, le ressort et la composition des tribunaux d'instance sont fixés par
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 5 () JORF 9 février 1995
 
 
 ###### Article L321-4
@@ -5017,6 +5124,106 @@ code disciplinaire et pénal de la marine marchande.
 
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
+
+### Titre Ier : L'année judiciaire.
+
+###### Article L710-1
+
+Avant le début de l'année judiciaire, le premier président de la Cour de cassation, le premier président de la cour d'appel,
+le président du tribunal supérieur d'appel, le président du tribunal de grande instance, le président du tribunal de première
+instance et le magistrat chargé de la direction et de l'administration du tribunal d'instance fixent par ordonnance la
+répartition des juges dans les différents services de la juridiction dans les conditions fixées par décret en Conseil d'Etat.
+
+Cette ordonnance ne peut être modifiée en cours d'année qu'en cas d'urgence, pour prendre en compte une modification de la
+composition de la juridiction ou pour prévoir un service allégé pendant la période au cours de laquelle les magistrats, les
+fonctionnaires et les auxiliaires de justice bénéficient de leurs congés annuels.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 710-1 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 6 () JORF 9 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L640-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-5 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*213-8 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-23 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-25 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-39 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-42 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-35 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-41 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-2 (Ab)
+
+
+### Titre X : Les audiences foraines.
+
+###### Article L7-10-1-1
+
+Les juridictions de l'ordre judiciaire peuvent tenir des audiences foraines dans des conditions fixées par décret en Conseil
+d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 3 () JORF 9 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-10-1-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+
 
 ### Titre III : Récusation et renvoi
 
