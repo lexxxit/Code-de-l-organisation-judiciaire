@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-03
 
 # Partie législative ancienne
 
@@ -20733,13 +20733,25 @@ sont fixées par l'article D43 du Code de procédure pénale.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D43 (M)
+	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. D43 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D43
 
 
 ### Titre II : Les juridictions de jugement de droit commun
@@ -22096,6 +22108,7 @@ conformément à la loi n° 95-64 du 19 janvier 1995.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 	**Cite**:
 
@@ -22107,7 +22120,7 @@ conformément à la loi n° 95-64 du 19 janvier 1995.
 
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 16 () JORF 1er mars 1996
+	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 	**Cité par**:
 
@@ -27103,6 +27116,43 @@ Pour l'application de l'article R. 211-1, la référence aux tribunaux paritaire
 	  - Code de l'organisation judiciaire R211-2, R211-1
 
 
+###### Article R931-3
+
+Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
+sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
+R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
+suivantes :
+
+1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
+dispositions de procédure pénale applicables localement ;
+
+2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre de l'instruction assure avec
+la chambre civile le service des audiences solennelles ;
+
+3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
+aux dispositions de procédure civile applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
+
+
 ###### Article R931-4
 
 Les dispositions du chapitre III du titre Ier du livre II (partie Réglementaire) relatives au fonctionnement de la cour
@@ -28782,40 +28832,6 @@ françaises les juridictions de l'ordre judiciaire ayant leur siège à Saint-De
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
-
-##### Section I : La cour d'appel.
-
-###### Article R931-3
-
-Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
-sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
-R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
-suivantes :
-
-1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
-dispositions de procédure pénale applicables localement ;
-
-2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre d'accusation assure avec la
-chambre civile le service des audiences solennelles ;
-
-3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
-aux dispositions de procédure civile applicables localement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
-
 
 ##### Section II : Le tribunal de première instance
 
