@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1986-01-17
+Version Consolidée au 1986-03-16
 
 # Partie législative ancienne
 
@@ -7002,6 +7002,35 @@ La liste des syndics et administrateurs judiciaires est dressée par la cour d'a
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
+#### Chapitre VI : Dispositions particulières relatives à l'application des peines
+
+###### Article R*226-1
+
+Le premier président désigne, après avis de l'assemblée générale des magistrats du siège, un ou plusieurs conseillers chargés
+de suivre l'application des peines et de coordonner l'action des juges de l'application des peines dans le ressort de la cour
+d'appel.
+
+Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 9 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-42 (V)
+
+
 ### Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels
 
 ###### Article R*231-1
@@ -7910,6 +7939,49 @@ L'adjudication a lieu en l'audience des saisies immobilières. L'audience peut �
 	**Cité par**:
 
 	  - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab)
+
+
+##### Section VII : Dispositions particulières à l'application des peines
+
+###### Article R*312-7
+
+Lorsqu'il existe plusieurs juges de l'application des peines dans un tribunal de grande instance, le président désigne, après
+avis de l'assemblée générale des magistrats du siège, le juge de l'application des peines qui exerce les attributions
+mentionnées au titre XI du Code de procédure pénale (troisième partie :
+
+Décrets).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 10 JORF 16 mars 1986
+
+
+###### Article R*312-8
+
+Chaque année, le juge de l'application des peines adresse au ministre de la justice un rapport sur l'application des peines
+dans son ressort. Ce rapport est également transmis au conseiller chargé de l'application des peines et au procureur général.
+En outre, le juge de l'application des peines, en application de l'article R50-30 du Code de procédure pénale, le présente
+oralement à l'assemblée générale des magistrats du siège et du parquet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 10 JORF 16 mars 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-30 (Ab)
 
 
 ### Titre II : Le tribunal d'instance
@@ -11021,6 +11093,123 @@ de la majorité de ses membres ou du chef du parquet.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-35 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-40 (V)
+
+
+###### Article R*761-23
+
+L'assemblée des magistrats du siège de la cour d'appel :
+
+1° Désigne le président et les conseillers qui doivent composer la chambre de l'instruction, ainsi que le président de la
+chambre de l'instruction appelé à exercer des pouvoirs propres, conformément aux articles 191 et 219 du Code de procédure
+pénale ;
+
+2° Désigne les juges du tribunal d'instance chargés des fonctions de juge départiteur du conseil de prud'hommes, conformément
+à l'article L515-3 du Code du travail ;
+
+3° Détermine le nombre des audiences correctionnelles, conformément à l'article 511 du Code de procédure pénale  ;
+
+4° Exerce les attributions prévues par les dispositions particulières à certaines professions juridiques et judiciaires ;
+
+5° Emet un avis sur les critères généraux de répartition des dossiers entre les chambres ;
+
+6° Emet un avis sur le projet d'ordonnance, préparé par le premier président, de répartition dans les chambres et services de
+la juridiction, des présidents de chambre et des conseillers dont la cour d'appel est composée ;
+
+7° Emet un avis sur la désignation par le premier président du ou des conseillers chargés de suivre l'application des peines
+dans le ressort de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 11 JORF 16 mars 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 191 (M)
+	  - CODE DE PROCEDURE PENALE - art. 219 (M)
+	  - CODE DE PROCEDURE PENALE - art. 511 (M)
+	  - Code du travail - art. L515-3 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
+
+
+###### Article R*761-24
+
+L'assemblée des magistrats du siège du tribunal de grande instance :
+
+1° Désigne un magistrat du siège pour exercer les fonctions de juge de l'application des peines, ou de juge d'instruction en
+cas d'empêchement du juge chargé de ces fonctions, conformément aux articles 709-1 et 50 (alinéa 5) du Code de procédure
+pénale ;
+
+2° Désigne les membres titulaires et suppléants de la commission juridictionnelle, prévue par l'article L313-1, chargée de
+statuer sur les demandes d'indemnité présentées par les victimes de dommages résultant d'une infraction ;
+
+3° Désigne un magistrat pour siéger à la commission prévue par l'article 24 de l'ordonnance n° 45-2658 du 2 novembre 1945
+modifiée relative à l'entrée et au séjour des étrangers en France ;
+
+4° Désigne un juge de l'application des peines et un juge des enfants pour siéger au conseil départemental de prévention et
+au conseil communal de prévention prévus par les articles 12 (4°) et 16 du décret n° 83-459 du 8 juin 1983 portant création
+d'un conseil national et relatif aux conseils départementaux et communaux de prévention de la délinquance ;
+
+5° Détermine le nombre des audiences correctionnelles, conformément à l'article 399 du Code de procédure pénale ;
+
+6° Emet un avis sur les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires
+entre les magistrats spécialisés du tribunal ;
+
+7° Emet un avis sur le projet d'ordonnance, préparé par le président du tribunal, de répartition dans les chambres et
+services de la juridiction, des vice-présidents et des juges dont le tribunal est composé ;
+
+8° Emet un avis sur l'affectation des magistrats dans les formations de jugement spécialisées en matière économique et
+financière, ou en matière militaire et de sûreté de l'Etat, conformément aux articles 704, 697 et 702 du Code de procédure
+pénale ;
+
+9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur la désignation par le président de celui qui
+exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
+	  - Décret n°83-459 1983-06-08 art. 12, art. 16
+	  - CODE DE PROCEDURE PENALE - art. 399 (M)
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+	  - CODE DE PROCEDURE PENALE - art. 702 (M)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
+	  - Code de procédure pénale 50 al. 5, 399, 697, 702, 704, 709-1
+	  - Code de l'organisation judiciaire L313-1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 12 JORF 16 mars 1986
 
 
 ##### Sous-section III : L'assemblée des magistrats du parquet
