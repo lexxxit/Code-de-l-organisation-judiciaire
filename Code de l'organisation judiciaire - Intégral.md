@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-07-25
 
 # Partie législative ancienne
 
@@ -18545,6 +18545,32 @@ compétent et la date de modification du ressort.
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R741-8 (V)
+
+
+###### Article R821-12
+
+En cas de suppression d'une juridiction commerciale, les minutes, registres, actes, pièces et documents déposés au greffe de
+la juridiction supprimée sont transférés au greffe de la ou des juridictions commerciales désormais compétentes.
+
+Les frais de transfert sont pris en charge par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°90-651 du 18 juillet 1990 - art. 1 () JORF 25 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R741-9 (V)
 
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce
