@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-08-01
+Version Consolidée au 1992-08-05
 
 # Partie législative ancienne
 
@@ -9586,9 +9586,9 @@ ou, à défaut, par le magistrat du siège présent le plus ancien dans le grade
 	  - Décret n°1808-03-30 art. 48
 
 
-##### Sous-section II : Dispositions relatives au juge unique et au juge de la mise en état
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.
 
-###### Article R311-29
+###### Article R311-29-1
 
 Comme il est dit à l'article 817 du nouveau code de procédure civile, "la désignation des juges de la mise en état et celle
 des magistrats appelés à statuer comme juge unique sont faites selon les modalités fixées pour la répartition des juges entre
@@ -9602,18 +9602,70 @@ les diverses chambres du tribunal.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29 (T)
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 817
+
+
+###### Article R311-29-2
+
+Lorsque le président du tribunal de grande instance délègue les fonctions de juge de l'exécution à un ou plusieurs juges du
+tribunal, la délégation est effectuée selon les modalités prévues aux articles R. 311-23 et R. 311-24.
+
+L'ordonnance prise en application de l'alinéa qui précède est adressée au bâtonnier de l'ordre des avocats et au président de
+la chambre départementale des huissiers. Elle est affichée au greffe des juridictions comprises dans le ressort du tribunal
+de grande instance ainsi que dans les mairies des communes comprises dans le même ressort.
+
+En cas de modification de l'étendue territoriale de la délégation par le président du tribunal de grande instance, le dossier
+est transmis au secrétariat-greffe de la nouvelle juridiction. Les actes et formalités liés au déroulement des mesures
+d'exécution et des mesures conservatoires déjà engagées continuent à être effectués au secrétariat-greffe de la juridiction
+initialement désignée qui en assure la transmission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 301 (Ab)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R311-23, R311-24
+
+
+###### Article R311-29-3
+
+En cas de renvoi devant la formation collégiale du tribunal de grande instance en application de l'article L. 311-12-2,
+l'affaire est inscrite à la première audience utile de cette formation. Celle-ci comprend le juge qui a ordonné le renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-19 (Ab)
 
 
 ##### Sous-section III : Dispositions relatives aux assemblées générales
@@ -17563,6 +17615,30 @@ ministre de l'intérieur et du ministre de l'économie et des finances.
 	**Abrogé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R*811-6
+
+Le greffe du juge de l'exécution est le secrétariat-greffe du tribunal de grande instance.
+
+Toutefois, lorsque le juge chargé de l'instance a été désigné pour exercer les fonctions de juge de l'exécution, le
+secrétariat-greffe compétent est celui du tribunal d'instance.
+
+En cas de renvoi à la formation collégiale, le dossier est transmis dans les huit jours de l'ordonnance de renvoi au
+secrétariat-greffe du tribunal de grande instance. Celui-ci pourvoit exclusivement aux nécessités du déroulement de
+l'audience et à la mise en forme du jugement. Dans les cinq jours du prononcé du jugement par la formation collégiale, le
+dossier et la minute sont retransmis au secrétariat-greffe du juge de l'exécution qui en assure la conservation et procède
+aux notifications utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
 
 
 #### Chapitre II : Fonctionnement
