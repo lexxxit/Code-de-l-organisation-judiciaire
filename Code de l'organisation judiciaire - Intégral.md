@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 
 # Partie législative ancienne
 
@@ -1551,6 +1551,30 @@ personnes, sous réserve des dispositions particulières au divorce et à la sé
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+
+
+###### Article L311-10-1
+
+Le tribunal de grande instance connaît à juge unique des litiges auxquels peuvent donner lieu les accidents de la circulation
+terrestre. Le juge peut toujours renvoyer une affaire en l'état à la formation collégiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-677 1985-07-05 art. 47 date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 45 () JORF 6 juillet 1985 en vigueur le 1 er janvier 1986
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13 (V)
 
 
 ###### Article L311-11
