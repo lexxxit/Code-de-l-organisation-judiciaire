@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-08-07
+Version Consolidée au 1981-10-01
 
 # Partie législative ancienne
 
@@ -10452,6 +10452,43 @@ arrêté du garde des sceaux, ministre de la justice.
 
 
 ### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+
+#### Chapitre I : Le tribunal d'instance
+
+##### Section I : Dispositions générales
+
+###### Article R*911-3
+
+Dans le cas où le tribunal d'instance est compétent en matière patrimoniale ou en matière commerciale, il statue en premier
+ou dernier ressort suivant la valeur du litige d'après les taux de compétence fixés en matière civile pour l'ensemble des
+tribunaux d'instance.
+
+Lorsqu'il n'existe pas de conseil de prud'hommes compétent pour la profession intéressée, le tribunal d'instance statue, en
+matière prud'homale, en premier ou en dernier ressort suivant les règles fixées par les articles R517-3 à R517-5 du Code du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-818 1981-09-01 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°81-818 1981-09-01 art. 8 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+
+	**Cite**:
+
+	  - Code du travail R517-3 à R517-5
+
+	**Anciens textes**:
+
+	  - Nouveau code de procédure civile Annexe art. 34
+
 
 #### Chapitre III : La chambre commerciale du tribunal de grande instance.
 
