@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1990-07-25
+Version Consolidée au 1991-01-05
 
 # Partie législative ancienne
 
@@ -5353,6 +5353,26 @@ commerce sont fixés par décret en Conseil d'Etat.
 	**Anciens textes**:
 
 	  - Code de commerce - art. 624 (Ab)
+
+
+###### Article L821-4
+
+La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des
+greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts
+collectifs.
+
+Les modes d'élection et de fonctionnement du Conseil national sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°90-1259 du 31 décembre 1990 - art. 62 () JORF 5 janvier 1991
 
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce.
