@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-08-24
 
 # Partie législative ancienne
 
@@ -9001,6 +9001,36 @@ d'appel ou le chef-lieu du département est déterminée par l'article R41 du Co
 	**Anciens textes**:
 
 	  - Code de procédure pénale 232 et 234
+
+
+#### Chapitre III : Le tribunal de police
+
+###### Article R*623-1
+
+Le siège et le ressort des tribunaux d'instance ayant compétence exclusive en matière pénale sont fixés par le tableau II
+annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire Annexe tableau II
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°80-659 1980-08-18 art. 5 JORF 24 août 1980
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
 ### Titre III : Les juridictions pénales spécialisées
