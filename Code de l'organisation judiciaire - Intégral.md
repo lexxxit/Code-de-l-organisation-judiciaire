@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1990-01-25
 
 # Partie législative ancienne
 
@@ -3324,7 +3324,274 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
+#### Chapitre II : Constitution des tribunaux paritaires.
+
+###### Article L442-1
+
+En vue de pourvoir à l'élection des membres assesseurs des tribunaux paritaires des baux ruraux, il est dressé dans chaque
+commune, dans un délai déterminé par décret, à la diligence des maires, sur invitation des préfets, deux listes distinctes,
+s'il y a lieu, des bailleurs à ferme et à colonat partiaire et deux listes distinctes, s'il y a lieu, des preneurs à ferme et
+à colonat partiaire.
+
+Lorsqu'il y a lieu de procéder à une élection complémentaire en application de l'article L. 442-4, les listes électorales
+sont mises à jour entre le 10 et le 20 du mois précédant cette élection selon les modalités fixées à l'alinéa précédent.
+
+Les listes électorales sont établies selon la procédure prévue en matière d'élections municipales. Toutefois, les délais de
+publication des listes sont réduits à trois jours et ceux du dépôt des demandes en inscription et radiation à huit jours.
+
+La commission municipale chargée d'établir les listes électorales des bailleurs et preneurs doit comprendre un délégué de
+l'organisation syndicale agricole la plus représentative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 3 JORF 23 décembre 1958 modifié par le décret 81-1098 1981-12-09 art. 1 et 2 JORF 15 décembre 1981
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R442-1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-4 (M)
+
+
+###### Article L442-2
+
+Les bailleurs et preneurs doivent, pour pouvoir être inscrits sur les listes électorales, réunir les conditions suivantes :
+
+Etre de nationalité française ou ressortissant d'un Etat membre de la Communauté économique européenne ;
+
+Etre âgé de dix-huit ans ;
+
+Jouir de leurs droits civils, civiques et professionnels ;
+
+Etre domicilié ou résider dans le ressort du tribunal paritaire ou y posséder, à titre de propriétaire, des biens immobiliers
+faisant l'objet d'un bail rural.
+
+Les personnes morales possédant la qualité de bailleur ou de preneur de baux à ferme ou à colonat partiaire et ayant leur
+siège social dans le ressort du tribunal paritaire sont électeurs par un représentant qu'elles désignent. Ce représentant
+doit remplir les conditions énumérées à l'alinéa premier. Il est éligible si la personne morale qu'il représente possède
+depuis cinq ans la qualité de bailleur ou de preneur, s'il est âgé de plus de vingt-six ans et s'il a fait la déclaration de
+candidature prévue aux alinéas qui suivent. Pour les groupements agricoles d'exploitation en commun, il n'est pas dérogé à
+l'article 7 de la loi n° 62-917 du 8 août 1962.
+
+Sont éligibles les électeurs de nationalité française âgés de vingt-six ans au moins possédant depuis cinq ans la qualité de
+bailleur ou de preneur de baux à ferme ou à colonat partiaire et ayant fait une déclaration de candidature.
+
+Cette déclaration comporte les nom, prénoms, date et lieu de naissance, domicile et profession du candidat. Elle est
+adressée, revêtue de la signature du candidat, au préfet dans un délai de huit jours à compter de la publication des listes
+électorales. Un récépissé est délivré au déclarant.
+
+Les noms des candidats sont affichés dans chaque mairie huit jours au moins avant la date du scrutin.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 442-2 du code de l'organisation judiciaire est abrogé à l'exception
+de ses huitième et neuvième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant refonte de la
+partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 4
+	  - Décret n°69-823 1969-08-28 art. 1
+
+	**Cite**:
+
+	  - Loi n°62-917 du 8 août 1962 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+
+###### Article L442-3
+
+Dans le mois qui suit la publication des listes, les électeurs figurant sur ces listes sont convoqués, [*délai*] huit jours
+au moins à l'avance, à la mairie par voie d'affiches, en vue de procéder à l'élection, dans chaque ressort, au scrutin
+[*mode*] secret et à la majorité relative, des deux membres titulaires et de deux suppléants de chaque catégorie et, s'il y a
+lieu, de chaque section devant composer le tribunal paritaire.
+
+Chacun des bailleurs et preneurs ne peut exercer son droit de vote que dans une seule commune.
+
+Les convocations sont faites à la diligence du préfet. Le préfet peut fixer les heures d'ouverture et de clôture du scrutin.
+
+Avant l'ouverture du scrutin, il est procédé à la désignation d'un bureau composé [*composition*] du maire ou d'un adjoint,
+président, et de deux membres. Ce bureau procède aux opérations de dépouillement dans les mêmes conditions que pour les
+élections municipales et sous la responsabilité du maire ou de son adjoint.
+
+Les résultats, ainsi que les feuilles de dépouillement, les bulletins de vote et les enveloppes sont transmis sur-le-champ au
+chef-lieu du département où il est procédé à la vérification des opérations électorales par une commission présidée par le
+préfet ou son représentant assisté d'un magistrat désigné par le premier président de la cour d'appel et de cinq membres
+désignés par les organisations syndicales agricoles proportionnellement à leur importance.
+
+La composition des tribunaux paritaires est affichée au greffe du tribunal [*délai*] cinq jours francs au moins avant la
+première audience de la session.
+
+Les contestations relatives à l'application du présent article sont de la compétence du tribunal administratif. Elles sont
+instruites et jugées comme en matière d'élections municipales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 5 JORF 23 décembre 1958
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+
+###### Article L442-4
+
+Les membres assesseurs des tribunaux paritaires sont élus pour six ans .
+
+Avant d'entrer en fonction, ils prêtent individuellement, devant le juge d'instance, le serment de remplir leurs fonctions
+avec zèle et intégrité et de garder le secret des délibération.
+
+Si le nombre total des assesseurs, titulaires et suppléants d'une même catégorie d'une section se trouve réduit à deux, le
+préfet organise une élection partielle complémentaire dans le délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 6 JORF 23 décembre 1958
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Cité par**:
+
+	  - Loi n°2001-6 du 4 janvier 2001 - art. 22 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L442-5
+
+Lorsqu'un tribunal paritaire ne peut être constitué ou ne peut fonctionner, il est supprimé par décret pris sur le rapport du
+garde des sceaux, ministre de la justice.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 7 JORF 23 décembre 1958
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-2 (M)
+
+
 #### Chapitre III : Compétence et procédure.
+
+###### Article L443-1
+
+Le tribunal prononce sans appel dans la limite de la compétence en dernier ressort des tribunaux d'instance telle qu'elle est
+fixée au livre III du présent code et, si la demande excède cette limite ou est indéterminée, à charge d'appel, à quelque
+valeur que la demande puisse s'élever.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire livre III
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 9 JORF 23 décembre 1958
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
 
 ###### Article L443-2
 
@@ -3389,6 +3656,62 @@ complet.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+###### Article L443-4
+
+Lorsque le tribunal paritaire ne peut être constitué ou ne peut fonctionner pour une cause autre que celles prévues à
+l'article L. 443-3 du présent code, le juge d'instance qui le préside constate cet état de fait par ordonnance.
+
+A compter de la date de cette ordonnance, les attributions du tribunal paritaire et celles du président, ainsi que les
+procédures en cours, sont transférées au tribunal d'instance, qui statue selon les modalités prévues à l'article L. 443-5 du
+présent code.
+
+Lorsque le tribunal paritaire est de nouveau en mesure de fonctionner, le juge d'instance fixe par ordonnance la date à
+compter de laquelle les affaires devront être à nouveau portées devant cette juridiction.
+
+Le tribunal d'instance demeure cependant saisi des affaires qui lui ont été soumises en application de l'alinéa 2 du présent
+article.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 443-4 du code de l'organisation judiciaire est abrogé à l'exception
+de son deuxième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1293 1958-12-22 art. 18-1
+	  - Décret n°70-129 1970-02-11 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cité par**:
+
+	  - Décret n°89-220 du 12 avril 1989 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L443-3 et L443-5
+
+
 ###### Article L443-5
 
 En cas de suppression d'un tribunal paritaire, ses attributions ainsi que celles du président de cette juridiction sont
@@ -3431,276 +3754,21 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
-### Titre IV : Le tribunal paritaire des baux ruraux
-
-#### Chapitre II : Constitution des tribunaux paritaires.
-
-###### Article L442-2
-
-En vue de pourvoir à l'élection des membres assesseurs des tribunaux paritaires de baux ruraux, il est dressé, dans chaque
-commune, entre le 10 et le 20 septembre de l'année au cours de laquelle doit avoir lieu cette élection, à la diligence des
-maires, sur invitation des préfets, deux listes distinctes, s'il y a lieu, des bailleurs à ferme et à colonat partiaire,
-domiciliés dans la commune ou y ayant leur résidence principale.
-
-Lorsqu'il y a lieu de procéder à une élection complémentaire en application du troisième alinéa de l'article L. 442-5, les
-listes électorales sont mises à jour entre le 10 et le 20 du mois précédent cette élection selon les modalités fixées à
-l'alinéa précédent.
-
-Les listes électorales sont établies selon la procédure prévue en matière d'élections municipales. Toutefois, les délais de
-publication des listes sont réduits à trois jours et ceux du dépôt des demandes en inscription et radiation à huit jours.
-
-La commission municipale chargée d'établir les listes électorales des bailleurs et preneurs doit comprendre un délégué de
-l'organisation syndicale agricole la plus représentative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 3 JORF 23 décembre 1958 modifié par le décret 81-1098 1981-12-09 art. 1 et 2 JORF 15 décembre 1981
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Créé par**:
-
-	  - Décret n°81-1098 1981-12-09 art. 1 et 2 JORF 15 décembre 1981
-
-	**Modifié par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-5 (M)
-
-
-###### Article L442-3
-
-Les bailleurs et preneurs doivent, pour pouvoir être inscrits sur les listes électorales, réunir les conditions suivantes:
-
-Etre de nationalité française ou ressortissant d'un Etat membre de la Communauté économique européenne ;
-
-Avoir vingt et un ans au moins ;
-
-Jouir de leurs droits civils, civiques et professionnels ;
-
-Etre domiciliés dans le ressort du tribunal paritaire ou y résider.
-
-Les personnes morales possédant la qualité de bailleur ou de preneur de baux à ferme ou à colonat partiaire et ayant leur
-siège social dans le ressort du tribunal paritaire sont électeurs par un représentant qu'elles désignent. Ce représentant
-doit remplir les conditions énumérées à l'alinéa premier. Il est éligible si la personne morale qu'il représente possède
-depuis cinq ans la qualité de bailleur ou de preneur, s'il est âgé de plus de vingt-six ans et s'il a fait la déclaration de
-candidature prévue aux alinéas qui suivent. Pour les groupements agricoles d'exploitation en commun, il n'est pas dérogé à
-l'article 7 de la loi n° 62-917 du 8 août 1962.
-
-Sont éligibles [*conditions*] les électeurs de nationalité française âgés de vingt-six ans au moins possédant depuis cinq ans
-la qualité de bailleur ou de preneur de baux à ferme ou à colonat partiaire et ayant fait une déclaration de candidature.
-
-Cette déclaration comporte [*mentions obligatoires*] les nom, prénoms et date de naissance, domicile et profession du
-candidat. Elle est adressée, revêtue de la signature du candidat, au préfet dans un délai de huit jours à compter de la
-publication des listes électorales. Un récépissé est délivré au déclarant.
-
-Les noms des candidats sont affichés dans chaque mairie huit jours au moins [*délai*] avant la date du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 4 JORF 23 décembre 1958 modifié par le décret 69-823 1969-08-28 art. 1 JORF 5 septembre 1969
-
-	**Cite**:
-
-	  - Loi n°62-917 du 8 août 1962 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°69-823 1969-08-28 art. 1 JORF 5 septembre 1969
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Modifié par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-
-###### Article L442-4
-
-Dans le mois qui suit la publication des listes, les électeurs figurant sur ces listes sont convoqués, [*délai*] huit jours
-au moins à l'avance, à la mairie par voie d'affiches, en vue de procéder à l'élection, dans chaque ressort, au scrutin
-[*mode*] secret à la majorité relative, des deux membres titulaires et de deux suppléants de chaque catégorie et, s'il y a
-lieu, de chaque section devant composer le tribunal paritaire.
-
-Chacun des bailleurs et preneurs ne peut exercer son droit de vote que dans une seule commune.
-
-Les convocations sont faites à la diligence du préfet. Le préfet peut fixer les heures d'ouverture et de clôture du scrutin.
-
-Avant l'ouverture du scrutin, il est procédé à la désignation d'un bureau composé [*composition*] du maire ou d'un adjoint,
-président, et de deux membres. Ce bureau procède aux opérations de dépouillement dans les mêmes conditions que pour les
-élections municipales et sous la responsabilité du maire ou de son adjoint.
-
-Les résultats, ainsi que les feuilles de dépouillement, les bulletins de vote et les enveloppes sont transmis sur-le-champ au
-chef-lieu du département où est procédé à la vérification des opérations électorales par une commission présidée par le
-préfet ou son représentant assisté d'un magistrat désigné par le premier président de la cour d'appel et de cinq membres
-désignés par les organisations syndicales agricoles proportionnellement à leur importance.
-
-La composition des tribunaux paritaires est affichée au greffe du tribunal [*délai*] cinq jours francs au moins avant la
-première audience de la session.
-
-Les contestations relatives à l'application du présent article sont de la compétence du tribunal administratif. Elles sont
-instruites et jugées comme en matière d'élections municipales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 5 JORF 23 décembre 1958
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Créé par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-	**Cité par**:
-
-	  - Loi n°2001-6 du 4 janvier 2001 - art. 22 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
-
-
-###### Article L442-5
-
-Les membres assesseurs des tribunaux paritaires sont élus pour cinq ans [*mandat - durée*].
-
-Avant d'entrer en fonction, ils prêtent individuellement, devant le juge d'instance, le serment de remplir leurs fonctions
-avec zèle et intégrité et de garder le secret des délibération.
-
-Si le nombre total des assesseurs, titulaires et suppléants d'une même catégorie d'une section se trouve réduit à deux, le
-préfet organise une élection partielle complémentaire dans le délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 6 JORF 23 décembre 1958
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Créé par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-2 (M)
-
-
-###### Article L442-6
-
-Lorsqu'un tribunal paritaire ne peut être constitué ou ne peut fonctionner, il est supprimé par décret pris sur le rapport du
-garde des sceaux, ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 7 JORF 23 décembre 1958
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Créé par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-	**Abrogé par**:
-
-	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
-
-
-#### Chapitre III : Compétence et procédure.
-
-###### Article L443-1
-
-Le tribunal prononce sans appel dans la limite de la compétence en dernier ressort des tribunaux d'instance telle qu'elle est
-fixée à l'article 2 du décret n° 58-1284 du 22 décembre 1958 et, si la demande excède cette limite ou est indéterminée, à
-charge d'appel, à quelque valeur que la demande puisse s'élever.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 9 JORF 23 décembre 1958
-
-	**Cite**:
-
-	  - Décret n°58-1284 1958-12-22 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Créé par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-
-###### Article L443-4
-
-Lorsque le tribunal paritaire ne peut être constitué ou ne peut fonctionner pour une cause autre que celles prévues à
-l'article 18, le juge d'instance qui le préside constate cet état de fait par ordonnance.
-
-A compter de la date de cette ordonnance, les attributions du tribunal paritaire et celles du président, ainsi que les
-procédures en cours, sont transférées au tribunal d'instance, qui statue selon les modalités prévues à l'article 22.
-
-Lorsque le tribunal paritaire est de nouveau en mesure de fonctionner, le juge d'instance fixe par ordonnance la date à
-compter de laquelle les affaires devront être à nouveau portées devant cette juridiction.
-
-Le tribunal d'instance demeure cependant saisi des affaires qui lui ont été soumises en application de l'alinéa 2 du présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1293 1958-12-22 art. 18-1 JORF 23 décembre 1958 modifié par le décret 70-129 1970-02-11 art. 1 JORF 18 février 1970
-
-	**Créé par**:
-
-	  - Décret n°70-129 1970-02-11 art. 1 JORF 18 février 1970
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
-
-	**Modifié par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-	**Cité par**:
-
-	  - Décret n°89-220 du 12 avril 1989 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire 18 et 22
-
-
 #### Chapitre IV : Voies de recours.
 
 ###### Article L444-1
 
 Les décisions en dernier ressort peuvent être attaquées par la voie du recours en cassation pour incompétence, excès de
-pouvoir ou violation de la loi.
+pouvoir ou violation de la loi conformément au livre Ier du présent code.
+
+La cour d'appel connaît de l'appel interjeté à l'encontre des autres décisions du tribunal paritaire des baux ruraux
+conformément au livre II du présent code.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire livre I et livre II
 
 	**Anciens textes**:
 
@@ -3708,11 +3776,16 @@ pouvoir ou violation de la loi.
 
 	**Codifié par**:
 
-	  - Décret n°78-329 1978-03-16 JORF 18 mars 1978
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
+	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ### Titre VI : Les prud'hommes pêcheurs.
