@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1991-01-05
+Version Consolidée au 1991-04-16
 
 # Partie législative ancienne
 
@@ -6351,6 +6351,48 @@ Les personnes dont le nom a été tiré au sort prêtent serment devant le prés
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-7 (Ab)
+
+
+#### Chapitre II : Dispositions particulières au département de la Guyane.
+
+###### Article L922-1
+
+Une chambre détachée de la cour d'appel de Fort-de-France tient audience à Cayenne pour connaître en appel des décisions
+rendues par les juridictions du premier degré du département de la Guyane.
+
+Elle exerce les compétences dévolues à la chambre de l'instruction.
+
+La chambre détachée est composée d'un président de chambre et de deux conseillers de la cour d'appel de Fort-de-France.
+
+Le président de chambre et les deux conseillers sont désignés dans les formes exigées pour la nomination des magistrats du
+siège.
+
+Le président de la chambre détachée exerce de plein droit les fonctions de président de la chambre de l'instruction.
+
+En cas d'absence ou d'empêchement, les magistrats appelés à composer la chambre détachée sont remplacés, pour le service des
+audiences, par des magistrats du siège de la cour d'appel de Fort-de-France désignés à cet effet par ordonnance du premier
+président de la cour d'appel, après avis de l'assemblée générale des magistrats du siège de la cour.
+
+Le procureur général peut déléguer ses fonctions auprès de la chambre détachée soit à un avocat général ou un substitut
+général, soit au procureur de la République près le tribunal de grande instance de Cayenne ou l'un de ses substituts.
+
+Le premier président de la cour d'appel de Fort-de-France et le procureur général près ladite cour peuvent déléguer, le
+premier soit au président de la chambre détachée, soit à un magistrat du siège de la cour d'appel, le second soit au
+procureur de la République près le tribunal de grande instance de Cayenne, soit à un magistrat du parquet près la cour
+d'appel, leur pouvoir d'inspection des juridictions du premier degré comprises dans le ressort de la chambre détachée. Ils
+peuvent déléguer dans les mêmes conditions leurs pouvoirs de gestion administrative sur la chambre détachée et les
+juridictions du premier degré comprises dans le ressort de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-359 1991-04-15 art. 1 JORF 16 avril 1991
 
 
 ## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre I : Le tribunal d'instance.
