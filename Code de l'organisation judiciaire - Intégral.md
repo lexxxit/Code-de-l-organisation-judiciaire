@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-03-12
+Version Consolidée au 2004-04-17
 
 # Partie législative ancienne
 
@@ -4004,9 +4004,10 @@ redressement et de liquidation judiciaires.
 
 ###### Article L412-7
 
-Sous réserve des dispositions du second alinéa de l'article L. 413-8, les juges des tribunaux de commerce sont élus pour deux
-ans lors de leur première élection et pour quatre ans lors des élections suivantes [*mandat, durée*]. Les juges des tribunaux
-de commerce sont rééligibles.
+Sous réserve des dispositions relatives aux élections complémentaires prévues au second alinéa de l'article L. 413-8, les
+juges des tribunaux de commerce sont élus pour deux ans lors de leur première élection. Ils peuvent, à l'issue d'un premier
+mandat, être réélus par période de quatre ans, dans le même tribunal ou dans tout autre tribunal de commerce, sans que puisse
+être dépassé le nombre maximal de mandats prévu à l'article L. 413-4.
 
 Lorsque le mandat des juges des tribunaux de commerce vient à expiration avant le commencement de la période fixée pour
 l'installation de leurs successeurs, ils restent en fonctions jusqu'à cette installation, sans que cette prorogation puisse
@@ -4025,21 +4026,22 @@ tribunal de commerce a son siège.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 10 () JORF 17 avril 2004
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-8 (V)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-28 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L413-8 al. 2
 
 
 ###### Article L412-8
@@ -4295,21 +4297,18 @@ Le mandat des membres élus des tribunaux de commerce est  gratuit .
 
 ###### Article L413-1
 
-Les juges des tribunaux de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé:
+Les juges d'un tribunal de commerce sont élus dans le ressort de la juridiction par un collège composé :
 
-1° Des délégués consulaires ;
+1° Des délégués consulaires élus dans le ressort de la juridiction ;
 
-2° Des membres en exercice des tribunaux de commerce et des chambres de commerce et d'industrie ;
-
-3° Des anciens membres des tribunaux de commerce et des chambres de commerce et d'industrie ayant demandé à être inscrits sur
-la liste électorale.
+2° Des membres du tribunal de commerce ainsi que des anciens membres du tribunal ayant demandé à être inscrits sur la liste
+électorale.
 
 Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition de n'avoir pas été déchues
 de leurs fonctions ni condamnées à une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
-électoral ou par l'article L. 625-8 du code de commerce ou à une interdiction d'exercer une activité commerciale.
+électoral ou par l'article L. 625-8 du code de commerce, ou à une interdiction d'exercer une activité commerciale.
 
-Les délégués consulaires et les membres des chambres de commerce et d'industrie sont désignés dans les conditions prévues aux
-articles L. 713-1 à L. 713-15 du code de commerce.
+Les délégués consulaires sont désignés dans les conditions prévues aux articles L. 713-6 à L. 713-18 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -4318,19 +4317,16 @@ articles L. 713-1 à L. 713-15 du code de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 11 () JORF 17 avril 2004
 
 	**Cite**:
 
-	  - Code de commerce L625-8, L713-1 à L713-15
+	  - Code de commerce L625-8, L713-6 à L713-18
 	  - Code de commerce. - art. L625-8 (M)
-	  - Code électoral L5 et L6
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
 
 	**Cité par**:
 
@@ -4378,16 +4374,16 @@ applicables en cas de contestation portant sur la liste électorale.
 
 ###### Article L413-3
 
-Sous réserve des dispositions de l'article L. 413-4, sont éligibles aux fonctions de membre d'un tribunal de commerce les
-personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de l'article L. 713-4 du code
-de commerce dans le ressort du tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes et justifiant
-soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés, soit, pendant le même délai, de
-l'exercice de l'une des qualités énumérées au premier alinéa de l'article L. 713-3 du code de commerce.
+Sont éligibles aux fonctions de membre d'un tribunal de commerce les personnes âgées de trente ans au moins :
 
-Est inéligible aux fonctions de membre d'un tribunal de commerce tout candidat à l'égard duquel est ouverte une procédure de
-redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des qualités mentionnées
-au premier alinéa de l'article L. 713-3 du code de commerce, lorsque la société ou l'établissement public auquel il
-appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
+1° Inscrites sur la liste électorale dressée en application de l'article L. 713-7 du code de commerce dans le ressort du
+tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes ;
+
+2° Qui remplissent la condition de nationalité prévue à l'article L. 2 du code électoral ;
+
+3° Et qui justifient soit d'une immatriculation pendant les cinq dernières années au moins au registre du commerce et des
+sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, de l'une des qualités énumérées à l'article L.
+713-8 du code de commerce ou de l'une des professions énumérées au d du 1° de l'article L. 713-7.
 
 **Liens relatifs à cet article**
 
@@ -4395,10 +4391,6 @@ appartient fait l'objet d'une procédure de redressement ou de liquidation judic
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
 
 	**Cité par**:
 
@@ -4409,22 +4401,27 @@ appartient fait l'objet d'une procédure de redressement ou de liquidation judic
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L713-3 (M)
-	  - Code de commerce. - art. L713-4 (T)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
+	  - Code de commerce. - art. L713-7 (T)
+	  - Code de commerce. - art. L713-8 (T)
+	  - Code électoral - art. L2 (V)
+	  - Code de l'organisation judiciaire L713-7
 
 
-###### Article L413-4
+###### Article L413-3-1
 
-Après quatorze années de fonctions judiciaires ininterrompues dans un même tribunal de commerce, les magistrats des tribunaux
-de commerce ne sont plus éligibles dans ce tribunal pendant un an.
+Est inéligible aux fonctions de membre d'un tribunal de commerce :
 
-Toutefois, le président sortant peut être réélu en qualité de membre du tribunal de commerce après quatorze ans pour une
-nouvelle période de quatre ans. Cette période expirée, il n'est plus éligible pendant un an.
+1° Tout candidat à l'égard duquel est ouverte une procédure de redressement ou de liquidation judiciaires ;
+
+2° Tout candidat mentionné au 1° ou au 2° de l'article L. 713-7 du code de commerce, lorsque la société ou l'établissement
+public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires ;
+
+3° Pour une période d'une durée de dix ans, toute personne ayant fait l'objet d'une mesure de déchéance de la qualité de
+membre d'un tribunal de commerce.
 
 **Liens relatifs à cet article**
 
@@ -4433,13 +4430,68 @@ nouvelle période de quatre ans. Cette période expirée, il n'est plus éligibl
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+	  - Code de commerce. - art. L713-7 (T)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
 
 	**Créé par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Décret n°2004-328 2004-04-15 art. 12 JORF 17 avril 2004
+
+
+###### Article L413-3-2
+
+Peut être déclarée inéligible pour une période d'une durée de dix ans par la commission nationale de discipline toute
+personne ayant présenté sa démission de membre d'un tribunal de commerce au cours de la procédure disciplinaire diligentée à
+son encontre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
+
+
+###### Article L413-4
+
+Les juges des tribunaux de commerce élus pour quatre mandats successifs dans un même tribunal de commerce ne sont plus
+éligibles dans ce tribunal pendant un an.
+
+Toutefois, le président sortant à l'issue de quatre mandats successifs de membre ou de président peut être réélu pour un
+nouveau mandat, en qualité de membre du même tribunal de commerce. A la fin de ce mandat, il n'est plus éligible à aucun
+mandat pendant un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -4485,8 +4537,17 @@ tribunal de commerce.
 
 Chaque électeur ne dispose que d'une voix dans le ressort d'un même tribunal de commerce.
 
-Le droit de vote peut être exercé par procuration ou par correspondance dans des conditions fixées par décret. Chaque
-électeur ne peut disposer que d'une procuration.
+Le droit de vote peut être exercé par correspondance ou par voie électronique. En cas d'utilisation par un même électeur au
+titre de la même qualité des deux modes de vote, seul le vote électronique est considéré comme valide.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'article L. 413-6 du code de l'organisation judiciaire est abrogé à l'exception
+de la seconde phrase du deuxième alinéa qui est abrogée à compter de la date d'entrée en vigueur du décret portant refonte de
+la partie réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-437 du 25 mars 2007 publié
+le 27 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -4495,13 +4556,13 @@ Le droit de vote peut être exercé par procuration ou par correspondance dans d
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 13 () JORF 17 avril 2004
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
 
 
 ###### Article L413-7
@@ -4661,6 +4722,28 @@ le 27 mars 2007.
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R723-24 (V)
+
+
+##### Section IV : Mesures d'application.
+
+###### Article L413-12
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 14 () JORF 17 avril 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 #### Chapitre IV : Discipline des membres des tribunaux de commerce.
