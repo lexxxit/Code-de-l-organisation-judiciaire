@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1999-03-01
+Version Consolidée au 1999-03-21
 
 # Partie législative ancienne
 
@@ -7032,34 +7032,7 @@ L. 921-9, et d'un greffier. Les juges sont élus dans les conditions fixées aux
 
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
-#### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna
-
-###### Article L931-1
-
-Pour l'application des dispositions étendues par le présent titre dans les territoires de la Nouvelle-Calédonie, de la
-Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
-
-1° " Tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
-
-2° " Tribunal mixte de commerce " à la place de " tribunal de commerce " ;
-
-3° " Tribunal du travail " à la place de " conseil de prud'hommes " ;
-
-4° " Haut commissaire de la République ", pour ce qui concerne les territoires de la Nouvelle-Calédonie et de la Polynésie
-française, et " administrateur supérieur ", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la place de "
-commissaire de la République " et de " préfet ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
 
 ##### Section I : La cour d'appel.
 
@@ -7067,7 +7040,7 @@ commissaire de la République " et de " préfet ".
 
 Les dispositions générales relatives à la cour d'appel et les dispositions particulières relatives d'une part aux pouvoirs
 des chefs de cour concernant le fonctionnement des juridictions du ressort, d'autre part à la protection de l'enfance,
-contenues au titre Ier et aux chapitres Ier et III du titre II du livre II sont applicables dans les territoires visés au
+contenues au titre Ier et aux chapitres Ier, III et VI du titre II du livre II sont applicables dans les territoires visés au
 présent chapitre, sous réserve des dispositions de l'article L. 931-3.
 
 **Liens relatifs à cet article**
@@ -7077,40 +7050,17 @@ présent chapitre, sous réserve des dispositions de l'article L. 931-3.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
 	**Modifié par**:
 
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 6 () JORF 22 août 1998
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
-
-
-###### Article L931-3
-
-L'article L. 213-2 applicable dans les territoires visés au présent chapitre est ainsi rédigé :
-
-" Art. L. 213-2. - Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la
-cour d'appel. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire L213-2
 
 
 ###### Article L931-4
@@ -7126,12 +7076,200 @@ dispositions du présent titre et par les dispositions de procédure pénale app
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section II : Le tribunal de première instance.
+##### Section VI : Les secrétariats-greffes des juridictions.
+
+###### Article L931-17
+
+Le service des secrétariats-greffes de la cour d'appel et du tribunal de première instance est assuré par des fonctionnaires
+de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
+territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
+
+##### Section III : Le tribunal mixte de commerce
+
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce
+
+##### I : Electorat.
+
+###### Article L932-29
+
+Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé
+des personnes énumérées à l'article 7 de la loi du 16 juillet 1987 susvisée et remplissant les conditions fixées aux articles
+6 et 7 de ladite loi, la référence au registre du commerce et des sociétés contenue à l'article 6 étant remplacée, pour ce
+qui concerne la Nouvelle-Calédonie, par une référence au registre du commerce de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°87-550 1987-07-16 art. 7, art. 6
+	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+##### II : Eligibilité.
+
+###### Article L932-31
+
+Sous réserve des dispositions de l'article L. 932-32, sont éligibles aux fonctions de juge d'un tribunal mixte de commerce
+les personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de l'article L. 932-30 et
+justifiant soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés ou, pour ce qui
+concerne la Nouvelle-Calédonie, au registre du commerce de la Nouvelle-Calédonie, soit, pendant le même délai, de l'exercice
+de l'une des qualités énumérées à l'avant-dernier alinéa de l'article 6 de la loi du 16 juillet 1987 précitée.
+
+Est inéligible aux fonctions de juge d'un tribunal mixte de commerce tout candidat à l'égard duquel est ouverte une procédure
+de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des qualités
+mentionnées à l'avant-dernier alinéa de l'article 6 de la loi du 16 juillet 1987 précitée, lorsque la société ou
+l'établissement public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Cite**:
+
+	  - Loi n°87-550 1987-07-16 art. 6
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-32 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-17 (Ab)
+
+
+### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
+
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
+
+###### Article L931-1
+
+Pour l'application des dispositions étendues par le présent titre à la Nouvelle-Calédonie, dans les territoires de la
+Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
+
+1° " Tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
+
+2° " Tribunal mixte de commerce " à la place de " tribunal de commerce " ;
+
+3° " Tribunal du travail " à la place de " conseil de prud'hommes " ;
+
+4° " Haut commissaire de la République ", pour ce qui concerne la Nouvelle-Calédonie et le territoire de la Polynésie
+française, et " administrateur supérieur ", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la place de "
+commissaire de la République " et de " préfet ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L551-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L561-2 (V)
+
+
+##### Section I : La cour d'appel.
+
+###### Article L931-3
+
+L'article L. 213-2 applicable en Nouvelle-Calédonie et dans les territoires visés au présent chapitre est ainsi rédigé :
+
+" Art. L. 213-2. - Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la
+cour d'appel. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-26 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L213-2
+
+
+##### Section II : Le tribunal de première instance
 
 ###### Article L931-5
 
@@ -7145,9 +7283,23 @@ instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-1 (V)
 
 
 ###### Article L931-6
@@ -7161,14 +7313,36 @@ Le tribunal de première instance a compétence exclusive dans les matières dé
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-5 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-5 (V)
 
 
 ###### Article L931-7
 
 Le siège et le ressort des tribunaux de première instance sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -7177,9 +7351,23 @@ Le siège et le ressort des tribunaux de première instance sont fixés par déc
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-1 (V)
 
 
 ###### Article L931-8
@@ -7190,6 +7378,15 @@ Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale
 
 La décision de renvoi à la formation collégiale est une mesure d'administration judiciaire non susceptible de recours.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 931-8 du code de l'organisation judiciaire est abrogé à l'exception
+de son troisième alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7197,9 +7394,26 @@ La décision de renvoi à la formation collégiale est une mesure d'administrati
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-6 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-11 (V)
 
 	**Cité par**:
 
@@ -7219,9 +7433,17 @@ première instance et toutes les juridictions du premier degré établies dans s
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L931-10
@@ -7237,9 +7459,17 @@ Lorsqu'il statue en matière contraventionnelle, il est dénommé tribunal de po
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L931-11
@@ -7255,9 +7485,23 @@ les dispositions de procédure pénale applicables localement.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-3 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-3 (V)
 
 
 ###### Article L931-12
@@ -7266,6 +7510,14 @@ Pour le jugement des affaires civiles, correctionnelles et de police, le premier
 le tribunal de première instance à tenir des audiences foraines en des communes de son ressort fixées par décret en Conseil
 d'Etat.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7273,21 +7525,35 @@ d'Etat.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-7 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-2 (V)
 
 
 ##### Section III : Les juridictions des mineurs.
 
 ###### Article L931-13
 
-Les dispositions du livre V (partie Législative) relatives aux juridictions des mineurs sont applicables dans les territoires
-visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
+Les dispositions du livre V (partie Législative) relatives aux juridictions des mineurs sont applicables en Nouvelle-
+Calédonie et dans les territoires visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -7296,9 +7562,23 @@ visés au présent chapitre, sous réserve des adaptations prévues au présent 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-25 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-19 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-35 (M)
 
 
 ##### Section IV : La cour d'assises.
@@ -7314,9 +7594,23 @@ Il est tenu des assises à Nouméa, à Papeete et à Mata-Utu.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-27 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-36 (V)
 
 
 ###### Article L931-15
@@ -7331,16 +7625,39 @@ ministère public près cette juridiction sont fixées par les dispositions de p
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-28 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-21 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-37 (V)
 
 
 ##### Section V : Dispositions communes à plusieurs juridictions.
 
 ###### Article L931-16
 
-Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans les territoires visés au présent chapitre.
+Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables en Nouvelle-Calédonie et dans les territoires visés
+au présent chapitre.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -7349,9 +7666,26 @@ Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans le
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L551-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L561-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R551-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-1 (V)
 
 	**Cite**:
 
@@ -7362,29 +7696,19 @@ Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans le
 
 ##### Section VI : Les secrétariats-greffes des juridictions.
 
-###### Article L931-17
-
-Le service des secrétariats-greffes de la cour d'appel et du tribunal de première instance est assuré par des fonctionnaires
-de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
-territoriaux ou des agents territoriaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
-
 ###### Article L931-18
 
 Les fonctions de greffier du tribunal de première instance, du tribunal du travail, du tribunal mixte de commerce et du
 tribunal pour enfants sont exercées par le greffier en chef ou par un greffier de la cour d'appel.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7392,12 +7716,26 @@ tribunal pour enfants sont exercées par le greffier en chef ou par un greffier 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R533-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R553-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-2 (V)
 
 
-#### Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
 
 ##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.
 
@@ -7406,6 +7744,14 @@ tribunal pour enfants sont exercées par le greffier en chef ou par un greffier 
 La formation collégiale prévue à l'article L. 931-8 est composée d'un président et de deux magistrats du siège du tribunal de
 première instance.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7413,9 +7759,24 @@ première instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-7 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-12 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-12 (V)
 
 	**Cite**:
 
@@ -7434,9 +7795,22 @@ instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-8 (V)
 
 
 ###### Article L932-3
@@ -7444,6 +7818,14 @@ instance.
 Le tribunal de première instance comprend des sections détachées, dont le siège et le ressort sont fixés par décret en
 Conseil d'Etat, compétentes pour juger dans leur ressort les affaires civiles, correctionnelles et de police.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7451,9 +7833,24 @@ Conseil d'Etat, compétentes pour juger dans leur ressort les affaires civiles, 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-26 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-25 (V)
 
 
 ###### Article L932-4
@@ -7461,6 +7858,14 @@ Conseil d'Etat, compétentes pour juger dans leur ressort les affaires civiles, 
 La présidence des sections détachées est assurée par des magistrats du siège du tribunal de première instance désignés à cet
 effet dans les formes prévues pour la nomination des magistrats du siège.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7468,13 +7873,21 @@ effet dans les formes prévues pour la nomination des magistrats du siège.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
 ###### Article L932-5
@@ -7482,6 +7895,14 @@ effet dans les formes prévues pour la nomination des magistrats du siège.
 Les magistrats chargés de la présidence des sections détachées peuvent être suppléés, en cas d'absence ou d'empêchement, par
 des magistrats du siège du tribunal de première instance désignés par ordonnance du premier président de la cour d'appel.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7489,9 +7910,22 @@ des magistrats du siège du tribunal de première instance désignés par ordonn
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-29 (V)
 
 	**Cité par**:
 
@@ -7503,6 +7937,14 @@ des magistrats du siège du tribunal de première instance désignés par ordonn
 Les magistrats appelés à compléter les sections détachées lorsqu'elles statuent en formation collégiale sont désignés par le
 premier président de la cour d'appel parmi les magistrats du siège du tribunal de première instance.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7510,13 +7952,26 @@ premier président de la cour d'appel parmi les magistrats du siège du tribunal
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-28 (V)
 
 
 ###### Article L932-7
@@ -7524,6 +7979,14 @@ premier président de la cour d'appel parmi les magistrats du siège du tribunal
 Le premier président de la cour d'appel peut autoriser une section détachée à tenir des audiences foraines dans les
 conditions prévues à l'article L. 931-12.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7531,13 +7994,26 @@ conditions prévues à l'article L. 931-12.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-12 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-18 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-27 (V)
 
 
 ###### Article L932-8
@@ -7553,6 +8029,14 @@ Les citations et assignations produisent cependant leurs effets ordinaires inter
 Toute autre modification du partage des compétences territoriales du tribunal de première instance et de ses sections
 détachées entraîne un transfert des procédures en cours dans les conditions prévues aux alinéas précédents.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7560,13 +8044,26 @@ détachées entraîne un transfert des procédures en cours dans les conditions 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-46 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-25 (V)
 
 
 ###### Article L932-9
@@ -7582,14 +8079,27 @@ localement.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-9 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-18 (V)
 
 
-##### Section II : Le tribunal du travail
+##### Section 2 : Le tribunal du travail
 
-##### Sous-section I : Institution et compétence.
+##### Sous-section 1 : Institution et compétence
 
 ###### Article L932-10
 
@@ -7602,6 +8112,12 @@ Il y au moins un tribunal du travail dans le ressort de chaque tribunal de premi
 
 Le siège et le ressort du tribunal du travail sont fixés par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7609,12 +8125,20 @@ Le siège et le ressort du tribunal du travail sont fixés par décret en Consei
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.
+##### Sous-section 2 : Organisation et fonctionnement
 
 ###### Article L932-11
 
@@ -7629,6 +8153,12 @@ des titulaires.
 
 Le tribunal du travail est assisté d'un greffier.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7636,9 +8166,17 @@ Le tribunal du travail est assisté d'un greffier.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
 ###### Article L932-12
@@ -7655,6 +8193,12 @@ Le mandat des assesseurs titulaires ou suppléants a une durée de deux ans. Il 
 
 Les fonctions d'assesseur titulaire ou suppléant sont gratuites vis-à-vis des parties.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7662,9 +8206,17 @@ Les fonctions d'assesseur titulaire ou suppléant sont gratuites vis-à-vis des 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cite**:
 
@@ -7680,6 +8232,12 @@ Les assesseurs et leurs suppléants prêtent, devant le tribunal de première in
 
 Toutefois, en cas d'empêchement, le serment peut être prêté par écrit.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7687,12 +8245,20 @@ Toutefois, en cas d'empêchement, le serment peut être prêté par écrit.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-##### Sous-section III : Statut des assesseurs.
+##### Sous-section 3 : Statut des assesseurs
 
 ###### Article L932-14
 
@@ -7709,6 +8275,12 @@ diminution de leur rémunération et des avantages y afférents.
 
 En outre, des indemnités de séjour et de déplacement peuvent être allouées aux assesseurs salariés et employeurs.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7725,10 +8297,15 @@ En outre, des indemnités de séjour et de déplacement peuvent être allouées 
 
 	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
 	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
 ###### Article L932-15
@@ -7740,6 +8317,12 @@ Le licenciement par l'employeur d'un salarié exerçant les fonctions d'assesseu
 fonctions depuis moins de six mois est soumis à la procédure prévue par la législation applicable localement pour le
 licenciement des délégués syndicaux.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7756,10 +8339,15 @@ licenciement des délégués syndicaux.
 
 	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
 	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cite**:
 
@@ -7773,6 +8361,12 @@ L'Etat organise, dans des conditions fixées par décret, la formation des asses
 Les employeurs sont tenus d'accorder aux salariés de leur entreprise assesseurs au tribunal du travail, sur leur demande et
 pour les besoins de cette formation, des autorisations d'absence dans la limite d'une semaine par mandat. Ces absences sont
 rémunérées par l'employeur.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -7791,16 +8385,27 @@ rémunérées par l'employeur.
 
 	  - TXT_ASSOCIE: Ordonnance n°85-1181 du 13 novembre 1985 - art. 136 (V)
 	  - TXT_ASSOCIE: Loi n°86-845 du 17 juillet 1986 - art. 120 (V)
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
 ###### Article L932-17
 
 Les articles 4 et 5 du code civil, 126, 127 et 185 du code pénal sont applicables aux tribunaux du travail et à leurs membres
 pris individuellement.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -7809,9 +8414,17 @@ pris individuellement.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cite**:
 
@@ -7829,6 +8442,12 @@ préalablement entendu ou dûment appelé.
 
 Au vu du procès-verbal, la cour d'appel statue en audience non publique après avoir appelé l'intéressé.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7836,9 +8455,17 @@ Au vu du procès-verbal, la cour d'appel statue en audience non publique après 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
 ###### Article L932-19
@@ -7861,6 +8488,12 @@ Les peines applicables aux assesseurs sont :
 
 La censure et la suspension sont prononcées par arrêté du ministre de la justice. La déchéance est prononcée par décret.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7868,9 +8501,17 @@ La censure et la suspension sont prononcées par arrêté du ministre de la just
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cité par**:
 
@@ -7884,6 +8525,12 @@ ses fonctions à la date de la condamnation devenue définitive.
 
 L'assesseur déclaré déchu ne peut plus être nommé aux mêmes fonctions.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7891,9 +8538,17 @@ L'assesseur déclaré déchu ne peut plus être nommé aux mêmes fonctions.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cite**:
 
@@ -7908,6 +8563,12 @@ saisi d'une plainte ou informé de faits de nature à entraîner des poursuites 
 l'intéressé de ses fonctions pour une durée qui ne peut excéder six mois. Il est fait application de la procédure prévue à
 l'article L. 932-19.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7915,9 +8576,17 @@ l'article L. 932-19.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 	**Cite**:
 
@@ -7940,6 +8609,12 @@ ou son conjoint ou ses parents ou alliés en ligne directe ;
 
 5° S'ils sont employeurs ou salariés de l'une des parties en cause.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 5 : Demeurent en vigueur, dans leur rédaction en vigueur jusqu'à la date de
+publication de la présente ordonnance, les dispositions des articles L. 932-10 à L. 932-22 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7947,9 +8622,17 @@ ou son conjoint ou ses parents ou alliés en ligne directe ;
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
 ##### Section III : Le tribunal mixte de commerce
@@ -7958,8 +8641,8 @@ ou son conjoint ou ses parents ou alliés en ligne directe ;
 
 ###### Article L932-23
 
-Dans les territoires visés au présent chapitre, le tribunal mixte de commerce exerce les compétences dévolues en métropole au
-tribunal de commerce.
+En Nouvelle-Calédonie et dans les territoires visés au présent chapitre, le tribunal mixte de commerce exerce les compétences
+dévolues en métropole au tribunal de commerce.
 
 **Liens relatifs à cet article**
 
@@ -7968,9 +8651,17 @@ tribunal de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L932-24
@@ -7985,9 +8676,17 @@ réserve des dispositions de l'article L. 932-39, et d'un greffier.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8000,6 +8699,14 @@ Les dispositions du chapitre Ier du titre Ier du livre IV (partie Législative) 
 du tribunal de commerce sont applicables au tribunal mixte de commerce, à l'exception du premier alinéa de l'article L.
 411-1.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-431 du 25 mars 2007 publié
+au Journal officiel du 27 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8007,9 +8714,17 @@ du tribunal de commerce sont applicables au tribunal mixte de commerce, à l'exc
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
 
 	**Cite**:
 
@@ -8031,9 +8746,13 @@ partage égal des voix, celle du président est prépondérante.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -8051,9 +8770,17 @@ Les juges des tribunaux mixtes de commerce sont élus pour quatre ans. Ils sont 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L932-28
@@ -8062,6 +8789,14 @@ Les dispositions du chapitre II du titre Ier du livre IV (partie Législative) r
 du tribunal de commerce sont applicables au tribunal mixte de commerce, à l'exception des articles L. 412-1, L. 412-3, du
 premier alinéa de l'article L. 412-7 et des articles L. 412-11 à L. 412-13.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8069,9 +8804,17 @@ premier alinéa de l'article L. 412-7 et des articles L. 412-11 à L. 412-13.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
@@ -8082,30 +8825,6 @@ premier alinéa de l'article L. 412-7 et des articles L. 412-11 à L. 412-13.
 ##### Sous-section III : Election des juges des tribunaux mixtes de commerce
 
 ##### I : Electorat.
-
-###### Article L932-29
-
-Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé
-des personnes énumérées à l'article 7 de la loi du 16 juillet 1987 susvisée et remplissant les conditions fixées aux articles
-6 et 7 de ladite loi, la référence au registre du commerce et des sociétés contenue à l'article 6 étant remplacée, pour ce
-qui concerne le territoire de la Nouvelle-Calédonie, par une référence au registre du commerce du territoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 7, art. 6
-	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
 
 ###### Article L932-30
 
@@ -8122,9 +8841,17 @@ applicables en cas de contestation portant sur la liste électorale.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8141,41 +8868,6 @@ applicables en cas de contestation portant sur la liste électorale.
 
 ##### II : Eligibilité.
 
-###### Article L932-31
-
-Sous réserve des dispositions de l'article L. 932-32, sont éligibles aux fonctions de juge d'un tribunal mixte de commerce
-les personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de l'article L. 932-30 et
-justifiant soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés ou, pour ce qui
-concerne le territoire de la Nouvelle-Calédonie, au registre du commerce du territoire, soit, pendant le même délai, de
-l'exercice de l'une des qualités énumérées à l'avant-dernier alinéa de l'article 6 de la loi du 16 juillet 1987 précitée.
-
-Est inéligible aux fonctions de juge d'un tribunal mixte de commerce tout candidat à l'égard duquel est ouverte une procédure
-de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des qualités
-mentionnées à l'avant-dernier alinéa de l'article 6 de la loi du 16 juillet 1987 précitée, lorsque la société ou
-l'établissement public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 6
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-32 (M)
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-17 (Ab)
-
-
 ###### Article L932-32
 
 Après douze années de fonctions judiciaires ininterrompues dans un même tribunal mixte de commerce, les juges des tribunaux
@@ -8188,9 +8880,17 @@ mixtes de commerce ne sont plus éligibles dans ce tribunal pendant un an.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -8209,9 +8909,17 @@ tribunal mixte de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ##### III : Scrutin et opérations électorales.
@@ -8230,9 +8938,17 @@ d'Etat. Chaque électeur ne peut disposer que d'une procuration.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L932-35
@@ -8247,14 +8963,30 @@ candidats obtiennent le même nombre de voix, le plus âgé est proclamé élu.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L932-36
 
 L'élection générale des juges des tribunaux mixtes de commerce a lieu dans la première quinzaine du mois d'octobre.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-431 du 25 mars 2007 publié
+au Journal officiel du 27 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -8263,9 +8995,17 @@ L'élection générale des juges des tribunaux mixtes de commerce a lieu dans la
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
 
 	**Cité par**:
 
@@ -8290,9 +9030,17 @@ Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8313,9 +9061,17 @@ chargée de veiller à la régularité du scrutin et de proclamer les résultats
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -8341,9 +9097,17 @@ les conditions prévues pour les juges des tribunaux mixtes de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -8375,9 +9139,17 @@ prévue à l'article L. 932-36.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8401,9 +9173,17 @@ autres juges des tribunaux mixtes de commerce.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8417,6 +9197,14 @@ Les contestations relatives à l'électorat, à l'éligibilité et aux opératio
 des juges des tribunaux mixtes de commerce sont de la compétence du tribunal de première instance, qui statue en dernier
 ressort.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 4 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de commerce.
+
+Le décret portant publication de la partie réglementaire du code de commerce est le décret n° 2007-431 du 25 mars 2007 publié
+au Journal officiel du 27 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8424,9 +9212,17 @@ ressort.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
 
 	**Nouveaux textes**:
 
@@ -8448,9 +9244,17 @@ tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerc
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ##### Section IV : Les juridictions des mineurs.
@@ -8460,6 +9264,14 @@ tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerc
 Le tribunal pour enfants tient ses audiences au siège des sections détachées du tribunal de première instance pour le
 jugement des affaires entrant dans leur compétence territoriale.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8467,9 +9279,22 @@ jugement des affaires entrant dans leur compétence territoriale.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-39 (V)
 
 
 ###### Article L932-45
@@ -8477,6 +9302,14 @@ jugement des affaires entrant dans leur compétence territoriale.
 Les juges chargés de la présidence des sections détachées exercent, dans leur ressort, les fonctions de juges des enfants.
 Ils président le tribunal pour enfants lorsque cette juridiction tient ses audiences au siège des sections détachées.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8484,9 +9317,22 @@ Ils président le tribunal pour enfants lorsque cette juridiction tient ses audi
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-39 (V)
 
 
 ###### Article L932-46
@@ -8495,6 +9341,14 @@ En cas de création d'une section détachée ou en cas de modification du partag
 première instance et de ses sections détachées, les procédures en cours relevant de la compétence du juge des enfants sont
 transférées dans les conditions prévues à l'article L. 932-8.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8502,16 +9356,29 @@ transférées dans les conditions prévues à l'article L. 932-8.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-8 (M)
 
+	**Nouveaux textes**:
 
-#### Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie.
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-39 (V)
+
+
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.
 
 ###### Article L933-1
 
@@ -8525,9 +9392,21 @@ détachées de ce tribunal sont complétés par deux assesseurs ayant voix déli
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-9 (V)
 
 	**Cité par**:
 
@@ -8547,14 +9426,26 @@ l'objet d'aucune condamnation, incapacité ou déchéance prévue par les articl
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
 	  - Code électoral - art. L5 (M)
 	  - Code électoral - art. L6 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-10 (V)
 
 	**Cité par**:
 
@@ -8575,6 +9466,14 @@ par le premier président pour le tribunal de première instance et pour chacune
 liste préparatoire comprend le nom des personnes dont la candidature aura été déclarée aux maires des communes comprises dans
 le ressort de la formation de jugement. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8582,9 +9481,23 @@ le ressort de la formation de jugement. Un décret en Conseil d'Etat fixe les mo
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-16 (V)
 
 	**Cité par**:
 
@@ -8606,9 +9519,22 @@ les sections détachées de ce tribunal statuent sans assesseur.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-12 (V)
 
 	**Cite**:
 
@@ -8624,6 +9550,14 @@ les sections détachées de ce tribunal statuent sans assesseur.
 Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
 liste d'assesseurs prévue à l'article L. 933-3.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8631,9 +9565,22 @@ liste d'assesseurs prévue à l'article L. 933-3.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-13 (V)
 
 	**Cite**:
 
@@ -8647,6 +9594,14 @@ pour la partie de l'année judiciaire restant à courir, au remplacement des ass
 assesseur est alors désigné dans les formes prévues à l'article L. 933-3 et choisi sur la liste préparatoire mentionnée au
 même article.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8654,9 +9609,17 @@ même article.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
@@ -8665,6 +9628,11 @@ même article.
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-5 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-20 (V)
 
 
 ###### Article L933-7
@@ -8683,9 +9651,22 @@ l'article 6 de l'ordonnance du 22 décembre 1958 susvisée portant loi organique
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-12 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-14 (V)
 
 
 ###### Article L933-8
@@ -8700,9 +9681,22 @@ successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut en a
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-15 (V)
 
 	**Cite**:
 
@@ -8721,9 +9715,17 @@ applicables aux assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L933-10
@@ -8742,9 +9744,22 @@ En cas de faute grave entachant l'honneur ou la probité, leur déchéance est p
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-16 (V)
 
 
 ###### Article L933-11
@@ -8761,9 +9776,22 @@ prévue à l'article L. 933-1 et renvoie la connaissance de l'affaire à la form
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-17 (V)
 
 	**Cite**:
 
@@ -8779,6 +9807,14 @@ prévue à l'article L. 933-1 et renvoie la connaissance de l'affaire à la form
 Les juridictions instituées dans le territoire des îles Wallis-et-Futuna en application du présent titre sont comprises dans
 le ressort de la cour d'appel de Nouméa.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8786,9 +9822,17 @@ le ressort de la cour d'appel de Nouméa.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-1 (V)
 
 
 ##### Section II : Le tribunal de première instance.
@@ -8805,9 +9849,17 @@ prévues à l'article L. 931-8.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-6 (V)
 
 	**Cite**:
 
@@ -8826,9 +9878,18 @@ assesseurs choisis, pour une durée de deux ans, parmi les personnes remplissant
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-12 (V)
 
 	**Cite**:
 
@@ -8844,6 +9905,14 @@ préparatoire dressée par le premier président. Cette liste préparatoire comp
 aura été déclarée aux maires des communes du territoire. Un décret en Conseil d'Etat fixe les modalités d'application du
 présent article.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8851,9 +9920,19 @@ présent article.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-16 (V)
 
 	**Cité par**:
 
@@ -8868,6 +9947,14 @@ dispositions de l'alinéa suivant.
 Pour l'application de l'article L. 933-6, le nouvel assesseur est désigné dans les formes prévues à l'article L. 934-4 et
 choisi sur la liste préparatoire mentionnée au même article.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8875,15 +9962,23 @@ choisi sur la liste préparatoire mentionnée au même article.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-6 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-4 (M)
 	  - Code de l'organisation judiciaire L933-4 à L933-11, L933-6, L934-4
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-20 (V)
 
 
 ###### Article L934-6
@@ -8897,9 +9992,13 @@ Les dispositions de l'article L. 731-1 sont applicables aux assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -8918,9 +10017,17 @@ dispositions de procédure pénale applicables localement.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-16 (V)
 
 
 ###### Article L934-8
@@ -8939,9 +10046,18 @@ cour d'appel et désigné par le procureur général.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-18 (V)
 
 
 ##### Section III : Les juridictions des mineurs.
@@ -8958,9 +10074,17 @@ instance.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-26 (V)
 
 	**Cite**:
 
@@ -8975,6 +10099,14 @@ Les attributions dévolues aux juridictions de l'ordre judiciaire instituées en
 sont exercées, pour le territoire des Terres australes et antarctiques françaises, par des juridictions de même catégorie
 déterminées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8982,9 +10114,17 @@ déterminées par décret en Conseil d'Etat.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juin 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R541-1 (V)
 
 	**Cité par**:
 
@@ -25325,13 +26465,13 @@ Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R. 4
 	  - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer
+### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
 
-#### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
 
 ###### Article R931-1
 
-Pour l'application des dispositions étendues par le présent titre dans les territoires de la Nouvelle-Calédonie, de la
+Pour l'application des dispositions étendues par le présent titre en Nouvelle-Calédonie et dans les territoires de la
 Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
 
 1° "Tribunal de première instance" à la place de "tribunal de grande instance" et de "tribunal d'instance" ;
@@ -25340,7 +26480,7 @@ Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
 
 3° "Tribunal du travail" à la place de "conseil de prud'hommes" ;
 
-4° "Haut-commissaire de la République", pour ce qui concerne les territoires de la Nouvelle-Calédonie et de la Polynésie
+4° "Haut-commissaire de la République", pour ce qui concerne la Nouvelle-Calédonie et le territoire de la Polynésie
 française, et "administrateur supérieur", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la place de
 "commissaire de la République" et de "préfet".
 
@@ -25350,9 +26490,13 @@ française, et "administrateur supérieur", pour ce qui concerne le territoire d
 
 	  - Décret n°78-330 1978-03-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
 	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section I : La cour d'appel.
@@ -25360,7 +26504,8 @@ française, et "administrateur supérieur", pour ce qui concerne le territoire d
 ###### Article R931-2
 
 Les dispositions du chapitre Ier du titre Ier du livre II (partie Réglementaire) relatives à l'institution et à la compétence
-de la cour d'appel sont applicables dans les territoires visés au présent chapitre, à l'exception de l'article R. 211-2.
+de la cour d'appel sont applicables en Nouvelle-Calédonie et dans les territoires visés au présent chapitre, à l'exception de
+l'article R. 211-2.
 
 Pour l'application de l'article R. 211-1, la référence aux tribunaux paritaires des baux ruraux est supprimée.
 
@@ -25371,52 +26516,24 @@ Pour l'application de l'article R. 211-1, la référence aux tribunaux paritaire
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire R211-2, R211-1
 
 
-###### Article R931-3
-
-Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
-sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
-R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
-suivantes :
-
-1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
-dispositions de procédure pénale applicables localement ;
-
-2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre d'accusation assure avec la
-chambre civile le service des audiences solennelles ;
-
-3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
-aux dispositions de procédure civile applicables localement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
-
-
 ###### Article R931-4
 
 Les dispositions du chapitre III du titre Ier du livre II (partie Réglementaire) relatives au fonctionnement de la cour
-d'appel sont applicables dans les territoires visés au présent chapitre, à l'exception de l'article R. 213-13, du deuxième
-alinéa de l'article R. 213-24 et des articles R. 213-27 et R. 213-28.
+d'appel sont applicables en Nouvelle-Calédonie et dans les territoires visés au présent chapitre, à l'exception de l'article
+R. 213-13, du deuxième alinéa de l'article R. 213-24 et des articles R. 213-27 et R. 213-28.
 
 Pour l'application de l'article R. 213-24, la référence à l'avocat général est remplacée par la référence à un magistrat du
 parquet de la cour d'appel.
@@ -25428,9 +26545,13 @@ parquet de la cour d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25451,9 +26572,13 @@ les membres de la cour devant toujours être en majorité.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-6
@@ -25469,15 +26594,20 @@ instance du siège de la cour pour exercer les fonctions du ministère public à
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-7
 
 Les dispositions particulières en matière sociale et relatives à l'application des peines contenues au chapitre Ier et au
-chapitre VI du titre II du livre II (partie Réglementaire) sont applicables dans les territoires visés au présent chapitre.
+chapitre VI du titre II du livre II (partie Réglementaire) sont applicables en Nouvelle-Calédonie et dans les territoires
+visés au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -25486,9 +26616,13 @@ chapitre VI du titre II du livre II (partie Réglementaire) sont applicables dan
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section II : Le tribunal de première instance
@@ -25507,33 +26641,19 @@ attribuée expressément à une autre juridiction en raison de la nature de l'af
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
 
+	**Modifié par**:
 
-###### Article R931-9
-
-Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
-instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
-monnaie locale de 11 000 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-10
 
-Les articles R. 311-4 à R. 311-6 sont applicables dans les territoires visés au présent chapitre, sous réserve des
-dispositions de l'alinéa suivant.
+Les articles R. 311-4 à R. 311-6 sont applicables en Nouvelle-Calédonie et dans les territoires visés au présent chapitre,
+sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application de l'article R. 311-4, la référence à l'article 3 du code de procédure pénale est remplacée par une
 référence aux dispositions de procédure pénale applicables localement.
@@ -25545,9 +26665,13 @@ référence aux dispositions de procédure pénale applicables localement.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25567,9 +26691,13 @@ affaires mentionnées à l'article L. 312-1.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 6 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25583,8 +26711,8 @@ affaires mentionnées à l'article L. 312-1.
 Le siège et le ressort des tribunaux de première instance sont fixés conformément au tableau I annexé au présent code.
 
 Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des tribunaux de première instance compétents dans les territoires visés
-au présent chapitre sont fixés conformément au tableau X annexé au présent code.
+judiciaires des entreprises, le siège et le ressort des tribunaux de première instance compétents en Nouvelle-Calédonie et
+dans les territoires visés au présent chapitre sont fixés conformément au tableau X annexé au présent code.
 
 **Liens relatifs à cet article**
 
@@ -25598,9 +26726,13 @@ au présent chapitre sont fixés conformément au tableau X annexé au présent 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-12
@@ -25615,9 +26747,13 @@ tenir des audiences foraines dans toutes les communes autres que celle où est f
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-13
@@ -25631,9 +26767,13 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-14
@@ -25648,17 +26788,21 @@ notamment en référé ou sur requête.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section III : Les juridictions des mineurs.
 
 ###### Article R931-15
 
-Les dispositions du livre V (partie Réglementaire) relatives aux juridictions des mineurs sont applicables dans les
-territoires visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
+Les dispositions du livre V (partie Réglementaire) relatives aux juridictions des mineurs sont applicables en Nouvelle-
+Calédonie et dans les territoires visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
 
 Pour l'application du second alinéa de l'article R. 522-10, les assesseurs titulaires et suppléants perçoivent, s'il y a
 lieu, les frais et indemnités de transport et de séjour prévus par les dispositions relatives aux frais de justice
@@ -25671,9 +26815,13 @@ criminelle, correctionnelle et de police applicables localement.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25684,9 +26832,9 @@ criminelle, correctionnelle et de police applicables localement.
 
 ###### Article R931-16
 
-Les dispositions communes à plusieurs juridictions contenues au livre VII (partie Réglementaire) sont applicables dans les
-territoires visés au présent chapitre, à l'exception de l'article R. 721-2 et du titre VI de ce livre, et sous réserve des
-adaptations suivantes :
+Les dispositions communes à plusieurs juridictions contenues au livre VII (partie Réglementaire) sont applicables en
+Nouvelle-Calédonie et dans les territoires visés au présent chapitre, à l'exception de l'article R. 721-2 et du titre VI de
+ce livre, et sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 721-3, la référence aux avocats ou avoués est remplacée par une référence aux avocats
 ou personnes agréées pour exercer les attributions dévolues aux conseils des parties ;
@@ -25701,9 +26849,13 @@ remplacée par une référence aux dispositions de procédure civile applicables
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25732,9 +26884,13 @@ conditions prévues pour les autres services de la juridiction.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-18
@@ -25749,9 +26905,13 @@ agents du secrétariat-greffe de la cour d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-19
@@ -25768,9 +26928,13 @@ de première instance et désignent un fonctionnaire responsable du secrétariat
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-20
@@ -25786,17 +26950,21 @@ assurant le service du secrétariat-greffe entre les services du siège et ceux 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R931-21
 
 Les dispositions des chapitres II et III du titre Ier du livre VIII (partie Réglementaire) relatives au fonctionnement des
-secrétariats-greffes sont applicables dans les cours d'appel et tribunaux de première instance des territoires visés au
-présent chapitre, à l'exception des articles R. 812-8, R. 812-9, du troisième alinéa de l'article R. 812-10, des articles R.
-812-13 à R. 812-15, R. 812-17 et R. 813-4, et sous réserve des dispositions de l'alinéa suivant.
+secrétariats-greffes sont applicables dans les cours d'appel et tribunaux de première instance de Nouvelle-Calédonie et des
+territoires visés au présent chapitre, à l'exception des articles R. 812-8, R. 812-9, du troisième alinéa de l'article R.
+812-10, des articles R. 812-13 à R. 812-15, R. 812-17 et R. 813-4, et sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application des articles R. 812-1 à R. 812-3, R. 812-6, R. 812-7, R. 812-11, R. 812-16 et R. 813-1, la référence au
 greffier en chef est remplacée par une référence au greffier en chef de la cour d'appel ou au fonctionnaire responsable du
@@ -25809,16 +26977,20 @@ secrétariat-greffe du tribunal de première instance.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1
 
 
-#### Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
 
 ##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.
 
@@ -25827,8 +26999,8 @@ secrétariat-greffe du tribunal de première instance.
 Les dispositions de la section 3 du chapitre Ier du titre Ier du livre III (partie Réglementaire) relatives au fonctionnement
 du tribunal de grande instance, à l'exception des articles R. 311-16, R. 311-22, R. 311-26, R. 311-27, R. 311-29-1 à R.
 311-29-3, R. 311-30, R. 311-36 et R. 311-38, ainsi que les dispositions de l'article R. 312-8 sont applicables au tribunal de
-première instance et aux sections détachées du tribunal de première instance dans les territoires visés au présent chapitre,
-sous réserve des adaptations suivantes :
+première instance et aux sections détachées du tribunal de première instance en Nouvelle-Calédonie et dans les territoires
+visés au présent chapitre, sous réserve des adaptations suivantes :
 
 1° Pour l'application du premier alinéa de l'article R. 311-23 et de l'article R. 311-34, la référence à la répartition des
 magistrats du siège et du parquet entre les chambres du tribunal est supprimée ;
@@ -25845,9 +27017,13 @@ sont supprimés.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25870,9 +27046,13 @@ tribunal de première instance du siège de la cour d'appel le plus ancien dans 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R932-3
@@ -25887,9 +27067,13 @@ autre juge du tribunal, en suivant, autant que faire se peut, l'ordre des nomina
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -25913,9 +27097,13 @@ présent code.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R932-5
@@ -25931,9 +27119,13 @@ section détachée.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R932-6
@@ -25949,9 +27141,13 @@ qu'il est nécessaire pour compléter les sections détachées de ce tribunal lo
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -25976,9 +27172,13 @@ Un magistrat peut être affecté au service de plusieurs sections détachées.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -26000,9 +27200,13 @@ Il en est de même en cas de nomination de magistrats dans le tribunal.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26023,9 +27227,13 @@ R. 932-6.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -26053,9 +27261,13 @@ Le siège et le ressort des tribunaux du travail sont fixés conformément au ta
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section III : Le tribunal mixte de commerce
@@ -26064,12 +27276,11 @@ Le siège et le ressort des tribunaux du travail sont fixés conformément au ta
 
 ###### Article R932-11
 
-Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau VII annexé au présent code
-[*tableau non reproduit*].
+Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau VII annexé au présent code.
 
 Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes dans les territoires visés au
-présent chapitre sont fixés conformément au tableau XI annexé au présent code [*tableau non reproduit*].
+judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes en Nouvelle-Calédonie et dans
+les territoires visés au présent chapitre sont fixés conformément au tableau XI annexé au présent code.
 
 **Liens relatifs à cet article**
 
@@ -26083,9 +27294,13 @@ présent chapitre sont fixés conformément au tableau XI annexé au présent co
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R932-12
@@ -26099,17 +27314,21 @@ Le nombre des juges élus de chaque tribunal mixte de commerce est fixé par dé
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Sous-section II : Organisation et fonctionnement.
 
 ###### Article R932-13
 
-Les dispositions des articles R. 412-1, R. 412-4 et R. 412-17 à R. 412-19 sont applicables au tribunal mixte de commerce dans
-les territoires visés au présent chapitre.
+Les dispositions des articles R. 412-1, R. 412-4 et R. 412-17 à R. 412-19 sont applicables au tribunal mixte de commerce en
+Nouvelle-Calédonie et dans les territoires visés au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -26118,9 +27337,13 @@ les territoires visés au présent chapitre.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26150,9 +27373,13 @@ Le secrétariat de la commission est assuré par le greffier du tribunal mixte d
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26186,9 +27413,13 @@ en application de l'article 6 de la loi précitée.
 	  - Loi n°87-550 1987-07-16 art. 6, art. 7
 	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -26212,9 +27443,13 @@ la République et, après l'ouverture du scrutin, du président de la commission
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26267,9 +27502,13 @@ général près la cour d'appel.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-31 (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -26296,9 +27535,13 @@ Chaque électeur est en outre convoqué individuellement.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R932-19
@@ -26315,9 +27558,13 @@ Le secrétariat de la commission électorale est assuré par le greffier du trib
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26347,9 +27594,13 @@ dispositions de l'article R. 932-17 ne sont pas comptés lors du recensement des
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26391,9 +27642,13 @@ La procuration est annexée à la liste d'émargement et conservée dans les con
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26440,9 +27695,13 @@ annexées à la liste d'émargement et conservées dans les conditions fixées p
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26452,8 +27711,8 @@ annexées à la liste d'émargement et conservées dans les conditions fixées p
 
 ###### Article R932-23
 
-Les dispositions des articles R. 413-11 à R. 413-20 sont applicables dans les territoires visés au présent chapitre, sous
-réserve des dispositions de l'alinéa suivant.
+Les dispositions des articles R. 413-11 à R. 413-20 sont applicables en Nouvelle-Calédonie et dans les territoires visés au
+présent chapitre, sous réserve des dispositions de l'alinéa suivant.
 
 Pour l'application de l'article R. 413-20, la référence aux articles 640 à 647 du nouveau code de procédure civile est
 remplacée par une référence aux dispositions de procédure civile applicables localement.
@@ -26465,9 +27724,13 @@ remplacée par une référence aux dispositions de procédure civile applicables
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26487,9 +27750,13 @@ Lorsqu'il y a lieu de procéder à des élections complémentaires, la date du s
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.
@@ -26506,9 +27773,13 @@ tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerc
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section IV : Les juridictions des mineurs.
@@ -26526,9 +27797,13 @@ chargé de la présidence des sections détachées du tribunal de première inst
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26541,7 +27816,7 @@ chargé de la présidence des sections détachées du tribunal de première inst
 
 Les dispositions des chapitres Ier et III du titre VI du livre VII (partie Réglementaire) relatives aux assemblées générales
 de la cour d'appel et du tribunal de grande instance et à la consultation des juridictions sont applicables à la cour d'appel
-et au tribunal de première instance dans les territoires visés au présent chapitre.
+et au tribunal de première instance en Nouvelle-Calédonie et dans les territoires visés au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -26550,12 +27825,16 @@ et au tribunal de première instance dans les territoires visés au présent cha
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-#### Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie.
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.
 
 ###### Article R933-1
 
@@ -26580,9 +27859,13 @@ l'ordre de leur réception, sur une liste qu'il adresse au premier président de
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26604,9 +27887,13 @@ formations.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R933-3
@@ -26621,9 +27908,13 @@ liste d'assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R933-4
@@ -26639,9 +27930,13 @@ notifié à chacun des assesseurs désignés.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R933-5
@@ -26657,9 +27952,13 @@ de ce tribunal, le garde des sceaux constate par arrêté l'impossibilité de co
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26684,9 +27983,13 @@ Il est dressé un procès-verbal de la réception du serment.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R933-7
@@ -26703,9 +28006,13 @@ Il est dressé un procès-verbal de cette installation.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R933-8
@@ -26720,9 +28027,13 @@ de ce tribunal.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26752,9 +28063,9 @@ conformément au tableau XI annexé au présent code.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -26773,9 +28084,9 @@ procureur de la République, le nombre, le jour et la nature des audiences du tr
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R934-3
@@ -26790,9 +28101,9 @@ instance.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26812,9 +28123,9 @@ est affiché au secrétariat-greffe du tribunal de première instance. Il est en
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R934-5
@@ -26831,9 +28142,9 @@ Il est dressé un procès-verbal de la réception du serment.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R934-6
@@ -26850,9 +28161,9 @@ Il est dressé un procès-verbal de cette installation.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R934-7
@@ -26866,9 +28177,9 @@ Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs du tribunal de
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -26889,9 +28200,69 @@ françaises les juridictions de l'ordre judiciaire ayant leur siège à Saint-De
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+### Titre III : Dispositions particulières aux territoires d'outre-mer
+
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
+
+##### Section I : La cour d'appel.
+
+###### Article R931-3
+
+Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
+sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
+R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
+suivantes :
+
+1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
+dispositions de procédure pénale applicables localement ;
+
+2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre d'accusation assure avec la
+chambre civile le service des audiences solennelles ;
+
+3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
+aux dispositions de procédure civile applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
+
+
+##### Section II : Le tribunal de première instance
+
+##### Sous-section I : Institution et compétence.
+
+###### Article R931-9
+
+Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
+instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
+monnaie locale de 11000 francs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte
@@ -34886,7 +36257,7 @@ Ressort des tribunaux de grande instance de Saint-Denis et Saint-Pierre
 
 Cour d'appel de Nouméa
 
-Territoire de Nouvelle-Calédonie
+Nouvelle-Calédonie
 
 Tribunal de première instance de Nouméa.
 
@@ -34927,6 +36298,10 @@ Ressort du tribunal de première instance de Mamoudzou.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Liens**:
 
@@ -36076,7 +37451,7 @@ Ressort du tribunal d'instance de Saint-Pierre
 
 Cour d'appel de Nouméa
 
-Territoire de la Nouvelle-Calédonie
+Nouvelle-Calédonie
 
 Tribunal de première instance de Nouméa.
 
@@ -36136,7 +37511,7 @@ Ressort du tribunal de première instance de Mamoudzou.
 
 	**Modifié par**:
 
-	  - Décret n°97-96 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 

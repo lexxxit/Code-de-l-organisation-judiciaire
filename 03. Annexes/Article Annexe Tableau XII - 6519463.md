@@ -683,7 +683,7 @@ Ressort des tribunaux de grande instance de Saint-Denis et Saint-Pierre
 
 Cour d'appel de Nouméa
 
-Territoire de Nouvelle-Calédonie
+Nouvelle-Calédonie
 
 Tribunal de première instance de Nouméa.
 
@@ -724,6 +724,10 @@ Ressort du tribunal de première instance de Mamoudzou.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Liens**:
 
