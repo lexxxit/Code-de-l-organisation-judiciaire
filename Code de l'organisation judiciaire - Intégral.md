@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-08-25
+Version Consolidée au 2001-10-01
 
 # Partie législative ancienne
 
@@ -16563,13 +16563,18 @@ Ils reçoivent, en outre, le serment de toutes autres personnes dans les cas pr�
 
 Le juge du tribunal d'instance cote et paraphe, aux lieu et place du président ou du juge du tribunal de grande instance, les
 livres, registres et répertoires des officiers d'état civil, des conservateurs des hypothèques, des notaires, des huissiers,
-des commissaires-priseurs et des courtiers établis ou exerçant leurs fonctions dans le ressort du tribunal d'instance.
+des commissaires-priseurs judiciaires et des courtiers établis ou exerçant leurs fonctions dans le ressort du tribunal
+d'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2001-650 du 19 juillet 2001 - art. 76 (Ab) JORF 21 juillet 2001 en vigueur le 1er octobre 2001
 
 	**Anciens textes**:
 
