@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-12-12
+Version Consolidée au 2002-12-21
 
 # Partie législative ancienne
 
@@ -11454,13 +11454,15 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
 
-1° " Tribunal supérieur d'appel " à la place de " cour d'appel " ;
+1° "Tribunal supérieur d'appel" à la place de "cour d'appel" ;
 
-2° " Tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
+2° "Tribunal de première instance" à la place de "tribunal de grande instance" et de "tribunal d'instance" ;
 
-3° " Président du tribunal supérieur d'appel " à la place de " premier président de la cour d'appel " ;
+3° "Président du tribunal supérieur d'appel" à la place de "premier président de la cour d'appel" ;
 
-4° " Procureur de la République " à la place de " procureur général ".
+4° "Procureur de la République près le tribunal supérieur d'appel" à la place de "procureur général" ;
+
+5° "Procureur de la République près le tribunal de première instance" à la place de : "procureur de la République".
 
 **Liens relatifs à cet article**
 
@@ -11471,12 +11473,29 @@ Pour l'application des dispositions étendues par le présent titre à Mayotte, 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-2 (VT)
 
 
 ###### Article L941-2
 
-Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables à Mayotte.
+Les articles L. 710-1, L. 7-10-1-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables dans la collectivité départementale de
+Mayotte.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -11487,13 +11506,23 @@ Les articles L. 710-1, L. 731-1 à L. 731-3 et L. 781-1 sont applicables à Mayo
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 4 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R521-1 (Ab)
 
 	**Cite**:
 
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-10-1-1 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
-	  - Code de l'organisation judiciaire L710-1, L731-1 à L731-3, L781-1
+	  - Code de l'organisation judiciaire L710-1, L7-10-1-1, L731-1 à L731-3, L781-1
 
 
 #### Chapitre II : Le tribunal supérieur d'appel.
@@ -11614,10 +11643,8 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ###### Article L942-5
 
-Les fonctions du ministère public près le tribunal supérieur d'appel sont exercées par le procureur de la République.
-
-Ses attributions sont alors celles des procureurs généraux près les cours d'appel de la métropole, dans la mesure où ces
-attributions sont compatibles avec les dispositions législatives applicables à Mayotte.
+Le procureur de la République près le tribunal supérieur d'appel représente en personne ou par ses substituts le ministère
+public devant le tribunal supérieur d'appel.
 
 **Liens relatifs à cet article**
 
@@ -11628,13 +11655,17 @@ attributions sont compatibles avec les dispositions législatives applicables à
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 5 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L942-6
 
-En toutes matières relevant du droit commun, le procureur de la République près le tribunal supérieur d'appel représente, en
-sa personne ou par ses substituts, le ministère public devant toutes les juridictions du premier degré instituées à Mayotte.
+Le procureur de la République près le tribunal de première instance représente en personne ou par ses substituts le ministère
+public devant le tribunal de première instance et toutes les juridictions du premier degré établies dans son ressort.
 
 **Liens relatifs à cet article**
 
@@ -11645,7 +11676,11 @@ sa personne ou par ses substituts, le ministère public devant toutes les juridi
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 6 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L942-7
@@ -12573,8 +12608,7 @@ Les dispositions du livre V (partie législative) relatives aux juridictions des
 
 ###### Article L944-2
 
-Par dérogation à l'article L. 532-1, les fonctions de juge des enfants sont exercées par un magistrat du siège du tribunal de
-première instance désigné par ordonnance du président du tribunal supérieur d'appel.
+L'article L. 532-1 est applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -12585,7 +12619,11 @@ première instance désigné par ordonnance du président du tribunal supérieur
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 7 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -12709,8 +12747,16 @@ cadres territoriaux ou des agents territoriaux.
 
 ###### Article L946-2
 
-Les fonctions de greffier du tribunal de première instance et des autres juridictions du premier degré statuant en
-application du droit commun à Mayotte sont exercées par le greffier en chef ou par un greffier du tribunal supérieur d'appel.
+Par dérogation à l'article L. 811-2, pour les attributions qui lui sont dévolues par la loi, le greffier en chef peut donner
+délégation à un fonctionnaire du secrétariat-greffe de la même juridiction.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -12721,7 +12767,19 @@ application du droit commun à Mayotte sont exercées par le greffier en chef ou
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 8 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L811-2 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R523-1 (Ab)
 
 
 ### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
