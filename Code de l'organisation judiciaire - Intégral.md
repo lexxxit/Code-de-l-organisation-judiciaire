@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1995-07-08
+Version Consolidée au 1995-09-24
 
 # Partie législative ancienne
 
@@ -21606,16 +21606,11 @@ Cet état est adressé au garde des sceaux, ministre de la justice.
 Le chef du secrétariat-greffe tient la comptabilité administrative des opérations de recettes et de dépenses relatives aux
 opérations mentionnées au chapitre II du présent titre.
 
-Il est institué auprès de chaque secrétariat-greffe, pour les autres opérations dont celui-ci est chargé, une régie de
-recettes et une régie d'avances fonctionnant dans les conditions prévues par les décrets n° 64-486 du 28 mai 1964 et n°
-66-850 du 15 novembre 1966.
+Il est institué auprès de chaque secrétariat-greffe pour les autres opérations dont celui-ci est chargé une régie de recettes
+et une régie d'avances fonctionnant dans les conditions prévues pour les régies de recettes et d'avances des organismes
+publics.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°64-486 1964-05-28 Décret 66-850 1966-11-15
-	  - Code de l'organisation judiciaire R812-1 à R812-19
 
 	**Anciens textes**:
 
@@ -21627,7 +21622,7 @@ recettes et une régie d'avances fonctionnant dans les conditions prévues par l
 
 	**Modifié par**:
 
-	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°95-1041 du 22 septembre 1995 - art. 1 () JORF 24 septembre 1995
 
 
 ###### Article R*814-2
@@ -21681,21 +21676,11 @@ comptables directs du Trésor.
 
 ###### Article R*814-4
 
-Par dérogation à l'article 9 du décret n° 64-486 du 28 mai 1964, les régisseurs sont habilités à payer les frais de justice
-criminelle, correctionnelle et de police mentionnés à l'article R92 d Code de procédure pénale ainsi que les frais mentionnés
-à R93 du même code, à l'exclusion de ceux dont la liste est fixée par arrêté conjoint du garde des sceaux, ministre de la
-justice, et du ministre chargé du budget.
-
-Les dispositions de l'article 10 du décret n° 64-486 du 28 mai 1964 concernant le blocage des crédits ne sont pas applicables
-aux avances consenties à ces régisseurs.
+Les régisseurs sont habilités à payer les frais de justice criminelle, correctionnelle et de police mentionnés à l'article R.
+92 du code de procédure pénale ainsi que les frais mentionnés à l'article R. 93 du même code, à l'exclusion de ceux dont la
+liste est fixée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°64-486 1964-05-28 art. 9, art. 10
-	  - CODE DE PROCEDURE PENALE - art. R92 (M)
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
 
 	**Anciens textes**:
 
@@ -21707,7 +21692,20 @@ aux avances consenties à ces régisseurs.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 19 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°95-1041 du 22 septembre 1995 - art. 2 () JORF 24 septembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R92
+	  - Code de procédure pénale - art. R93
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-23 (V)
 
 
 ###### Article R*814-5
@@ -21716,13 +21714,13 @@ Les régisseurs encaissent les recettes suivantes :
 
 1° Les redevances de copies de pièces pénales ;
 
-2° Les cautionnements prévus à l'article 138 du décret n° 70-1223 du 23 décembre 1970 relatif au contrôle judiciaire (art. R.
-19 à R. 25 du Code de procédure pénale) ;
+2° Les cautionnements prévus à l'article 138 du décret n° 70-1223 du 23 décembre 1970 relatif au contrôle judiciaire (art.
+R. 19 à R.  du Code de procédure pénale) ;
 
-3° Les sommes saisies-arrêtées prévues aux articles R145-1 à R145-21 du Code du travail ;
+3° Les sommes provenant des saisies des rémunérations prévues aux articles R. 145-1 à R. 145-39 et R. 145-43 du code du
+travail ;
 
-4° Les consignations de partie civile prévues aux articles 88, 88-1 du code de procédure pénale pour garantir le paiement de
-l'amende civile.
+4° Les consignations de parties civiles prévues aux articles 88, 88-1, 392-1 et R. 15-25 du code de procédure pénale ;
 
 5° Les provisions pour expertise ;
 
@@ -21746,14 +21744,17 @@ matière pénale.
 
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 22 () JORF 29 juin 1993
+	  - Décret n°95-1041 du 22 septembre 1995 - art. 3 () JORF 24 septembre 1995
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 392-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 88 (M)
 	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
-	  - Code de procédure pénale R19 à R25, 88, 88-1
-	  - Code du travail R145-1 à R145-21
+	  - CODE DE PROCEDURE PENALE - art. R15-25 (M)
+	  - Code de procédure pénale R19 à R25, 88, 88-1, 392-1, R15-25
+	  - Code du travail - art. R145-43 (V)
+	  - Code du travail R145-1 à R145-39, R145-43
 	  - Décret n°70-1223 1970-12-23 art. 138
 
 
