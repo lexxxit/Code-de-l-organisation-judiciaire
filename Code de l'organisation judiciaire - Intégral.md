@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1998-07-04
 
 # Partie législative ancienne
 
@@ -22560,6 +22560,52 @@ Il assure l'accueil du public.
 	  - Code de commerce. - art. R741-2 (V)
 
 
+###### Article R821-2-1
+
+Les copies délivrées par les greffiers à titre de simple renseignement et relatives aux inscriptions portées aux registres de
+publicité légale dont ils ont la charge peuvent être diffusées par voie électronique dans les conditions suivantes :
+
+- les informations sont diffusées directement par le greffe compétent. Toutefois, les greffiers peuvent s'associer au sein
+d'un groupement ayant soit l'une des formes autorisées par l'article L. 821-1 du présent code, soit une forme associative. Ce
+groupement est chargé de centraliser les appels et de les orienter vers le greffe concerné. Les greffiers peuvent, dans les
+mêmes conditions, conclure aux mêmes fins des accords avec l'Institut national de la propriété industrielle pour les
+attributions de celui-ci ;
+
+- les informations ne portent que sur les inscriptions figurant, en application des textes législatifs et réglementaires, aux
+registres dont les greffiers assurent la tenue ;
+
+- les informations sont délivrées telles qu'inscrites aux registres ou sur les actes annexés, sans subir de traitement
+quelconque, sous réserve des dispositions prévues par l'acte réglementaire pris en application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L821-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Cité par**:
+
+	  - Arrêté du 9 février 1988 - art. 30 (V)
+
+	**Créé par**:
+
+	  - Décret n°98-550 du 2 juillet 1998 - art. 33 () JORF 4 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R741-5 (V)
+
+
 ###### Article R821-3
 
 Le greffier assure la tenue du répertoire général des affaires de la juridiction.
@@ -22603,6 +22649,39 @@ de cour d'appel.
 	  - Code de commerce. - art. R742-29 (V)
 	  - Code de commerce. - art. R741-3 (V)
 	  - Code de commerce. - art. R742-29 (M)
+
+
+###### Article R821-4-1
+
+Le garde des sceaux peut décider, dans les limites du ressort d'un tribunal de commerce et avec l'accord du greffier ou sur
+sa demande, la création d'un ou plusieurs greffes annexes. La décision fixe les conditions d'ouverture de ces greffes au
+public.
+
+Préalablement à sa décision, le garde des sceaux consulte le Conseil national des greffiers des tribunaux de commerce par
+lettre recommandée avec demande d'avis de réception. Celui-ci doit faire parvenir ses observations dans les deux mois de sa
+saisine. Faute de réponse dans ce délai, l'avis est réputé favorable.
+
+Le garde des sceaux peut décider la fermeture du ou des greffes annexes, soit à la demande du greffier, soit d'office, après
+consultation du Conseil national effectuée dans les formes prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°98-550 du 2 juillet 1998 - art. 34 () JORF 4 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R742-30 (V)
+	  - Code de commerce. - art. R742-30 (M)
 
 
 ###### Article R821-5
