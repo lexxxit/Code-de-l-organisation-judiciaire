@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1991-08-01
+Version Consolidée au 1991-12-19
 
 # Partie législative ancienne
 
@@ -1100,6 +1100,61 @@ Le procureur général représente en personne ou par ses substituts le ministè
 
 
 ### Titre II : Dispositions particulières à certaines matières
+
+#### Chapitre I : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort.
+
+###### Article L221-1
+
+En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lorsque le renforcement temporaire et immédiat
+des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
+le premier président peut, par ordonnance, déléguer les présidents de chambre et les conseillers de la cour d'appel, les
+juges des tribunaux d'instance et de grande instance, pour exercer des fonctions judiciaires dans les tribunaux du ressort de
+la cour d'appel. La délégation d'un magistrat ne peut excéder une durée de deux mois consécutifs et ne peut être renouvelée
+au cours de la même année judiciaire.
+
+En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de l'expropriation, la durée de la délégation
+prévue à l'alinéa précédent peut être portée à six mois.
+
+L'ordonnance mentionnée au premier alinéa précise le motif et la durée de la délégation ainsi que la nature des fonctions qui
+seront exercées par le magistrat délégué.
+
+L'assemblée générale de la cour d'appel est informée chaque année du nombre et de la nature des délégations, des personnes
+déléguées et de l'incidence des délégations sur le fonctionnement des juridictions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+
+
+###### Article L221-2
+
+En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lorsque le renforcement temporaire et immédiat
+des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
+le procureur général peut déléguer, pour remplir les fonctions du ministère public près les tribunaux du ressort de la cour
+d'appel, un magistrat du parquet général ou un magistrat du parquet d'un tribunal de grande instance de ladite cour. Cette
+délégation ne peut excéder une durée de deux mois.
+
+La décision mentionnée au premier alinéa précise le motif et la durée de la délégation ainsi que la nature des fonctions qui
+seront exercées par le magistrat délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+
 
 #### Chapitre II : Dispositions particulières en matière d'expropriation.
 
@@ -2274,6 +2329,102 @@ attribuées aux tribunaux de commerce.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+###### Article L411-4
+
+Les tribunaux de commerce connaissent :
+
+1° Des contestations relatives aux engagements entre commerçants, entre établissements de crédit ou entre eux ;
+
+2° Des contestations relatives aux sociétés commerciales ;
+
+3° De celles relatives aux actes de commerce entre toutes personnes.
+
+Toutefois, les parties peuvent, au moment où elles contractent, convenir de soumettre à l'arbitrage les contestations ci-
+dessus énumérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L411-5
+
+Le tribunal de commerce connaît des billets à ordre portant en même temps des signatures de commerçants et de non-
+commerçants.
+
+Lorsque les billets à ordre ne portent que des signatures de non-commerçants et n'ont pas pour occasion des opérations de
+commerce, trafic, change, banque ou courtage, le tribunal de commerce est tenu de renvoyer au tribunal de grande instance
+s'il en est requis par le défendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Anciens textes**:
+
+	  - Code de commerce - art. 634 (Ab)
+	  - Code de commerce - art. 637 (Ab)
+
+
+###### Article L411-7
+
+Ne sont point de la compétence des tribunaux de commerce les actions intentées contre un propriétaire, cultivateur ou
+vigneron, pour vente de denrées provenant de son cru, ni les actions intentées contre un commerçant, pour paiement de denrées
+et marchandises achetées pour son usage particulier.
+
+Néanmoins, les billets souscrits par un commerçant sont censés faits pour son commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Anciens textes**:
+
+	  - Code de commerce - art. 638 (Ab)
+
+
 #### Chapitre II : Organisation et fonctionnement.
 
 ###### Article L412-1
@@ -3321,6 +3472,33 @@ condamnations, déchéances ou incapacités mentionnées à l'article L. 413-1, 
 	  - Code de l'organisation judiciaire L413-1, L413-3 et L413-4
 
 
+### Titre II : Le conseil de prud'hommes.
+
+###### Article L420-1
+
+Les règles concernant la compétence, l'organisation et le fonctionnement des conseils de prud'hommes sont fixées par le code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
+
+
 ### Titre III : Le juge de l'expropriation
 
 #### Chapitre Ier : Institution et compétence.
@@ -3887,6 +4065,34 @@ conformément au livre II du présent code.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+### Titre V : Les juridictions de sécurité sociale.
+
+###### Article L450-1
+
+Les règles concernant la compétence, l'organisation et le fonctionnement des juridictions de sécurité sociale sont fixées par
+le code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-1 (VT)
+
+
 ### Titre VI : Les prud'hommes pêcheurs.
 
 ###### Article L461-1
@@ -4424,232 +4630,6 @@ En cas d'empêchement momentané du titulaire, le tribunal de grande instance d�
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-## Livre IV : Les juridictions spécialisées non pénales Titre II : Le conseil de prud'hommes
-
-### Chapitre I : Attributions et institution.
-
-###### Article L421-1
-
-Les règles relatives aux attributions et à l'institution des conseils de prud'hommes sont fixées par les articles L511-1 à
-L511-3 du code du travail qui sont rédigés ainsi qu'il suit : ...
-
-**Nota:**
-
-NOTA : voir le contenu de ces articles dans le code du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code du travail L511-1 à L511-3
-
-
-### Chapitre II : Organisation et fonctionnement.
-
-###### Article L422-1
-
-L'organisation et le fonctionnement des conseils de prud'hommes sont fixées par les articles L512-1 à L512-14 du code du
-travail ainsi qu'il suit : ...
-
-**Nota:**
-
-NOTA : Voir le contenu de ces articles dans le code du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code du travail L512-1 à L512-14
-
-
-### Chapitre III : Election des conseillers prud'hommes.
-
-###### Article L421-1
-
-Les règles concernant l'élection des conseillers prud'hommes sont fixées par les articles L513-1 à L513-9 [*L513-10*] du code
-du travail ainsi qu'il suit : ...
-
-**Nota:**
-
-[*Nota : voir le contenu de ces articles dans le code du travail :
-
-- art. L513-1 (électorat) ;
-
-- art. L513-2 (éligibilité) ;
-
-- art. L513-3 (établissement des listes électorales) ;
-
-- art. L513-4 à art. L513-9 *]L513-10[* (scrutin, installation des conseillers prud'hommes et élections complémentaires).*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code du travail L513-1 à L513-9 *L513-10*
-
-
-### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé.
-
-###### Article L424-1
-
-La composition du bureau de conciliation, du bureau de jugement et de la formation de référé est fixée par les articles
-L515-1 à L515-4 du code du travail ainsi qu'il suit : ...
-
-**Nota:**
-
-[*Nota : voir le contenu de ces articles dans le code du travail.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°79-1022 1979-11-23 art. 7 JORF 2 décembre 1979
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code du travail L515-1 à L515-4
-
-
-## Livre IV : Les juridictions spécialisées non pénales Titre V : Les juridictions de sécurité sociale
-
-### Chapitre I : Le tribunal des affaires de sécurité sociale (2).
-
-###### Article L451-1
-
-Les règles concernant la compétence et l'organisation du tribunal auquel sont soumis, en première instance, les différends
-relevant du contentieux de la sécurité sociale sont fixés par les [*anciens*] articles L191 à L192 du code de la Sécurité
-sociale [*art. L142-2 à L142-7 nouveaux (1)*].
-
-**Nota:**
-
-[*Nota :
-
-(1): voir le contenu de ces articles dans le code de la sécurité sociale.
-
-(2): intitulé du chapitre I modifié par l'article 54 de la loi 85-10 du 3 janvier 1980.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Modifié par**:
-
-	  - Loi n°85-10 1985-01-03 art. 53-I et art. 53-II JORF 4 janvier 1985 en vigueur le 31 décembre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-10 1985-01-03 art. 54 : les dispositions de l'article 53 entreront en vigueur à une date qui sera fixée par décret et, au plus tard le 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L191 à L192
-
-
-### Chapitre II : Les commissions techniques de sécurité sociale
-
-#### Section I : Les commissions régionales.
-
-###### Article L452-1
-
-Les règles concernant la compétence et l'organisation des commissions régionales de sécurité sociale auxquelles sont soumis,
-en première instance, les différends relevant du contentieux technique de la sécurité sociale sont fixés par les  articles
-L193 et L194 [*anciens*] du code de la Sécurité sociale [*art. L143-1 et L143-2 nouveaux (1)*].
-
-**Nota:**
-
-*Nota (1): voir le contenu de ces articles dans le code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L193, L194
-
-
-#### Section II : La commission nationale technique.
-
-###### Article L452-2
-
-Les règles concernant la compétence et l'organisation de la commission nationale technique [*de la sécurité sociale*] sont
-fixés par les  articles L195 et L196 [*anciens*] du code de la Sécurité sociale [*art. L143-3 et L143-4 nouveaux (1)*].
-
-**Nota:**
-
-*Nota (1): voir le contenu de ces articles dans le code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L195, L196
-
-
 ## Livre VI : Les juridictions pénales
 
 ### Titre I : Les juridictions d'instruction de droit commun
@@ -4895,148 +4875,54 @@ correctionnel et le tribunal de police sont portés devant la cour d'appel, cham
 
 ### Titre III : Les juridictions pénales spécialisées.
 
-#### Chapitre I : Le juge d'instruction.
+###### Article L630-1
 
-###### Article L631-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la Cour de sûreté de l'Etat sont fixées par les
-articles 698 à 700 du Code de procédure pénale et par les articles Ier à 14 et 33 de la loi n° 63-23 du 15 janvier 1963.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°63-23 1963-01-15 art. 1 à 14 et art. 33
-	  - Code de procédure pénale 698 à 700
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Anciens textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. 698 (M)
-
-
-#### Chapitre II : Les juridictions des forces armées
-
-##### Section I : Le tribunal permanent de forces armées.
-
-###### Article L632-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal permanent des forces armées sont fixées
-par les articles 4 à 26, 28 à 39, 50, 51, 55 à 65, 72 à 82 et 302 à 305 du Code de justice militaire, l'article 697 du Code
-de procédure pénale et les articles L139, L144, L152, L153 et L155 du Code du service national.
+Les règles concernant la compétence, l'organisation et le fonctionnement des juridictions des forces armées sont fixées par
+le code de justice militaire et le code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de justice militaire - art. 50 (Ab)
-	  - Code de justice militaire - art. 51 (Ab)
-	  - Code de justice militaire 4 à 26, 28 à 39, 50, 51, 55 à 65, 72 à 82, 302 à 305
-	  - CODE DE PROCEDURE PENALE - art. 697 (M)
-	  - Code du service national - art. L139 (M)
-	  - Code du service national - art. L144 (M)
-	  - Code du service national - art. L152 (M)
-	  - Code du service national - art. L153 (Ab)
-	  - Code du service national L139, L144, L152, L153, et L155
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
 
 
-##### Section II : Le tribunal militaire aux armées.
+###### Article L630-2
 
-###### Article L632-2
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal militaire aux armées sont fixées par les
-articles 40 à 49, 52 à 55, 66 à 82 et 302 à 305 du Code de justice militaire et par l'article 697 du Code de procédure
-pénale.
+Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal maritime commercial sont fixées par le
+code disciplinaire et pénal de la marine marchande.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Abrogé par**:
-
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-	**Anciens textes**:
-
-	  - Code de justice militaire - art. 40 (Ab)
-
-	**Cite**:
-
-	  - Code de justice militaire 40 à 49, 52 à 55, 66 à 82 et 302 à 305
-	  - CODE DE PROCEDURE PENALE - art. 697 (M)
-
-
-##### Section III : Le tribunal prevôtal.
-
-###### Article L632-3
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal prévôtal sont fixées par les articles
-459 à 463 et 469 du Code de justice militaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
 
-	**Anciens textes**:
-
-	  - Code de justice militaire - art. 459 (M)
-
-	**Cite**:
-
-	  - Code de justice militaire 459 à 462 et 469
-
-
-#### Chapitre III : Le tribunal maritime commercial.
-
-###### Article L633-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal maritime commercial sont fixées par les
-articles 36 bis et 88 à 92 de la loi du 17 décembre 1926 portant code disciplinaire et pénal de la marine marchande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Anciens textes**:
-
-	  - Loi n°1926-12-17 art. 36 bis
-
-	**Cite**:
-
-	  - Loi n°1926-12-17 art. 36 bis et art. 88 à art. 92
-
 	**Abrogé par**:
 
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
 
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
@@ -5909,14 +5795,9 @@ Conformément à l'article 523 du Code de procédure pénale, le tribunal de pol
 
 ###### Article L882-1
 
-Conformément à l'article 7 de la loi n 63-23 du 15 janvier 1963 un décret fixe l'organisation du secrétariat-greffe de la
-Cour de sûreté de l'Etat.
+Les règles relatives aux greffes des juridictions des forces armées sont fixées par le code de justice militaire.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°63-23 1963-01-15 art. 7
 
 	**Anciens textes**:
 
@@ -5925,53 +5806,44 @@ Cour de sûreté de l'Etat.
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
 
 
 ###### Article L882-2
 
-Les règles relatives au greffe des juridictions des forces armées sont fixées par les articles 7, 23, 27, 37, 44, 48, 50, 52
-et 469 du code de justice militaire.
+Les règles relatives aux greffes du tribunal maritime commercial sont fixées par le code disciplinaire et pénal de la marine
+marchande.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
+	**Créé par**:
 
-	  - Code de justice militaire - art. 23 (M)
-	  - Code de justice militaire - art. 27 (Ab)
-	  - Code de justice militaire - art. 37 (Ab)
-	  - Code de justice militaire - art. 44 (Ab)
-	  - Code de justice militaire - art. 48 (Ab)
-	  - Code de justice militaire - art. 50 (Ab)
-	  - Code de justice militaire - art. 7 (M)
-	  - Code de justice militaire 7, 23, 27, 37, 44, 48, 50, 52 et 469
-
-
-###### Article L882-3
-
-Les règles relatives au greffe du tribunal maritime commercial sont fixées par l'article 90 de la loi du 17 décembre 1926
-portant Code disciplinaire et pénal de la marine marchande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-
-	**Cite**:
-
-	  - Loi n°1926-12-17 art. 90
-
-	**Anciens textes**:
-
-	  - Loi n°1926-12-17 art. 90
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
 
 	**Abrogé par**:
 
-	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
 
 
 ## Livre IX : Dispositions particulières
