@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-01-07
 
 # Partie législative ancienne
 
@@ -11172,21 +11172,33 @@ désigné, le premier président est suppléé par le plus ancien des président
 
 Les présidents de chambre sont, en cas d'empêchement, remplacés pour le service de l'audience par un magistrat du siège
 désigné suivant les modalités fixées à l'article R213-6 ou, à défaut, par le magistrat du siège présent le plus ancien dans
-l'ordre des nominations à la cour.
+l'ordre de la liste de rang prévue à l'article R213-12.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1810-07-06 art. 41
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°93-1448 du 31 décembre 1993 - art. 7 () JORF 7 janvier 1994 rectificatif JORF 8 janvier 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-3 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R213-6
+	  - Code de l'organisation judiciaire
+
+	**Anciens textes**:
+
+	  - Décret n°1810-07-06 art. 41
 
 
 ###### Article R*213-8
@@ -11297,7 +11309,9 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 
 2° Les présidents de chambre dans l'ordre de leurs nominations à la cour d'appel comme présidents ;
 
-3° Les conseillers dans l'ordre de leurs nominations à la cour d'appel.
+3° Les conseillers du premier grade dans l'ordre de leur nomination à la cour d'appel ;
+
+4° Les conseillers du second grade dans l'ordre de leur nomination à la cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -11308,6 +11322,18 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°93-1448 du 31 décembre 1993 - art. 8 () JORF 7 janvier 1994 rectificatif JORF 8 janvier 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-8 (V)
 
 
 ###### Article R213-1
