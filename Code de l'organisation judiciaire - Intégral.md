@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-10-01
+Version Consolidée au 2001-11-06
 
 # Partie législative ancienne
 
@@ -21920,7 +21920,11 @@ juridiction, en liaison avec le greffier en chef et, le cas échéant, le secré
 
 8° Les conditions de travail du personnel, et les problèmes de sécurité ;
 
-9° Les questions intéressant le fonctionnement interne de la juridiction.
+9° Les questions intéressant le fonctionnement interne de la juridiction ;
+
+10° les projets de convention constitutive d'une maison de justice et du droit et la désignation par les chefs de juridiction
+du ou des magistrats chargés d'animer et de coordonner les actions conduites au sein des maisons de justice et du droit
+situées dans le ressort de la juridiction.
 
 **Liens relatifs à cet article**
 
@@ -21928,13 +21932,23 @@ juridiction, en liaison avec le greffier en chef et, le cas échéant, le secré
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 2 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-42 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-49 (V)
 
 
 ###### Article R*761-18
@@ -22004,19 +22018,30 @@ Elle examine toutes les questions intéressant le fonctionnement de la juridicti
 
 Elle prépare les réunions de l'assemblée plénière.
 
+Elle examine le rapport annuel d'activité des maisons de justice et du droit situées dans le ressort de la juridiction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 2 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-44 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-26 (V)
 
 
 ##### Sous-section II : L'assemblée des magistrats du siège
@@ -22398,7 +22423,9 @@ juridiction, en liaison avec le greffier en chef et, le cas échéant, le secré
 
 8° Les conditions de travail du personnel et les problèmes de sécurité ;
 
-9° Les questions intéressant le fonctionnement interne de la juridiction.
+9° Les questions intéressant le fonctionnement interne de la juridiction ;
+
+10° les projets de convention constitutive d'une maison de justice et du droit.
 
 **Liens relatifs à cet article**
 
@@ -22406,13 +22433,23 @@ juridiction, en liaison avec le greffier en chef et, le cas échéant, le secré
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 2 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-46 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-53 (V)
 
 
 ###### Article R*761-32
@@ -22571,7 +22608,8 @@ articles R761-38 à R761-45.
 ###### Article R*761-37
 
 L'assemblée plénière procède à un échange de vues sur les questions mentionnées aux articles R761-17 et R761-31, ayant fait
-préalablement l'objet d'un vote de l'assemblée des magistrats et de l'assemblée des fonctionnaires.
+préalablement l'objet d'un vote de l'assemblée des magistrats et de l'assemblée des fonctionnaires. Elle émet un avis sur le
+projet de convention constitutive de la maison de justice et du droit.
 
 **Liens relatifs à cet article**
 
@@ -22579,17 +22617,27 @@ préalablement l'objet d'un vote de l'assemblée des magistrats et de l'assembl�
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
-
-	  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
 
+	**Modifié par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 2 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-50 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-31 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-57 (V)
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-17 à R761-31
+	  - Code de l'organisation judiciaire
 
 
 ##### Section V : Les commissions
@@ -23305,6 +23353,319 @@ dispose autrement.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
+
+
+### Titre XII : Maisons de justice et du droit
+
+###### Article R*7-12-1-1
+
+Le projet de convention constitutive d'une maison de justice et du droit est soumis pour avis par les chefs du tribunal de
+grande instance dans le ressort duquel celle-ci est située aux formations de l'assemblée générale de ce tribunal visées aux
+articles R. 761-17, R. 761-27 et R. 761-34.
+
+Les chefs du tribunal de grande instance soumettent ce projet de convention aux chefs de cour, qui, après avoir recueilli
+l'avis des directeurs régionaux des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de
+la jeunesse, le transmettent avec leurs observations au garde des sceaux, ministre de la justice.
+
+Lorsqu'il approuve les termes du projet, le garde des sceaux, ministre de la justice, autorise les chefs du tribunal de
+grande instance à signer la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-2 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*7-12-1-2
+
+La convention constitutive est signée entre :
+
+a) Le préfet et, à Paris, le préfet de Paris et le préfet de police ;
+
+b) Le président du tribunal de grande instance dans le ressort duquel est située la maison de justice et du droit ;
+
+c) Le procureur de la République près ledit tribunal ;
+
+d) Le maire de la commune où est située la maison de justice et du droit ou le président de l'établissement public de
+coopération intercommunale incluant cette commune ;
+
+e) Le bâtonnier de l'ordre des avocats ;
+
+f) Une ou plusieurs associations oeuvrant dans le domaine de la prévention de la délinquance, de l'aide aux victimes ou de
+l'accès au droit ;
+
+g) Le cas échéant, le président du conseil départemental d'accès au droit.
+
+D'autres collectivités territoriales et d'autres personnes morales intéressées par les missions de la maison de justice et du
+droit peuvent également être signataires de cette convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-3 (M)
+
+
+###### Article R*7-12-1-3
+
+La convention constitutive détermine celles des missions prévues par la loi qui sont exercées par la maison de justice et du
+droit et les conditions de fonctionnement de celle-ci.
+
+La convention fixe les modalités selon lesquelles les collectivités territoriales mettent à la disposition de la maison de
+justice et du droit un local adapté à ses missions et fixe la répartition entre les signataires des charges inhérentes à son
+fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-4 (V)
+
+
+###### Article R*7-12-1-4
+
+La maison de justice et du droit est créée par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-5 (V)
+
+
+###### Article R*7-12-1-5
+
+La convention constitutive est conclue pour une durée de trois ans renouvelable par tacite reconduction.
+
+Elle peut être dénoncée par chacune des parties signataires avec un préavis d'un an. Lorsqu'il émane des chefs de
+juridiction, ce préavis est réduit à un mois.
+
+La dénonciation est adressée aux présidents du conseil de la maison de justice et du droit ainsi qu'au garde des sceaux,
+ministre de la justice.
+
+Lorsque la dénonciation émane d'une partie mentionnée aux a à e de l'article R. 7-12-1-2, la convention est résiliée à
+l'expiration du préavis.
+
+Dans ce cas, un arrêté du garde des sceaux, ministre de la justice, porte suppression de la maison de justice et du droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-6 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*7-12-1-6
+
+Les chefs de juridiction désignent, après avis de l'assemblée générale des magistrats du siège et du parquet mentionnée à
+l'article R. 761-17, un magistrat qui, sous leur autorité, a pour mission :
+
+- de veiller, sans préjudice des attributions du greffier en chef, chef de greffe, à la coordination des actions conduites au
+sein d'une ou de plusieurs maisons de justice et du droit situées dans le ressort du tribunal et au bon emploi des moyens qui
+concourent à leur réalisation ;
+
+- d'assurer l'information régulière des membres du conseil de la maison de justice et du droit sur l'activité de celle-ci ;
+
+- de représenter la maison de justice et du droit lorsque cette représentation ne peut être assurée directement par les chefs
+de juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R761-17
+
+
+###### Article R*7-12-1-7
+
+Il est constitué un conseil de la maison de justice et du droit composé des signataires de la convention ou de leurs
+représentants, du greffier en chef, chef de greffe, et présidé par le président du tribunal de grande instance et le
+procureur de la République du ressort dans lequel la maison de justice et du droit est située.
+
+Le conseil de la maison de justice et du droit définit les orientations de l'action de celle-ci et met en place une procédure
+d'évaluation de cette action. Il autorise les interventions des associations.
+
+Le conseil, s'agissant des mesures exercées sous mandat judiciaire, est tenu informé par les chefs de juridiction des
+orientations et des résultats généraux obtenus.
+
+Le conseil examine les conditions financières de fonctionnement de la maison de justice et du droit et établit le règlement
+intérieur de celle-ci.
+
+Le conseil se réunit au moins une fois par an. Il peut entendre toute personne dont il juge l'audition utile.
+
+Il élabore annuellement un rapport général d'activité adressé aux chefs de cour, qui en assurent la transmission au garde des
+sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+
+###### Article R*7-12-1-8
+
+Sans préjudice des dispositions prévues par leur statut ou les règles régissant leur activité, toutes les personnes qui
+participent au fonctionnement de la maison de justice et du droit sont tenues à l'obligation de confidentialité, notamment à
+l'égard des informations nominatives qu'elles recueillent dans l'exercice de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-9 (V)
+
+
+###### Article R*7-12-1-9
+
+Sous l'autorité des chefs de juridiction, le greffier en chef du tribunal de grande instance dans le ressort duquel la maison
+de justice et du droit est située veille au bon fonctionnement administratif de celle-ci et en prépare le projet de budget.
+
+Pour l'assister dans ses tâches, il affecte à la maison de justice et du droit, selon les modalités définies au premier
+alinéa de l'article R. 812-16, des greffiers de ce tribunal.
+
+Ces greffiers assurent l'accueil et l'information du public, la réception, la préparation et le suivi des procédures
+alternatives aux poursuites ; ils prêtent leur concours au bon déroulement des actions tendant à la résolution amiable des
+litiges ; ils assistent le magistrat visé à l'article R. 7-12-1-6 dans l'exercice de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-10 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*7-12-1-10
+
+Un arrêté du garde des sceaux, ministre de la justice, fixe la liste des maisons de justice et du droit annexée au code de
+l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-11 (V)
 
 
 ## Livre VIII : Les secrétariats-greffes, greffes et secrétariats
