@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-12-29
 
 # Partie législative ancienne
 
@@ -11613,14 +11613,24 @@ prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, 
 un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un moyen
 de communication audiovisuelle.
 
-Lorsque l'audience est collégiale, la formation de jugement est composée de trois magistrats, figurant sur la liste prévue au
-I ci-dessus, reliés à la salle d'audience selon le même procédé.
+Lorsque l'audience est collégiale, par dérogation aux dispositions de l'article L. 952-9, la formation de jugement est
+composée de trois magistrats, figurant sur la liste prévue au I ci-dessus, reliés à la salle d'audience selon le même
+procédé.
 
 Les modalités d'application des dispositions prévues aux deux alinéas précédents sont fixées par décret en Conseil d'Etat.
 
 III. - Lorsqu'en vertu d'une disposition de la loi ou du règlement, le magistrat désigné selon les modalités fixées au I ci-
 dessus pour remplacer le président du tribunal supérieur d'appel est appelé à statuer seul et sans débat, sa décision peut
 être rendue au siège de la juridiction où il exerce ses autres fonctions.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 952-11 du code de l'organisation judiciaire est abrogé à l'exception
+du III qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie réglementaire du code
+de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -11629,13 +11639,23 @@ dessus pour remplacer le président du tribunal supérieur d'appel est appelé �
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
+	  - Loi n°99-1121 1999-12-28 art. 9 JORF 29 décembre 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-10 (V)
 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-9 (V)
 
 	**Cité par**:
 
