@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-01-01
 
 # Partie législative ancienne
 
@@ -940,6 +940,59 @@ ministère public près cette commission sont fixées par l'article 16-2 du Code
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
+
+
+#### Chapitre III : La juridiction nationale de la libération conditionnelle.
+
+###### Article L143-1
+
+Il y a auprès de la Cour de cassation une juridiction chargée de statuer sur les recours formés contre les décisions de la
+juridiction régionale de la libération conditionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 127 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L143-2 (Ab)
+
+
+###### Article L143-2
+
+Les règles concernant la composition de la juridiction prévue à l'article précédent ainsi que celles qui sont relatives au
+ministère public près cette juridiction sont fixées par l'article 722-1 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 127 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L143-1 (Ab)
 
 
 ### Titre V : Saisine pour avis de la Cour de cassation.
@@ -5110,6 +5163,14 @@ code de procédure pénale et par les textes particuliers à certaines matières
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
+	**Modifié par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 191 (M)
@@ -5117,6 +5178,11 @@ code de procédure pénale et par les textes particuliers à certaines matières
 	**Cite**:
 
 	  - Code de procédure pénale 191 à 193
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-4 (V)
 
 
 ### Titre II : Les juridictions de jugement de droit commun
@@ -5356,6 +5422,96 @@ code disciplinaire et pénal de la marine marchande.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
+
+
+###### Article L630-3
+
+Il y a, dans le ressort de chaque cour d'appel, une juridiction de première instance dénommée juridiction régionale de la
+libération conditionnelle. Les règles concernant la composition, la compétence et le fonctionnement de la juridiction
+régionale de la libération conditionnelle sont fixées par l'article 722-1 du code de procédure pénale. Le siège des
+juridictions régionales de la libération conditionnelle est fixé par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 128 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
+
+
+### Titre IV : Le juge des libertés et de la détention
+
+###### Article L640-1
+
+Les règles concernant les conditions de désignation et les attributions du juge des libertés et de la détention sont fixées
+par le code de procédure pénale et par les lois particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 33 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
+
+
+###### Article L640-2
+
+Pour l'organisation du service de fin de semaine ou du service allégé pendant la période au cours de laquelle les magistrats
+bénéficient de leurs congés annuels, et nonobstant les dispositions des articles 137-1 du code de procédure pénale et L.
+710-1 du présent code, un magistrat ayant rang de président, de premier vice-président ou de vice-président exerçant les
+fonctions de juge des libertés et de la détention dans un tribunal de grande instance peut être désigné afin d'exercer
+concurremment ces fonctions dans, au plus, deux autres tribunaux de grande instance du ressort de la cour d'appel ; cette
+désignation est décidée par ordonnance du premier président prise à la demande des présidents de ces juridictions et après
+avis du président du tribunal de grande instance concerné ; elle en précise le motif et la durée, ainsi que les tribunaux
+pour lesquels elle s'applique ; la durée totale d'exercice concurrent des fonctions de juge des libertés dans plusieurs
+tribunaux de grande instance ne peut excéder quarante jours au cours de l'année judiciaire.
+
+La désignation prévue à l'alinéa précédent peut également être ordonnée, selon les mêmes modalités et pour une durée totale,
+intermittente ou continue, qui ne peut excéder quarante jours, lorsque, pour cause de vacance d'emploi ou d'empêchement,
+aucun magistrat n'est susceptible, au sein d'une juridiction, d'exercer les fonctions de juge des libertés et de la
+détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Créé par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 33 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
 
 
 ## Livre VII : Dispositions communes à plusieurs juridictions
@@ -7051,48 +7207,6 @@ Toutefois, les mineurs de dix-huit ans sont déférés aux juridictions pour enf
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane
-
-###### Article L922-1
-
-Une chambre détachée de la cour d'appel de Fort-de-France tient audience à Cayenne pour connaître en appel des décisions
-rendues par les juridictions du premier degré du département de la Guyane.
-
-Elle exerce les compétences dévolues à la chambre de l'instruction.
-
-La chambre détachée est composée d'un président de chambre et de deux conseillers de la cour d'appel de Fort-de-France.
-
-Le président de chambre et les deux conseillers sont désignés dans les formes exigées pour la nomination des magistrats du
-siège.
-
-Le président de la chambre détachée exerce de plein droit les fonctions de président de la chambre de l'instruction.
-
-En cas d'absence ou d'empêchement, les magistrats appelés à composer la chambre détachée sont remplacés, pour le service des
-audiences, par des magistrats du siège de la cour d'appel de Fort-de-France désignés à cet effet par ordonnance du premier
-président de la cour d'appel, après avis de l'assemblée générale des magistrats du siège de la cour.
-
-Le procureur général peut déléguer ses fonctions auprès de la chambre détachée soit à un avocat général ou un substitut
-général, soit au procureur de la République près le tribunal de grande instance de Cayenne ou l'un de ses substituts.
-
-Le premier président de la cour d'appel de Fort-de-France et le procureur général près ladite cour peuvent déléguer, le
-premier soit au président de la chambre détachée, soit à un magistrat du siège de la cour d'appel, le second soit au
-procureur de la République près le tribunal de grande instance de Cayenne, soit à un magistrat du parquet près la cour
-d'appel, leur pouvoir d'inspection des juridictions du premier degré comprises dans le ressort de la chambre détachée. Ils
-peuvent déléguer dans les mêmes conditions leurs pouvoirs de gestion administrative sur la chambre détachée et les
-juridictions du premier degré comprises dans le ressort de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-
 ### Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon *DOM*
 
 #### Chapitre Ier : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
@@ -7152,6 +7266,69 @@ L. 921-9, et d'un greffier. Les juges sont élus dans les conditions fixées aux
 	  - Code de l'organisation judiciaire L413-1 à L413-11 et L921-9
 
 
+#### Chapitre II : Dispositions particulières au département de la Guyane
+
+###### Article L922-1
+
+Une chambre détachée de la cour d'appel de Fort-de-France tient audience à Cayenne pour connaître en appel des décisions
+rendues par les juridictions du premier degré du département de la Guyane.
+
+Elle exerce les compétences dévolues à la chambre de l'instruction.
+
+La chambre détachée est composée d'un président de chambre et de deux conseillers de la cour d'appel de Fort-de-France.
+
+Le président de chambre et les deux conseillers sont désignés dans les formes exigées pour la nomination des magistrats du
+siège.
+
+Le président de la chambre détachée exerce de plein droit les fonctions de président de la chambre de l'instruction.
+
+En cas d'absence ou d'empêchement, les magistrats appelés à composer la chambre détachée sont remplacés, pour le service des
+audiences, par des magistrats du siège de la cour d'appel de Fort-de-France désignés à cet effet par ordonnance du premier
+président de la cour d'appel, après avis de l'assemblée générale des magistrats du siège de la cour.
+
+Le procureur général peut déléguer ses fonctions auprès de la chambre détachée soit à un avocat général ou un substitut
+général, soit au procureur de la République près le tribunal de grande instance de Cayenne ou l'un de ses substituts.
+
+Le premier président de la cour d'appel de Fort-de-France et le procureur général près ladite cour peuvent déléguer, le
+premier soit au président de la chambre détachée, soit à un magistrat du siège de la cour d'appel, le second soit au
+procureur de la République près le tribunal de grande instance de Cayenne, soit à un magistrat du parquet près la cour
+d'appel, leur pouvoir d'inspection des juridictions du premier degré comprises dans le ressort de la chambre détachée. Ils
+peuvent déléguer dans les mêmes conditions leurs pouvoirs de gestion administrative sur la chambre détachée et les
+juridictions du premier degré comprises dans le ressort de celle-ci.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D312-20 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-21 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-22 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-23 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-24 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-25 (VT)
+
+
 ### Titre III : Dispositions particulières aux territoires d'outre-mer
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
@@ -7183,24 +7360,6 @@ présent chapitre, sous réserve des dispositions de l'article L. 931-3.
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
-
-
-###### Article L931-4
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la chambre des appels correctionnels et de la
-chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
-dispositions du présent titre et par les dispositions de procédure pénale applicables localement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ##### Section VI : Les secrétariats-greffes des juridictions.
@@ -7312,6 +7471,37 @@ cour d'appel. "
 	**Cite**:
 
 	  - Code de l'organisation judiciaire L213-2
+
+
+###### Article L931-4
+
+Les règles concernant la compétence, l'organisation et le fonctionnement de la chambre des appels correctionnels et de la
+chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
+dispositions du présent titre et par les dispositions de procédure pénale applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-12 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-27 (V)
 
 
 ##### Section II : Le tribunal de première instance
@@ -10440,8 +10630,8 @@ un magistrat du siège de sa juridiction pour exercer lesdites fonctions.
 ###### Article L942-8
 
 Le tribunal supérieur d'appel exerce les compétences dévolues en métropole à la chambre des appels correctionnels et à la
-chambre d'accusation dans les conditions prévues par les dispositions de procédure pénale applicables dans la collectivité
-territoriale de Mayotte.
+chambre de l'instruction dans les conditions prévues par les dispositions de procédure pénale applicables dans la
+collectivité territoriale de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -10450,9 +10640,9 @@ territoriale de Mayotte.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
 
 
 ###### Article L942-9
