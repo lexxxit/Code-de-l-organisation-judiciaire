@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-12-30
+Version Consolidée au 2005-01-01
 
 # Partie législative ancienne
 
@@ -991,59 +991,6 @@ ministère public près cette commission sont fixées par l'article 16-2 du Code
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
-
-
-#### Chapitre III : La juridiction nationale de la libération conditionnelle.
-
-###### Article L143-1
-
-Il y a auprès de la Cour de cassation une juridiction chargée de statuer sur les recours formés contre les décisions de la
-juridiction régionale de la libération conditionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 127 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L143-2 (Ab)
-
-
-###### Article L143-2
-
-Les règles concernant la composition de la juridiction prévue à l'article précédent ainsi que celles qui sont relatives au
-ministère public près cette juridiction sont fixées par l'article 722-1 du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 127 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L143-1 (Ab)
 
 
 ### Titre V : Saisine pour avis de la Cour de cassation.
@@ -6443,10 +6390,10 @@ code disciplinaire et pénal de la marine marchande.
 
 ###### Article L630-3
 
-Il y a, dans le ressort de chaque cour d'appel, une juridiction de première instance dénommée juridiction régionale de la
-libération conditionnelle. Les règles concernant la composition, la compétence et le fonctionnement de la juridiction
-régionale de la libération conditionnelle sont fixées par l'article 722-1 du code de procédure pénale. Le siège des
-juridictions régionales de la libération conditionnelle est fixé par voie réglementaire.
+Il y a, dans le ressort de chaque cour d'appel, une ou plusieurs juridictions de première instance dénommées tribunaux de
+l'application des peines. Les règles concernant la composition, la compétence et le fonctionnement du tribunal de
+l'application des peines sont fixées par les articles 712-1 et suivants du code de procédure pénale. Le siège des tribunaux
+de l'application des peines est fixé par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -6455,13 +6402,21 @@ juridictions régionales de la libération conditionnelle est fixé par voie ré
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 128 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 712-1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
 
 
 ### Titre IV : Le juge des libertés et de la détention
