@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1984-05-31
+Version Consolidée au 1984-07-18
 
 # Partie législative ancienne
 
@@ -7655,6 +7655,27 @@ tribunal de commerce.
 	**Anciens textes**:
 
 	  - Code de commerce 641
+
+
+##### Section VI : Dispositions particulières à la saisie immobilière
+
+###### Article R312-6
+
+L'adjudication a lieu en l'audience des saisies immobilières. L'audience peut être tenue par un juge unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°84-618 1984-07-13 art. 2 JORF 18 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab)
 
 
 ### Titre II : Le tribunal d'instance
