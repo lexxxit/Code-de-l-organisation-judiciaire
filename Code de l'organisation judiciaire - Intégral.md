@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2000-08-21
+Version Consolidée au 2000-09-21
 
 # Partie législative ancienne
 
@@ -2713,6 +2713,44 @@ s'il en est requis par le défendeur.
 	  - Code de commerce - art. 637 (Ab)
 
 
+###### Article L411-6
+
+Sous réserve des compétences des juridictions disciplinaires et nonobstant toute disposition contraire, les tribunaux civils
+sont seuls compétents pour connaître des actions en justice dans lesquelles l'une des parties est une société constituée
+conformément à la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
+soumises à un statut législatif ou réglementaire ou dont le titre est protégé, ainsi que des contestations survenant entre
+associés d'une telle société.
+
+Néanmoins, les associés peuvent convenir, dans les statuts, de soumettre à des arbitres les contestations qui surviendraient
+entre eux pour raison de leur société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Cite**:
+
+	  - Loi n°90-1258 1990-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Anciens textes**:
+
+	  - Code de commerce - art. 636 (Ab)
+
+
 ###### Article L411-7
 
 Ne sont point de la compétence des tribunaux de commerce les actions intentées contre un propriétaire, cultivateur ou
@@ -2781,10 +2819,10 @@ prévoient un juge unique, ils sont rendus par trois juges au moins.
 
 ###### Article L412-2
 
-Lorsque le tribunal de commerce statue en matière de redressement judiciaire dans les conditions prévues au titre Ier de la
-loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, la formation de
-jugement ne peut comprendre, sous réserve de l'application des dispositions de l'article L. 412-14, qu'une majorité de juges
-ayant exercé des fonctions judiciaires pendant plus de deux ans.
+Lorsque le tribunal de commerce statue en matière de redressement judiciaire dans les conditions prévues aux sections I à IV
+du chapitre premier du titre deuxième du livre sixième du code de commerce,la formation de jugement ne peut comprendre, sous
+réserve de l'application des dispositions de l'article L. 412-14, qu'une majorité de juges ayant exercé des fonctions
+judiciaires pendant plus de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -2793,17 +2831,13 @@ ayant exercé des fonctions judiciaires pendant plus de deux ans.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
 
 	**Cité par**:
 
@@ -2846,11 +2880,15 @@ fonctions judiciaires pendant au moins trois ans, sous réserve de l'application
 ###### Article L412-4
 
 Sous réserve de l'application des dispositions de l'article L. 412-14, nul ne peut être désigné pour exercer les fonctions de
-juge-commissaire dans les conditions prévues à l'article 10 de la loi n° 85-98 du 25 janvier 1985 précitée, s'il n'a exercé
-pendant deux ans au moins des fonctions judiciaires dans un tribunal de commerce.
+juge-commissaire dans les conditions prévues à l'article L. 621-8 du code de commerce précité, s'il n'a exercé pendant deux
+ans au moins des fonctions judiciaires dans un tribunal de commerce.
 
 Le président du tribunal de commerce dresse, au début de chaque année judiciaire, par ordonnance prise après avis de
 l'assemblée générale du tribunal, la liste des juges pouvant exercer les fonctions de juge-commissaire.
+
+**Nota:**
+
+NOTA : L'article L. 621-8 du code de commerce a été abrogé par l'article 1er de la loi n° 2005-845 du 26 juillet 2005.
 
 **Liens relatifs à cet article**
 
@@ -2859,18 +2897,22 @@ l'assemblée générale du tribunal, la liste des juges pouvant exercer les fonc
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25 art. 10
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-8 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
 
 
 ###### Article L412-5
@@ -3013,10 +3055,9 @@ troisième alinéa de l'article L. 412-11 ;
 Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à l'égard d'un membre d'un tribunal de
 commerce, l'intéressé cesse ses fonctions à compter de la date du jugement d'ouverture. Il est réputé démissionnaire.
 
-Les mêmes dispositions s'appliquent à un membre du tribunal de commerce qui a une des qualités mentionnées à l'avant-dernier
-alinéa de l'article 6 de la loi n° 87-550 du 16 juillet 1987 relative aux juridictions commerciales et au mode d'élection des
-délégués consulaires et des membres des chambres de commerce et d'industrie, lorsque la société ou l'établissement public
-auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
+Les mêmes dispositions s'appliquent à un membre du tribunal de commerce qui a une des qualités mentionnées au premier alinéa
+de l'article L. 713-3 du code de commerce, lorsque la société ou l'établissement public auquel il appartient fait l'objet
+d'une procédure de redressement ou de liquidation judiciaires.
 
 **Liens relatifs à cet article**
 
@@ -3029,13 +3070,17 @@ auquel il appartient fait l'objet d'une procédure de redressement ou de liquida
 
 	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
 	**Cite**:
 
-	  - Loi n°87-550 1987-07-16 art. 6
-
-	**Créé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Code de commerce. - art. L713-3 (M)
 
 
 ###### Article L412-10
@@ -3225,7 +3270,7 @@ Le mandat des membres élus des tribunaux de commerce est  gratuit .
 
 ###### Article L413-1
 
-Les juges des tribunaux de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé :
+Les juges des tribunaux de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé:
 
 1° Des délégués consulaires ;
 
@@ -3236,11 +3281,10 @@ la liste électorale.
 
 Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition de n'avoir pas été déchues
 de leurs fonctions ni condamnées à une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
-électoral ou par les articles 192 ou 194 de la loi n° 85-98 du 25 janvier 1985 précitée ou à une interdiction d'exercer une
-activité commerciale.
+électoral ou par l'article L. 625-8 du code de commerce ou à une interdiction d'exercer une activité commerciale.
 
 Les délégués consulaires et les membres des chambres de commerce et d'industrie sont désignés dans les conditions prévues aux
-articles 6 à 18 de la loi n° 87-550 du 16 juillet 1987 précitée.
+articles L. 713-1 à L. 713-15 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -3249,18 +3293,19 @@ articles 6 à 18 de la loi n° 87-550 du 16 juillet 1987 précitée.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25 art. 192 et art. 194 Loi 87-550 1987-07-16 art. 6 à art. 18
-	  - Code électoral L5 et L6
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code de commerce L625-8, L713-1 à L713-15
+	  - Code de commerce. - art. L625-8 (M)
+	  - Code électoral L5 et L6
 
 	**Cité par**:
 
@@ -3308,18 +3353,16 @@ applicables en cas de contestation portant sur la liste électorale.
 
 ###### Article L413-3
 
-Sous réserve des dispositions de l'article L. 413-4, sont éligibles aux fonctions de membre d'un tribunal de commerce
-[*conditions d'éligibilité*] les personnes âgées de trente ans au moins [*âge minimum*] inscrites sur la liste électorale
-dressée en application de l'article 7 de la loi n° 87-550 du 16 juillet 1987 précitée dans le ressort du tribunal de commerce
-ou dans le ressort des tribunaux de commerce limitrophes et justifiant soit d'une immatriculation depuis cinq ans [*durée*]
-au moins au registre du commerce et des sociétés, soit, pendant le même délai, de l'exercice de l'une des qualités énumérées
-à l'avant-dernier alinéa de l'article 6 de ladite loi.
+Sous réserve des dispositions de l'article L. 413-4, sont éligibles aux fonctions de membre d'un tribunal de commerce les
+personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de l'article L. 713-4 du code
+de commerce dans le ressort du tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes et justifiant
+soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés, soit, pendant le même délai, de
+l'exercice de l'une des qualités énumérées au premier alinéa de l'article L. 713-3 du code de commerce.
 
-Est inéligible aux fonctions de membre d'un tribunal de commerce [*inéligibilité*] tout candidat à l'égard duquel est ouverte
-une procédure de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des
-qualités mentionnées à l'avant-dernier alinéa de l'article 6 de la loi n° 87-550 du 16 juillet 1987 précitée, lorsque la
-société ou l'établissement public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation
-judiciaires.
+Est inéligible aux fonctions de membre d'un tribunal de commerce tout candidat à l'égard duquel est ouverte une procédure de
+redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des qualités mentionnées
+au premier alinéa de l'article L. 713-3 du code de commerce, lorsque la société ou l'établissement public auquel il
+appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
 
 **Liens relatifs à cet article**
 
@@ -3327,16 +3370,6 @@ judiciaires.
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
-
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 6, art. 7
-	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
-
-	**Créé par**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
 
 	**Liens**:
 
@@ -3348,6 +3381,16 @@ judiciaires.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-10 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code de commerce. - art. L713-3 (M)
+	  - Code de commerce. - art. L713-4 (T)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
 
 
 ###### Article L413-4
@@ -7129,42 +7172,6 @@ territoriaux ou des agents territoriaux.
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
-
-##### Section III : Le tribunal mixte de commerce
-
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce
-
-##### I : Electorat.
-
-###### Article L932-29
-
-Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé
-des personnes énumérées à l'article 7 de la loi du 16 juillet 1987 susvisée et remplissant les conditions fixées aux articles
-6 et 7 de ladite loi, la référence au registre du commerce et des sociétés contenue à l'article 6 étant remplacée, pour ce
-qui concerne la Nouvelle-Calédonie, par une référence au registre du commerce de la Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 7, art. 6
-	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
 ### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
@@ -8808,6 +8815,38 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 ##### Sous-section III : Election des juges des tribunaux mixtes de commerce
 
 ##### I : Electorat.
+
+###### Article L932-29
+
+Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé
+des personnes énumérées à l'article L. 713-4 du code de commerce susvisé et remplissant les conditions fixées aux articles L.
+713-1 à L. 713-4 dudit code, la référence au registre du commerce et des sociétés contenue à l'article L. 713-1 étant
+remplacée, pour ce qui concerne la Nouvelle-Calédonie, par une référence au registre du commerce de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L713-1 (M)
+	  - Code de commerce. - art. L713-4 (T)
+
 
 ###### Article L932-30
 
