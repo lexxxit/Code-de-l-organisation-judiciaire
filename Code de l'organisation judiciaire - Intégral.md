@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-03-18
 
 # Partie législative ancienne
 
@@ -2770,6 +2770,63 @@ En cas d'empêchement momentané du titulaire, le tribunal de grande instance d�
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
+
+
+## Livre IV : Les juridictions spécialisées non pénales Titre V : Les juridictions de sécurité sociale
+
+### Chapitre II : Les commissions techniques de sécurité sociale
+
+#### Section I : Les commissions régionales.
+
+###### Article L452-1
+
+Les règles concernant la compétence et l'organisation des commissions régionales de sécurité sociale auxquelles sont soumis,
+en première instance, les différends relevant du contentieux technique de la sécurité sociale sont fixés par les  articles
+L193 et L194 [*anciens*] du code de la Sécurité sociale [*art. L143-1 et L143-2 nouveaux (1)*].
+
+**Nota:**
+
+*Nota (1): voir le contenu de ces articles dans le code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L193, L194
+
+
+#### Section II : La commission nationale technique.
+
+###### Article L452-2
+
+Les règles concernant la compétence et l'organisation de la commission nationale technique [*de la sécurité sociale*] sont
+fixés par les  articles L195 et L196 [*anciens*] du code de la Sécurité sociale [*art. L143-3 et L143-4 nouveaux (1)*].
+
+**Nota:**
+
+*Nota (1): voir le contenu de ces articles dans le code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+
+	**Abrogé par**:
+
+	  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L195, L196
 
 
 ## Livre VI : Les juridictions pénales
@@ -8081,6 +8138,54 @@ sociale [*contentieux*] sont fixées par les articles 7 à 13-1 du décret n° 5
 	**Anciens textes**:
 
 	  - Décret n°58-1291 1958-12-22 art. 7 à 13-1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+
+#### Chapitre II : Les commissions techniques de sécurité sociale
+
+##### Section I : Les commissions régionales
+
+###### Article R*452-1
+
+Les règles concernant la compétence, l'organisation et le fonctionnement des commissions régionales de sécurité sociale
+[*contentieux*] sont fixées par les  articles 29 à 32 et 50 du décret n° 58-1291 du 22 décembre 1958.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-1291 1958-12-22 art. 29 à art. 32 et art. 50
+
+	**Anciens textes**:
+
+	  - Décret n°58-1291 1958-12-22 art. 29 à art. 32 et art. 50
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+
+##### Section II : La commission nationale technique
+
+###### Article R*452-2
+
+Les règles relatives à la compétence, à l'organisation et au fonctionnement de la commission nationale technique de sécurité
+sociale sont fixées par les articles 38 à 40 et 50 du décret n° 58-1291 du 22 décembre 1958.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-1291 1958-12-22 art. 38 à 40, art. 50
+	  - Décret n°58-1291 du 22 décembre 1958 - art. 50 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°58-1291 1958-12-22 art. 38 à 40, art. 50
+	  - Décret n°58-1291 du 22 décembre 1958 - art. 50 (Ab)
 
 	**Codifié par**:
 
