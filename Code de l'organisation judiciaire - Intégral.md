@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-03-12
 
 # Partie législative ancienne
 
@@ -16944,6 +16944,35 @@ des affaires mentionnées à l'article L. 312-1.
 	  - Code de l'organisation judiciaire
 
 
+###### Article R312-1-1
+
+Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions engagées sur le fondement des
+dispositions des instruments internationaux et communautaires relatives au déplacement illicite international d'enfants sont
+fixés, en application de l'article L. 312-1-1, conformément au tableau IV ter annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-9 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe L312-1-1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-211 du 9 mars 2004 - art. 2 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 ##### Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.
 
 ###### Article R*312-2
@@ -30044,7 +30073,7 @@ Les dispositions de l'article R. 411-4 sont applicables au tribunal mixte de com
 	  - Code de l'organisation judiciaire R411-4
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie
+### Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
 
@@ -30069,13 +30098,19 @@ française, et "administrateur supérieur", pour ce qui concerne le territoire d
 
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R551-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-2 (V)
 
 
 ##### Section I : La cour d'appel.
@@ -30101,11 +30136,15 @@ Pour l'application de l'article R. 211-1, la référence aux tribunaux paritaire
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R211-2, R211-1
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R931-3
@@ -30138,7 +30177,7 @@ aux dispositions de procédure civile applicables localement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 	**Cite**:
 
@@ -30167,11 +30206,20 @@ parquet de la cour d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R213-24, R213-27, R213-28
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R931-5
@@ -30194,7 +30242,16 @@ les membres de la cour devant toujours être en majorité.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-26 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-35 (V)
 
 
 ###### Article R931-6
@@ -30216,7 +30273,16 @@ instance du siège de la cour pour exercer les fonctions du ministère public à
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-27 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-36 (V)
 
 
 ###### Article R931-7
@@ -30238,7 +30304,18 @@ visés au présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-23 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-32 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
 ##### Section II : Le tribunal de première instance
@@ -30263,7 +30340,20 @@ attribuée expressément à une autre juridiction en raison de la nature de l'af
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-4 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-3 (V)
 
 
 ###### Article R931-9
@@ -30285,7 +30375,17 @@ monnaie locale de 3771 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 3 () JORF 12 décembre 2002
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-3 (V)
 
 
 ###### Article R931-10
@@ -30309,12 +30409,16 @@ référence aux dispositions de procédure pénale applicables localement.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 3 (V)
-	  - Code de l'organisation judiciaire R311-4 à R311-6, R311-4
+	  - Code de procédure pénale - art. 3
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R931-10-1
@@ -30335,11 +30439,21 @@ affaires mentionnées à l'article L. 312-1.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-10 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-10 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L312-1
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R931-10-2
@@ -30354,13 +30468,49 @@ Nouvelle-Calédonie.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R312-10
+	  - Code de l'organisation judiciaire
+
+
+###### Article R931-10-3
+
+Le siège et le ressort des tribunaux de première instance appelés à connaître des actions engagées sur le fondement des
+dispositions des instruments internationaux et communautaires relatives au déplacement illicite international d'enfants sont
+fixés, en application de l'article L. 312-1-1, conformément au tableau IV ter annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe, L312-1-1
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-211 du 9 mars 2004 - art. 4 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-4 (V)
 
 
 ##### Sous-section II : Organisation.
@@ -30369,16 +30519,17 @@ Nouvelle-Calédonie.
 
 Le siège et le ressort des tribunaux de première instance sont fixés conformément au tableau I annexé au présent code.
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des tribunaux de première instance compétents en Nouvelle-Calédonie et
-dans les territoires visés au présent chapitre sont fixés conformément au tableau X annexé au présent code.
+Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
+janvier 1985 relative au redressement et à la liquidation judiciaire des entreprises, le siège et le ressort des tribunaux de
+première instance compétents en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément
+au tableau X annexé au présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire annexe
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
@@ -30391,7 +30542,7 @@ dans les territoires visés au présent chapitre sont fixés conformément au ta
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 
 ###### Article R931-12
@@ -30412,7 +30563,17 @@ tenir des audiences foraines dans toutes les communes autres que celle où est f
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-2 (V)
 
 
 ###### Article R931-13
@@ -30432,7 +30593,17 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-8 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-8 (V)
 
 
 ###### Article R931-14
@@ -30453,7 +30624,17 @@ notamment en référé ou sur requête.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-5 (V)
 
 
 ##### Section III : Les juridictions des mineurs.
@@ -30480,11 +30661,21 @@ criminelle, correctionnelle et de police applicables localement.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-28 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-37 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R522-10
+	  - Code de l'organisation judiciaire
 
 
 ##### Section V : Dispositions communes à plusieurs juridictions.
@@ -30514,13 +30705,7 @@ remplacée par une référence aux dispositions de procédure civile applicables
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R731-1 (V)
-	  - Code de l'organisation judiciaire R721-2, R721-3, R731-1
-	  - Nouveau code de procédure civile 342 à 366
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 
 ##### Section VI : Les secrétariats-greffes des juridictions.
@@ -30549,7 +30734,17 @@ conditions prévues pour les autres services de la juridiction.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R533-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R553-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-1 (V)
 
 
 ###### Article R931-18
@@ -30570,7 +30765,17 @@ agents du secrétariat-greffe de la cour d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R533-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R553-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-1 (V)
 
 
 ###### Article R931-19
@@ -30593,7 +30798,17 @@ de première instance et désignent un fonctionnaire responsable du secrétariat
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R533-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R553-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-3 (V)
 
 
 ###### Article R931-20
@@ -30615,7 +30830,17 @@ assurant le service du secrétariat-greffe entre les services du siège et ceux 
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R533-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R553-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-4 (V)
 
 
 ###### Article R931-21
@@ -30636,17 +30861,26 @@ secrétariat-greffe du tribunal de première instance.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-21 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R551-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française
@@ -30676,18 +30910,27 @@ sont supprimés.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-21 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-23 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-9 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-30 (M)
-	  - Code de l'organisation judiciaire R311-16, R311-22, R311-26, R311-27, R311-29-1 à R311-29-3, R311-30, R311-36, R311-38, R312-8, R311-23, R311-34
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. R311-30
 
 
 ###### Article R932-2
@@ -30711,7 +30954,16 @@ tribunal de première instance du siège de la cour d'appel le plus ancien dans 
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-24 (V)
 
 
 ###### Article R932-3
@@ -30732,12 +30984,16 @@ autre juge du tribunal, en suivant, autant que faire se peut, l'ordre des nomina
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-5 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-9 (M)
+	  - Code de l'organisation judiciaire - art. L932-5
+	  - Code de l'organisation judiciaire - art. R932-9
 
 
 ###### Article R932-4
@@ -30746,10 +31002,6 @@ Le siège et le ressort des sections détachées du tribunal de première instan
 présent code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire annexe
 
 	**Codifié par**:
 
@@ -30762,7 +31014,20 @@ présent code.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-26 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe
 
 
 ###### Article R932-5
@@ -30784,7 +31049,16 @@ section détachée.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-18 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-27 (V)
 
 
 ###### Article R932-6
@@ -30806,7 +31080,16 @@ qu'il est nécessaire pour compléter les sections détachées de ce tribunal lo
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-28 (V)
 
 	**Cité par**:
 
@@ -30837,7 +31120,16 @@ Un magistrat peut être affecté au service de plusieurs sections détachées.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-28 (V)
 
 	**Cité par**:
 
@@ -30865,12 +31157,21 @@ Il en est de même en cas de nomination de magistrats dans le tribunal.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-19 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-28 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-6 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-7 (M)
+	  - Code de l'organisation judiciaire - art. R932-6
+	  - Code de l'organisation judiciaire - art. R932-7
 
 
 ###### Article R932-9
@@ -30892,7 +31193,16 @@ R. 932-6.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-29 (V)
 
 	**Cité par**:
 
@@ -30900,7 +31210,7 @@ R. 932-6.
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-6 (M)
+	  - Code de l'organisation judiciaire - art. R932-6
 
 
 ##### Section II : Le tribunal du travail.
@@ -30926,7 +31236,16 @@ Le siège et le ressort des tribunaux du travail sont fixés conformément au ta
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-31 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-40 (V)
 
 
 ##### Section III : Le tribunal mixte de commerce
@@ -30937,29 +31256,26 @@ Le siège et le ressort des tribunaux du travail sont fixés conformément au ta
 
 Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau VII annexé au présent code.
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes en Nouvelle-Calédonie et dans
-les territoires visés au présent chapitre sont fixés conformément au tableau XI annexé au présent code.
+Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
+janvier 1985 relative au redressement et à la liquidation judiciaire des entreprises, le siège et le ressort des juridictions
+commerciales compétentes en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément au
+tableau XI annexé au présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire annexe
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 
 ###### Article R932-12
@@ -30973,13 +31289,13 @@ Le nombre des juges élus de chaque tribunal mixte de commerce est fixé par dé
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
 ###### Article R932-12-1
@@ -30994,9 +31310,13 @@ euros.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 4 () JORF 12 décembre 2002
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
 ##### Sous-section II : Organisation et fonctionnement.
@@ -31019,7 +31339,11 @@ Nouvelle-Calédonie et dans les territoires visés au présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Cite**:
 
@@ -31049,21 +31373,22 @@ Le secrétariat de la commission est assuré par le greffier du tribunal mixte d
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (M)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R937-4 (V)
+	  - Code de commerce. - art. R947-4 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (M)
 
 
 ###### Article R932-15
@@ -31073,9 +31398,9 @@ le haut-commissaire de la République, de la liste électorale utilisée pour l'
 d'industrie.
 
 La commission procède à la radiation des membres du collège électoral qui sont décédés ou qui ne remplissent plus les
-conditions prévues aux articles 6 et 7 de la loi n° 87-550 du 16 juillet 1987. La commission procède en outre à l'inscription
-des anciens membres des tribunaux mixtes de commerce et des chambres de commerce et d'industrie qui demandent à être inscrits
-en application de l'article 6 de la loi précitée.
+conditions prévues aux articles L. 713-1 à L. 713-3 du code de commerce. La commission procède en outre à l'inscription des
+anciens membres des tribunaux mixtes de commerce et des chambres de commerce et d'industrie qui demandent à être inscrits en
+application des articles L. 713-1 à L. 713-3 du code précité.
 
 **Liens relatifs à cet article**
 
@@ -31084,22 +31409,22 @@ en application de l'article 6 de la loi précitée.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 6, art. 7
-	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce L713-1 à L713-3
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R937-5 (V)
+	  - Code de commerce. - art. R947-5 (V)
 
 
 ###### Article R932-16
@@ -31119,13 +31444,18 @@ la République et, après l'ouverture du scrutin, du président de la commission
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-6 (V)
+	  - Code de commerce. - art. R947-6 (V)
 
 	**Cite**:
 
@@ -31138,10 +31468,6 @@ la République et, après l'ouverture du scrutin, du président de la commission
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-21 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. R937-6 (V)
 
 
 ##### III : Scrutin et opérations électorales.
@@ -31156,7 +31482,7 @@ Les déclarations de candidature sont recevables jusqu'au vingtième jour préc�
 
 Chaque candidat doit, à l'appui de sa candidature, déposer une déclaration écrite sur l'honneur qu'il remplit les conditions
 d'éligibilité fixées à l'article L. 932-31, qu'il n'est frappé d'aucune des incapacités, déchéances ou inéligibilités prévues
-à l'article 6 de la loi n° 87-550 du 16 juillet 1987 et à l'article L. 932-31, qu'il ne fait pas l'objet d'une mesure de
+aux articles L.713-1 à L. 713-3 du code de commerce et à l'article L. 932-31, qu'il ne fait pas l'objet d'une mesure de
 suspension prise en application de l'article L. 414-4 et qu'il n'est pas candidat dans un autre tribunal mixte de commerce.
 
 Le haut-commissaire de la République enregistre les candidatures et en donne récépissé. Il refuse celles qui ne sont pas
@@ -31172,27 +31498,28 @@ général près la cour d'appel.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
-
-	  - Loi n°87-550 1987-07-16 art. 6
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-31 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-20 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce L713-1 à L713-3
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-31 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R937-7 (V)
+	  - Code de commerce. - art. R947-7 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-20 (Ab)
 
 
 ###### Article R932-18
@@ -31211,13 +31538,18 @@ Chaque électeur est en outre convoqué individuellement.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-8 (V)
+	  - Code de commerce. - art. R947-8 (V)
 
 
 ###### Article R932-19
@@ -31234,13 +31566,13 @@ Le secrétariat de la commission électorale est assuré par le greffier du trib
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Cite**:
 
@@ -31270,13 +31602,18 @@ dispositions de l'article R. 932-17 ne sont pas comptés lors du recensement des
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-8 (V)
+	  - Code de commerce. - art. R947-8 (V)
 
 	**Cite**:
 
@@ -31318,13 +31655,18 @@ La procuration est annexée à la liste d'émargement et conservée dans les con
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-8 (V)
+	  - Code de commerce. - art. R947-8 (V)
 
 	**Cite**:
 
@@ -31371,13 +31713,18 @@ annexées à la liste d'émargement et conservées dans les conditions fixées p
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-8 (V)
+	  - Code de commerce. - art. R947-8 (V)
 
 	**Cite**:
 
@@ -31400,13 +31747,13 @@ remplacée par une référence aux dispositions de procédure civile applicables
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Cite**:
 
@@ -31426,13 +31773,18 @@ Lorsqu'il y a lieu de procéder à des élections complémentaires, la date du s
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R937-8 (V)
+	  - Code de commerce. - art. R947-8 (V)
 
 
 ##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.
@@ -31449,13 +31801,13 @@ tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerc
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
 ##### Section IV : Les juridictions des mineurs.
@@ -31473,17 +31825,22 @@ chargé de la présidence des sections détachées du tribunal de première inst
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-29 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-38 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R522-3
+	  - Code de l'organisation judiciaire
 
 
 ##### Section V : Dispositions communes à plusieurs juridictions.
@@ -31501,13 +31858,20 @@ et au tribunal de première instance en Nouvelle-Calédonie et dans les territoi
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-21 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
 #### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.
@@ -31535,17 +31899,22 @@ l'ordre de leur réception, sur une liste qu'il adresse au premier président de
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-13 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
+	  - Code de l'organisation judiciaire - art. L933-2
 
 
 ###### Article R933-2
@@ -31563,13 +31932,18 @@ formations.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-15 (V)
 
 
 ###### Article R933-3
@@ -31584,13 +31958,18 @@ liste d'assesseurs.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-16 (V)
 
 
 ###### Article R933-4
@@ -31606,13 +31985,17 @@ notifié à chacun des assesseurs désignés.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-18 (V)
 
 
 ###### Article R933-5
@@ -31628,21 +32011,26 @@ de ce tribunal, le garde des sceaux constate par arrêté l'impossibilité de co
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-17 (V)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R934-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L933-2
 
 
 ###### Article R933-6
@@ -31659,13 +32047,17 @@ Il est dressé un procès-verbal de la réception du serment.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-19 (V)
 
 
 ###### Article R933-7
@@ -31682,13 +32074,17 @@ Il est dressé un procès-verbal de cette installation.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-19 (V)
 
 
 ###### Article R933-8
@@ -31703,17 +32099,17 @@ de ce tribunal.
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R721-1, R721-3
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna
@@ -31722,17 +32118,13 @@ de ce tribunal.
 
 ###### Article R934-1
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort de la juridiction compétente du territoire visé au présent chapitre, pour
-connaître des procédures de redressement et de liquidation judiciaires applicables aux commerçants et artisans, sont fixées
-conformément au tableau XI annexé au présent code.
+Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
+janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le siège et le ressort de la
+juridiction compétente du territoire visé au présent chapitre, pour connaître des procédures de redressement et de
+liquidation judiciaires applicables aux commerçants et artisans, sont fixées conformément au tableau XI annexé au présent
+code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire annexe
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
 
 	**Codifié par**:
 
@@ -31741,7 +32133,12 @@ conformément au tableau XI annexé au présent code.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-5 (M)
+	  - Code de l'organisation judiciaire annexe
 
 	**Nouveaux textes**:
 
@@ -31762,7 +32159,15 @@ procureur de la République, le nombre, le jour et la nature des audiences du tr
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-10 (V)
 
 
 ###### Article R934-3
@@ -31779,12 +32184,23 @@ instance.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-16 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-17 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R933-5 (M)
-	  - Code de l'organisation judiciaire R933-1 à R933-3, R933-5
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. R933-5
 
 
 ###### Article R934-4
@@ -31801,7 +32217,15 @@ est affiché au secrétariat-greffe du tribunal de première instance. Il est en
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-18 (V)
 
 
 ###### Article R934-5
@@ -31820,7 +32244,15 @@ Il est dressé un procès-verbal de la réception du serment.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-19 (V)
 
 
 ###### Article R934-6
@@ -31839,7 +32271,15 @@ Il est dressé un procès-verbal de cette installation.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-19 (V)
 
 
 ###### Article R934-7
@@ -31855,11 +32295,15 @@ Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs du tribunal de
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R721-1, R721-3
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.
@@ -31878,7 +32322,15 @@ françaises les juridictions de l'ordre judiciaire ayant leur siège à Saint-De
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R541-1 (V)
 
 
 ###### Article R935-2
@@ -31892,13 +32344,17 @@ Les dispositions de l'article R. 312-10 sont applicables dans les Terres austral
 	  - Décret n°78-329 1978-03-16
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-216 du 18 février 2002 - art. 1 () JORF 20 février 2002
+	  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R312-10
+	  - Code de l'organisation judiciaire
 
 
 ### Titre IV : Dispositions particulières à Mayotte
@@ -33628,6 +34084,30 @@ collectivité territoriale de Saint-Pierre-et-Miquelon sont fixés conformément
 	**Cité par**:
 
 	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+
+
+###### Article R952-6-1
+
+Pour l'application de l'article L. 312-1-1, le siège et le ressort de la juridiction compétente dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon sont fixés conformément au tableau IV ter annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe, L312-1-1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-211 du 9 mars 2004 - art. 5 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ##### Sous-section II : Organisation et fonctionnement.
@@ -36407,6 +36887,582 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+
+###### Article Annexe Tableau IV ter
+
+<font size="2">
+    <font size="1">
+      **
+        **
+          **Siège et ressort des tribunaux de grande instance et de première instance compétents pour connaître des actions
+engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite
+d'enfants**
+
+**
+
+**
+    </font>
+  </font>
+  <font size="2">
+</font>
+
+<font size="2">
+
+**
+**
+
+**
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAUX DE GRANDE INSTANCE
+
+compétents
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE
+
+s'étendant au ressort
+
+des cours d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Agen
+
+</td>
+      <td width="307">
+
+Agen.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Marseille
+
+</td>
+      <td width="307">
+
+Aix-en-Provence.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Amiens
+
+</td>
+      <td width="307">
+
+Amiens
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Angers
+
+</td>
+      <td width="307">
+
+Angers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Bastia
+
+</td>
+      <td width="307">
+
+Bastia.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Besançon
+
+</td>
+      <td width="307">
+
+Besançon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Bordeaux
+
+</td>
+      <td width="307">
+
+Bordeaux.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Bourges
+
+</td>
+      <td width="307">
+
+Bourges.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Caen
+
+</td>
+      <td width="307">
+
+Caen.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Chambéry
+
+</td>
+      <td width="307">
+
+Chambéry.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Strasbourg
+
+</td>
+      <td width="307">
+
+Colmar.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Dijon
+
+</td>
+      <td width="307">
+
+Dijon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Lille
+
+</td>
+      <td width="307">
+
+Douai.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Grenoble
+
+</td>
+      <td width="307">
+
+Grenoble.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Limoges
+
+</td>
+      <td width="307">
+
+Limoges.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Lyon
+
+</td>
+      <td width="307">
+
+Lyon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Metz
+
+</td>
+      <td width="307">
+
+Metz.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Montpellier
+
+</td>
+      <td width="307">
+
+Montpellier.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nancy
+
+</td>
+      <td width="307">
+
+Nancy.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nîmes
+
+</td>
+      <td width="307">
+
+Nîmes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Orléans
+
+</td>
+      <td width="307">
+
+Orléans.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Paris
+
+</td>
+      <td width="307">
+
+Paris.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Pau
+
+</td>
+      <td width="307">
+
+Pau.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Poitiers
+
+</td>
+      <td width="307">
+
+Poitiers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Reims
+
+</td>
+      <td width="307">
+
+Reims.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Rennes
+
+</td>
+      <td width="307">
+
+Rennes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Clermont-Ferrand
+
+</td>
+      <td width="307">
+
+Riom.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Rouen
+
+</td>
+      <td width="307">
+
+Rouen.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Toulouse
+
+</td>
+      <td width="307">
+
+Toulouse.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nanterre
+
+</td>
+      <td width="307">
+
+Versailles.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 align="center">
+  <font size="1">Départements d'outre-mer</font>
+</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAUX DE GRANDE INSTANCE
+
+compétents
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE
+
+s'étendant au ressort
+
+des cours d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Basse-Terre
+
+</td>
+      <td width="307">
+
+Basse-Terre.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Fort-de-France
+
+</td>
+      <td width="307">
+
+Fort-de-France.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Saint-Denis
+
+</td>
+      <td width="307">
+
+Saint-Denis.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 align="center">
+  <font size="1">Collectivité territoriale de Saint-Pierre-et-Miquelon</font>
+</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAL DE PREMIÈRE INSTANCE
+
+compétent
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE
+
+s'étendant au ressort
+
+du tribunal supérieur d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Saint-Pierre
+
+</td>
+      <td width="307">
+
+Saint-Pierre-et-Miquelon.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 align="center">
+  <font size="1">Nouvelle-Calédonie et collectivités d'outre-mer</font>
+</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+TRIBUNAUX DE PREMIÈRE INSTANCE
+
+compétent
+
+</td>
+      <td width="307">
+
+COMPÉTENCE TERRITORIALE
+
+s'étendant au ressort
+
+du tribunal supérieur d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nouméa
+
+</td>
+      <td width="307">
+
+Nouméa.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Papeete
+
+</td>
+      <td width="307">
+
+Papeete.
+
+</td>
+    </tr>
+  </tbody>
+</table>**</font>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2004-211 du 9 mars 2004 - art. 6 () JORF 12 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article Annexe Tableau V
