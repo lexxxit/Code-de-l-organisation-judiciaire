@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-05-20
 
 # Partie législative ancienne
 
@@ -26597,105 +26597,6 @@ honoraire de la direction départementale".
 	  - Code de la sécurité sociale. - art. R752-14 (M)
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon
-
-###### Article R*924-1
-
-Le livre V concernant les juridictions des mineurs est applicable au département de Saint-Pierre-et-Miquelon sous la réserve
-suivante :
-
-Pour l'application de l'article R. 522-4, le président du tribunal supérieur d'appel est substitué au premier président de la
-cour d'appel et le président du tribunal de première instance est substitué au président du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R522-4
-
-
-###### Article R924-2
-
-Le tribunal de première instance connaît de toutes les affaires autres que pénales dont la compétence n'est pas attribuée
-expressément à une autre juridiction, et notamment de toutes les affaires dont la connaissance est attribuée aux tribunaux de
-grande instance, aux tribunaux d'instance et aux tribunaux de commerce par les règles relatives à l'organisation judiciaire
-et par des dispositions particulières.
-
-Il connaît également de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
-juridiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-
-###### Article R924-3
-
-Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
-dernier ressort des tribunaux d'instance prévu à l'article R321-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R321-2
-
-
-###### Article R924-4
-
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions compétentes dans la collectivité territoriale de Saint-
-Pierre-et-Miquelon sont fixés conformément aux tableaux X et XI annexés au présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Cite**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
-
-	**Créé par**:
-
-	  - Décret n°93-955 du 26 juillet 1993 - art. 2 () JORF 28 juillet 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-
 ### Titre II : Dispositions particulières aux départements d'outre-mer
 
 #### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
@@ -29693,6 +29594,507 @@ responsable du secrétariat-greffe du tribunal de première instance ;
 	**Cite**:
 
 	  - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
+
+
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Des fonctions judiciaires.
+
+###### Article R951-1
+
+Les candidatures aux fonctions d'assesseur au tribunal supérieur d'appel et aux fonctions de suppléant du procureur de la
+République près ledit tribunal sont déclarées, selon le cas, au président du tribunal supérieur d'appel ou au procureur de la
+République près ledit tribunal.
+
+Les déclarations de candidature sont déposées au plus tard deux mois avant l'expiration des fonctions des assesseurs ou
+suppléants en exercice. Ces déclarations doivent être individuelles, formulées par écrit et signées des candidats.
+
+Chaque candidat fournit les renseignements et les pièces, déterminés par arrêté du garde des sceaux, destinés à établir qu'il
+remplit les conditions prévues à l'article L. 951-2.
+
+Il est délivré récépissé par le président du tribunal supérieur d'appel ou par le procureur de la République près ledit
+tribunal des déclarations de candidature qu'ils ont reçues et qui sont immédiatement affichées au secrétariat-greffe du
+tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L951-2
+
+
+###### Article R951-2
+
+Au plus tard un mois avant l'expiration des fonctions des assesseurs ou suppléants en exercice, le président du tribunal
+supérieur d'appel et le procureur de la République transmettent au garde des sceaux, ministre de la justice, leurs
+propositions et avis conformément à l'article L. 951-3. Les listes prévues au même article et établies dans l'ordre de
+réception des candidatures sont jointes à cette transmission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-3 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L951-3
+
+
+###### Article R951-3
+
+Dès sa publication au Journal officiel de la République française, l'arrêté du garde des sceaux, ministre de la justice,
+portant désignation des assesseurs et suppléants est affiché au secrétariat-greffe du tribunal supérieur d'appel et publié au
+Recueil des actes administratifs de la collectivité territoriale. Il est, en outre, notifié à chacun des assesseurs et
+suppléants désignés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-5 (V)
+
+
+###### Article R951-4
+
+Le procureur de la République près le tribunal supérieur d'appel invite les assesseurs et suppléants nouvellement désignés à
+se présenter devant cette juridiction pour prêter serment et être installés dans leurs fonctions judiciaires.
+
+Le président du tribunal supérieur d'appel, siégeant en audience publique et en présence du procureur de la République,
+reçoit la prestation de serment de ces assesseurs et suppléants, puis procède à leur installation.
+
+Il est dressé procès-verbal de la réception du serment et de l'installation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-6 (V)
+
+
+###### Article R951-5
+
+Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs au tribunal supérieur d'appel et aux suppléants du
+procureur de la République près ledit tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R951-6
+
+Il est attribué, pour l'exercice de leurs fonctions judiciaires, une indemnité de vacation aux assesseurs au tribunal
+supérieur d'appel et aux suppléants du procureur de la République près ledit tribunal. Cette indemnité, calculée par demi-
+journée, est fixée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+La réalité du service fait par les assesseurs et par les suppléants est attestée, selon le cas, par le président du tribunal
+supérieur d'appel ou par le procureur de la République près ledit tribunal.
+
+Les frais de déplacement que les assesseurs et les suppléants engagent pour se rendre à l'audience de prestation de serment
+et d'installation ainsi qu'aux audiences où ils siègent sont remboursés. Il en est de même des frais que pourraient supporter
+les suppléants pour les déplacements qui leur seraient imposés par les besoins du service autres que la représentation du
+ministère public à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
+
+
+#### Chapitre II : Des juridictions
+
+##### Section I : Dispositions communes
+
+##### Sous-section I : Dispositions générales.
+
+###### Article R952-1
+
+Pour l'application dans la collectivité territoriale de Saint-Pierre-et-Miquelon des dispositions du présent code (partie
+Réglementaire), il y a lieu de lire :
+
+- "tribunal supérieur d'appel" à la place de : "cour d'appel" ;
+
+- "tribunal de première instance" à la place de : "tribunal de grande instance" et de "tribunal d'instance" ;
+
+- "président du tribunal supérieur d'appel" à la place de :
+
+"premier président de la cour d'appel" ;
+
+- "procureur de la République près le tribunal supérieur d'appel" à la place de : "procureur général près la cour d'appel".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
+
+
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.
+
+###### Article R952-2
+
+Dans les cas où, en application des dispositions du II de l'article L. 952-7 et du II de l'article L. 952-11, sont mis en
+oeuvre des moyens de communication audiovisuelle pour la tenue d'une audience, le service du secrétariat-greffe de la
+juridiction est assuré par le greffe de la cour d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L952-11
+	  - Code de l'organisation judiciaire - art. L952-7
+
+
+###### Article R952-3
+
+La disposition, à l'intérieur de la salle d'audience et à l'intérieur de l'enceinte accueillant la formation de jugement, du
+matériel nécessaire à la retransmission audiovisuelle est fixée par décision conjointe du premier président de la cour
+d'appel de Paris et du président du tribunal supérieur d'appel.
+
+Les prises de vue et de son sont assurées par des agents des services du ministère de la justice ou, à défaut, par tous
+autres agents publics.
+
+Lorsque l'audience se tient à huis clos ou en chambre du conseil, ces agents sont nécessairement des fonctionnaires des
+secrétariats-greffes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+
+###### Article R952-4
+
+Les caractéristiques techniques des moyens de communication audiovisuelle utilisés doivent assurer une retransmission fidèle,
+loyale et confidentielle à l'égard des tiers. Ces caractéristiques sont définies par arrêté conjoint du garde des sceaux,
+ministre de la justice, du ministre de l'intérieur et du ministre de la défense.
+
+Les prises de vue et les prises de son ne peuvent faire l'objet, conformément aux dispositions de l'article 38 ter de la loi
+du 29 juillet 1881 modifiée sur la liberté de la presse, d'aucun enregistrement ni d'aucune fixation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+	**Cite**:
+
+	  - Loi n°1881-07-29 art. 38 ter
+
+
+##### Section II : Le tribunal de première instance
+
+##### Sous-section I : Compétence.
+
+###### Article R952-5
+
+Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
+dernier ressort des tribunaux d'instance prévu à l'article R. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R952-6
+
+Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort de la juridiction compétente dans la
+collectivité territoriale de Saint-Pierre-et-Miquelon sont fixés conformément aux tableaux X et XI annexés au présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe
+	  - Code de commerce. - art. L621-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Cité par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+
+
+##### Sous-section II : Organisation et fonctionnement.
+
+###### Article R952-7
+
+La liste arrêtée par le premier président de la cour d'appel de Paris conformément aux dispositions du I de l'article L.
+952-7 ne peut comprendre que des magistrats du siège ayant donné leur accord pour y figurer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-2 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L952-7
+
+
+###### Article R952-8
+
+Le service du secrétariat-greffe du tribunal de première instance est assuré par le secrétariat-greffe du tribunal supérieur
+d'appel.
+
+Les fonctions de greffier en chef sont assurées par un greffier.
+
+Le second alinéa de l'article R. 814-1 et les articles R. 814-2 à R. 814-7 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-4 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+##### Section III : Le tribunal supérieur d'appel.
+
+###### Article R952-9
+
+La liste arrêtée par le premier président de la cour d'appel de Paris conformément aux dispositions du I de l'article L.
+952-11 ne peut comprendre que des magistrats du siège ayant donné leur accord pour y figurer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-9 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L952-11
+
+
+###### Article R952-10
+
+En cas d'absence, d'empêchement ou d'incompatibilité légale, les fonctions d'assesseur sont exercées par un assesseur
+suppléant désigné par ordonnance du président du tribunal supérieur d'appel parmi les assesseurs suppléants mentionnés au 1°
+de l'article L. 951-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-8 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L951-3
 
 
 # Annexes
