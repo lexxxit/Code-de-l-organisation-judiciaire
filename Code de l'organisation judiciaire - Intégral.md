@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-02-01
+Version Consolidée au 1994-03-01
 
 # Partie législative ancienne
 
@@ -5626,8 +5626,7 @@ Le greffier suspendu ou destitué doit s'abstenir de tout acte professionnel. Le
 prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du procureur de la République, par le tribunal de
 grande instance. La décision est exécutoire à l'égard de toute personne.
 
-Toute infraction aux dispositions du premier alinéa sera punie des peines prévues au premier alinéa de l'article 259 du code
-pénal.
+Toute infraction aux dispositions du premier alinéa sera punie des peines prévues à l'article 433-17 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -5638,15 +5637,15 @@ pénal.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+	  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur Ordonnance 96-267 1996-03-28 art. 13
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
-	  - Code pénal 259 al. 1
+	  - Code pénal - art. 433-17 (M)
 
 
 ###### Article L822-7
@@ -7432,7 +7431,91 @@ ou son conjoint ou ses parents ou alliés en ligne directe ;
 
 ##### Section III : Le tribunal mixte de commerce
 
+##### Sous-section I : Institution et compétence.
+
+###### Article L932-23
+
+Dans les territoires visés au présent chapitre, le tribunal mixte de commerce exerce les compétences dévolues en métropole au
+tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+
+
+###### Article L932-24
+
+Le tribunal mixte de commerce est composé du président du tribunal de première instance, président, de juges élus, sous
+réserve des dispositions de l'article L. 932-39, et d'un greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
+
+
+###### Article L932-25
+
+Les dispositions du chapitre Ier du titre Ier du livre IV (partie Législative) relatives à l'institution et à la compétence
+du tribunal de commerce sont applicables au tribunal mixte de commerce, à l'exception du premier alinéa de l'article L.
+411-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L411-1
+
+
 ##### Sous-section II : Organisation et fonctionnement.
+
+###### Article L932-26
+
+Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique, par une formation
+comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues à l'article L. 932-39. En cas de
+partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
+
 
 ###### Article L932-27
 
@@ -7826,6 +7909,25 @@ ressort.
 
 	  - Code de commerce. - art. R937-9 (V)
 	  - Code de commerce. - art. R947-9 (V)
+
+
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.
+
+###### Article L932-43
+
+Les dispositions du chapitre IV du titre Ier du livre IV (partie Législative) relatives à la discipline des membres des
+tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1150 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1994
 
 
 ##### Section IV : Les juridictions des mineurs.
@@ -24660,6 +24762,75 @@ Le siège et le ressort des tribunaux du travail sont fixés conformément au ta
 
 ##### Section III : Le tribunal mixte de commerce
 
+##### Sous-section I : Institution et compétence.
+
+###### Article R932-11
+
+Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau VII annexé au présent code
+[*tableau non reproduit*].
+
+Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes dans les territoires visés au
+présent chapitre sont fixés conformément au tableau XI annexé au présent code [*tableau non reproduit*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire annexe
+	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+
+
+###### Article R932-12
+
+Le nombre des juges élus de chaque tribunal mixte de commerce est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+
+
+##### Sous-section II : Organisation et fonctionnement.
+
+###### Article R932-13
+
+Les dispositions des articles R. 412-1, R. 412-4 et R. 412-17 à R. 412-19 sont applicables au tribunal mixte de commerce dans
+les territoires visés au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-4 (M)
+	  - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19
+
+
 ##### Sous-section III : Election des juges des tribunaux mixtes de commerce
 
 ##### I : Electorat.
@@ -25021,6 +25192,25 @@ Lorsqu'il y a lieu de procéder à des élections complémentaires, la date du s
 	**Créé par**:
 
 	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
+
+
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.
+
+###### Article R932-25
+
+Les dispositions du chapitre IV du titre Ier du livre IV (partie Réglementaire) relatives à la discipline des membres des
+tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
 
 
 ##### Section IV : Les juridictions des mineurs.
