@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-03-14
+Version Consolidée au 1992-03-19
 
 # Partie législative ancienne
 
@@ -7930,6 +7930,11 @@ tribunal de grande instance connaît en appel.
 
 Le siège et le ressort des cours d'appel sont fixés conformément au tableau n° I annexé au présent code.
 
+Pour l'application de l'article L. 411-4 du code de la propriété intellectuelle créant un institut national de la propriété
+industrielle, le siège et le ressort des cours d'appel compétentes pour connaître directement des recours formés contre les
+décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des
+titres de propriété industrielle sont fixés conformément au tableau IV bis annexé au présent code.
+
 Lorsqu'une cour d'appel est créée ou lorsque le ressort d'une cour d'appel est modifié par suite d'une nouvelle délimitation
 des circonscriptions administratives ou judiciaires, la cour compétente primitivement saisie demeure compétente pour statuer
 sur les procédures introduites antérieurement à la date de création de la cour ou de modification du ressort.
@@ -7938,7 +7943,7 @@ Lorsqu'une cour d'appel est supprimée, toutes les procédures en cours devant c
 du décret de suppression sont transférées en l'état à la cour d'appel dans le ressort de laquelle est situé le siège de la
 cour supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement
 à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de
-comparution personnelle. Les archives et les minutes du secrétariat-greffe de la cour d'appel supprimée sont transférés au
+comparution personnelle. Les archives et les minutes du secrétariat-greffe de la cour d'appel supprimée sont transférées au
 secrétariat-greffe de la cour d'appel dans le ressort de laquelle est situé le siège de la cour d'appel supprimée. Les frais
 de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
@@ -7946,7 +7951,8 @@ de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet e
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire annexe
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+	  - Code de la propriété intellectuelle - art. L411-4 (V)
 
 	**Anciens textes**:
 
@@ -7958,7 +7964,7 @@ de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet e
 
 	**Modifié par**:
 
-	  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
+	  - Décret n°92-251 du 17 mars 1992 - art. 1 () JORF 19 mars 1992
 
 
 ###### Article R*212-2
@@ -9678,15 +9684,13 @@ Le siège et le ressort des tribunaux de grande instance appelés à connaître 
 application de la loi n° 68-1 du 2 janvier 1968 et des actions civiles en matière d'obtentions végétales par application de
 la loi n° 70-489 du 11 juin 1970 sont fixés conformément au tableau IV annexé au présent code.
 
-En outre, le Tribunal de grande instance de Paris est compétent, pour les territoires d'outre-mer et la collectivité
-territoriale de Mayotte, pour connaître de ces mêmes actions.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire Annexe tableau V
-	  - Loi n°68-1 1968-01-02 Loi 70-489 1970-06-11
+	  - Loi n°68-1 1968-01-02
+	  - Loi n°70-489 1970-06-11
 
 	**Anciens textes**:
 
@@ -9698,7 +9702,7 @@ territoriale de Mayotte, pour connaître de ces mêmes actions.
 
 	**Modifié par**:
 
-	  - Décret n°79-391 1979-05-14 art. 4 JORF 18 mai 1979 en vigueur le 1er juin 1979
+	  - Décret n°92-251 du 17 mars 1992 - art. 12 (Ab) JORF 19 mars 1992
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux
@@ -20909,6 +20913,170 @@ Marseille
 	  - TXT_SOURCE: Code de l'organisation judiciaire R623-1
 
 
+###### Article Annexe Tableau IV bis
+
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions
+civiles en matière d'obtentions végétales
+
+**
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+SIÈGE
+
+</td>
+      <td width="307">
+
+RESSORT
+
+s'étendant aux limites territoriales des cours d'appel
+
+et des tribunaux supérieurs d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Aix-en-Provence
+
+</td>
+      <td width="307">
+
+Aix-en-Provence, Bastia, Nîmes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Bordeaux
+
+</td>
+      <td width="307">
+
+Agen, Bordeaux, Poitiers.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Colmar
+
+</td>
+      <td width="307">
+
+Colmar, Metz.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Douai
+
+</td>
+      <td width="307">
+
+Amiens, Douai.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Limoges
+
+</td>
+      <td width="307">
+
+Bourges, Limoges, Riom.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Lyon
+
+</td>
+      <td width="307">
+
+Chambéry, Lyon, Grenoble.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Nancy
+
+</td>
+      <td width="307">
+
+Besançon, Dijon, Nancy.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Paris
+
+</td>
+      <td valign="top" width="307">
+
+Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Madmouzou
+et Saint-Pierre-et-Miquelon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Rennes
+
+</td>
+      <td width="307">
+
+Angers, Caen, Rennes.
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Toulouse
+
+</td>
+      <td width="307">
+
+Pau, Montpellier, Toulouse.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°92-251 du 17 mars 1992 - art. 1 () JORF 19 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 ###### Article Annexe Tableau VII
 
 **Liens relatifs à cet article**
@@ -20920,5 +21088,27 @@ Marseille
 	**Abrogé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+## Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales
+
+###### Article Annexe Tableau IV
+
+tableau non reproduit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-391 1979-05-14 art. 6 JORF 18 mai 1979 rectificatif JORF 17 novembre 1979
+	  - Décret n°92-251 du 17 mars 1992 - art. 2 () JORF 19 mars 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'organisation judiciaire R312-2
 
 
