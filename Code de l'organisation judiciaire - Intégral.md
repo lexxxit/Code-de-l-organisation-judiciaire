@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1978-07-13
+Version Consolidée au 1979-01-01
 
 # Partie législative ancienne
 
@@ -250,6 +250,49 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-5 (V)
 
 
+###### Article L121-5
+
+Lorsqu'une chambre mixte doit être constituée par application des articles L131-2 et L131-3, elle est composée de magistrats
+appartenant à trois chambres au moins de la cour. 
+
+La chambre mixte est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
+présidents de chambre de la cour. 
+
+Elle comprend, en outre, les présidents et doyens des chambres qui la composent ainsi que deux conseillers de chacune de ces
+chambres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 1 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-9 1979-01-03 art. 8
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-4 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L131-2 et L131-3
+
+
 ###### Article L121-6
 
 L'assemblée plénière est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
@@ -307,6 +350,176 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-2 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-1 (V)
+
+
+###### Article L131-2
+
+Le renvoi devant une chambre mixte peut être ordonné lorsqu'une affaire pose une question relevant normalement des
+attributions de plusieurs chambres ou si la question a reçu ou est susceptible de recevoir devant les chambres des solutions
+divergentes ; il doit l'être en cas de partage égal des voix.
+
+Le renvoi devant l'assemblée plénière peut être ordonné lorsque l'affaire pose une question de principe, notamment s'il
+existe des solutions divergentes soit entre les juges du fond, soit entre les juges du fond et la Cour de cassation ; il doit
+l'être lorsque, après cassation d'un premier arrêt ou jugement, la décision rendue par la juridiction de renvoi est attaquée
+par les mêmes moyens.
+
+La chambre mixte et l'assemblée plénière doivent se prononcer sur le pourvoi même si les conditions de leur saisine n'étaient
+pas réunies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 14 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 2, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-5 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-9 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 619 (V)
+
+
+###### Article L131-3
+
+Le renvoi devant une chambre mixte ou devant l'assemblée plénière est décidé :
+
+Soit avant l'ouverture des débats, par ordonnance non motivée du premier président ;
+
+Soit par arrêt non motivé de la chambre saisie.
+
+Le renvoi est de droit lorsque le procureur général le requiert avant l'ouverture des débats.
+
+Un membre de la chambre mixte ou de l'assemblée plénière, selon le cas, est chargé du rapport par le premier président.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 131-3 du code de l'organisation judiciaire est abrogé à l'exception
+de son dernier alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
+réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 14 al. 2 et al. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 2 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-14 (V)
+
+
+###### Article L131-4
+
+En cas de cassation, l'affaire est renvoyée, sauf disposition contraire, devant une autre juridiction de même nature que
+celle dont émane l'arrêt ou le jugement cassé ou devant la même juridiction composée d'autres magistrats. 
+
+Lorsque le renvoi est ordonné par l'assemblée plénière, la juridiction de renvoi doit se conformer à la décision de cette
+assemblée sur les points de droit jugés par celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 2 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°93-1252 du 23 novembre 1993 - art. 25 (V)
+	  - Loi n°93-1252 du 23 novembre 1993 - art. 34 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-4 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 626 (V)
+
+
+###### Article L131-5
+
+La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond. 
+
+Elle peut, aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement
+constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée. 
+
+En ces cas, elle se prononce sur la charge des dépens afférents aux instances devant les juges du fond. 
+
+L'arrêt emporte exécution forcée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 1967-07-03 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Loi n°91-1258 1991-12-17
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 2, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-3 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 627 (V)
 
 
 ###### Article L131-7
