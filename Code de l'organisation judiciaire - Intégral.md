@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-11-06
+Version Consolidée au 2002-01-01
 
 # Partie législative ancienne
 
@@ -539,8 +539,8 @@ L'arrêt emporte exécution forcée.
 Après le dépôt des mémoires, les affaires soumises à une chambre civile sont examinées par une formation de trois magistrats
 appartenant à la chambre à laquelle elles ont été distribuées.
 
-Cette formation statue lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à
-l'audience de la chambre.
+Cette formation déclare non admis les pourvois irrecevables ou non fondés sur un moyen sérieux de cassation. Elle statue
+lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à l'audience de la chambre.
 
 Toutefois, le premier président ou le président de la chambre concernée, ou leurs délégués, d'office ou à la demande du
 procureur général ou de l'une des parties, peuvent renvoyer directement une affaire à l'audience de la chambre par décision
@@ -549,7 +549,16 @@ non motivée.
 Lorsque la solution d'une affaire soumise à la chambre criminelle lui paraît s'imposer, le premier président ou le président
 de la chambre criminelle peut décider de faire juger l'affaire par une formation de trois magistrats. Cette formation peut
 renvoyer l'examen de l'affaire à l'audience de la chambre à la demande de l'une des parties ; le renvoi est de droit si l'un
-des magistrats composant la formation restreinte le demande.
+des magistrats composant la formation restreinte le demande. La formation déclare non admis les pourvois irrecevables ou non
+fondés sur un moyen sérieux de cassation.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -564,11 +573,20 @@ des magistrats composant la formation restreinte le demande.
 
 	**Modifié par**:
 
-	  - Loi n°97-395 du 23 avril 1997 - art. 2 () JORF 25 avril 1997 rectificatif JORF 3 juillet 1997
+	  - Loi n°2001-539 du 25 juin 2001 - art. 27 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-2 (V)
 
 
 ###### Article L131-6-1
@@ -999,9 +1017,9 @@ ministère public près cette juridiction sont fixées par l'article 722-1 du co
 
 ###### Article L151-1
 
-Avant de statuer sur une demande soulevant une question de droit nouvelle, présentant une difficulté sérieuse et se posant
-dans de nombreux litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours,
-solliciter l'avis de la Cour de cassation qui se prononce dans le délai de trois mois de sa saisine.
+Avant de statuer sur une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux
+litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours, solliciter l'avis de la
+Cour de cassation qui se prononce dans le délai de trois mois de sa saisine.
 
 Il est sursis à toute décision sur le fond de l'affaire jusqu'à l'avis de la Cour de cassation ou, à défaut, jusqu'à
 l'expiration du délai ci-dessus mentionné. Toutefois, les mesures d'urgence ou conservatoires nécessaires peuvent être
@@ -1009,7 +1027,14 @@ prises.
 
 L'avis rendu ne lie pas la juridiction qui a formulé la demande. Il est communiqué aux parties.
 
-Les dispositions du présent article ne sont pas applicables en matière pénale.
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 151-1 du code de l'organisation judiciaire est abrogé à l'exception
+de la seconde phrase du deuxième alinéa qui est abrogée à compter de la date d'entrée en vigueur du décret portant refonte de
+la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1018,9 +1043,18 @@ Les dispositions du présent article ne sont pas applicables en matière pénale
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+	  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-3 (V)
 
 	**Cité par**:
 
@@ -1035,15 +1069,30 @@ Les dispositions du présent article ne sont pas applicables en matière pénale
 
 ###### Article L151-2
 
-La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président.
+La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président ou, en cas
+d'empêchement, par le président de chambre le plus ancien.
 
-Elle comprend, en outre, les présidents de chambre et deux conseillers désignés par chaque chambre spécialement concernée.
+La formation appelée à se prononcer sur une demande d'avis dans une matière autre que pénale comprend, outre le premier
+président, les présidents de chambre et deux conseillers désignés par chaque chambre spécialement concernée. En cas
+d'empêchement de l'un d'eux, il est remplacé par un conseiller désigné par le premier président ou, à défaut de celui-ci, par
+le président de chambre qui le remplace.
 
-En cas d'empêchement du premier président, la formation est présidée par le président de chambre le plus ancien. En cas
-d'empêchement de l'un des autres membres de la formation, il est remplacé par un conseiller désigné par le premier président
-ou, à défaut de celui-ci, par le président de chambre qui le remplace.
+La formation appelée à se prononcer sur une demande d'avis en matière pénale comprend, outre le premier président, le
+président de la chambre criminelle, un président de chambre désigné par le premier président, quatre conseillers de la
+chambre criminelle et deux conseillers, désignés par le premier président, appartenant à une autre chambre. En cas
+d'empêchement du président de la chambre criminelle, il est remplacé par un conseiller de cette chambre désigné par le
+premier président ou, à défaut de celui-ci, par le président de chambre qui le remplace.
 
-Elle ne peut siéger que si tous les membres qui doivent la composer sont présents.
+La formation ne peut siéger que si tous les membres qui doivent la composer sont présents.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 151-2 du code de l'organisation judiciaire est abrogé à l'exception
+des deuxième, troisième et quatrième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant
+refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1052,18 +1101,28 @@ Elle ne peut siéger que si tous les membres qui doivent la composer sont prése
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+	  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
 
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R441-1 (M)
+
 
 ###### Article L151-3
 
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent titre sont fixées, en ce qui concerne les juridictions autres que pénales, par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1072,9 +1131,17 @@ Les modalités d'application du présent titre sont fixées par décret en Conse
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+	  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-4 (V)
 
 
 ## Livre II : La cour d'appel
@@ -14396,7 +14463,7 @@ attribuée expressément à une autre juridiction, en raison de la nature de l'a
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de grande
 instance statue en dernier ressort lorsque le montant de la demande, déterminé dans les conditions prévues par le nouveau
-Code de procédure civile, est inférieur ou égal à 25000 F [*francs*].
+Code de procédure civile, est inférieur ou égal à 3800 euros.
 
 **Liens relatifs à cet article**
 
@@ -14412,13 +14479,13 @@ Code de procédure civile, est inférieur ou égal à 25000 F [*francs*].
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 2 (V)
 
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*311-3
@@ -15439,8 +15506,8 @@ tableau XII annexé au présent code.
 ###### Article R*321-1
 
 Sous réserve des dispositions des articles suivants, le tribunal d'instance connaît, en matière civile, de toutes actions
-personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 25000 F et à charge d'appel jusqu'à la valeur de 50000 F
-[*francs*].
+personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 3800 euros et à charge d'appel jusqu'à la valeur de 7600
+euros.
 
 Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal d'instance statuant en
 premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières, dans la limite des
@@ -15460,13 +15527,13 @@ taux prévus à l'alinéa précédent.
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
 
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -15476,10 +15543,10 @@ taux prévus à l'alinéa précédent.
 ###### Article R*321-2
 
 Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît, en dernier
-ressort, jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel lorsque la demande excède cette somme ou est
-indéterminée, des actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en
-autorisation, validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait
-contestation de la part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
+ressort, jusqu'à la valeur de 3800 euros et à charge d'appel lorsque la demande excède cette somme ou est indéterminée, des
+actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en autorisation,
+validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait contestation de la
+part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
 
 Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux à loyer d'immeubles ou de
 locaux à usage commercial, industriel ou artisanal régis par le décret n° 53-960 du 30 septembre 1953.
@@ -15503,13 +15570,13 @@ locaux à usage commercial, industriel ou artisanal régis par le décret n° 53
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
 
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-3
@@ -15594,8 +15661,8 @@ conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier
 
 ###### Article R*321-6
 
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel à quelque
-valeur que la demande puisse s'élever [*compétence*] :
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 3800 euros et à charge d'appel à quelque valeur que la
+demande puisse s'élever [*compétence*] :
 
 1° (Abrogé) ;
 
@@ -15623,13 +15690,13 @@ d'enseignement public ou privé ;
 
 	  - Décret  n°85-422  du 10 avril 1985  - art. 5 (V)
 
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-7
@@ -15847,9 +15914,9 @@ dudit code.
 
 Le tribunal d'instance connaît, à charge d'appel, [*compétence*] des contestations relatives à la révision des rentes
 viagères mentionnées par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et
-par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 5000 F, et,
-quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est
-inférieure ou égale à 25000 F [*francs*].
+par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 800 euros,
+et, quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice
+est inférieure ou égale à 3800 euros.
 
 **Liens relatifs à cet article**
 
@@ -15868,13 +15935,13 @@ inférieure ou égale à 25000 F [*francs*].
 
 	  - Décret n°78-330 1978-03-16
 
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-16
@@ -27644,6 +27711,28 @@ attribuée expressément à une autre juridiction en raison de la nature de l'af
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
+###### Article R931-9
+
+Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
+instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
+monnaie locale de 1680 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+
+
 ###### Article R931-10
 
 Les articles R. 311-4 à R. 311-6 sont applicables en Nouvelle-Calédonie et dans les territoires visés au présent chapitre,
@@ -29199,32 +29288,6 @@ françaises les juridictions de l'ordre judiciaire ayant leur siège à Saint-De
 	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer
-
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna
-
-##### Section II : Le tribunal de première instance
-
-##### Sous-section I : Institution et compétence.
-
-###### Article R931-9
-
-Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
-instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
-monnaie locale de 11000 francs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
 ### Titre IV : Dispositions particulières à Mayotte
 
 #### Chapitre Ier : Dispositions générales.
@@ -29854,7 +29917,7 @@ compétence n'est pas attribuée expressément à une autre juridiction en raiso
 ###### Article R943-2
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
-instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à 3 000 F.
+instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à 460 euros.
 
 **Liens relatifs à cet article**
 
@@ -29865,11 +29928,19 @@ instance statue en dernier ressort lorsque le montant de la demande en principal
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Décret n°2004-593 du 17 juin 2004 - art. 14 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2 (Ab)
 
 
 ###### Article R943-3
