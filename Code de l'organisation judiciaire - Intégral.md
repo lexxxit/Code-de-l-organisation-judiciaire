@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1982-05-07
+Version Consolidée au 1982-12-21
 
 # Partie législative ancienne
 
@@ -8576,6 +8576,143 @@ d'injonction de payer *compétence*.
 	**Abrogé par**:
 
 	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+
+
+### Titre II : Le conseil de prud'hommes
+
+#### Chapitre Ier : Attributions et institution
+
+###### Article R421-1
+
+Les dispositions réglementaires relatives à l'institution des conseils de prud'hommes sont fixées par les articles R. 511-1 à
+R. 511-3 du code du travail ainsi qu'il suit :
+
+"Art. R. 511-1 : Avant la création, la suppression, la modification du ressort ou le transfert du siège d'un conseil de
+prud'hommes, le ministre chargé du travail doit publier au Journal officiel un avis indiquant :
+
+a) Le siège du conseil à créer ou à supprimer ou en cas de transfert le nouveau siège du conseil ;
+
+b) L'étendue de la compétence territoriale du conseil à créer et du ou des conseils dont le ressort est affecté par la
+création, la suppression ou la modification envisagée ;
+
+c) L'effectif des conseillers des différentes sections du conseil à créer ou dont l'organisation doit être modifiée.
+
+L'avis invite les organismes et les autorités énumérés à l'article L. 511-3 à faire connaître au ministre chargé du travail,
+dans le délai de trois mois, leurs observations et avis".
+
+"Art. R. 511-2 : Le décret d'institution du conseil de prud'hommes fixe le siège et le ressort du conseil et indique la date
+à laquelle il sera procédé à l'élection des conseillers".
+
+"Art. R. 511-3 : En cas de modification du ressort d'un conseil de prud'hommes par suite d'une nouvelle délimitation de
+circonscriptions judiciaires, le conseil de prud'hommes primitivement saisi demeure compétent pour statuer sur les procédures
+introduites antérieurement à la date de cette modification.
+
+En cas de création d'un conseil de prud'hommes, la cour d'appel, saisie sur requête du procureur général, constate que la
+nouvelle juridiction est en mesure de fonctionner et fixe la date de l'installation du conseil à compter de laquelle le ou
+les conseils de prud'hommes dont le ressort est réduit cessent d'être compétents pour connaître des affaires entrant dans
+leur compétence".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 10 JORF 2 décembre 1979
+	  - Décret n°80-196 du 10 mars 1980 - art. 4 () JORF 14 mars 1980
+	  - Décret n°82-1073 1982-12-15 art. 30 JORF 21 décembre 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du travail
+	  - Code du travail - art. L511-3
+
+	**Anciens textes**:
+
+	  - Code du travail R511-1 à R511-3
+
+
+#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé
+
+###### Article R424-1
+
+Les règles relatives à l'organisation du bureau de conciliation, du bureau de jugement et de la formation de référé sont
+fixées par les articles R. 515-1 à R. 515-4 du code du travail ainsi qu'il suit :
+
+"Art. R. 515-1
+
+Le bureau de conciliation est composé d'un prud'homme salarié et d'un prud'homme employeur. Le règlement particulier de
+chaque section établit un roulement entre tous les prud'hommes salariés et tous les prud'hommes employeurs.
+
+La présidence appartient alternativement au salarié et à l'employeur, suivant un roulement établi par ledit règlement.
+
+Celui des deux qui préside le bureau le premier est désigné par le sort.
+
+Exceptionnellement et dans les cas prévus à l'article  L. 513-8 les deux membres composant le bureau peuvent être pris parmi
+les prud'hommes salariés ou parmi les prud'hommes employeurs si la section ne se trouve composée que d'un seul collège.
+
+Les séances du bureau de conciliation ont lieu au moins une fois par semaine. Elles ne sont pas publiques".
+
+"Art. R. 515-2
+
+A défaut du président, ou du vice-président que son tour de rôle appelle à la présidence, celle-ci peut être exercée par un
+conseiller faisant partie de l'élément auquel appartient le président ou le vice-président défaillant et désigné comme
+suppléant dans les formes prévues aux articles L. 512-7, R. 512-3, L. 512-8. En l'absence de cette désignation, la présidence
+revient au conseiller le plus ancien en fonctions dans le même élément ; s'il y a égalité dans la durée des fonctions, au
+plus âgé".
+
+"Art. R. 515-3
+
+Exceptionnellement dans les cas prévus à l'article L. 513-8, le bureau de jugement peut valablement délibérer avec un nombre
+de membres pair et au moins égal à quatre, alors même qu'il ne serait pas formé d'un nombre égal de salariés et
+d'employeurs".
+
+"Art. R. 515-4
+
+Chaque conseil de prud'hommes comprend une formation de référé commune à l'ensemble des sections du conseil de prud'hommes.
+Cette formation est composée d'un prud'homme salarié et d'un prud'homme employeur.
+
+L'Assemblée générale du conseil de prud'hommes désigne chaque année, selon les dispositions de l'article L. 512-7, les
+conseillers prud'hommes employeurs et les conseillers prud'hommes salariés appelés à tenir les audiences de référé. Le nombre
+des conseillers prud'hommes ainsi désignés doit être suffisant pour assurer, selon un roulement établi par le règlement
+intérieur du conseil de prud'hommes, le service des audiences de référé.
+
+La présidence des audiences de référé est assurée alternativement par un conseiller prud'homme employeur et par un conseiller
+prud'homme salarié dans les conditions fixées par le règlement intérieur.
+
+En cas de création d'un conseil de prud'hommes, les désignations mentionnées au deuxième alinéa du présent article doivent
+intervenir dans un délai de trois mois à compter de l'installation du conseil. Jusqu'à ces désignations, la formation de
+référé du conseil de prud'hommes est provisoirement composée du président et du vice-président du conseil de prud'hommes et
+des conseillers que ceux-ci désignent au sein de leurs éléments respectifs".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°79-1022 1979-11-23 art. 10 JORF 2 décembre 1979
+	  - Décret n°82-1073 1982-12-15 art. 6 et 31 JORF 21 décembre 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du travail
+
+	**Anciens textes**:
+
+	  - Code du travail R515-1 à R515-4
 
 
 ### Titre III : Le juge de l'expropriation
