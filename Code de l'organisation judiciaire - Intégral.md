@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-04-17
+Version Consolidée au 2004-06-19
 
 # Partie législative ancienne
 
@@ -5075,19 +5075,24 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ###### Article L442-1
 
-En vue de pourvoir à l'élection des membres assesseurs des tribunaux paritaires des baux ruraux, il est dressé dans chaque
-commune, dans un délai déterminé par décret, à la diligence des maires, sur invitation des préfets, deux listes distinctes,
-s'il y a lieu, des bailleurs à ferme et à colonat partiaire et deux listes distinctes, s'il y a lieu, des preneurs à ferme et
-à colonat partiaire.
+En vue de pourvoir à l'élection des membres assesseurs des tribunaux paritaires des baux ruraux, il est dressé, dans le
+ressort de chaque tribunal, deux listes distinctes, s'il y a lieu, des bailleurs à ferme et à colonat partiaire et deux
+listes distinctes, s'il y a lieu également, des preneurs à ferme et à colonat partiaire.
 
-Lorsqu'il y a lieu de procéder à une élection complémentaire en application de l'article L. 442-4, les listes électorales
-sont mises à jour entre le 10 et le 20 du mois précédant cette élection selon les modalités fixées à l'alinéa précédent.
+Tout bailleur ou preneur du ressort peut demander au préfet l'inscription ou la radiation d'un électeur omis ou indûment
+inscrit. La décision du préfet sur le recours gracieux peut être contestée devant le tribunal d'instance, dans les conditions
+prévues à l'article L. 27 du code électoral.
 
-Les listes électorales sont établies selon la procédure prévue en matière d'élections municipales. Toutefois, les délais de
-publication des listes sont réduits à trois jours et ceux du dépôt des demandes en inscription et radiation à huit jours.
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
-La commission municipale chargée d'établir les listes électorales des bailleurs et preneurs doit comprendre un délégué de
-l'organisation syndicale agricole la plus représentative.
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -5100,18 +5105,26 @@ l'organisation syndicale agricole la plus représentative.
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
+	  - Ordonnance n°2004-570 du 17 juin 2004 - art. 1 () JORF 19 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. L27 (V)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-3 (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R442-1 (Ab)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-4 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-25 (V)
 
 
 ###### Article L442-2
@@ -5182,30 +5195,13 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 
 ###### Article L442-3
 
-Dans le mois qui suit la publication des listes, les électeurs figurant sur ces listes sont convoqués, [*délai*] huit jours
-au moins à l'avance, à la mairie par voie d'affiches, en vue de procéder à l'élection, dans chaque ressort, au scrutin
-[*mode*] secret et à la majorité relative, des deux membres titulaires et de deux suppléants de chaque catégorie et, s'il y a
-lieu, de chaque section devant composer le tribunal paritaire.
+L'élection des assesseurs bailleurs et preneurs a lieu au scrutin secret uninominal majoritaire à un tour dans le ressort de
+chaque tribunal. Sont déclarés élus titulaires les bailleurs et les preneurs ayant obtenu le plus grand nombre de suffrages.
+Sont ensuite déclarés élus suppléants les bailleurs et les preneurs dans l'ordre des voix obtenues lors de l'élection.
 
-Le droit de vote peut également être exercé par correspondance dans des conditions fixées par décret en Conseil d'Etat.
+Le droit de vote est exercé par correspondance.
 
-Chacun des bailleurs et preneurs ne peut exercer son droit de vote que dans une seule commune.
-
-Les convocations sont faites à la diligence du préfet. Le préfet peut fixer les heures d'ouverture et de clôture du scrutin.
-
-Avant l'ouverture du scrutin, il est procédé à la désignation d'un bureau composé [*composition*] du maire ou d'un adjoint,
-président, et de deux membres. Ce bureau procède aux opérations de dépouillement dans les mêmes conditions que pour les
-élections municipales et sous la responsabilité du maire ou de son adjoint.    Les résultats, ainsi que les feuilles de
-dépouillement, les bulletins de vote et les enveloppes sont transmis sur-le-champ au chef-lieu du département où il est
-procédé à la vérification des opérations électorales par une commission présidée par le préfet ou son représentant assisté
-d'un magistrat désigné par le premier président de la cour d'appel et de cinq membres désignés par les organisations
-syndicales agricoles proportionnellement à leur importance.
-
-La composition des tribunaux paritaires est affichée au greffe du tribunal [*délai*] cinq jours francs au moins avant la
-première audience de la session.
-
-Les contestations relatives à l'application du présent article sont de la compétence du tribunal administratif. Elles sont
-instruites et jugées comme en matière d'élections municipales.
+Les conditions d'application de l'article L. 442-1 et du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -5220,7 +5216,15 @@ instruites et jugées comme en matière d'élections municipales.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 23 () JORF 18 janvier 2002
+	  - Ordonnance n°2004-570 du 17 juin 2004 - art. 2 () JORF 19 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
 
 
 ###### Article L442-4
