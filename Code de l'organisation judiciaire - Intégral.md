@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-05-14
+Version Consolidée au 1981-05-15
 
 # Partie législative ancienne
 
@@ -8310,44 +8310,6 @@ ce tribunal.
 	**Cite**:
 
 	  - Code de l'organisation judiciaire R321-34 et R321-37
-
-
-###### Article R*321-39
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 du 22 décembre 1958 - art. 19, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°81-529 1981-05-12 art. 1 JORF 15 mai 1981
-
-
-###### Article R*321-40
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1281 1958-12-22 art. 19-1
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Abrogé par**:
-
-	  - Décret n°81-529 1981-05-12 art. 1 JORF 15 mai 1981
 
 
 ###### Article R*321-41
