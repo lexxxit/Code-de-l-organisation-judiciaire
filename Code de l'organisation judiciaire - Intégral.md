@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-03-19
+Version Consolidée au 1992-07-05
 
 # Partie législative ancienne
 
@@ -20728,11 +20728,15 @@ dernier ressort des tribunaux d'instance prévu à l'article R321-2.
 
 Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau n° VII annexé au présent code.
 
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions commerciales compétentes dans les départements d'outre-
-mer sont fixés conformément au tableau IX annexé au présent code.
+Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort des juridictions commerciales
+compétentes dans les départements d'outre-mer sont fixés conformément au tableau XI annexé au présent code.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+	  - Code de commerce. - art. L621-5 (M)
 
 	**Anciens textes**:
 
@@ -20744,7 +20748,7 @@ mer sont fixés conformément au tableau IX annexé au présent code.
 
 	**Modifié par**:
 
-	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
+	  - Décret n°92-611 du 3 juillet 1992 - art. 5 () JORF 5 juillet 1992
 
 
 ###### Article R*921-7
