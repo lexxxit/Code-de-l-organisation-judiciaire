@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1980-08-24
+Version Consolidée au 1981-05-14
 
 # Partie législative ancienne
 
@@ -6725,6 +6725,30 @@ attribuée expressément à une autre juridiction, en raison de la nature de l'a
 	  - Code du travail - art. R3326-1 (VD)
 
 
+###### Article R*311-3
+
+Conformément aux articles 1215 et 1221 du nouveau Code de procédure civile, un recours peut, en toutes matières, être formé
+devant le tribunal de grande instance contre les décisions du juge des tutelles et contre celles du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de procédure civile 882-2 et 882-3
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 42 JORF 14 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1215 et 1221
+
+
 ###### Article R*311-4
 
 Sans préjudice de l'application de l'article 3 du Code de procédure pénale et de la loi n° 57-1424 du 31 décembre 1957, les
@@ -7511,6 +7535,26 @@ tribunal de commerce.
 
 ##### Sous-section I : Compétence d'attribution
 
+###### Article R*321-3
+
+Le tribunal d'instance connaît, dans les conditions fixées par le nouveau code de procédure civile, de la procédure
+d'injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-790 1972-08-28 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 3 JORF 14 mai 1981
+
+
 ###### Article R*321-4
 
 Le tribunal d'instance connaît, lorsque les causes de la saisie sont dans les limites de sa compétence :
@@ -7633,6 +7677,85 @@ remboursement.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+
+###### Article R*321-9
+
+Le tribunal d'instance connaît, à charge d'appel [*compétence*] :
+
+1° Des demandes en paiement, révision ou suppression des pensions alimentaires fondées sur les articles 203, 205, 206, 207,
+214, 334, 1448 et 1449 du Code civil, exception faite des demandes qui seraient formées pour l'entretien et l'éducation des
+enfants à la suite d'une action en divorce ou en séparation de corps, ainsi que des demandes qui seraient accessoires à une
+action en recherche de filiation. Lorsque le tribunal d'instance est appelé à statuer en vertu du présent numéro, les débats
+ont lieu en audience non publique.
+
+2° Des actions possessoires ;
+
+3° Des actions en bornage ;
+
+4° Des actions relatives à la distance prescrite par la loi, les règlements particuliers et l'usage des lieux, pour les
+plantations d'arbres ou de haies ;
+
+5° Des actions relatives aux constructions et travaux énoncés dans l'article 674 du Code civil ;
+
+6° Des actions relatives à l'élagage des arbres et haies, et au curage des fossés et canaux servant à l'irrigation des
+propriétés ou au mouvement des usines et moulins ;
+
+7° Des contestations relatives au drainage et à l'assainissement des terres ;
+
+8° Des contestations relatives aux indemnités auxquelles peuvent donner lieu l'élargissement ou l'ouverture du nouveau lit
+d'un cours d'eau non navigable, ni flottable, ainsi que les servitudes nécessaires pour l'exercice du hâlage sur les rivières
+navigables et flottables ;
+
+9° Des contestations concernant le refus de payer les droits de douane, les oppositions à contrainte, la non-décharge des
+acquits-à-caution et les autres affaires de douane ;
+
+10° Des demandes en paiement des droits de place et de stationnement perçus par les communes ou par leurs concessionnaires ;
+
+11° Des contestations relatives au maintien de l'indivision, à l'attribution et à la fixation de la valeur de l'immeuble en
+matière d'habitation individuelle à loyer modéré ;
+
+12° Des contestations relatives au maintien ou à la continuation de l'indivision et au règlement de l'indemnité pour
+ajournement du partage en matière de bien de famille insaisissable ;
+
+13° Des contestations relatives au règlement des indemnités allouées en raison de la servitude du survol des téléfériques ;
+
+14° Des contestations relatives à l'exercice de la servitude de débroussaillement en bordure des voies ferrées et au
+règlement des indemnités ;
+
+15° Des contestations relatives à l'établissement et à l'exercice des servitudes instituées par les articles 123, 124, 126,
+127, 135, 136 et 137 du Code rural, ainsi qu'aux indemnités dues en raison de ces servitudes ;
+
+16° Des contestations relatives aux servitudes établies au profit des associations syndicales prévues par la loi du 21 juin
+1865.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1284 1958-12-22 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 44 JORF 14 mai 1981
+
+	**Cite**:
+
+	  - Code civil - art. 1448 (V)
+	  - Code civil - art. 1449 (M)
+	  - Code civil - art. 203 (V)
+	  - Code civil - art. 205 (V)
+	  - Code civil - art. 206 (V)
+	  - Code civil - art. 207 (V)
+	  - Code civil - art. 214 (V)
+	  - Code civil - art. 334 (M)
+	  - Code civil - art. 674 (V)
+	  - Code rural 123, 124, 126, 127, 135, 136, 137
+	  - Loi n°1865-06-21
 
 
 ###### Article R*321-10
@@ -8414,6 +8537,26 @@ personnelle ou d'autres sanctions prononcées par ce tribunal.
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
+
+
+###### Article R*411-4
+
+Le tribunal de commerce connaît, dans les conditions fixées par le nouveau Code de procédure civile, de la procédure
+d'injonction de payer *compétence*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 46 JORF 14 mai 1981
+
+	**Abrogé par**:
+
+	  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
 ### Titre III : Le juge de l'expropriation
@@ -9488,6 +9631,32 @@ juridiction qu'il préside.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
+
+
+### Titre XI : Assistance du juge par le secrétaire de la juridiction
+
+###### Article R*7-11-1-1
+
+Le juge est, dans les actes de sa juridiction, toujours assisté du secrétaire de la juridiction, à moins que la loi n'en
+dispose autrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 47 JORF 14 mai 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
 ## Livre VIII : Les secrétariats-greffes, greffes et secrétariats
