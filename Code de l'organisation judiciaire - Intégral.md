@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-05-14
 
 # Partie législative ancienne
 
@@ -16302,7 +16302,7 @@ attribuée expressément à une autre juridiction, en raison de la nature de l'a
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de grande
 instance statue en dernier ressort lorsque le montant de la demande, déterminé dans les conditions prévues par le nouveau
-Code de procédure civile, est inférieur ou égal à 3800 euros.
+Code de procédure civile, est inférieur ou égal à 4 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -16320,7 +16320,7 @@ Code de procédure civile, est inférieur ou égal à 3800 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 19 () JORF 14 mai 2005
 
 
 ###### Article R*311-3
@@ -17836,88 +17836,18 @@ annexé au présent code.
 
 ##### Sous-section I : Compétence d'attribution
 
-###### Article R*321-1
-
-Sous réserve des dispositions des articles R. 321-2 à R. 321-23, R. 331-1 et R. 331-2, le tribunal d'instance connaît, en
-matière civile, de toutes actions personnelles ou mobilières, en dernier ressort jusqu'à la valeur de 3 800 Euros et à charge
-d'appel jusqu'à la valeur de 7 600 euros. Sous les mêmes réserves, il connaît aussi, à charge d'appel, des demandes
-indéterminées qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 7 600 euros.
-
-Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal d'instance statuant en
-premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières, dans la limite des
-taux prévus à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1284 1958-12-22 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Cité par**:
-
-	  - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 2 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-460 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE R321-2 à R321-23, R331-1, R331-2
-
-
-###### Article R*321-2
-
-Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît en dernier
-ressort, jusqu'à la valeur de 3 800 euros et à charge d'appel lorsque la demande excède cette somme ou est indéterminée, des
-actions dont le contrat de louage d'immeubles est l'objet, la cause ou l'occasion, ainsi que de celles relatives à
-l'application de la loi n° 48-1360 du 1er septembre 1948.
-
-Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux à loyer d'immeubles ou de
-locaux à usage commercial, industriel ou artisanal régis par le décret n° 53-960 du 30 septembre 1953.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-1360 1948-09-01
-	  - Décret n°53-960 1953-09-30
-
-	**Anciens textes**:
-
-	  - Décret n°58-1284 1958-12-22 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Cité par**:
-
-	  - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 3 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-460 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
-
-
 ###### Article R*321-3
 
-Le tribunal d'instance connaît, dans les conditions fixées par le nouveau code de procédure civile, des procédures
-d'injonction de payer et de faire.
+Lorsqu'il statue selon la procédure d'injonction de payer, le tribunal d'instance est compétent à quelque valeur que la
+demande puisse s'élever.
+
+Lorsqu'il statue en référé ou par ordonnance sur requête, le juge du tribunal d'instance connaît, en dernier ressort jusqu'à
+la valeur de 4 000 euros et à charge d'appel jusqu'à 10 000 euros, des demandes visées à l'article L. 321-2.
+
+**Nota:**
+
+Décret 2005-460 du 13 mai 2005 art. 38 : Les articles 3,26 à 31,32 et 34 du présent décret sont applicables aux instances
+introduites après son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17931,12 +17861,25 @@ d'injonction de payer et de faire.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 3 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-6 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-7 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L321-2
 
 
 ###### Article R*321-4
 
-Il connaît, dans les limites de l'article R. 321-1, des actions en validité et en nullité d'offres réelles autres que celles
+Il connaît, dans les limites de l'article L. 321-2, des actions en validité et en nullité d'offres réelles autres que celles
 qui concernent les administrations de l'enregistrement ou des contributions indirectes.
 
 **Liens relatifs à cet article**
@@ -17951,22 +17894,21 @@ qui concernent les administrations de l'enregistrement ou des contributions indi
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 4 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 4 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE R321-1
+	  - Code de l'organisation judiciaire - art. L321-2
 
 
 ###### Article R*321-5
 
 Le tribunal d'instance connaît des demandes de mainlevée de l'opposition frappant les titres perdus ou volés dans les
-conditions prévues par les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956.
-
-**Nota:**
-
-NOTA : Les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956 ont été transférés aux articles 19 et 20 de ce décret.
+conditions prévues par les articles 9 et 20 du décret n° 56-27 du 11 janvier 1956.
 
 **Liens relatifs à cet article**
 
@@ -17976,28 +17918,25 @@ NOTA : Les articles 29 et 30 du décret n° 56-27 du 11 janvier 1956 ont été t
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 5 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Décret n°56-27 du 11 janvier 1956 - art. 19 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 20 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 29 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 30 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 20
+	  - Décret n°56-27 du 11 janvier 1956 - art. 9
 
 	**Anciens textes**:
 
 	  - Décret n°56-27 du 11 janvier 1956 - art. 29 (Ab)
 
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-6 (V)
-
 
 ###### Article R*321-6
 
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 3800 euros et à charge d'appel à quelque valeur que la
-demande puisse s'élever [*compétence*] :
+Le tribunal d'instance connaît à quelque valeur que la demande puisse s'élever :
 
 1° (Abrogé) ;
 
@@ -18027,13 +17966,21 @@ d'enseignement public ou privé ;
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 6 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-13 (V)
 
 
 ###### Article R*321-7
 
-Le tribunal d'instance connaît, dans les mêmes limites et sous réserve des dispositions spéciales du Code rural et du Code
-forestier :
+Le tribunal d'instance connaît, à quelque valeur que la demande puisse s'élever et sous réserve des dispositions spéciales du
+Code rural et du Code forestier :
 
 1° Des actions pour dommages causés aux champs et cultures, aux fruits et récoltes, aux arbres, aux clôtures et aux bâtiments
 agricoles, que ces dommages résultent du fait de l'homme, des animaux domestiques ou des instruments et machines de culture ;
@@ -18063,12 +18010,20 @@ d'exploitation.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 7 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-14 (M)
 
 
 ###### Article R*321-8
 
-Le tribunal d'instance connaît, dans les mêmes limites  :
+Le tribunal d'instance connaît, à quelque valeur que la demande puisse s'élever :
 
 1° Des litiges relatifs à la vente des objets abandonnés chez les hôteliers ou logeurs, dans les garde-meubles ou chez tout
 dépositaire, des objets confiés à des ouvriers, industriels ou artisans pour être travaillés, réparés ou mis en garde, et des
@@ -18099,7 +18054,15 @@ remboursement.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 7 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-15 (V)
 
 
 ###### Article R*321-9
@@ -18108,7 +18071,7 @@ Le tribunal d'instance connaît, à charge d'appel :
 
 1° (Abrogé) ;
 
-2° Des actions possessoires ;
+2° (Abrogé) ;
 
 3° Des actions en bornage ;
 
@@ -18126,8 +18089,8 @@ propriétés ou au mouvement des usines et moulins ;
 d'un cours d'eau non navigable, ni flottable, ainsi que les servitudes nécessaires pour l'exercice du hâlage sur les rivières
 navigables et flottables ;
 
-9° Des contestations concernant le refus de payer les droits de douane, les oppositions à contrainte, la non-décharge des
-acquits-à-caution et les autres affaires de douane ;
+9° Des contestations concernant le paiement, la garantie ou le remboursement des créances de toute nature recouvrées par
+l'administration des douanes et les autres affaires de douane ;
 
 10° Des demandes en paiement des droits de place et de stationnement perçus par les communes ou par leurs concessionnaires ;
 
@@ -18142,17 +18105,10 @@ ajournement du partage en matière de bien de famille insaisissable ;
 14° Des contestations relatives à l'exercice de la servitude de débroussaillement en bordure des voies ferrées et au
 règlement des indemnités ;
 
-15° Des contestations relatives à l'établissement et à l'exercice des servitudes instituées par les articles 123, 124, 126,
-127, 135, 136 et 137 du Code rural, ainsi qu'aux indemnités dues en raison de ces servitudes (1) ;
+15° (Abrogé) ;
 
-16° Des contestations relatives aux servitudes établies au profit des associations syndicales prévues par la loi du 21 juin
-1865 (2) .
-
-**Nota:**
-
-NOTA : (1) Les articles cités du code rural ont été abrogés par l'article  5 de la loi n° 92-1383 du 11 décembre 1992.
-
-(2) : La loi du 21 juin 1865 a été abrogée par l'ordonnance n° 2004-632 du 1er juillet 2004.
+16° Des contestations relatives aux servitudes établies au profit des associations syndicales prévues par l'ordonnance n°
+2004-632 du 1er juillet 2004.
 
 **Liens relatifs à cet article**
 
@@ -18160,25 +18116,25 @@ NOTA : (1) Les articles cités du code rural ont été abrogés par l'article  5
 
 	  - Décret n°58-1284 1958-12-22 art. 7
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°78-330 1978-03-16
+	  - Ordonnance 2004-632 2004-07-01
+	  - Code civil - art. 674 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cite**:
-
-	  - Code civil - art. 674 (V)
+	  - Décret n°2005-460 du 13 mai 2005 - art. 8 () JORF 14 mai 2005
 
 
 ###### Article R*321-10
 
-Le tribunal d'instance connaît des difficultés auxquelles donne lieu l'application de l'article 200 du code rural relatif aux
-animaux domestiques non gardés.
+Le tribunal d'instance connaît des actions mentionnées à l'article L. 211-1 du code rural.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-17 (M)
 
 	**Anciens textes**:
 
@@ -18186,7 +18142,7 @@ animaux domestiques non gardés.
 
 	**Cite**:
 
-	  - Code rural 200
+	  - Code rural L211-1
 
 	**Codifié par**:
 
@@ -18194,13 +18150,17 @@ animaux domestiques non gardés.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 9 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*321-11
 
-Le tribunal d'instance connaît des contestations relatives à l'application du titre VI du livre V du Code rural concernant la
-location de jardins familiaux, dans les limites de sa compétence ordinaire.
+Le tribunal d'instance connaît des contestations relatives à l'application du titre VII du livre IV (partie législative) du
+Code rural concernant la location de jardins familiaux, dans les limites de sa compétence ordinaire.
 
 **Liens relatifs à cet article**
 
@@ -18214,18 +18174,16 @@ location de jardins familiaux, dans les limites de sa compétence ordinaire.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 10 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article R*321-12
 
 Le tribunal d'instance connaît des contestations sur les conditions des funérailles.
-
-Il est statué dans le jour, sur assignation de la partie la plus diligente. Appel peut être interjeté dans les vingt-quatre
-heures de la décision devant le premier président de la cour d'appel, qui doit statuer immédiatement.
-
-La décision exécutoire sur minute est notifiée au maire chargé de l'exécution sans qu'il soit porté atteinte aux attributions
-de ce dernier, concernant les mesures à prendre dans l'intérêt de la salubrité publique.
 
 **Liens relatifs à cet article**
 
@@ -18239,15 +18197,21 @@ de ce dernier, concernant les mesures à prendre dans l'intérêt de la salubrit
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 11 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-7 (V)
 
 
 ###### Article R*321-14
 
-Le tribunal d'instance connaît des contestations relatives à la procédure de recouvrement direct de toute pension
-alimentaire, de la contribution aux charges du mariage prévues par l'article 214 du code civil, des prestations
-compensatoires allouées sous forme de rente prévues par l'article 276 du même code et des subsides prévus par l'article 342
-dudit code.
+Le tribunal d'instance connaît des contestations relatives à la procédure de paiement direct des pensions alimentaires et des
+subsides prévus par l'article 342 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -18261,30 +18225,35 @@ dudit code.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 12 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 214 (V)
-	  - Code civil 214, 276 et 342
+	  - Code civil - art. 342
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-8 (V)
 
 
 ###### Article R*321-15
 
-Le tribunal d'instance connaît, à charge d'appel, [*compétence*] des contestations relatives à la révision des rentes
-viagères mentionnées par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et
-par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 800 euros,
-et, quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice
-est inférieure ou égale à 3800 euros.
+Le tribunal d'instance connaît, à charge d'appel, des contestations relatives à la révision des rentes viagères mentionnées
+par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et par les articles 1er et
+2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 800 euros, et, quel que soit le
+montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est inférieure ou égale
+à 4 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°49-420 1949-03-25
-	  - Loi n°49-1098 1949-08-02
-	  - Loi n°51-695 du 24 mai 1951 - art. 1 (V)
-	  - Loi n°51-695 du 24 mai 1951 - art. 2 (V)
+	  - Loi n°49-420 du 25 mars 1949
+	  - Loi n°51-695 du 24 mai 1951 - art. 1
 
 	**Anciens textes**:
 
@@ -18296,14 +18265,22 @@ est inférieure ou égale à 3800 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 13 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-9 (V)
 
 
 ###### Article R*321-16
 
-Le tribunal d'instance connaît dans les limites de sa compétence ordinaire fixée par l'article R321-1 des réclamations
-relatives au montant des indemnités allouées pour les réquisitions de biens ou de services faites en application des articles
-L. 2213-1, L. 2213-3, L. 2213-4, L. 2233-1, L. 2234-6 et L. 2234-11 à L. 2234-25 du code de la défense.
+Le tribunal d'instance connaît dans les limites de sa compétence ordinaire des réclamations relatives au montant des
+indemnités allouées pour les réquisitions de biens ou de services faites en application des articles L. 2213-1, L. 2213-3, L.
+2213-4, L. 2233-1, L. 2234-6 et L. 2234-11 à L. 2234-25 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -18317,11 +18294,19 @@ L. 2213-1, L. 2213-3, L. 2213-4, L. 2233-1, L. 2234-6 et L. 2234-11 à L. 2234-2
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 14 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-1 Code de la défense L2213-1, L2213-3, L2213-4, L2233-1, L2234-6 et L2234-11 à L2234-25
+	  - Code de la défense.
+	  - Code de la défense. - art. L2213-1
+	  - Code de la défense. - art. L2213-3
+	  - Code de la défense. - art. L2213-4
+	  - Code de la défense. - art. L2233-1
 
 
 ###### Article R*321-17
@@ -18498,8 +18483,8 @@ Le tribunal d'instance connaît de toutes les demandes incidentes, exceptions ou
 question relevant de la compétence exclusive d'une autre juridiction, alors même qu'ils exigeraient l'interprétation d'un
 contrat.
 
-Toutefois, si l'exception ou le moyen de défense implique l'examen d'une question de nature immobilière pétitoire, le
-tribunal d'instance pourra se prononcer, mais à charge d'appel.
+Toutefois, si l'exception ou le moyen de défense implique l'examen d'une question de nature immobilière pétitoire ou
+possessoire, le tribunal d'instance pourra se prononcer, mais à charge d'appel.
 
 **Liens relatifs à cet article**
 
@@ -18513,8 +18498,15 @@ tribunal d'instance pourra se prononcer, mais à charge d'appel.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 5 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 15 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-40 (M)
 
 
 ###### Article R*321-23
@@ -18598,8 +18590,8 @@ lieu où la convention a été passée ou exécutée lorsqu'une des parties est 
 
 ###### Article R*321-26
 
-Dans les cas prévus aux articles R321-2, R321-7 (1°, 2° et 6°) et R321-9 (2° à 8°, 11° à 15°), la demande est portée devant
-le tribunal du lieu de la situation des biens.
+Dans les cas prévus aux articles L. 321-2-1, L. 321-2-2, R321-7 (1°, 2° et 6°) et R321-9 (2° à 8°, 11° à 15°), la demande est
+portée devant le tribunal du lieu de la situation des biens.
 
 **Liens relatifs à cet article**
 
@@ -18613,11 +18605,21 @@ le tribunal du lieu de la situation des biens.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 16 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-48 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R321-2, R321-7 (1°, 2° et 6°) et R321-9 (2° à 8°, 11° à 15°)
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L321-2-1
+	  - Code de l'organisation judiciaire - art. L321-2-2
 
 
 ###### Article R*321-27
@@ -18713,6 +18715,43 @@ Dans les cas prévus à l'article R321-7 (5°), le tribunal compétent est celui
 	**Cite**:
 
 	  - Code de l'organisation judiciaire
+
+
+###### Article R*321-30-1
+
+Pour la délivrance d'un certificat de nationalité française, la compétence territoriale du tribunal d'instance désigné au
+tableau XIII annexé au présent code est déterminée suivant les règles ci-après :
+
+1° Lorsque le demandeur réside en France, le certificat de nationalité française est délivré par le greffier en chef du
+tribunal d'instance de son domicile ;
+
+2° Si le demandeur ne réside pas en France mais y est né, le certificat de nationalité française est délivré par le greffier
+en chef du tribunal d'instance de son lieu de naissance ;
+
+3° Pour les personnes nées et résidant à l'étranger, le certificat de nationalité française est délivré par le greffier en
+chef du tribunal d'instance du 1er arrondissement de Paris.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 17 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-52 (V)
 
 
 ##### Section II : Organisation
@@ -19230,9 +19269,9 @@ d'instance.
 
 ###### Article R*331-1
 
-Dans les conditions fixées par l'article L. 331-2, la juridiction de proximité connaît des actions personnelles mobilières,
-notamment celles prévues aux articles R. 321-1 à R. 321-16, à l'exclusion des contestations prévues à l'alinéa 2 de l'article
-R. 321-2.
+Dans les conditions fixées par l'article L. 331-2, la juridiction de proximité connaît des actions personnelles ou
+mobilières, notamment celles prévues aux articles R. 321-3 à R. 321-16, à l'exception de celles prévues à l'article R.
+321-15.
 
 **Liens relatifs à cet article**
 
@@ -19240,14 +19279,30 @@ R. 321-2.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 18 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-13 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-14 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-15 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-16 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-17 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-18 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-19 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-35 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-9 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE L331-2, R321-1 à R321-16, R321-2
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
+	  - Code de l'organisation judiciaire
+	  - Code de l'organisation judiciaire - art. L331-2
 
 
 ###### Article R*331-2
@@ -19395,30 +19450,6 @@ l'administration du tribunal d'instance.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-2 (VT)
 
 
-###### Article R*331-7
-
-Les membres de la juridiction de proximité portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un
-ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré. D'un module de 65 mm, elle porte
-à l'avers la mention "République française" et une tête symbolisant la République, placée de profil, tournée à droite.
-
-Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
-de 75 mm et de couleur bleu ciel, partagé en son milieu, dans le sens vertical, par un liseré noir d'une largeur de 5 mm.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-460 du 13 mai 2005 - art. 20 () JORF 14 mai 2005
-
-
 ## Livre IV : Les juridictions spécialisées non pénales
 
 ### Titre I : Le tribunal de commerce
@@ -19501,7 +19532,7 @@ liquidation de biens, d'une faillite personnelle ou d'autres sanctions prononcé
 
 ###### Article R*411-4
 
-Le tribunal de commerce connaît en dernier ressort des demandes jusqu'à la valeur de 3800 euros.
+Le tribunal de commerce connaît en dernier ressort des demandes jusqu'à la valeur de 4 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -19511,7 +19542,15 @@ Le tribunal de commerce connaît en dernier ressort des demandes jusqu'à la val
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 1 () JORF 12 décembre 2002
+	  - Décret n°2005-460 du 13 mai 2005 - art. 19 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R721-6 (V)
 
 
 #### Chapitre II : Organisation et fonctionnement.
@@ -24216,18 +24255,15 @@ Les secrétaires-greffiers.
 
 Les costumes des magistrats de la Cour de cassation, de la cour d'appel, du tribunal de grande instance, du tribunal
 d'instance, des auditeurs de justice, des membres du tribunal de commerce, des greffiers en chef, greffiers et secrétaires-
-greffiers ainsi que les insignes portés par les membres des conseils de prud'hommes et les assesseurs des juridictions de
-sécurité sociale sont définis dans l'annexe du présent code.
+greffiers ainsi que les insignes portés par les juges de proximité, les membres des conseils de prud'hommes et les assesseurs
+des juridictions de sécurité sociale sont définis dans l'annexe du présent code.
+
+**Nota:**
+
+Décret 2007-431 du 25 mars 2007 art. 3 I 1° : L'article R. 741-6 est abrogé en tant qu'il concerne les juges et les greffiers
+des tribunaux de commerce.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
 
 	**Liens**:
 
@@ -24235,12 +24271,25 @@ sécurité sociale sont définis dans l'annexe du présent code.
 
 	**Nouveaux textes**:
 
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-6 (V)
 	  - Code de commerce. - art. R721-4 (V)
 	  - Code de commerce. - art. R741-6 (V)
 
 	**Cite**:
 
 	  - Code de l'organisation judiciaire Annexe tableau des costumes et insignes
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 21 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ### Titre V : Dispositions générales relatives au ministère public
@@ -25049,8 +25098,19 @@ correctionnelles, conformément à l'article 511 du code de procédure pénale ;
 6° Emet un avis sur le projet d'ordonnance, préparé par le premier président, de répartition dans les chambres et services de
 la juridiction, des présidents de chambre et des conseillers dont la cour d'appel est composée ;
 
-7° Emet un avis sur la désignation par le premier président du ou des conseillers chargés de suivre l'application des peines
-dans le ressort de la cour d'appel ;
+7° Emet un avis sur le projet d'ordonnance préparé par le premier président désignant :
+
+a) Les juges de l'application des peines du ressort de la cour composant un tribunal de l'application des peines,
+conformément à l'article 712-3 du code de procédure pénale ;
+
+b) Le président de chambre ou le conseiller présidant la chambre de l'application des peines et les conseillers la composant
+en qualité d'assesseurs, conformément à l'article 712-13 du code de procédure pénale ;
+
+c) Le responsable d'une association de réinsertion des condamnés et le responsable d'une association d'aide aux victimes
+composant la chambre de l'application des peines, conformément à l'article 712-13 du code de procédure pénale ;
+
+d) Le ou les conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des
+peines dans le ressort de la cour d'appel ;
 
 8° Propose au garde des sceaux, ministre de la justice, les candidats aux fonctions de magistrat exerçant à titre temporaire,
 conformément à la loi n° 95-64 du 19 janvier 1995.
@@ -25068,15 +25128,28 @@ conformément à la loi n° 95-64 du 19 janvier 1995.
 
 	**Cite**:
 
-	  - Loi n°95-64 1995-01-19
-	  - CODE DE PROCEDURE PENALE - art. 191 (M)
-	  - CODE DE PROCEDURE PENALE - art. 219 (M)
-	  - CODE DE PROCEDURE PENALE - art. 511 (M)
-	  - Code du travail - art. L515-3 (M)
+	  - Loi n°95-64 du 19 janvier 1995
+	  - Code de procédure pénale - art. 191
+	  - Code de procédure pénale - art. 219
+	  - Code de procédure pénale - art. 511
+	  - Code de procédure pénale - art. 712-13
+	  - Code de procédure pénale - art. 712-3
+	  - Code du travail - art. L515-3
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+	  - Décret n°2005-460 du 13 mai 2005 - art. 23 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-41 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-42 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-43 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-44 (Ab)
 
 	**Cité par**:
 
@@ -25119,7 +25192,10 @@ exercera les attributions mentionnées au titre XI du Code de procédure pénale
 
 10° Emet un avis sur le projet d'ordonnance préparé par le président désignant un juge du tribunal d'instance pour exercer
 les fonctions du juge de proximité en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se révèle
-insuffisant.
+insuffisant;
+
+11° Emet un avis sur le projet d'ordonnance préparé par le président désignant un magistrat pour exercer les fonctions de
+juge des libertés et de la détention conformément à l'article 137-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -25127,6 +25203,7 @@ insuffisant.
 
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
 	  - Décret n°83-459 1983-06-08 art. 12, art. 16
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 399 (M)
 	  - CODE DE PROCEDURE PENALE - art. 50 (AbD)
 	  - CODE DE PROCEDURE PENALE - art. 697 (M)
@@ -25141,7 +25218,7 @@ insuffisant.
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 12 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 24 () JORF 14 mai 2005
 
 
 ##### Sous-section III : L'assemblée des magistrats du parquet
