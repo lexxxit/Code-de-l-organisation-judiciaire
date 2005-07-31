@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-07-20
+Version Consolidée au 2005-08-01
 
 # Partie législative ancienne
 
@@ -16069,19 +16069,21 @@ Les règles relatives à la compétence, à l'organisation et au fonctionnement 
 d'expropriation sont fixées par les articles R13-5 et R13-6 du Code de l'expropriation pour cause d'utilité publique ainsi
 qu'il suit :
 
-"Le nombre des chambres de la cour d'appel compétentes en matière d'expropriation pour cause d'utilité publique, s'il est
-nécessaire d'en constituer plusieurs, est fixé, pour chaque ressort, par arrêté du garde des sceaux, ministre de la justice.
+Art.  R. 13-5 : "Le nombre des chambres de la cour d'appel compétentes en matière d'expropriation pour cause d'utilité
+publique, s'il est nécessaire d'en constituer plusieurs, est fixé, pour chaque ressort, par arrêté du garde des sceaux,
+ministre de la justice.
 
 La chambre statuant en appel est présidée par un président de la chambre de la cour d'appel désigné, pour trois années
-renouvelables, par ordonnance du premier président. Celui-ci désigne, pour la même durée et dans les mêmes formes, un autre
-magistrat de la cour, chargé de suppléer le président en cas d'empêchement.
+renouvelables, par ordonnance du premier président après avis de l'assemblée des magistrats du siège de la cour d'appel.
+Celui-ci désigne, pour la même durée et dans les mêmes formes, un autre magistrat de la cour, chargé de suppléer le président
+en cas d'empêchement.
 
 Il peut être mis fin, dans les mêmes formes, aux fonctions de ces magistrats".
 
-"Si, dans le ressort d'une cour d'appel ou d'une chambre détachée, le nombre des juges de l'expropriation est insuffisant
-pour permettre la constitution de la juridiction d'appel soit d'une manière permanente, soit pour le jugement d'une ou
-plusieurs procédures, les assesseurs nécessaires sont choisis parmi les conseillers de la cour désignés à cet effet, pour une
-période de trois années renouvelable par ordonnance du premier président".
+Art. R. 13-6 : "Si, dans le ressort d'une cour d'appel ou d'une chambre détachée, le nombre des juges de l'expropriation est
+insuffisant pour permettre la constitution de la juridiction d'appel soit d'une manière permanente, soit pour le jugement
+d'une ou plusieurs procédures, les assesseurs nécessaires sont choisis parmi les conseillers de la cour désignés à cet effet,
+pour une période de trois années renouvelable par ordonnance du premier président".
 
 **Liens relatifs à cet article**
 
@@ -16089,10 +16091,18 @@ période de trois années renouvelable par ordonnance du premier président".
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2005-467 du 13 mai 2005 - art. 26 () JORF 15 mai 2005 en vigueur le  1er août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-5 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-6 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. **R13-6
+	  - Code de l'expropriation pour cause d'utilité publique - art. R13-5
 
 
 #### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires
@@ -23352,13 +23362,13 @@ justice."
 "Art. R. 13-2
 
 Les juges de l'expropriation et les magistrats habilités à les suppléer en cas d'empêchement sont désignés par ordonnance du
-premier président pour une durée de trois années renouvelable.
+premier président pour une durée de trois années renouvelable après avis de l'assemblée des magistrats du siège du tribunal
+de grande instance près lequel siège la juridiction mentionnée à l'article L. 13-1.
 
 Il peut être mis fin à leurs fonctions dans les mêmes formes.
 
 Les juges de l'expropriation et leurs suppléants sont désignés parmi les magistrats du tribunal de grande instance près
-lequel siège la juridiction mentionnée à l'article L. 13-1. Ils doivent avoir accompli deux années de services judiciaires
-effectifs."
+lequel siège la juridiction mentionnée à l'article L. 13-1.
 
 "Art. R. 13-3
 
@@ -23384,9 +23394,18 @@ juges. Ce magistrat est désigné dans les conditions prévues à l'article R. 1
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2005-467 du 13 mai 2005 - art. 25 () JORF 15 mai 2005 en vigueur le  1er août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique R13-1 à R13-4
+	  - Code de l'organisation judiciaire
+	  - Code de l'expropriation pour cause d'utilité publique
 
 
 ### Titre IV : Le tribunal paritaire des baux ruraux
@@ -30072,7 +30091,7 @@ les conditions prévues pour les régies d'avances et de recettes des organismes
 
 ###### Article R841-1
 
-Ainsi qu'il est dit à l'article R. 13-10 du code de l'expropriation pour cause d'utilité publique : "Le secrétariat de la
+Ainsi qu'il est dit à l'article R. 13-10 du code de l'expropriation pour cause d'utilité publique : "Le greffe de la
 juridiction mentionnée à l'article R. 13-1 est assuré par le greffier en chef du tribunal de grande instance auprès duquel
 ladite juridiction a son siège.
 
@@ -30086,15 +30105,23 @@ le greffier en chef désigne un remplaçant".
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-10 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R13-10
 
 
 ###### Article R841-2
 
-Ainsi qu'il est dit à l'article R. 13-11 du Code de l'expropriation pour cause d'utilité publique "Le secrétariat de la
-chambre d'appel est assuré, dans les mêmes conditions que ci-dessus, par le greffier en chef de la cour".
+Ainsi qu'il est dit à l'article R. 13-11 du Code de l'expropriation pour cause d'utilité publique "Le greffe de la chambre
+d'appel est assuré, dans les mêmes conditions que ci-dessus, par le greffier en chef de la cour".
 
 **Liens relatifs à cet article**
 
@@ -30102,9 +30129,17 @@ chambre d'appel est assuré, dans les mêmes conditions que ci-dessus, par le gr
 
 	  - Décret n°78-330 1978-03-16
 
+	**Modifié par**:
+
+	  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le  1er août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R13-11
 
 
 ### Titre VI : Le secrétariat des juridictions de sécurité sociale
