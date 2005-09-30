@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-08-01
+Version Consolidée au 2005-10-01
 
 # Partie législative ancienne
 
@@ -23442,40 +23442,10 @@ l'élection.
 
 ### Titre V : Les juridictions de sécurité sociale
 
-#### Chapitre Ier : Le tribunal des affaires de sécurité sociale
+###### Article R*450-1
 
-###### Article R*451-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal des affaires de sécurité sociale sont
-fixées par les articles R. 142-8 à R. 142-14 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1291 1958-12-22 art. 7 à 13-1
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
-
-	**Cite**:
-
-	  - Code de la sécurité sociale R142-8 à R142-14
-
-
-###### Article R*451-2
-
-Le siège et le ressort des tribunaux des affaires de sécurité sociale sont fixés conformément au tableau annexé au livre Ier
-du code de la sécurité sociale.
+Les règles concernant la compétence, l'organisation et le fonctionnement des juridictions de sécurité sociale sont fixées par
+le code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -23485,95 +23455,11 @@ du code de la sécurité sociale.
 
 	**Créé par**:
 
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
 
 	**Abrogé par**:
 
-	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
-
-
-#### Chapitre II : Le contentieux technique
-
-##### Section I : Les tribunaux du contentieux de l'incapacité
-
-###### Article R*452-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement des tribunaux du contentieux de l'incapacité sont
-fixées par les articles R. 143-1 à R. 143-5-3 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1291 1958-12-22 art. 29 à art. 32 et art. 50
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
-
-	**Cite**:
-
-	  - Code de la sécurité sociale R143-1 à R143-5-3
-
-
-###### Article R*452-1-1
-
-Le siège et le ressort des tribunaux du contentieux de l'incapacité sont fixés conformément au tableau annexé au livre Ier du
-code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Créé par**:
-
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
-
-
-##### Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail
-
-###### Article R*452-2
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la Cour nationale de l'incapacité et de la
-tarification de l'assurance des accidents du travail sont fixées par les articles R. 143-15 à R. 143-20 du code de la
-sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1291 1958-12-22 art. 38 à 40, art. 50
-	  - Décret n°58-1291 du 22 décembre 1958 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
-
-	**Cite**:
-
-	  - Code de la sécurité sociale R143-15 à R143-20
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ### Titre VI : Les prud'hommes pêcheurs
