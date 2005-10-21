@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-10-01
+Version Consolidée au 2005-10-22
 
 # Partie législative ancienne
 
@@ -17638,6 +17638,31 @@ demandes mentionnées à l'alinéa précédent".
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-41 (V)
 
 
+##### Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés.
+
+###### Article R*312-4
+
+Lorsqu'elle vise des personnes ou des organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice
+administrative, la demande formée sur le fondement du III de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés est portée devant le président du tribunal de grande instance dans le ressort
+duquel est domicilié le défendeur. Le président du tribunal de grande instance ou le juge délégué par lui statue dans les
+conditions des articles 484 et suivants du nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 82 (MMN) JORF 22 octobre 2005
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R935-3 (Ab)
+
+
 ##### Section V : Dispositions particulières en matière commerciale
 
 ###### Article R*312-5
@@ -31641,6 +31666,24 @@ fixés, en application de l'article L. 312-1-1, conformément au tableau IV ter 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-4 (V)
 
 
+###### Article R931-10-4
+
+Les dispositions de l'article R. 312-4 sont applicables en Polynésie française et en Nouvelle-Calédonie, sous réserve du
+remplacement de la référence aux articles 484 et suivants du nouveau code de procédure civile par une référence aux
+dispositions de procédure civile applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1309 2005-10-20 art. 95 JORF 22 octobre 2005
+
+
 ##### Sous-section II : Organisation.
 
 ###### Article R931-11
@@ -33485,6 +33528,24 @@ Les dispositions de l'article R. 312-10 sont applicables dans les Terres austral
 	  - Code de l'organisation judiciaire
 
 
+###### Article R935-3
+
+Les dispositions de l'article R. 312-4 sont applicables dans les Terres australes et antarctiques françaises, sous réserve du
+remplacement de la référence aux articles 484 et suivants du nouveau code de procédure civile par une référence aux
+dispositions de procédure civile applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1309 2005-10-20 art. 96 JORF 22 octobre 2005
+
+
 ### Titre IV : Dispositions particulières à Mayotte
 
 #### Chapitre Ier : Dispositions générales.
@@ -34191,6 +34252,30 @@ référence aux dispositions de procédure pénale applicables à Mayotte.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 3
+	  - Code de l'organisation judiciaire
+
+
+###### Article R943-3-1
+
+Les dispositions de l'article R. 312-4 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-329 1978-03-16
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1309 2005-10-20 art. 97 JORF 22 octobre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
 	  - Code de l'organisation judiciaire
 
 
