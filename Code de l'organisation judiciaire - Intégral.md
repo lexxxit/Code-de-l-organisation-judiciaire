@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-10-22
+Version Consolidée au 2005-11-16
 
 # Partie législative ancienne
 
@@ -28460,44 +28460,14 @@ consultation du Conseil national effectuée dans les formes prévues à l'aliné
 ###### Article R821-5
 
 Sans préjudice des dispositions de l'article R. 213-29, chaque greffe de tribunal de commerce fait l'objet d'une inspection
-au moins une fois tous les quatre ans. Il peut, en outre, être soumis à des inspections occasionnelles portant sur un domaine
-particulier de l'activité professionnelle du greffier ou sur l'ensemble de celle-ci.
-
-Les inspections occasionnelles ont lieu de façon inopinée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-7 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. R743-1 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire R213-29
-
-
-###### Article R821-6
+au moins une fois tous les quatre ans. Il peut, en outre, être soumis à des inspections occasionnelles inopinées portant sur
+un domaine particulier de l'activité professionnelle du greffier ou sur l'ensemble de celle-ci.
 
 Chaque inspection est prescrite par le garde des sceaux, ministre de la justice, soit d'office, soit à la demande du
 président du tribunal de commerce ou du président du Conseil national des greffiers des tribunaux de commerce. Elle est
-conduite par le procureur de la République.
-
-Un ou plusieurs inspecteurs sont désignés pour chaque mission par le garde des sceaux, ministre de la justice, parmi les
-greffiers des tribunaux de commerce en activité ou parmi les honoraires ayant cessé leur activité depuis moins de trois ans.
+conduite par le procureur de la République et est réalisée par un ou plusieurs inspecteurs désignés par le garde des sceaux,
+ministre de la justice, parmi les greffiers des tribunaux de commerce en activité ou parmi les greffiers honoraires ayant
+cessé leur activité depuis moins de trois ans.
 
 Les greffiers ainsi désignés sont choisis sur une liste comprenant quarante noms au moins, établie avant le début de chaque
 année par le bureau du Conseil national des greffiers des tribunaux de commerce.
@@ -28513,20 +28483,65 @@ la liste des greffiers proposés pour faire l'objet d'une inspection périodique
 
 	**Modifié par**:
 
-	  - Décret n°2004-1462 du 23 décembre 2004 - art. 2 () JORF 30 décembre 2004
+	  - Décret n°2005-1405 du 8 novembre 2005 - art. 1 () JORF 16 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R213-29
+
+
+###### Article R821-6
+
+L'inspecteur général des services judiciaires peut également, à la demande du garde des sceaux, ministre de la justice,
+procéder à des inspections occasionnelles inopinées portant sur l'ensemble de l'activité du greffier. Il peut à cette fin
+demander le concours des inspecteurs mentionnés à l'article R. 821-5 ou leur avis technique sur la comptabilité du greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Modifié par**:
+
+	  - Décret n°2005-1405 du 8 novembre 2005 - art. 2 () JORF 16 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. R743-2 (V)
+	  - Code de commerce. - art. R743-2 (M)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-5 (M)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-8 (Ab)
 
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. R743-2 (M)
-
 
 ###### Article R821-7
 
-Les inspecteurs disposent, dans l'exécution de leur mission, d'un pouvoir général d'investigation et de contrôle.
+L'inspecteur général des services judiciaires ainsi que les inspecteurs mentionnés à l'article R. 821-5 disposent, dans
+l'exécution de leur mission, d'un pouvoir général d'investigation et de contrôle.
 
 Ils peuvent se faire assister d'un expert-comptable et d'un commissaire aux comptes ; les frais occasionnés par cette
 assistance sont avancés par le Conseil national des greffiers des tribunaux de commerce ; ils sont recouvrés sur le greffier
@@ -28543,17 +28558,27 @@ toutes informations utiles à l'accomplissement de leur mission.
 
 	**Modifié par**:
 
-	  - Décret n°91-743 du 31 juillet 1991 - art. 2 () JORF 1er août 1991 en vigueur le 1er janvier 1992
+	  - Décret n°2005-1405 du 8 novembre 2005 - art. 3 () JORF 16 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
+	  - Code de commerce. - art. R743-3 (V)
 	  - Code de commerce. - art. R743-3 (M)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-5 (M)
 
 
 ###### Article R821-8
 
-Les inspecteurs adressent un compte rendu de leur mission au procureur de la République. Les inspections occasionnelles
-donnent lieu à l'établissement d'un rapport détaillé.
+Sauf dans les cas prévus à l'article R. 821-6, les inspecteurs mentionnés à l'article R. 821-5 adressent un compte rendu de
+leur mission au procureur de la République. Les inspections occasionnelles donnent lieu à l'établissement d'un rapport
+détaillé.
 
 Ces documents sont transmis au garde des sceaux, ministre de la justice, à l'issue de chaque inspection. Copie en est
 communiquée au président du Conseil national des greffiers des tribunaux de commerce et au président du tribunal de commerce
@@ -28567,11 +28592,20 @@ lorsque l'inspection a été prescrite à la demande de ce dernier.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1462 du 23 décembre 2004 - art. 3 () JORF 30 décembre 2004
+	  - Décret n°2005-1405 du 8 novembre 2005 - art. 4 () JORF 16 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. R743-4 (V)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-5 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-6 (M)
 
 
 ###### Article R821-9
