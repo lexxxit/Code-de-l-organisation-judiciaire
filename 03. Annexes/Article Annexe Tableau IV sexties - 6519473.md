@@ -1,13 +1,9 @@
-# Article Annexe Tableau IV
+# Article Annexe Tableau IV sexties
 
-**Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats
+d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs
 
 **
-  **
-  **
-****
-
-****
 
 <table>
   <tbody>
@@ -21,14 +17,16 @@ TRIBUNAUX DE GRANDE INSTANCE
 
 COMPÉTENCE TERRITORIALE
 
-s'étendant aux départements compris dans le ressort des cours d'appel de :
+s'étendant aux départements et aux collectivités d'outre-mer compris dans le ressort
+
+des cours d'appel de
 
 </td>
     </tr>
     <tr>
       <td width="614" colspan="2">
 
-**Cour d'appel d'Aix**
+Cour d'appel d'Aix
 
 </td>
     </tr>
@@ -45,9 +43,9 @@ Aix-en-Provence, Bastia, Nîmes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
-**Cour d'appel de Bordeaux**
+Cour d'appel de Bordeaux
 
 </td>
     </tr>
@@ -59,14 +57,14 @@ Bordeaux
 </td>
       <td width="307">
 
-Agen, Bordeaux, Poitiers.
+Agen, Bordeaux, Limoges, Poitiers.
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
-**Cour d'appel de Colmar**
+Cour d'appel de Colmar
 
 </td>
     </tr>
@@ -78,14 +76,14 @@ Strasbourg
 </td>
       <td width="307">
 
-Colmar, Metz.
+Colmar, Metz, Besançon, Dijon, Nancy
 
 </td>
     </tr>
     <tr>
       <td width="614" colspan="2">
 
-**Cour d'appel de Douai**
+Cour d'appel de Douai
 
 </td>
     </tr>
@@ -104,26 +102,7 @@ Amiens, Douai.
     <tr>
       <td width="614" colspan="2">
 
-**Cour d'appel de Limoges**
-
-</td>
-    </tr>
-    <tr>
-      <td width="307">
-
-Limoges
-
-</td>
-      <td width="307">
-
-Bourges, Limoges, Riom.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-**Cour d'appel de Lyon**
+Cour d'appel de Lyon
 
 </td>
     </tr>
@@ -135,33 +114,14 @@ Lyon
 </td>
       <td width="307">
 
-Chambéry, Lyon, Grenoble.
+Chambéry, Lyon, Grenoble, Riom
 
 </td>
     </tr>
     <tr>
       <td width="614" colspan="2">
 
-**Cour d'appel de Nancy**
-
-</td>
-    </tr>
-    <tr>
-      <td width="307">
-
-Nancy
-
-</td>
-      <td width="307">
-
-Besançon, Dijon, Nancy.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-**Cour d'appel de Paris**
+Cour d'appel de Paris
 
 </td>
     </tr>
@@ -171,36 +131,17 @@ Besançon, Dijon, Nancy.
 Paris
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Madmouzou
-et Saint-Pierre-et-Miquelon.
-
-</td>
-    </tr>
-    <tr>
-      <td width="614" colspan="2">
-
-**Cour d'appel de Rennes**
-
-</td>
-    </tr>
-    <tr>
-      <td width="307">
-
-Rennes
-
-</td>
-      <td width="307">
-
-Angers, Caen, Rennes.
+et Saint-Pierre-et-Miquelon, Bourges, Angers, Caen, Rennes.
 
 </td>
     </tr>
     <tr>
       <td colspan="2" width="614">
 
-**Cour d'appel de Toulouse**
+Cour d'appel de Toulouse
 
 </td>
     </tr>
@@ -217,13 +158,17 @@ Pau, Montpellier, Toulouse.
 </td>
     </tr>
   </tbody>
-</table>****
+</table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1756 du 30 décembre 2005 - art. 12
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1756 du 30 décembre 2005 - art. 14 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Abrogé par**:
 
