@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-06-09
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -13235,295 +13235,6 @@ juin 2008 publié au Journal officiel du 4 juin 2008.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R523-1 (Ab)
-
-
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-#### Chapitre Ier : Des fonctions judiciaires
-
-###### Article L951-3
-
-Le garde des sceaux, ministre de la justice, arrête une liste comprenant :
-
-1° Deux assesseurs titulaires et quatre assesseurs suppléants au tribunal supérieur d'appel. Ces assesseurs sont désignés
-pour deux ans, sur proposition du président du tribunal supérieur d'appel, après avis du procureur de la République, sur la
-liste préparatoire dressée par le président du tribunal supérieur d'appel comprenant le nom des personnes ayant fait acte de
-candidature ;
-
-2° Deux suppléants du procureur de la République, qui sont désignés selon les mêmes formes et pour la même durée, sur
-proposition du procureur de la République, après avis du président du tribunal supérieur d'appel.
-
-Avant d'entrer en fonctions, les assesseurs et les suppléants du procureur de la République prêtent devant le tribunal
-supérieur d'appel le serment prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique
-relative au statut de la magistrature.
-
-**Nota:**
-
-Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
-vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
-
-Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
-juin 2008 publié au Journal officiel du 4 juin 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-2 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-4 (V)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-9 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R951-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-10 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 928 (V)
-
-
-###### Article L951-4
-
-Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République peuvent, avant l'expiration de
-la période de deux ans prévue à l'article L. 951-3, être relevés de leurs fonctions, par arrêté du garde des sceaux, ministre
-de la justice, sur leur demande.
-
-Les assesseurs au tribunal supérieur d'appel peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
-de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 951-3, par décision du premier
-président de la cour d'appel de Paris, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils
-peuvent, selon les mêmes formes, à la demande du président du tribunal supérieur d'appel, être déclarés démissionnaires
-lorsque, sans motif légitime, ils se sont abstenus de déférer à plus de deux convocations successives.
-
-Les suppléants du procureur de la République peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
-de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 951-3, par arrêté du garde des sceaux,
-ministre de la justice, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils peuvent, selon les
-mêmes formes, à la demande du procureur de la République, être déclarés démissionnaires lorsque, sans motif légitime, ils se
-sont abstenus de déférer à plus de deux convocations successives. Dans les mêmes conditions et selon les mêmes formes, il
-peut également être mis fin à leurs fonctions pour les nécessités du service.
-
-Dans tous les cas, l'avis du président du tribunal supérieur d'appel et celui du procureur de la République sont nécessaires
-lorsque la décision n'intervient pas sur leur demande.
-
-**Nota:**
-
-Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 951-4 du code de l'organisation judiciaire est abrogé à l'exception
-de son premier alinéa qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie
-réglementaire du code de l'organisation judiciaire.
-
-Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
-juin 2008 publié au Journal officiel du 4 juin 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-4 (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
-
-
-#### Chapitre II : Des juridictions
-
-##### Section II : Le tribunal de première instance
-
-##### Sous-section II : Organisation et fonctionnement
-
-###### Article L952-7
-
-I. - Si, pour l'une des causes énoncées à l'article L. 952-6, le président du tribunal supérieur d'appel ne peut intervenir,
-les fonctions de magistrat du tribunal de première instance sont alors assurées par un magistrat du siège désigné par le
-premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
-
-II. - Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
-prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par ledit magistrat
-depuis un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un
-moyen de communication audiovisuelle.
-
-Les modalités d'application des dispositions prévues au précédent alinéa sont fixées par décret en Conseil d'Etat.
-
-III. - Lorsqu'en vertu d'une disposition de la loi ou du règlement, le magistrat désigné selon les modalités fixées au I ci-
-dessus pour exercer les fonctions de magistrat du tribunal de première instance est appelé à statuer sans débat, sa décision
-peut être rendue au siège de la juridiction où il exerce ses autres fonctions.
-
-**Nota:**
-
-Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 952-7 du code de l'organisation judiciaire est abrogé à l'exception
-du III qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie réglementaire du code
-de l'organisation judiciaire.
-
-Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
-juin 2008 publié au Journal officiel du 4 juin 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-4 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-3 (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-7 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 924 (V)
-	  - CODE DE PROCEDURE PENALE - art. 931 (V)
-
-
-##### Section III : Le tribunal supérieur d'appel
-
-##### Sous-section II : Organisation et fonctionnement.
-
-###### Article L952-9
-
-Le tribunal supérieur d'appel comprend un président et deux assesseurs figurant sur la liste prévue à l'article L. 951-3.
-
-**Nota:**
-
-Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
-vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
-
-Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
-juin 2008 publié au Journal officiel du 4 juin 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Créé par**:
-
-	  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-6 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-7 (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (V)
-
-
-###### Article L952-11
-
-I. - Si, pour l'une des causes énoncées à l'article L. 952-10, aucun magistrat du siège du tribunal de première instance ne
-peut remplacer le président du tribunal supérieur d'appel, ses fonctions sont assurées par un magistrat du siège désigné par
-le premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
-
-II. - Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
-prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par le magistrat depuis
-un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un moyen
-de communication audiovisuelle.
-
-Lorsque l'audience est collégiale, par dérogation aux dispositions de l'article L. 952-9, la formation de jugement est
-composée de trois magistrats, figurant sur la liste prévue au I ci-dessus, reliés à la salle d'audience selon le même
-procédé.
-
-Les modalités d'application des dispositions prévues aux deux alinéas précédents sont fixées par décret en Conseil d'Etat.
-
-III. - Lorsqu'en vertu d'une disposition de la loi ou du règlement, le magistrat désigné selon les modalités fixées au I ci-
-dessus pour remplacer le président du tribunal supérieur d'appel est appelé à statuer seul et sans débat, sa décision peut
-être rendue au siège de la juridiction où il exerce ses autres fonctions.
-
-**Nota:**
-
-Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 952-11 du code de l'organisation judiciaire est abrogé à l'exception
-du III qui est abrogé à compter de la date d'entrée en vigueur du décret portant refonte de la partie réglementaire du code
-de l'organisation judiciaire.
-
-Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
-juin 2008 publié au Journal officiel du 4 juin 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-329 1978-03-16
-	  - Loi n°91-1258 1991-12-17
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 9 JORF 29 décembre 1999
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-8 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-10 (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-9 (V)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-9 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 907 (V)
-	  - CODE DE PROCEDURE PENALE - art. 928 (V)
 
 
 # Partie réglementaire ancienne - Décrets en Conseil d'Etat
@@ -29675,8 +29386,7 @@ Registres des associations, registres matrimoniaux et registres des associations
 ###### Article R*911-2
 
 Le tribunal d'instance statue à la place du tribunal de grande instance et du président de cette juridiction dans les cas où
-la loi leur donne compétence en matière successorale et en matière de légitimation postérieure au mariage, à l'exclusion du
-cas prévu par l'article 318 du code civil.
+la loi leur donne compétence en matière successorale.
 
 **Liens relatifs à cet article**
 
@@ -29684,9 +29394,17 @@ cas prévu par l'article 318 du code civil.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 318 (M)
+	  - Décret n°2006-640 du 1 juin 2006 - art. 22 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-6 (V)
 
 	**Anciens textes**:
 
