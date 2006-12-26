@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-12-01
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -3862,8 +3862,8 @@ Il peut la porter aux audiences des chambres et devant la formation prévue à l
 
 ###### Article L432-2
 
-En cas d'empêchement du procureur général, celui-ci est remplacé pour les actes de ses fonctions par le premier avocat
-général ou, à défaut, par un avocat général désigné par le procureur général.
+En cas d'empêchement du procureur général, celui-ci est remplacé pour les actes de ses fonctions par un premier avocat
+général désigné par le procureur général ou, à défaut, par le plus ancien des premiers avocats généraux.
 
 **Liens relatifs à cet article**
 
@@ -3871,14 +3871,19 @@ général ou, à défaut, par un avocat général désigné par le procureur gé
 
 	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 117 () JORF 27 décembre 2006
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-2 (Ab)
 
 
 ###### Article L432-3
 
-Les avocats généraux portent la parole, au nom du procureur général, devant les chambres auxquelles ils sont affectés.
+Les premiers avocats généraux et les avocats généraux portent la parole, au nom du procureur général, devant les chambres
+auxquelles ils sont affectés.
 
 Ils peuvent être désignés par le procureur général pour la porter également devant les autres formations de la cour.
 
@@ -3888,9 +3893,13 @@ Ils peuvent être désignés par le procureur général pour la porter égalemen
 
 	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 117 () JORF 27 décembre 2006
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-3 (Ab)
 
 
 ###### Article L432-4
@@ -8050,7 +8059,7 @@ Des conseillers référendaires ;
 
 Du procureur général ;
 
-Du premier avocat général ;
+Des premiers avocats généraux ;
 
 Des avocats généraux ;
 
@@ -8058,25 +8067,38 @@ Du greffier en chef ;
 
 Des greffiers de chambre.
 
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
 **Nota:**
 
-NOTA : Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date
-d'entrée en vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-523 du 3 juillet 1967 - art. 1, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°78-329 1978-03-16
 	  - Loi n°91-1258 1991-12-17
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur indéterminée
+
+	**Anciens textes**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 117 () JORF 27 décembre 2006
 
 
 ###### Article L121-2
