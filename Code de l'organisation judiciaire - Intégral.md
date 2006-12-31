@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -9120,6 +9120,10 @@ juridictions de l'ordre judiciaire.
 Dans les mêmes conditions, il autorise les mesures conservatoires et connaît des contestations relatives à leur mise en
 oeuvre.
 
+Le juge de l'exécution connaît, sous la même réserve, de la procédure de saisie immobilière, des contestations qui s'élèvent
+à l'occasion de celle-ci et des demandes nées de cette procédure ou s'y rapportant directement, même si elles portent sur le
+fond du droit ainsi que de la procédure de distribution qui en découle.
+
 Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des
 mesures d'exécution forcée ou des mesures conservatoires.
 
@@ -9139,6 +9143,9 @@ Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 311-12-1 du code de l'o
 l'exception de ses quatrième et cinquième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant
 refonte de la partie réglementaire du code de l'organisation judiciaire.
 
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -9153,11 +9160,15 @@ refonte de la partie réglementaire du code de l'organisation judiciaire.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 12 () JORF 22 avril 2006 en vigueur le 1er janvier 2007
 
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-6 (V)
 
 
 ###### Article L311-13
@@ -16859,31 +16870,6 @@ tribunal de commerce.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-5 (V)
-
-
-##### Section VI : Dispositions particulières à la saisie immobilière
-
-###### Article R312-6
-
-L'adjudication a lieu en l'audience des saisies immobilières. L'audience peut être tenue par un juge unique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab) JORF 29 juillet 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab)
 
 
 ##### Section VII : Dispositions particulières à l'application des peines
@@ -26547,8 +26533,8 @@ ministre de l'intérieur et du ministre de l'économie et des finances.
 
 Le greffe du juge de l'exécution est le secrétariat-greffe du tribunal de grande instance.
 
-Toutefois, lorsque le juge chargé de l'instance a été désigné pour exercer les fonctions de juge de l'exécution, le
-secrétariat-greffe compétent est celui du tribunal d'instance.
+Toutefois à l'exception de la procédure de saisie immobilière, lorsque le juge chargé de l'instance a été désigné pour
+exercer les fonctions de juge de l'exécution, le secrétariat-greffe compétent est celui du tribunal d'instance.
 
 En cas de renvoi à la formation collégiale, le dossier est transmis dans les huit jours de l'ordonnance de renvoi au
 secrétariat-greffe du tribunal de grande instance. Celui-ci pourvoit exclusivement aux nécessités du déroulement de
@@ -26562,9 +26548,18 @@ aux notifications utiles.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 139 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-8 (V)
 
 
 ###### Article R*811-7
@@ -27411,7 +27406,10 @@ travail ;
 
 6° Les provisions sur redevances et droits ;
 
-7° Le produit des ventes d'ouvrages et publications vendus dans les greffes.
+7° Le produit des ventes d'ouvrages et publications vendus dans les greffes ;
+
+8° Les sommes dues au titre des publicités au Bulletin des annonces civiles et commerciales prévues aux articles 788, 790 et
+794 du code civil et à l'article 1337 du nouveau code de procédure civile.
 
 En outre, les régisseurs des secrétariats-greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes
 trouvées lors de l'apposition des scellés et celles qui leur sont remises en dépôt par le chef du secrétariat-greffe, sauf en
@@ -27429,10 +27427,13 @@ matière pénale.
 
 	**Modifié par**:
 
-	  - Décret n°95-1041 du 22 septembre 1995 - art. 3 () JORF 24 septembre 1995
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 7 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
+	  - Code civil - art. 788 (M)
+	  - Code civil - art. 790 (M)
+	  - Code civil - art. 794 (M)
 	  - CODE DE PROCEDURE PENALE - art. 392-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 88 (M)
 	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
@@ -27441,6 +27442,7 @@ matière pénale.
 	  - Code du travail - art. R145-43 (V)
 	  - Code du travail R145-1 à R145-39, R145-43
 	  - Décret n°70-1223 1970-12-23 art. 138
+	  - Nouveau code de procédure civile 1337
 
 
 ###### Article R*814-6
