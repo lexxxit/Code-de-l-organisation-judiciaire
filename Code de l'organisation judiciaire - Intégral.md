@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-24
 
 # Partie législative
 
@@ -36210,9 +36210,7 @@ Saint-Pierre-et-Miquelon.
 
 ###### Article Annexe Tableau IV quinquies
 
-Tableau IV quinquies
-
-**Liste des maisons de justice et du droit.**
+**Liste des maisons de justice et du droit**
 
 <table>
   <tbody>
@@ -36288,9 +36286,7 @@ Aix-en-provence (Jas du Bouffan), Martigues.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Marseille
 
@@ -36325,12 +36321,8 @@ La Seyne-sur-Mer, Toulon.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36347,6 +36339,11 @@ Beauvais
 Méru/Vexin-Thelle-Sablons. 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>Senlis</td>
+      <td>Creil</td>
     </tr>
     <tr>
       <td width="205">
@@ -36377,6 +36374,11 @@ Amiens.
       <td width="225">
 
 </td>
+    </tr>
+    <tr>
+      <td>Maine-et-Loire</td>
+      <td>Angers</td>
+      <td>Angers</td>
     </tr>
     <tr>
       <td width="205">
@@ -36468,12 +36470,8 @@ Bordeaux (Bastide), Bordeaux-Nord.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36498,12 +36496,8 @@ Vierzon.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36530,12 +36524,8 @@ de Chambéry**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36561,10 +36551,19 @@ Savoie
 </td>
       <td width="184">
 
+Alberville
+
+</td>
+      <td width="225">Alberville (La Tarentaise)</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
 Chambéry
 
 </td>
-      <td width="225">
+      <td>
 
 Aix-les-Bains, Chambéry. 
 
@@ -36577,12 +36576,8 @@ Aix-les-Bains, Chambéry.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36619,9 +36614,7 @@ Colmar.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Mulhouse
 
@@ -36639,11 +36632,12 @@ Mulhouse.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
+      </td><td width="225">
+    </td></tr>
+    <tr>
+      <td>Côtes-d'Or</td>
+      <td>Dijon</td>
+      <td>Chenôve</td>
     </tr>
     <tr>
       <td width="205">
@@ -36664,9 +36658,7 @@ Chalon-sur-Saône.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Mâcon
 
@@ -36684,12 +36676,8 @@ Mâcon.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36709,9 +36697,7 @@ Tourcoing.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Avesnes-sur-Helpe
 
@@ -36741,9 +36727,7 @@ Lens.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Boulogne-sur-Mer
 
@@ -36763,12 +36747,8 @@ de Fort-de-France**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36812,12 +36792,8 @@ de Grenoble**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36854,9 +36830,7 @@ Grenoble.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Vienne
 
@@ -36876,12 +36850,8 @@ de Limoges**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36906,12 +36876,8 @@ Brive.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36953,12 +36919,8 @@ Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -36985,12 +36947,8 @@ de Montpellier**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37032,12 +36990,8 @@ Lunel, Montpellier (La Paillade).
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37062,12 +37016,8 @@ Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37092,12 +37042,8 @@ Bagnols-sur-Cèze, Nîmes.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37139,12 +37085,8 @@ Orléans.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37158,7 +37100,7 @@ Evry
 </td>
       <td width="225">
 
-Athis-Mons, Les Ulis. 
+Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge)
 
 </td>
     </tr>
@@ -37192,22 +37134,20 @@ Meaux
 </td>
       <td width="225">
 
-Chelles, Meaux, Val Maubuée, Pontault-Combault, Savigny-le-Temple. 
+Chelles, Meaux, Val-Maubuée. 
 
 </td>
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Melun
 
 </td>
       <td width="225">
 
-Aubervilliers, Epinay, La Courneuve. 
+Pontault-Combault, Savigny-le-Temple
 
 </td>
     </tr>
@@ -37224,6 +37164,8 @@ Bobigny
 </td>
       <td width="225">
 
+Aubervilliers, Clichy-sous-Bois/Montfermeil, Epinay, La Courneuve. 
+
 </td>
     </tr>
     <tr>
@@ -37233,12 +37175,8 @@ Bobigny
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37263,12 +37201,8 @@ La Rochelle.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37285,6 +37219,11 @@ Charleville-Mézières
 Charleville-Mézières, Sedan. 
 
 </td>
+    </tr>
+    <tr>
+      <td>Aube</td>
+      <td>Troyes</td>
+      <td>Troyes</td>
     </tr>
     <tr>
       <td width="205">
@@ -37310,12 +37249,8 @@ Reims.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37357,12 +37292,8 @@ Nantes.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37387,12 +37318,8 @@ Montluçon.
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37429,9 +37356,7 @@ Le Havre.
     </tr>
     <tr>
       <td width="205">
-
-</td>
-      <td width="184">
+      </td><td width="184">
 
 Rouen
 
@@ -37451,12 +37376,8 @@ de Toulouse**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37475,6 +37396,11 @@ Toulouse.
 </td>
     </tr>
     <tr>
+      <td>Tarn</td>
+      <td>Castres</td>
+      <td>Mazamet</td>
+    </tr>
+    <tr>
       <td width="205">
 
 **Cour d'appel
@@ -37483,12 +37409,8 @@ de Versailles**
 
 </td>
       <td width="184">
-
-</td>
-      <td width="225">
-
-</td>
-    </tr>
+      </td><td width="225">
+    </td></tr>
     <tr>
       <td width="205">
 
@@ -37547,12 +37469,11 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 	**Modifié par**:
 
-	  - Arrêté 2003-11-21 art. 2 JORF 11 décembre 2003
-	  - Arrêté du 14 janvier 2005, v. init.
+	  - Arrêté du 15 janvier 2007, v. init.
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°78-330 1978-03-16
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article Annexe Tableau IV sexties
