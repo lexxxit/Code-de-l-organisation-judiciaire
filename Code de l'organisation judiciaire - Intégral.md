@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2007-01-24
+Version Consolidée au 2007-03-18
 
 # Partie législative
 
@@ -15115,6 +15115,31 @@ rendent compte chaque année au garde des sceaux, ministre de la justice, des co
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-68 (V)
 
 
+###### Article R*213-29-1
+
+Par délégation du garde des sceaux, ministre de la justice, le premier président et le procureur général assurent
+conjointement l'administration des services judiciaires dans le ressort de la cour d'appel. Ils sont assistés dans cette
+mission par le service administratif régional, placé sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 2 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-65 (V)
+
+
 ###### Article R*213-30
 
 Le premier président et le procureur général sont institués conjointement ordonnateurs secondaires des dépenses et des
@@ -15147,6 +15172,34 @@ catégorie A de la cour d'appel.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-66 (V)
+
+
+###### Article R*213-31
+
+Par délégation du garde des sceaux, ministre de la justice, le premier président et le procureur général ont compétence
+conjointe pour passer les marchés répondant aux besoins des services judiciaires dans le ressort de la cour d'appel.
+
+Ils peuvent déléguer conjointement leur signature, sous leur surveillance et leur responsabilité, au directeur délégué à
+l'administration régionale judiciaire. Ils peuvent également la déléguer, dans les mêmes conditions, à un magistrat ou aux
+agents en fonction à la cour d'appel, dans les juridictions du ressort ou au service administratif régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 3 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-67 (V)
 
 
 ### Titre II : Dispositions particulières à certaines matières
@@ -15402,6 +15455,227 @@ pénale.
 	**Cite**:
 
 	  - Code de procédure pénale
+
+
+### Titre IV : Le service administratif régional
+
+#### Chapitre Ier : Missions
+
+###### Article R*241-1
+
+Le service administratif régional mentionné à l'article R. 213-29-1 assiste le premier président et le procureur général dans
+l'exercice de leurs attributions en matière d'administration des services judiciaires dans le ressort de la cour d'appel dans
+les domaines :
+
+1° De la gestion administrative de l'ensemble du personnel ;
+
+2° De la formation du personnel, à l'exception de celle des magistrats ;
+
+3° De la préparation et de l'exécution des budgets opérationnels de programme ainsi que de la passation des marchés ;
+
+4° De la gestion des équipements en matière de systèmes d'information ;
+
+5° De la gestion du patrimoine immobilier et du suivi des opérations d'investissement dans le ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-70 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+#### Chapitre II : Organisation et fonctionnement.
+
+###### Article R*242-1
+
+Le service administratif régional est dirigé, sous l'autorité conjointe du premier président et du procureur général, par un
+directeur délégué à l'administration régionale judiciaire, magistrat ou greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-71 (V)
+
+
+###### Article R*242-2
+
+Le service administratif régional est organisé en bureaux, dirigés par des responsables de gestion, greffiers en chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-72 (V)
+
+
+###### Article R*242-3
+
+Sous réserve des dispositions de l'article R. 213-31, le premier président et le procureur général peuvent, conjointement,
+donner délégation de signature, pour les matières relevant des attributions du service administratif régional, au directeur
+délégué à l'administration régionale judiciaire et, en cas d'absence ou d'empêchement de celui-ci, aux responsables de
+gestion placés sous son autorité, dans la limite de leurs attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-73 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+
+
+###### Article R*242-4
+
+En cas d'absence ou d'empêchement du directeur délégué à l'administration régionale judiciaire, sans que ce dernier ait
+désigné un des responsables de gestion en fonction au service administratif régional pour assurer sa suppléance, celle-ci est
+exercée de droit par le responsable de gestion du rang le plus élevé ou, à égalité de rang, le plus ancien, parmi les
+responsables de gestion effectivement présents dans le ressort au début de l'absence ou de l'empêchement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-74 (V)
+
+
+###### Article R*242-5
+
+En cas de vacance momentanée du poste de directeur délégué à l'administration régionale judiciaire, sans que le premier
+président et le procureur général aient, conjointement, désigné un magistrat ou un greffier en chef en fonction dans le
+ressort pour assurer l'intérim, celui-ci est exercé de droit par le responsable de gestion du rang le plus élevé ou, à
+égalité de rang, le plus ancien, en fonction au service administratif régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-75 (V)
+
+
+###### Article R*242-6
+
+Les moyens du service administratif régional sont rattachés au budget opérationnel de programme de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-76 (V)
+
+
+###### Article R*242-7
+
+Les règles relatives à l'assemblée des membres du service administratif régional sont fixées aux articles R. 764-1 à R.
+764-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 4 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
 
 
 ## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité
@@ -24977,19 +25251,28 @@ l'assemblée plénière.
 L'assemblée plénière du tribunal de grande instance comprend en outre les magistrats chargés du service d'un tribunal
 d'instance et les magistrats chargés de la présidence ou du service d'une chambre détachée.
 
+L'assemblée plénière de la cour d'appel comprend en outre les magistrats, fonctionnaires et agents de l'Etat du service
+administratif régional.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-330 1978-03-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
-
 	**Modifié par**:
 
-	  - Décret n°96-157 du 27 février 1996 - art. 18 () JORF 1er mars 1996
+	  - Décret n°2007-352 du 14 mars 2007 - art. 5 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-49 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-56 (V)
 
 	**Cité par**:
 
@@ -25885,6 +26168,176 @@ en existe une, la formation de l'assemblée générale qui doit être réunie.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
 
 
+#### Chapitre IV : Dispositions relatives à l'assemblée des membres du service administratif régional
+
+###### Article R*764-1
+
+Il est tenu au moins une fois par an dans chaque service administratif régional une assemblée des membres du service
+administratif régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-77 (V)
+
+
+###### Article R*764-2
+
+L'assemblée des membres du service administratif régional est composée des fonctionnaires et agents de l'Etat en poste au
+service administratif régional.
+
+Elle est présidée par le directeur délégué à l'administration régionale judiciaire.
+
+Les fonctionnaires en stage au service administratif régional assistent aux séances de l'assemblée.
+
+Le premier président et le procureur général peuvent y assister.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-78 (V)
+
+
+###### Article R*764-3
+
+L'assemblée émet un avis sur :
+
+1° Le projet de répartition des fonctionnaires entre les bureaux du service, préparé par le directeur délégué à
+l'administration régionale judiciaire ;
+
+2° L'évaluation des besoins financiers du service administratif régional élaborée par le directeur délégué à l'administration
+régionale judiciaire ;
+
+3° L'affectation des moyens du service administratif régional ;
+
+4° Les questions relatives à l'entretien des locaux et au mobilier ;
+
+5° Les questions relatives à l'hygiène, à la sécurité et aux conditions de travail au sein du service ;
+
+6° Les questions intéressant le fonctionnement interne du service administratif régional ;
+
+7° La charte des temps ;
+
+8° Le programme de formation continue du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-79 (V)
+
+
+###### Article R*764-4
+
+L'assemblée est également consultée par le directeur délégué à l'administration régionale judiciaire sur les problèmes de
+gestion et d'organisation du service administratif régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-80 (V)
+
+
+###### Article R*764-5
+
+Les délibérations sont prises à la majorité des membres présents ou représentés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-81 (V)
+
+
+###### Article R*764-6
+
+Les avis émis sont consignés sur le registre des délibérations du service administratif régional.
+
+Le directeur délégué à l'administration régionale judiciaire transmet au premier président et au procureur général les
+procès-verbaux des délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 6 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-82 (V)
+
+
 ### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires
 
 ###### Article R*771-1
@@ -26233,9 +26686,9 @@ Dans ce cas, un arrêté du garde des sceaux, ministre de la justice, porte supp
 Les chefs de juridiction désignent, après avis de l'assemblée générale des magistrats du siège et du parquet mentionnée à
 l'article R. 761-17, un magistrat qui, sous leur autorité, a pour mission :
 
-- de veiller, sans préjudice des attributions du greffier en chef, chef de greffe, à la coordination des actions conduites au
-sein d'une ou de plusieurs maisons de justice et du droit situées dans le ressort du tribunal et au bon emploi des moyens qui
-concourent à leur réalisation ;
+- de veiller, sans préjudice des attributions du greffier en chef, directeur de greffe, à la coordination des actions
+conduites au sein d'une ou de plusieurs maisons de justice et du droit situées dans le ressort du tribunal et au bon emploi
+des moyens qui concourent à leur réalisation ;
 
 - d'assurer l'information régulière des membres du conseil de la maison de justice et du droit sur l'activité de celle-ci ;
 
@@ -26248,19 +26701,27 @@ de juridiction.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+	  - Décret n°2007-352 du 14 mars 2007 - art. 7 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-7 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R761-17
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*7-12-1-7
 
 Il est constitué un conseil de la maison de justice et du droit composé des signataires de la convention ou de leurs
-représentants, du greffier en chef, chef de greffe, et présidé par le président du tribunal de grande instance et le
+représentants, du greffier en chef, directeur de greffe, et présidé par le président du tribunal de grande instance et le
 procureur de la République du ressort dans lequel la maison de justice et du droit est située.
 
 Le conseil de la maison de justice et du droit définit les orientations de l'action de celle-ci et met en place une procédure
@@ -26283,9 +26744,17 @@ sceaux, ministre de la justice.
 
 	  - Décret n°78-330 1978-03-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1009 du 29 octobre 2001 - art. 1 () JORF 6 novembre 2001
+	  - Décret n°2007-352 du 14 mars 2007 - art. 7 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-8 (M)
 
 
 ###### Article R*7-12-1-8
@@ -26593,10 +27062,10 @@ Les chefs de juridiction sont responsables du fonctionnement de celle-ci. A ce t
 contrôle hiérarchique sur le greffier en chef, dans les conditions définies au présent chapitre. Ils ne peuvent toutefois se
 substituer à lui dans l'exercice de ses fonctions.
 
-Le greffier en chef, sous réserve des attributions propres du secrétaire en chef du parquet prévues à l'article R. 812-13 du
-présent code, dirige l'ensemble des services aministratifs du secrétariat-greffe ; il est responsable de leur fonctionnement.
-Il définit et met en oeuvre les mesures d'application des directives générales qui lui sont données par les chefs de
-juridiction. Il tient ces derniers informés de ses diligences.
+Le directeur de greffe, greffier en chef ou secrétaire en chef de parquet autonome, dirige l'ensemble des services
+administratifs du greffe ou du secrétariat de parquet autonome ; il est responsable de leur fonctionnement. Il définit et met
+en oeuvre les mesures d'application des directives générales qui lui sont données par les chefs de juridiction. Il tient ces
+derniers informés de ses diligences.
 
 **Liens relatifs à cet article**
 
@@ -26610,11 +27079,19 @@ juridiction. Il tient ces derniers informés de ses diligences.
 
 	**Modifié par**:
 
-	  - Décret n°83-847 1983-09-23 art. 1 et art. 3 JORF 25 septembre 1983
+	  - Décret n°2007-352 du 14 mars 2007 - art. 8 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-3 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R812-13
+	  - Code de l'organisation judiciaire
 
 
 ###### Article R*812-2
@@ -27283,7 +27760,7 @@ Cet état est adressé au garde des sceaux, ministre de la justice.
 
 ###### Article R*814-1
 
-Le chef du secrétariat-greffe tient la comptabilité administrative des opérations de recettes et de dépenses relatives aux
+Le directeur de greffe tient la comptabilité administrative des opérations de recettes et de dépenses relatives aux
 opérations mentionnées au chapitre II du présent titre.
 
 Il est institué auprès de chaque secrétariat-greffe pour les autres opérations dont celui-ci est chargé une régie de recettes
@@ -27302,14 +27779,23 @@ publics.
 
 	**Modifié par**:
 
-	  - Décret n°95-1041 du 22 septembre 1995 - art. 1 () JORF 24 septembre 1995
+	  - Décret n°2007-352 du 14 mars 2007 - art. 7 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-6 (V)
 
 
 ###### Article R*814-2
 
 Les attributions des régisseurs définies aux articles suivants sont confiées à un fonctionnaire du secrétariat-greffe autre
-que le chef de ce service. Toutefois, elles peuvent être confiées au chef du secrétariat-greffe dans les secrétariats-greffes
-dont la liste est dressée par arrêté du garde des sceaux.
+que le chef de ce service. Toutefois, elles peuvent être confiées au directeur de greffe dans les secrétariats-greffes dont
+la liste est dressée par arrêté du garde des sceaux.
 
 **Liens relatifs à cet article**
 
@@ -27323,7 +27809,15 @@ dont la liste est dressée par arrêté du garde des sceaux.
 
 	**Modifié par**:
 
-	  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°2007-352 du 14 mars 2007 - art. 7 () JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-21 (V)
 
 
 ###### Article R*814-3
@@ -27412,7 +27906,7 @@ travail ;
 794 du code civil et à l'article 1337 du nouveau code de procédure civile.
 
 En outre, les régisseurs des secrétariats-greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes
-trouvées lors de l'apposition des scellés et celles qui leur sont remises en dépôt par le chef du secrétariat-greffe, sauf en
+trouvées lors de l'apposition des scellés et celles qui leur sont remises en dépôt par le directeur de greffe, sauf en
 matière pénale.
 
 **Liens relatifs à cet article**
@@ -27427,22 +27921,7 @@ matière pénale.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 7 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code civil - art. 788 (M)
-	  - Code civil - art. 790 (M)
-	  - Code civil - art. 794 (M)
-	  - CODE DE PROCEDURE PENALE - art. 392-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 88 (M)
-	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-25 (M)
-	  - Code de procédure pénale R19 à R25, 88, 88-1, 392-1, R15-25
-	  - Code du travail - art. R145-43 (V)
-	  - Code du travail R145-1 à R145-39, R145-43
-	  - Décret n°70-1223 1970-12-23 art. 138
-	  - Nouveau code de procédure civile 1337
+	  - Décret n°2007-352 du 14 mars 2007 - art. 7 () JORF 18 mars 2007
 
 
 ###### Article R*814-6
@@ -29160,11 +29639,11 @@ d'ouverture au public du secrétariat-greffe".
 
 "Art. R. 512-20 :
 
-Sous le contrôle du président du conseil de prud'hommes, le greffier en chef dirige les services administratifs de la
-juridiction et assume la responsabilité de leur fonctionnement.
+Sous le contrôle du président du conseil de prud'hommes, le greffier en chef, directeur du greffe, dirige les services
+administratifs de la juridiction et assume la responsabilité de leur fonctionnement.
 
 Lorsqu'il est chargé de la direction de secrétariats-greffes de plusieurs conseils de prud'hommes, il exerce ses fonctions
-sous le contrôle respectif de chacun des présidents de ces conseils".
+sous le contrôle respectif de chacun des présidents de ces conseils."
 
 "Art. R. 512-21 :
 
@@ -29288,8 +29767,7 @@ les conditions prévues pour les régies d'avances et de recettes des organismes
 
 	**Modifié par**:
 
-	  - Décret n°80-196 du 10 mars 1980 - art. 5 () JORF 14 mars 1980
-	  - Décret n°95-498 du 26 avril 1995 - art. 1 () JORF 3 mai 1995
+	  - Décret n°2007-352 du 14 mars 2007 - art. 9 () JORF 18 mars 2007
 
 	**Anciens textes**:
 
@@ -33447,13 +33925,7 @@ La réalité du service fait par les assesseurs est attestée par le président 
 
 ###### Article R942-20
 
-Les dispositions des articles R. 213-29 et R. 213-30 sont applicables à Mayotte.
-
-**Nota:**
-
-NOTA : Décret 2004-435 du 24 mai 2004 : A compter du 25 mai 2004, le décret 2004-435 entre en vigueur uniquement dans les
-cours d'appel désignées par arrêté du garde des sceaux, ministre de la justice. Il s'applique à l'ensemble des cours d'appel
-à compter du 1er janvier 2006.
+Les dispositions des articles R. 213-29, R. 213-30 et R. 213-31 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -33464,11 +33936,15 @@ cours d'appel désignées par arrêté du garde des sceaux, ministre de la justi
 
 	**Modifié par**:
 
-	  - Décret n°2004-435 du 24 mai 2004 - art. 2 () JORF 25 mai 2004 en vigueur le 1er janvier 2006
+	  - Décret n°2007-352 du 14 mars 2007 - art. 10 (V) JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire R213-29, R213-30
+	  - Code de l'organisation judiciaire
 
 
 #### Chapitre III : Le tribunal de première instance
@@ -34898,6 +35374,34 @@ de l'article L. 951-3.
 	**Cite**:
 
 	  - Code de l'organisation judiciaire - art. L951-3
+
+
+###### Article R952-11
+
+Les articles R. 213-29-1, R. 241-1 à R. 242-7, le dernier alinéa de l'article R. 761-34 et les articles R. 764-1 à R. 764-6
+ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-330 1978-03-16
+
+	**Créé par**:
+
+	  - Décret n°2007-352 du 14 mars 2007 - art. 10 (V) JORF 18 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-12 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
 
 
 # Annexes
