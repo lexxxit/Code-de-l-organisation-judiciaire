@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2007-12-23
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -4608,28 +4608,28 @@ d'Etat.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-14 (Ab)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À MAYOTTE
+### TITRE II : DISPOSITIONS PARTICULIERES À MAYOTTE
 
 #### Chapitre Ier : Dispositions générales
 
 ###### Article L521-1
 
-Le livre Ier du présent code est applicable à Mayotte.
+Le livre II n'est pas applicable à Mayotte, à l'exception de son titre V.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-2 (Ab)
 
 
 ###### Article L521-2
 
-Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
+Pour l'application du présent code à Mayotte, il y a lieu de lire :
 
 1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
 
@@ -4645,13 +4645,17 @@ Pour l'application des dispositions étendues par le présent titre à Mayotte, 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-1 (Ab)
 
 
 #### Chapitre II : Des juridictions
@@ -4948,75 +4952,7 @@ Il y a à Mayotte un tribunal supérieur d'appel.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-1 (Ab)
 
 
-###### Article L522-12
-
-Le tribunal supérieur d'appel connaît de l'appel des jugements rendus en premier ressort par les juridictions instituées à
-Mayotte ainsi que des recours mentionnés à l'article L. 311-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire - art. L311-3
-
-
-###### Article L522-13
-
-Le tribunal supérieur d'appel statue en formation collégiale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-
-###### Article L522-14
-
-La formation collégiale du tribunal supérieur d'appel se compose d'un président et de magistrats du siège.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-19 (V)
-
-
 ###### Article L522-15
-
-Les dispositions de l'article L. 312-6 relatives à la protection de l'enfance sont applicables à Mayotte.
 
 Pour l'application de l'article L. 312-6, le président du tribunal supérieur d'appel exerce les fonctions de délégué à la
 protection de l'enfance. Toutefois, le président du tribunal supérieur d'appel peut, par ordonnance, désigner un magistrat du
@@ -5024,17 +4960,21 @@ siège de sa juridiction pour exercer ces fonctions.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-7, ecqc protection de l'enfance (Ab)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L312-6
+	  - Code de l'organisation judiciaire - art. L312-6
 
 
 ###### Article L522-16
@@ -5115,23 +5055,27 @@ juridiction, sont remplacés, pour les besoins du service, par des magistrats du
 
 ###### Article L522-19
 
-Lorsque le tribunal supérieur d'appel ne peut être composé conformément aux articles L. 522-14 et L. 522-18, il est complété
+Lorsque le tribunal supérieur d'appel ne peut être composé conformément aux articles L. 312-2 et L. 522-18, il est complété
 par des assesseurs désignés par ordonnance du président du tribunal supérieur d'appel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-11 (Ab)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-14 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-18 (V)
+	  - Code de l'organisation judiciaire - art. L312-2
+	  - Code de l'organisation judiciaire - art. L522-18
 
 	**Cité par**:
 
@@ -5396,124 +5340,33 @@ Il y a à Mayotte une juridiction de proximité.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12-1, alinéa 1, ecqc L331-1 (Ab)
 
 
-###### Article L522-29
+###### Article L522-29-1
 
-En matière civile, la juridiction de proximité connaît des actions personnelles mobilières dont elle est saisie par une
-personne physique pour les besoins de sa vie non professionnelle, jusqu'à la valeur de 250 euros ou d'une valeur indéterminée
-mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 250 euros.
+Pour l'application à Mayotte de l'article L. 231-3, les mots : " 4 000 euros " sont remplacés par les mots : " 250 euros ".
 
-Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
-
-Elle connaît aussi, dans les mêmes conditions, en vue de lui donner force exécutoire, de la demande d'homologation du constat
-d'accord formée par les parties, à l'issue d'une tentative préalable de conciliation menée en application de l'article 21 de
-la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et
-administrative.
+A Mayotte, la juridiction de proximité connaît des procédures d'injonction de payer ou de faire, dans les conditions et
+limites prévues au premier alinéa.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12-1, ecqc L331-2 (Ab)
 
 	**Cite**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 21
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-
-###### Article L522-30
-
-Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
-d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
-après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal de première
-instance qui statue en tant que juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-
-###### Article L522-31
-
-La juridiction de proximité statue à juge unique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
-
-###### Article L522-32
-
-En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
-fonctions de ce juge sont exercées par un juge du tribunal de première instance désigné à cet effet par le président de ce
-tribunal.
-
-Le juge du tribunal de première instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de
-proximité lorsque aucun juge de proximité n'a été affecté au sein de la juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+	  - Code de l'organisation judiciaire - art. L231-3
 
 
 ##### Section 4 : Les juridictions des mineurs
-
-###### Article L522-33
-
-Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables à
-Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
-
 
 ###### Article L522-34
 
