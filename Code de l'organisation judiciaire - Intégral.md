@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-02-07
 
 # Partie législative
 
@@ -13921,6 +13921,33 @@ pour une période de trois années renouvelable par ordonnance du premier prési
 	  - Code de l'expropriation pour cause d'utilité publique - art. R13-5
 
 
+#### Chapitre III : Dispositions particulières à la protection de l'enfance.
+
+###### Article R223-1
+
+Le conseiller délégué à la protection de l'enfance, chaque fois qu'il le juge nécessaire, et au moins une fois par an,
+établit un rapport sur le fonctionnement des tribunaux pour enfants du ressort de la cour d'appel, qu'il transmet au premier
+président de celle-ci ainsi qu'aux présidents des tribunaux de grande instance dans lesquels il existe un tribunal pour
+enfants. 
+
+Le premier président de la cour d'appel communique ce rapport et ceux mentionnés à l'article R. 522-2-1 au ministre de la
+justice, avec ses observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-107 du 4 février 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R522-2-1
+
+
 #### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires
 
 ##### Section I : Dispositions particulières aux avocats
@@ -19582,6 +19609,70 @@ Le siège et le ressort des tribunaux pour enfants sont fixés conformément au 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D251-1 (V)
 
 
+###### Article R522-2-1
+
+Lorsque dans un tribunal de grande instance plusieurs magistrats du siège sont chargés des fonctions de juge des enfants, le
+président du tribunal, après avis de l'assemblée générale des magistrats du siège, désigne l'un d'eux pour organiser le
+service de la juridiction des mineurs et coordonner les relations de cette juridiction avec les services chargés de la mise
+en œuvre des mesures prises par celle-ci. 
+
+Le juge des enfants désigné adresse, au moins une fois par an, un rapport sur l'activité du tribunal pour enfants au
+président du tribunal de grande instance, qui le transmet au premier président de la cour d'appel. 
+
+Les attributions mentionnées au premier alinéa sont exercées sous l'autorité du président du tribunal de grande instance. 
+
+En cas d'absence ou d'empêchement du magistrat désigné, le juge des enfants dont le rang est le plus élevé exerce ces
+attributions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-107 du 4 février 2008 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R223-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-3 (V)
+
+
+###### Article R522-2-2
+
+Dans les tribunaux pour enfants mentionnés à l'article R. 522-2, le magistrat chargé des fonctions de président du tribunal
+pour enfants exerce les attributions prévues aux deux premiers alinéas de l'article R. 522-2-1.
+
+En cas d'absence ou d'empêchement, ces attributions sont exercées par le vice-président du tribunal pour enfants ou à défaut
+par le juge des enfants dont le rang est le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-107 du 4 février 2008 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-4 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R*522-2
+	  - Code de l'organisation judiciaire - art. R522-2-1
+
+
 ### Titre III : Le juge des enfants
 
 #### Chapitre Ier : Institution et compétence
@@ -21112,67 +21203,76 @@ conformément à la loi n° 95-64 du 19 janvier 1995.
 
 ###### Article R*761-24
 
-L'assemblée des magistrats du siège du tribunal de grande instance :
+L'assemblée des magistrats du siège du tribunal de grande instance : 
 
 1° Désigne un magistrat du siège pour exercer les fonctions de juge de l'application des peines, ou de juge d'instruction en
 cas d'empêchement du juge chargé de ces fonctions, conformément aux articles 709-1 et 50 (alinéa 5) du Code de procédure
-pénale ;
+pénale ; 
 
 2° Désigne les membres titulaires et suppléants de la commission juridictionnelle, prévue par l'article L313-1, chargée de
-statuer sur les demandes d'indemnité présentées par les victimes de dommages résultant d'une infraction ;
+statuer sur les demandes d'indemnité présentées par les victimes de dommages résultant d'une infraction ; 
 
 3° Désigne un magistrat pour siéger à la commission prévue par l'article 24 de l'ordonnance n° 45-2658 du 2 novembre 1945
-modifiée relative à l'entrée et au séjour des étrangers en France ;
+modifiée relative à l'entrée et au séjour des étrangers en France ; 
 
 4° Désigne un juge de l'application des peines et un juge des enfants pour siéger au conseil départemental de prévention et
 au conseil communal de prévention prévus par les articles 12 (4°) et 16 du décret n° 83-459 du 8 juin 1983 portant création
-d'un conseil national et relatif aux conseils départementaux et communaux de prévention de la délinquance ;
+d'un conseil national et relatif aux conseils départementaux et communaux de prévention de la délinquance ; 
 
 5° Emet un avis sur le projet d'ordonnance préparé par le président fixant le nombre et le jour des audiences
-correctionnelles, conformément à l'article 399 du code de procédure pénale ;
+correctionnelles, conformément à l'article 399 du code de procédure pénale ; 
 
 6° Emet un avis sur les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires
-entre les magistrats spécialisés du tribunal ;
+entre les magistrats spécialisés du tribunal ; 
 
 7° Emet un avis sur le projet d'ordonnance, préparé par le président du tribunal, de répartition dans les chambres et
-services de la juridiction, des vice-présidents et des juges dont le tribunal est composé ;
+services de la juridiction, des vice-présidents et des juges dont le tribunal est composé ; 
 
 8° Emet un avis sur l'affectation des magistrats dans les formations de jugement spécialisées en matière économique et
-financière, ou en matière militaire et de sûreté de l'Etat, conformément aux articles 704, 697 et 702 du Code de procédure
-pénale ;
+financière, ou en matière militaire et de sûreté de l'Etat, conformément aux articles 704,697 et 702 du Code de procédure
+pénale ; 
 
 9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur la désignation par le président de celui qui
-exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets) ;
+exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets) ; 
 
 10° Emet un avis sur le projet d'ordonnance préparé par le président désignant un juge du tribunal d'instance pour exercer
 les fonctions du juge de proximité en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se révèle
-insuffisant;
+insuffisant ; 
 
 11° Emet un avis sur le projet d'ordonnance préparé par le président désignant un magistrat pour exercer les fonctions de
-juge des libertés et de la détention conformément à l'article 137-1 du code de procédure pénale.
+juge des libertés et de la détention conformément à l'article 137-1 du code de procédure pénale ; 
+
+12° Emet un avis, en cas de pluralité de magistrats chargés des fonctions de juges des enfants, sur la désignation par le
+président de celui qui exercera les attributions mentionnées à l'article R. 522-2-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
-	  - Décret n°83-459 1983-06-08 art. 12, art. 16
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 399 (M)
-	  - CODE DE PROCEDURE PENALE - art. 50 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 697 (M)
-	  - CODE DE PROCEDURE PENALE - art. 702 (M)
-	  - CODE DE PROCEDURE PENALE - art. 704 (M)
-	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE L313-1
-
-	**Codifié par**:
-
-	  - Décret n°78-330 1978-03-16
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24
+	  - Décret n°83-459 du 8 juin 1983
+	  - Code de procédure pénale - art. 137-1
+	  - Code de procédure pénale - art. 399
+	  - Code de procédure pénale - art. 50
+	  - Code de procédure pénale - art. 697
+	  - Code de procédure pénale - art. 702
+	  - Code de procédure pénale - art. 704
+	  - Code de procédure pénale - art. 709-1
+	  - Code de l'organisation judiciaire - art. L313-1
+	  - Code de l'organisation judiciaire - art. R522-2-1
 
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 24 () JORF 14 mai 2005
+	  - Décret n°2008-107 du 4 février 2008 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-36 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-37 (V)
 
 
 ##### Sous-section III : L'assemblée des magistrats du parquet
