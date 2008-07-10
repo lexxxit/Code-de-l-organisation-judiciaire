@@ -19,13 +19,13 @@ de grande instance
 </td>
       <td>
 
-SIÈGE
+Siège
 
-du tribunal
+du tribunal d'instance et
 
-d'instance et de la
+de la juridiction
 
-juridiction de proximité
+de proximité 
 
 </td>
       <td>
@@ -5671,7 +5671,7 @@ Aveyron
 </td>
       <td align="center">
 
-[Millau
+Millau
 
 </td>
       <td align="center">
@@ -5687,7 +5687,7 @@ de-Lévézou (1).]
 </td>
       <td align="center">
 
-[Millau
+Millau
 
 </td>
       <td align="center">
@@ -5703,7 +5703,7 @@ Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-l
 </td>
       <td align="center">
 
-[Saint-Affrique
+Saint-Affrique
 
 </td>
       <td align="center">
@@ -5720,7 +5720,7 @@ Rodez
 </td>
       <td align="center">
 
-[Espalion
+Espalion
 
 </td>
       <td align="center">
@@ -6988,8 +6988,8 @@ Juvisy-sur-Orge
 </td>
       <td align="center">
 
-Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge, Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine,
-Viry-Châtillon et Yerres.
+Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge (uniquement la commune de Juvisy-sur-Orge),
+Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres. 
 
 </td>
     </tr>
@@ -7005,8 +7005,9 @@ Longjumeau
       <td align="center">
 
 A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin,
-Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et
-Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
+Juvisy-sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry,
+Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de
+Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
 
 </td>
     </tr>
@@ -11359,7 +11360,9 @@ Territoire des îles Wallis-et-Futuna.
 </td>
     </tr>
     <tr>
-      <td align="center">Cour d'appel de Papeete
+      <td align="center">
+
+Cour d'appel de Papeete
 
 Polynésie française
 
@@ -11423,9 +11426,7 @@ SIÈGE DU TRIBUNAL DE PREMIÈRE INSTANCE
 et de la juridiction de proximité
 
 </td>
-      <td>
-
-RESSORT
+      <td>RESSORT
 
 </td>
     </tr>
@@ -11472,9 +11473,9 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2008-684 du 8 juillet 2008 - art.
 
 	**Cité par**:
 
