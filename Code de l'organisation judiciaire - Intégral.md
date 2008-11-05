@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2008-11-01
+Version Consolidée au 2008-11-06
 
 # Partie législative
 
@@ -16103,7 +16103,9 @@ procédure pénale.
 L'assemblée des magistrats du siège de la cour d'appel émet un avis sur :
 
 1° Le projet de décision préparé par le premier président de la cour d'appel et le procureur général près cette cour fixant
-le nombre et le jour des audiences correctionnelles, conformément à l'article 511 du code de procédure pénale ;
+le nombre et le jour des audiences correctionnelles, conformément à l'
+article 511 du code de procédure pénale
+ ;
 
 2° Les critères généraux de répartition des dossiers entre les chambres ;
 
@@ -16113,27 +16115,38 @@ des présidents de chambre et des conseillers dont la cour d'appel est composée
 4° Le projet d'ordonnance préparé par le premier président désignant :
 
 a) Les juges de l'application des peines du ressort de la cour composant un tribunal de l'application des peines,
-conformément à l'article 712-3 du code de procédure pénale ;
+conformément à l'
+article 712-3 du code de procédure pénale
+ ;
 
 b) Le président de la chambre de l'application des peines et les conseillers la composant en qualité d'assesseurs,
-conformément à l'article 712-13 du code de procédure pénale ;
+conformément à l'
+article 712-13 du code de procédure pénale
+ ;
 
 c) Le responsable d'une association de réinsertion des condamnés et le responsable d'une association d'aide aux victimes
-composant la chambre de l'application des peines, conformément à l'article 712-13 du code de procédure pénale ;
+composant la chambre de l'application des peines, conformément à l'
+article 712-13 du code de procédure pénale
+ ;
 
 d) Le ou les conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des
-peines dans le ressort de la cour d'appel.
+peines dans le ressort de la cour d'appel ;
+
+e) Le président de la juridiction régionale de la rétention de sûreté et les conseillers la composant en qualité
+d'assesseurs, conformément à l'article 706-53-15 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2008-1129 du 4 novembre 2008 - art. 10
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*226-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 al 4 et 6 à 12 (Ab)
+	  - Code de procédure pénale - art. 511
+	  - Code de procédure pénale - art. 706-53-15
+	  - Code de procédure pénale - art. 712-13
+	  - Code de procédure pénale - art. 712-3
 
 	**Cité par**:
 
