@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2008-11-06
+Version Consolidée au 2008-11-15
 
 # Partie législative
 
@@ -3037,7 +3037,7 @@ la propriété industrielle dans les cas et conditions prévus par le code de la
 
 Une cour d'appel spécialement désignée connaît des recours contre :
 
-1° Les décisions du Conseil de la concurrence, dans les cas et conditions prévus par le code de commerce ;
+1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ;
 
 2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
 monétaire et financier ;
@@ -3047,13 +3047,9 @@ propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 
 ###### Article L311-12
@@ -15103,7 +15099,7 @@ intellectuelle, sont fixés conformément au tableau XVI annexé au présent cod
 
 La cour d'appel de Paris est compétente pour connaître des recours contre :
 
-1° Les décisions du Conseil de la concurrence, dans les cas et conditions prévus par le code de commerce ;
+1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ;
 
 2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
 monétaire et financier ;
@@ -15116,9 +15112,9 @@ conditions prévus par le code des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 
 ###### Article D311-10
