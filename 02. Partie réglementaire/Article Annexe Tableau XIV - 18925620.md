@@ -2,7 +2,7 @@
 
 Siège et ressort des tribunaux pour enfants
 
-(annexe de l'article D. 251-1)
+(annexe de l'article D. 251-1) 
 
 <table>
   <tbody>
@@ -19,11 +19,14 @@ RESSORT
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel d'Agen 
 
 Gers
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -96,11 +99,14 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel d'Aix-en-Provence 
 
 Alpes-de-Haute-Provence
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -231,11 +237,14 @@ Ressort du tribunal de grande instance de Toulon.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel d'Amiens 
 
 Aisne
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -356,11 +365,14 @@ Ressort du tribunal de grande instance d'Amiens. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel d'Angers 
 
 Maine-et-Loire
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -433,11 +445,14 @@ Ressort du tribunal de grande instance du Mans.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Basse-Terre 
 
 Guadeloupe
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -466,11 +481,14 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Bastia 
 
 Corse-du-Sud
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -509,11 +527,14 @@ Ressort du tribunal de grande instance de Bastia.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Besançon 
 
 Doubs
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -632,11 +653,14 @@ Ressort du tribunal de grande instance de Belfort.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Bordeaux 
 
 Charente
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -721,11 +745,14 @@ Ressort du tribunal de grande instance de Libourne.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Bourges 
 
 Cher
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -786,11 +813,14 @@ Ressort du tribunal de grande instance de Nevers.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Caen 
 
 Calvados
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -875,11 +905,14 @@ Ressort des tribunaux de grande instance d'Alençon et Argentan.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Chambéry 
 
 Haute-Savoie
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -942,11 +975,14 @@ Ressort des tribunaux de grande instance d'Albertville et Chambéry.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Colmar 
 
 Bas-Rhin
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1009,11 +1045,14 @@ Ressort du tribunal de grande instance de Mulhouse.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Dijon 
 
 Côte-d'Or
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1086,11 +1125,14 @@ Ressort du tribunal de grande instance de Mâcon.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Douai 
 
 Nord
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1237,11 +1279,14 @@ Ressort du tribunal de grande instance de Saint-Omer.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Fort-de-France 
 
 Guyane
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1280,11 +1325,14 @@ Ressort du tribunal de grande instance de Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Grenoble 
 
 Drôme
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1369,11 +1417,14 @@ Ressort du tribunal de grande instance de Vienne.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Limoges 
 
 Corrèze
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1446,11 +1497,14 @@ Ressort du tribunal de grande instance de Limoges.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Lyon 
 
 Ain
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1559,11 +1613,14 @@ Ressort du tribunal de grande instance de Villefranche-sur-Saône.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Metz 
 
 Moselle
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1604,11 +1661,14 @@ Ressort du tribunal de grande instance de Sarreguemines.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Montpellier 
 
 Aude
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1727,11 +1787,14 @@ Ressort du tribunal de grande instance de Perpignan.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Nancy 
 
 Meurthe-et-Moselle
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1816,11 +1879,14 @@ Ressort du tribunal de grande instance d'Epinal. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Nîmes 
 
 Ardèche
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1915,11 +1981,14 @@ Ressort du tribunal de grande instance de Carpentras.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Nouméa 
 
 Nouvelle-Calédonie
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1958,11 +2027,14 @@ Ressort du tribunal de première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel d'Orléans 
 
 Indre-et-Loire
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2035,11 +2107,14 @@ Ressort du tribunal de grande instance de Blois.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Tribunal supérieur d'appel de Papeete 
 
 Polynésie française
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2056,11 +2131,14 @@ Ressort du tribunal de première instance de Papeete.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Paris 
 
 Essonne
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2199,11 +2277,14 @@ Ressort des tribunaux de grande instance d'Auxerre et Sens.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Pau 
 
 Hautes-Pyrénées
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2288,11 +2369,14 @@ Ressort du tribunal de grande instance de Pau.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Poitiers 
 
 Charente-Maritime
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2411,11 +2495,14 @@ Ressort du tribunal de grande instance de Poitiers.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Reims 
 
 Ardennes
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2488,11 +2575,14 @@ Ressort du tribunal de grande instance de Reims.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Rennes 
 
 Côtes-d'Armor
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2681,11 +2771,14 @@ Ressort du tribunal de grande instance de Vannes.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Riom 
 
 Allier
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2792,11 +2885,14 @@ Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Rouen 
 
 Eure
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2871,11 +2967,14 @@ Ressort du tribunal de grande instance de Rouen.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Saint-Denis 
 
 La Réunion
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -2904,11 +3003,14 @@ Ressort du tribunal de grande instance de Saint-Pierre.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Toulouse 
 
 Ariège
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -3015,11 +3117,14 @@ Ressort du tribunal de grande instance de Montauban.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Cour d'appel de Versailles 
 
 Eure-et-Loir
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -3102,11 +3207,14 @@ Ressort du tribunal de grande instance de Versailles.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Tribunal supérieur d'appel de Mamoudzou 
 
 Mayotte
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -3123,11 +3231,14 @@ Ressort du tribunal de première instance de Mamoudzou.
 </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
 
 Tribunal supérieur d'appel de Saint-Pierre 
 
 Saint-Pierre-et-Miquelon
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -3160,3 +3271,11 @@ Ressort du tribunal de première instance de Saint-Pierre.
 	**Cité par**:
 
 	  - Décret n°2008-1482 du 22 décembre 2008 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1482 du 22 décembre 2008 - art. Annexe 5
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2008-1482 du 22 décembre 2008, rectificatif v. init.
