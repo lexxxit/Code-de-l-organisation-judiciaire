@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-03-15
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -964,6 +964,19 @@ instruments internationaux et communautaires relatives au déplacement illicite 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1-1 (Ab)
 
 
+###### Article L211-13
+
+Des tribunaux de grande instance spécialement désignés connaissent des actions aux fins d'adoption ainsi que des actions aux
+fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l'enfant résidant habituellement à l'étranger a
+été, est ou doit être déplacé vers la France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
+
+
 #### Chapitre II : Organisation et fonctionnement
 
 ##### Section 1 : Le service juridictionnel
@@ -1167,19 +1180,42 @@ En toutes matières, le président du tribunal de grande instance statue en réf
 Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont délégués dans les fonctions de juge aux
 affaires familiales. 
 
-Le juge aux affaires familiales connaît : 
+Le juge aux affaires familiales connaît :
 
-1° Du divorce, de la séparation de corps et de leurs conséquences, sous réserve des compétences attribuées au tribunal de
-grande instance ; 
+1° De l'homologation judiciaire du changement de régime matrimonial, des demandes relatives au fonctionnement des régimes
+matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins, de la séparation
+de biens judiciaire, sous réserve des compétences du président du tribunal de grande instance et du juge des tutelles des
+majeurs ; 
 
-2° Des actions liées à la fixation de l'obligation alimentaire, de la contribution aux charges du mariage et de l'obligation
-d'entretien, à l'exercice de l'autorité parentale, à la modification        des prénoms.
+2° Du divorce, de la séparation de corps et de leurs conséquences, de la liquidation et du partage des intérêts patrimoniaux
+des époux, des personnes liées par un pacte civil de solidarité et des concubins, sauf en cas de décès ou de déclaration
+d'absence ; 
+
+3° Des actions liées : 
+
+a) A la fixation de l'obligation alimentaire, de la contribution aux charges du mariage ou du pacte civil de solidarité et de
+la contribution à l'entretien et à l'éducation des enfants ; 
+
+b) A l'exercice de l'autorité parentale ; 
+
+c) A la révision de la prestation compensatoire ou de ses modalités de paiement ; 
+
+d) Au changement de prénom.
+
+**Nota:**
+
+Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
+formées à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-61 du 16 janvier 2009 - art. 2
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L213-4
 
 	**Cité par**:
 
@@ -1194,21 +1230,20 @@ d'entretien, à l'exercice de l'autorité parentale, à la modification        d
 Le juge aux affaires familiales peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge
 aux affaires familiales.
 
+Ce renvoi est de droit à la demande des parties pour le divorce et la séparation de corps.
+
 La formation collégiale comprend le juge qui a ordonné le renvoi.
+
+**Nota:**
+
+Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
+formées à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5 (Ab)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
 
 	**Cité par**:
 
@@ -2634,17 +2669,13 @@ l'égard des mineurs émancipés ou des majeurs âgés de vingt et un ans ou moi
 
 ###### Article L252-4
 
-Le juge des enfants connaît de la tutelle aux prestations sociales.
+Le juge des enfants connaît de la   mesure judiciaire d'aide à la gestion du budget familial.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 29 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2009-526 du 12 mai 2009 - art. 116
 
 
 ###### Article L252-5
@@ -2941,6 +2972,17 @@ la rétention, conformément au code de l'entrée et du séjour des étrangers e
 	  - Code de l'organisation judiciaire - art. L211-6 (VD)
 	  - Code de l'organisation judiciaire - art. L314-2 (VT)
 	  - Code de l'organisation judiciaire - art. L522-11-1 (VT)
+
+
+###### Article L311-7-1
+
+En matière civile, le premier président statue en référé ou sur requête.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 ##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel
@@ -3947,24 +3989,16 @@ général désigné par le procureur général ou, à défaut, par le plus ancie
 
 ###### Article L432-3
 
-Les premiers avocats généraux et les avocats généraux portent la parole, au nom du procureur général, devant les chambres
-auxquelles ils sont affectés.
+Les premiers avocats généraux, les avocats généraux et les avocats généraux référendaires portent la parole, au nom du
+procureur général, devant les chambres auxquelles ils sont affectés.
 
 Ils peuvent être désignés par le procureur général pour la porter également devant les autres formations de la cour.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 117 () JORF 27 décembre 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-3 (Ab)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 ###### Article L432-4
@@ -4415,6 +4449,25 @@ Le président du tribunal de première instance exerce les fonctions de juge des
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-8 (Ab)
+
+
+###### Article L513-5-1
+
+Pour l'application de l'article L. 214-1, le président du tribunal de première instance exerce les attributions dévolues à la
+commission d'indemnisation des victimes d'infraction. 
+
+Les premier et deuxième alinéas de l'article L. 214-2 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L214-1 (V)
+	  - Code de l'organisation judiciaire - art. L214-2 (V)
 
 
 ##### Section 2 : Le tribunal supérieur d'appel
@@ -5512,25 +5565,17 @@ A Wallis-et-Futuna, la juridiction du premier degré est dénommée tribunal de 
 
 ###### Article L532-2
 
-Les dispositions de l'article L. 211-12 sont applicables à Wallis-et-Futuna.
+Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc WF (Ab)
+	  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article L532-3
@@ -5845,6 +5890,26 @@ prévue à l'article L. 532-8 et renvoie la connaissance de l'affaire à la form
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-11, ecqc WF (Ab)
 
 
+###### Article L532-15-1
+
+Les articles L. 213-3 et L. 213-3-1 sont applicables à Wallis-et-Futuna.
+
+**Nota:**
+
+Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
+formées à compter du 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L213-3
+
+
 ###### Article L532-16
 
 Le président du tribunal de première instance exerce les fonctions de juge d'instruction dans les conditions prévues par les
@@ -5894,6 +5959,25 @@ d'Etat.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 1 (Ab)
+
+
+###### Article L532-17-1
+
+Pour l'application de l'article L. 214-1, le président du tribunal de première instance exerce les attributions dévolues à la
+commission d'indemnisation des victimes d'infraction. 
+
+Les premier et deuxième alinéas de l'article L. 214-2 ne sont pas applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L214-1 (V)
+	  - Code de l'organisation judiciaire - art. L214-2 (V)
 
 
 ###### Article L532-18
@@ -6324,25 +6408,17 @@ En Polynésie française, la juridiction du premier degré est dénommée tribun
 
 ###### Article L552-2
 
-Les dispositions de l'article L. 211-12 sont applicables en Polynésie française.
+Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc PF (Ab)
+	  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article L552-3
@@ -6479,6 +6555,26 @@ professionnels.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-2, ecqc PF (Ab)
+
+
+###### Article L552-8-1
+
+Les articles L. 213-3, L. 213-3-1 et L. 213-4 sont applicables en Polynésie française.
+
+**Nota:**
+
+Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
+formées à compter du 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L213-3
 
 
 ###### Article L552-9
@@ -6968,25 +7064,17 @@ En Nouvelle-Calédonie, la juridiction du premier degré est dénommée tribunal
 
 ###### Article L562-2
 
-Les dispositions de l'article L. 211-12 sont applicables en Nouvelle-Calédonie.
+Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc NC (Ab)
+	  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article L562-3
@@ -7533,6 +7621,26 @@ Les citoyens de statut particulier peuvent d'un commun accord réclamer devant l
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-21 (V)
+
+
+###### Article L562-24-1
+
+Les articles L. 213-3, L. 213-3-1 et L. 213-4 sont applicables en Nouvelle-Calédonie.
+
+**Nota:**
+
+Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
+formées à compter du 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L213-3
 
 
 ##### Section 2 : La cour d'appel
