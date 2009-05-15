@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -4643,17 +4643,17 @@ d'Etat.
 
 ###### Article L521-1
 
-Le livre II n'est pas applicable à Mayotte, à l'exception de son titre V.
+Le livre II n'est pas applicable à Mayotte,    à l'exception de son article L. 211-10 et son titre V.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-2 (Ab)
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
 
 
 ###### Article L521-2
@@ -5565,13 +5565,13 @@ A Wallis-et-Futuna, la juridiction du premier degré est dénommée tribunal de 
 
 ###### Article L532-2
 
-Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles L. 211-10 et L. 211-12 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
 
 	**Cite**:
 
@@ -6408,17 +6408,13 @@ En Polynésie française, la juridiction du premier degré est dénommée tribun
 
 ###### Article L552-2
 
-Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables en Polynésie française.
+Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire - art. L211-12
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
 
 
 ###### Article L552-3
@@ -7064,17 +7060,18 @@ En Nouvelle-Calédonie, la juridiction du premier degré est dénommée tribunal
 
 ###### Article L562-2
 
-Les dispositions        des articles L. 211-12 et L. 211-13 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. L211-12
+	  - Code de l'organisation judiciaire - art. L211-10 (V)
+	  - Code de l'organisation judiciaire - art. L211-12 (V)
 
 
 ###### Article L562-3
