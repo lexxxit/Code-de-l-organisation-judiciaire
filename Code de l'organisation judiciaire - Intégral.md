@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-05-16
+Version Consolidée au 2009-05-29
 
 # Partie législative
 
@@ -4714,57 +4714,6 @@ A Mayotte, la juridiction du premier degré est dénommée tribunal de première
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-1 (Ab)
 
 
-###### Article L522-2
-
-Le tribunal de première instance connaît de toutes les affaires relevant du droit commun pour lesquelles compétence n'est pas
-attribuée, en raison de la nature de la demande, à une autre juridiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-1 (Ab)
-
-
-###### Article L522-3
-
-Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'organisation judiciaire - art. L522-11-2 (VT)
-
-
 ###### Article L522-4
 
 Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce.
@@ -4788,25 +4737,47 @@ Le tribunal de première instance exerce les compétences dévolues en métropol
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-3 (Ab)
 
 
-###### Article L522-5
+###### Article L522-4-1
 
-En matière civile, commerciale et de sécurité sociale, le tribunal de première instance statue à juge unique.
-
-Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal.
+Les articles L. 211-5, L. 211-11 et L. 211-11-1 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
 	**Créé par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-5, alinéas 1 et 2 (Ab)
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L211-11
+	  - Code de l'organisation judiciaire - art. L211-5
+
+
+###### Article L522-5
+
+En matière civile, commerciale et de sécurité sociale, le tribunal de première instance statue à juge unique. 
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal. 
+
+Les articles L. 212-1 et L. 212-2 ne sont pas applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L212-1
 
 
 ###### Article L522-6
@@ -4956,6 +4927,29 @@ matière pénale sont fixées par les dispositions de procédure pénale applica
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12 (Ab)
 
 
+###### Article L522-10-1
+
+Pour l'application de l'article L. 214-1, le président du tribunal de première instance exerce les attributions dévolues à la
+commission d'indemnisation de certaines victimes d'infraction. 
+
+Les deux premiers alinéas de l'article L. 214-2 ne sont pas applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L214-1
+	  - Code de l'organisation judiciaire - art. L214-2
+
+
 ##### Section 2 : Le tribunal supérieur d'appel
 
 ###### Article L522-11
@@ -4979,6 +4973,31 @@ Il y a à Mayotte un tribunal supérieur d'appel.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-1 (Ab)
+
+
+###### Article L522-11-1
+
+L'article L. 311-2 n'est pas applicable à Mayotte. 
+
+Pour l'application du 4° de l'article L. 311-7, la référence au code de l'entrée et du séjour des étrangers et du droit
+d'asile est remplacée par la référence à l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de
+séjour des étrangers à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000
+	  - Code de l'organisation judiciaire - art. L311-2
+	  - Code de l'organisation judiciaire - art. L311-7
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
 
 
 ###### Article L522-15
