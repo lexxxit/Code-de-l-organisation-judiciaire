@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-12-01
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -749,28 +749,20 @@ Le tribunal de grande instance a compétence exclusive dans les matières déter
 
 Le tribunal de grande instance est compétent pour connaître des recours : 
 
-1° Contre les décisions du juge des tutelles et celles du conseil de famille ; 
+1° (Abrogé) ; 
 
 2° Contre les décisions du tribunal d'instance en matière de titres perdus ou volés dans les conditions prévues à l'article
 11 du décret n° 56-27 du 11 janvier 1956 relatif à la procédure à suivre en cas de dépossession de titres au porteur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 	**Cite**:
 
-	  - Décret n°56-27 du 11 janvier 1956 - art. 11 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-3 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 11
 
 	**Cité par**:
 
@@ -1253,6 +1245,33 @@ formées à compter du 1er janvier 2010.
 	  - Code de procédure civile - art. 1381 (VD)
 
 
+###### Article L213-3-1
+
+Le juge aux affaires familiales exerce les fonctions de juge des tutelles des mineurs. 
+
+Il connaît : 
+
+1° De l'émancipation ; 
+
+2° De l'administration légale et de la tutelle des mineurs ; 
+
+3° De la tutelle des pupilles de la nation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+
+
 ###### Article L213-4
 
 Le juge aux affaires familiales peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge
@@ -1642,21 +1661,13 @@ Il y a au moins un tribunal d'instance dans le ressort de chaque cour d'appel.
 
 ###### Article L221-3
 
-Au sein du tribunal d'instance, un ou plusieurs juges exercent les fonctions de juge des tutelles.
+Au sein du tribunal d'instance, un ou plusieurs juges exercent les fonctions de juge des tutelles des majeurs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-1 (Ab)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
 ##### Section 1 : Compétence matérielle
@@ -1788,29 +1799,23 @@ rémunérations et exerce les pouvoirs du juge de l'exécution conformément à 
 
 ###### Article L221-9
 
-Le juge des tutelles connaît :
+Le juge des tutelles connaît : 
 
-1° De l'émancipation ;
+1° De la sauvegarde de justice, de la curatelle, de la tutelle des majeurs et de la mesure d'accompagnement judiciaire ; 
 
-2° De l'administration légale et de la tutelle des mineurs ;
+2° Des actions relatives à l'exercice du mandat de protection future ; 
 
-3° De la sauvegarde de justice, de la curatelle, de la tutelle majeurs et de la mesure d'accompagnement judiciaire ;
+3° Des demandes formées par un époux, lorsque son conjoint est hors d'état de manifester sa volonté, aux fins d'être autorisé
+à passer seul un acte pour lequel le concours ou le consentement de ce dernier serait nécessaire, ou aux fins d'être habilité
+à le représenter ; 
 
-4° Des actions relatives à l'exercice du mandat de protection future ;
-
-5° De la tutelle des pupilles de la nation ;
-
-6° De la constatation de la présomption d'absence.
+4° De la constatation de la présomption d'absence.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 29 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
 ##### Sous-section 4 : Compétence du tribunal de police
@@ -3321,6 +3326,25 @@ illicite international d'enfants.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 	  - Code de l'organisation judiciaire - art. L522-15 (VT)
+
+
+###### Article L312-6-1
+
+Un magistrat, qui prend le nom de délégué à la protection des majeurs, est désigné au sein de chaque cour d'appel par le
+premier président. 
+
+Ce magistrat préside la formation de jugement qui statue en matière de protection juridique des majeurs sur les appels des
+décisions rendues par le juge des tutelles et le conseil de famille, ou y exerce les fonctions de rapporteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
 ##### Section 2 : Le parquet général
@@ -9624,51 +9648,42 @@ statue en dernier ressort lorsque le montant de la demande est inférieur ou ég
 ###### Article R211-4
 
 Le tribunal de grande instance a compétence exclusive dans les matières déterminées par les lois et règlements, au nombre
-desquelles figurent les matières suivantes :
+desquelles figurent les matières suivantes : 
 
-1° Etat des personnes : mariage, divorce, séparation de corps, filiation, adoption, déclaration d'absence ;
+1° Etat des personnes : mariage, filiation, adoption, déclaration d'absence ; 
 
-2° Rectification des actes d'état civil ;
+2° Rectification des actes d'état civil ; 
 
-3° Régimes matrimoniaux ;
+3° Successions ; 
 
-4° Successions ;
+4° Amendes civiles encourues par les officiers de l'état civil ; 
 
-5° Amendes civiles encourues par les officiers de l'état civil ;
+5° Actions immobilières pétitoires et possessoires ; 
 
-6° Actions immobilières pétitoires et possessoires ;
+6° Récompenses industrielles ; 
 
-7° Saisies immobilières ;
+7° Dissolution des associations ; 
 
-8° Marques de fabrique et de concurrence ;
+8° Sauvegarde, redressement judiciaire et liquidation judiciaire lorsque le débiteur n'est ni commerçant ni immatriculé au
+répertoire des métiers ; 
 
-9° Récompenses industrielles ;
+9° Assurance contre les accidents et les maladies professionnelles des personnes non salariées en agriculture ; 
 
-10° Appellations d'origine ;
+10° Droits d'enregistrement, taxe de publicité foncière, droits de timbre et contributions indirectes et taxes assimilées à
+ces droits, taxes ou contributions ; 
 
-11° Dissolution des associations ;
+11° Baux commerciaux à l'exception des contestations relatives à la fixation du prix du bail révisé ou renouvelé, baux
+professionnels et conventions d'occupation précaire en matière commerciale ; 
 
-12° Sauvegarde, redressement judiciaire et liquidation judiciaire lorsque le débiteur n'est ni commerçant ni immatriculé au
-répertoire des métiers ;
+12° Inscription de faux contre les actes authentiques ; 
 
-13° Assurance contre les accidents et les maladies professionnelles des personnes non salariées en agriculture ;
-
-14° Droits d'enregistrement, taxe de publicité foncière, droits de timbre et contributions indirectes et taxes assimilées à
-ces droits, taxes ou contributions ;
-
-15° Baux commerciaux à l'exception des contestations relatives à la fixation du prix du bail révisé ou renouvelé ;
-
-16° Inscription de faux contre les actes authentiques.
+13° Actions civiles pour diffamation ou pour injures publiques ou non publiques, verbales ou écrites.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-3 al 2 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 1
 
 
 ##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance
@@ -9877,17 +9892,52 @@ dans les cas et conditions prévus par le code de la propriété intellectuelle,
 ###### Article R211-11
 
 Les règles relatives à la compétence territoriale du tribunal de grande instance statuant en matière civile sont déterminées
-par le code de procédure civile, ainsi que par les autres lois et règlements.
+par le code de procédure civile et les dispositions ci-après ainsi que par les autres lois et règlements.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 2
+
+
+###### Article R211-12
+
+Les contestations relatives à l'application de la loi n° 49-420 du 25 mars 1949 révisant certaines rentes viagères
+constituées entre particuliers sont portées devant le tribunal dans le ressort duquel est situé le bien lorsqu'il s'agit d'un
+immeuble ou d'un fonds de commerce et devant le tribunal dans le ressort duquel est situé le domicile du crédirentier
+lorsqu'il s'agit d'un meuble. 
+
+Les contestations relatives à l'application de la loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères
+constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour la vieillesse ou par des particuliers
+moyennant l'aliénation de capitaux en espèces, à l'exception du titre II de cette loi, et de la loi n° 51-695 du 24 mai 1951
+portant majoration de certaines rentes viagères et pensions sont portées devant le tribunal dans le ressort duquel est situé
+le domicile du crédirentier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°49-420 du 25 mars 1949 (V)
+	  - Loi n°49-1098 du 2 août 1949 (V)
+	  - Loi n°51-695 du 24 mai 1951 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 2
+
+
+###### Article R211-13
+
+Les actions relatives aux correspondances et objets recommandés et aux envois de valeur déclarée, grevés ou non de
+remboursement, sont portées devant le tribunal dans le ressort duquel est situé le domicile de l'expéditeur ou devant celui
+dans le ressort duquel est situé le domicile du destinataire.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-6 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 2
 
 
 #### Chapitre II : Organisation et fonctionnement
@@ -12032,18 +12082,14 @@ ressort.
 
 ###### Article R221-5
 
-Le tribunal d'instance connaît des actions aux fins d'expulsion des occupants sans droit ni titre des immeubles à usage
-d'habitation.
+Le tribunal d'instance connaît des actions tendant à l'expulsion des personnes qui occupent aux fins d'habitation des
+immeubles bâtis, sans droit ni titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2-2 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -12090,75 +12136,6 @@ Le tribunal d'instance connaît des contestations sur les conditions des funéra
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-47 (V)
 
 
-###### Article R221-8
-
-Le tribunal d'instance connaît des contestations relatives à la procédure de paiement direct prévue par la loi n° 73-5 du 2
-janvier 1973 relative au paiement direct de la pension alimentaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1693 du 29 décembre 2009 - art. 8
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-14 (Ab)
-
-
-###### Article R221-9
-
-Le tribunal d'instance connaît des contestations relatives à la révision des rentes viagères dans les conditions et limites
-fixées :
-
-1° Par la loi n° 49-420 du 25 mars 1949 révisant certaines rentes viagères constituées entre particuliers, lorsque la rente
-originaire est inférieure ou égale à 800 euros, et quel que soit le montant de la rente originaire, lorsque la rente
-effectivement payée au jour de la demande en justice est inférieure ou égale à 4 000 euros ;
-
-2° Par la loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères constituées par les compagnies
-d'assurances, par la Caisse nationale des retraites pour la vieillesse, ou par des particuliers moyennant l'aliénation de
-capitaux en espèces, à l'exception du titre II de cette loi, lorsque la rente originaire est inférieure ou égale à 800 euros
-et quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est
-inférieure ou égale à 4 000 euros ;
-
-3° Par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951 portant majoration de certaines rentes viagères et pensions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1693 du 29 décembre 2009 - art. 8
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-15 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r 321-15 (Ab)
-
-
-###### Article R221-10
-
-Le tribunal d'instance connaît des contestations mentionnées à l'article L. 161-4 du code rural relatif à la propriété ou à
-la possession des chemins ruraux.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1693 du 29 décembre 2009 - art. 8
-
-
 ###### Article R221-11
 
 Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des demandes relatives aux
@@ -12198,32 +12175,20 @@ Le tribunal d'instance connaît des actions en bornage.
 
 ###### Article R221-13
 
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît :
-
-1° Des contestations relatives au contrat de salaire différé ;
-
-2° Des contestations relatives aux frais de scolarité ou d'internat, lorsque la demande est formée par tout établissement
-d'enseignement public ou privé ;
-
-3° Des contestations relatives au contrat d'engagement entre armateurs et marins dans les conditions prévues par le code du
-travail maritime.
+Le tribunal d'instance connaît des contestations relatives au contrat d'engagement entre armateurs et marins dans les
+conditions prévues par le code du travail maritime.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2015-219 du 27 février 2015 - art. 15 (V)
 	  - Décret n°2015-219 du 27 février 2015 - art. 5 (V)
 	  - Code de l'organisation judiciaire - art. R221-49 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r 321-6 (Ab)
 
 
 ###### Article R221-14
@@ -12273,26 +12238,15 @@ dépositaire, des objets confiés à des ouvriers, industriels ou artisans pour 
 objets confiés à des entrepreneurs de transport et non réclamés, ainsi qu'au paiement des sommes dues à ces différents
 détenteurs ;
 
-2° Des actions civiles pour diffamation ou pour injures publiques ou non publiques, verbales ou écrites, autrement que par
-voie de la presse et des actions civiles pour violences légères ;
-
-3° Des actions entre les transporteurs et les expéditeurs ou les destinataires relatives aux indemnités pour perte, avarie,
+2° Des actions entre les transporteurs et les expéditeurs ou les destinataires relatives aux indemnités pour perte, avarie,
 détournement des colis et bagages, y compris les colis postaux, ou pour retard dans la livraison ; ces indemnités ne pourront
-excéder les tarifs prévus aux conventions intervenues entre les transporteurs concessionnaires et l'Etat ;
-
-4° Des actions relatives aux correspondances et objets recommandés et aux envois de valeur déclarée, grevés ou non de
-remboursement.
+excéder les tarifs prévus aux conventions intervenues entre les transporteurs concessionnaires et l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-8 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r321-8 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -12381,24 +12335,19 @@ voirie routière ;
 
 ###### Article R221-18
 
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît :
-
-1° Des contestations concernant le paiement, la garantie ou le remboursement des créances de toute nature recouvrées par
-l'administration des douanes et les autres affaires de douanes ;
-
-2° Des contestations relatives au paiement des droits de place et de stationnement perçus par les communes ou par leurs
-concessionnaires.
+Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations concernant le
+paiement, la garantie ou le remboursement des créances de toute nature recouvrées par l'administration des douanes et les
+autres affaires de douanes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 al 8 et 9 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r 321-9 al 8 et 9 (Ab)
+	  - Décret n°2012-1515 du 28 décembre 2012 - art. 13
 
 
 ###### Article R221-19
@@ -12466,23 +12415,6 @@ résultant du classement des objets mobiliers suivant les modalités définies p
 	**Cite**:
 
 	  - Code du patrimoine - art. L622-4
-
-
-###### Article R221-22
-
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations relatives au
-montant de la taxe de séjour forfaitaire dans les stations classées suivant les modalités définies par les articles L.
-2333-26 et suivants et R. 2333-43 et suivants du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1693 du 29 décembre 2009 - art. 8
 
 
 ###### Article R221-22-1
@@ -12820,20 +12752,21 @@ excède cette somme ou est indéterminée, des matières énumérées au présen
 ###### Article R221-38
 
 Sous réserve de la compétence de la juridiction de proximité en matière de dépôt de garantie prévue à l'article R. 231-4, le
-tribunal d'instance connaît des actions dont un contrat de louage d'immeubles ou un contrat portant sur l'occupation d'un
-logement est l'objet, la cause ou l'occasion, ainsi que des actions relatives à l'application de la loi n° 48-1360 du 1er
-septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou
-occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement.
+tribunal d'instance connaît des actions dont un contrat de louage d'immeubles à usage d'habitation ou un contrat portant sur
+l'occupation d'un logement est l'objet, la cause ou l'occasion, ainsi que des actions relatives à l'application de la loi n°
+48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et
+locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Loi n°48-1360 du 1 septembre 1948 (V)
+	  - Code de l'organisation judiciaire - art. R231-4 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2-1 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -12854,6 +12787,27 @@ consommation.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2-3 (Ab)
+
+
+###### Article R221-39-1
+
+Le tribunal d'instance connaît des actions relatives à l'inscription et à la radiation sur le fichier national recensant les
+informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins
+non professionnels prévu à l'article L. 333-4 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L333-4
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R221-51-1 (V)
 
 
 ##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense
@@ -13095,22 +13049,61 @@ les objets warrantés.
 
 ###### Article R221-51
 
-Dans les cas prévus aux 3° et 4° de l'article R. 221-15, la demande est portée devant le tribunal dans le ressort duquel est
-situé le domicile de l'expéditeur ou devant celui dans le ressort duquel est situé le domicile du destinataire.
+Les actions prévues au 2° de l'article R. 221-15 et celles relatives aux correspondances et objets recommandés et aux envois
+de valeur déclarée, grevés ou non de remboursement, sont portées devant le tribunal dans le ressort duquel est situé le
+domicile de l'expéditeur ou devant celui dans le ressort duquel est situé le domicile du destinataire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R221-15 (V)
+
+
+###### Article R221-51-1
+
+Dans le cas prévu à l'article R. 221-39-1, la demande est portée devant le tribunal dans le ressort duquel est situé le
+domicile du débiteur.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-28 (Ab)
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-15 (V)
+	  - Code de l'organisation judiciaire - art. R221-39-1 (V)
+
+
+###### Article R221-51-2
+
+Les contestations relatives à l'application de la loi n° 49-420 du 25 mars 1949 révisant certaines rentes viagères
+constituées entre particuliers sont portées devant le tribunal dans le ressort duquel est situé le bien lorsqu'il s'agit d'un
+immeuble ou d'un fonds de commerce et devant le tribunal dans le ressort duquel est situé le domicile du crédirentier
+lorsqu'il s'agit d'un meuble. 
+
+Les contestations relatives à l'application de la loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères
+constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour la vieillesse ou par des particuliers
+moyennant l'aliénation de capitaux en espèces, à l'exception du titre II de cette loi, et de la loi n° 51-695 du 24 mai 1951
+portant majoration de certaines rentes viagères et pensions sont portées devant le tribunal dans le ressort duquel est situé
+le domicile du crédirentier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°49-420 du 25 mars 1949 (V)
+	  - Loi n°49-1098 du 2 août 1949 (V)
+	  - Loi n°51-695 du 24 mai 1951 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1693 du 29 décembre 2009 - art. 4
 
 
 ###### Article R221-52
@@ -14156,24 +14149,17 @@ actions mentionnées au troisième alinéa du même article.
 
 ###### Article D223-3
 
-Il y a au moins un bureau foncier dans le ressort de chaque tribunal d'instance.
-
 La liste des bureaux fonciers est fixée par arrêté du garde des sceaux, ministre de la justice, conformément au tableau XIII
-annexé au présent code.
+annexé au présent code. 
 
 Le garde des sceaux, ministre de la justice, peut modifier cette liste par arrêté pris après avis du premier président de la
 cour d'appel et du procureur général près cette cour.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-5 al 1 phrase 1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-8 ecqc transfert livre (Ab)
+	  - Décret n°2009-1239 du 15 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -14197,7 +14183,7 @@ Le bureau foncier est chargé de la tenue du livre foncier.
 
 ###### Article D223-6
 
-Les tribunaux d'instance disposent d'un effectif propre de juges du livre foncier.
+Le tribunal d'instance au siège duquel est situé le bureau foncier dispose d'un effectif propre de juges du livre foncier. 
 
 Le bureau foncier est tenu par un juge du livre foncier.
 
@@ -14212,34 +14198,23 @@ Les décisions du premier président sont des mesures d'administration judiciair
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-5 al 2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-7 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-9 (Ab)
+	  - Décret n°2009-1239 du 15 octobre 2009 - art. 1
 
 
 ###### Article D223-8
 
-Le secrétariat des bureaux fonciers est assuré par le greffe du tribunal d'instance.
+Le secrétariat du bureau foncier est assuré par le greffe du tribunal d'instance au siège duquel est situé le bureau
+foncier. 
 
 Le juge chargé du livre foncier surveille l'instruction des affaires par le secrétariat du bureau.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-10 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-11 (Ab)
+	  - Décret n°2009-1239 du 15 octobre 2009 - art. 1
 
 
 ###### Article D223-9
@@ -19607,17 +19582,13 @@ Les dispositions de l'article D. 211-9 sont applicables à Wallis-et-Futuna.
 
 ###### Article D532-7
 
-Les dispositions de l'article D. 211-10 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles D. 211-10 et D. 211-11 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-10 (V)
+	  - Code de l'organisation judiciaire - art. D211-10
 
 
 ###### Article R532-3
@@ -20237,17 +20208,13 @@ Les dispositions de l'article D. 211-9 sont applicables en Polynésie française
 
 ###### Article D552-7
 
-Les dispositions de l'article D. 211-10 sont applicables en Polynésie française.
+Les dispositions des articles D. 211-10 et D. 211-11 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-10 (V)
+	  - Code de l'organisation judiciaire - art. D211-10
 
 
 ###### Article R552-2
@@ -21073,17 +21040,13 @@ Les dispositions de l'article D. 211-9 sont applicables en Nouvelle-Calédonie.
 
 ###### Article D562-7
 
-Les dispositions de l'article D. 211-10 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles D. 211-10 et D. 211-11 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-10 (V)
+	  - Code de l'organisation judiciaire - art. D211-10
 
 
 ###### Article R562-2
@@ -43897,6 +43860,741 @@ Ressort du tribunal supérieur d'appel.
 	  - Code de l'organisation judiciaire - art. D211-10 (V)
 
 
+###### Article Annexe Tableau VIII-I
+
+Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
+aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque
+l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France 
+
+(annexe de l'article D. 211-11) 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+SIÈGE
+
+</td>
+      <td colspan="6">
+
+RESSORT
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Agen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Agen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Agen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Aix-en-Provence 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Aix-en-Provence.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel d'Amiens 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Amiens
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Amiens.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Angers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Angers
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Angers.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Basse-Terre 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Basse-Terre
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Basse-Terre.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bastia 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bastia
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bastia.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Besançon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Besançon
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Besançon.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Bordeaux 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bordeaux
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bordeaux.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Bourges 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourges
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bourges.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Caen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Caen 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Caen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Chambéry 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chambéry 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Chambéry. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Colmar 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Strasbourg 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Dijon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Dijon 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Dijon. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Douai 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lille 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Douai. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Fort-de-France 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Fort-de-France 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Fort-de-France. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Grenoble 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Grenoble 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Grenoble. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Limoges 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Limoges
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Limoges.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Lyon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lyon
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Lyon.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Metz 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Metz 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Metz.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Montpellier 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Montpellier
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Montpellier.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Nancy 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nancy
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Nancy.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Nîmes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nîmes
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Nîmes.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Nouméa 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nouméa
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Nouméa.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Orléans 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Orléans
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Orléans.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Papeete 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Papeete
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Papeete.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Paris 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Paris
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Paris.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Pau 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pau
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Pau.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Poitiers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Poitiers
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Poitiers.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Reims 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Reims
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Reims.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Rennes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nantes
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Rennes.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Riom 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Clermont-Ferrand
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Riom.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Rouen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rouen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Rouen.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Saint-Denis 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Denis
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Saint-Denis.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Toulouse 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Toulouse
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Toulouse.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Versailles 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nanterre
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Versailles.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Tribunal supérieur d'appel de Mamoudzou 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mamoudzou
+
+</td>
+      <td align="center">
+
+Ressort du tribunal supérieur d'appel de Mamoudzou.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Tribunal supérieur d'appel de Saint-Pierre 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Pierre
+
+</td>
+      <td align="center">
+
+Ressort du tribunal supérieur d'appel de Saint-Pierre.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. D211-11
+
+
 ###### Article Annexe Tableau VIII-II
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des recours
@@ -45253,551 +45951,242 @@ Partie de la Moselle située entre Metz et la frontière.
 
 ###### Article Annexe Tableau XIII
 
-Liste des bureaux fonciers 
+Liste des bureaux fonciers
 
-(annexe de l'article D. 223-3)
+(annexe de l'article D. 223-3) 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
-TRIBUNAL D'INSTANCE
+TRIBUNAL D'INSTANCE 
 
 </td>
-      <td colspan="2">
+      <td align="center">
 
 BUREAU FONCIER
 
 </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
+      <td align="center">
 
-Cour d'appel de Colmar
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="3">
 
-Altkirch
-
-</td>
-      <td align="center">
-
-Altkirch.
+Cour d'appel de Colmar 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Brumath
+Thann 
 
 </td>
       <td align="center">
 
-Brumath.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Colmar
+Thann 
 
 </td>
       <td align="center">
 
-Colmar.
+Ressort du tribunal d'instance de Thann 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Munster.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guebwiller
+Colmar 
 
 </td>
       <td align="center">
 
-Guebwiller.
+Colmar 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal d'instance de Colmar 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Haguenau
+Guebwiller 
 
 </td>
       <td align="center">
 
-Haguenau.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Huningue
+Guebwiller 
 
 </td>
       <td align="center">
 
-Huningue.
+Ressort du tribunal d'instance de Guebwiller 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Illkirch-Graffenstaden
+Haguenau 
 
 </td>
       <td align="center">
 
-Erstein.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Haguenau 
 
 </td>
       <td align="center">
 
-Illkirch-Graffenstaden.
+Ressort du tribunal d'instance de Haguenau 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Molsheim
+Mulhouse 
 
 </td>
       <td align="center">
 
-Molsheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Mulhouse 
 
 </td>
       <td align="center">
 
-Schirmeck.
+Ressort du tribunal d'instance de Mulhouse 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Wasselonne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Mulhouse
+Saverne 
 
 </td>
       <td align="center">
 
-Mulhouse.
+Saverne 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Saverne 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Ribeauvillé
+Sélestat 
 
 </td>
       <td align="center">
 
-Kaysersberg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Sélestat 
 
 </td>
       <td align="center">
 
-Ribeauvillé.
+Ressort du tribunal d'instance de Sélestat 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
+Strasbourg 
+
 </td>
       <td align="center">
 
-Sainte-Marie-aux-Mines.
+Strasbourg 
+
+</td>
+      <td align="center">
+
+Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de Strasbourg 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Saverne
+Metz 
 
 </td>
       <td align="center">
 
-Bouxwiller.
+Metz 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Metz 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
+Sarreguemines 
+
 </td>
       <td align="center">
 
-Sarre-Union.
+Sarreguemines 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Sarreguemines 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Saverne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sélestat
+Thionville 
 
 </td>
       <td align="center">
 
-Barr.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Thionville 
 
 </td>
       <td align="center">
 
-Marckolsheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sélestat.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Shiltigheim
-
-</td>
-      <td align="center">
-
-Shiltigheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Strasbourg
-
-</td>
-      <td align="center">
-
-Strasbourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Thann
-
-</td>
-      <td align="center">
-
-Cernay.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Masevaux.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Saint-Amarin.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Thann.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Wissembourg
-
-</td>
-      <td align="center">
-
-Soultz-sous-Forêts.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Wissembourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Woerth.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d Metz
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Boulay-Moselle
-
-</td>
-      <td align="center">
-
-Boulay-Moselle.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Bouzonville.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Faulquemont.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Château-Salins
-
-</td>
-      <td align="center">
-
-Château-Salins.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Forbach
-
-</td>
-      <td align="center">
-
-Forbach.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Hayange
-
-</td>
-      <td align="center">
-
-Hayange.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Metz
-
-</td>
-      <td align="center">
-
-Metz.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Saint-Avold
-
-</td>
-      <td align="center">
-
-Morhange.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Saint-Avold.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sarrebourg
-
-</td>
-      <td align="center">
-
-Phalsbourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sarrebourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sarreguemines
-
-</td>
-      <td align="center">
-
-Bitche.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Rohrbach-lès-Bitche.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sarreguemines.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Thionville
-
-</td>
-      <td align="center">
-
-Thionville.
+Ressort du tribunal de grande instance de Thionville
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 15 octobre 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. D223-3
 
 
 ###### Article Annexe Tableau XIV

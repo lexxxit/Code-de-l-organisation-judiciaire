@@ -1,547 +1,238 @@
 # Article Annexe Tableau XIII
 
-Liste des bureaux fonciers 
+Liste des bureaux fonciers
 
-(annexe de l'article D. 223-3)
+(annexe de l'article D. 223-3) 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
-TRIBUNAL D'INSTANCE
+TRIBUNAL D'INSTANCE 
 
 </td>
-      <td colspan="2">
+      <td align="center">
 
 BUREAU FONCIER
 
 </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
+      <td align="center">
 
-Cour d'appel de Colmar
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="3">
 
-Altkirch
-
-</td>
-      <td align="center">
-
-Altkirch.
+Cour d'appel de Colmar 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Brumath
+Thann 
 
 </td>
       <td align="center">
 
-Brumath.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Colmar
+Thann 
 
 </td>
       <td align="center">
 
-Colmar.
+Ressort du tribunal d'instance de Thann 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Munster.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guebwiller
+Colmar 
 
 </td>
       <td align="center">
 
-Guebwiller.
+Colmar 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal d'instance de Colmar 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Haguenau
+Guebwiller 
 
 </td>
       <td align="center">
 
-Haguenau.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Huningue
+Guebwiller 
 
 </td>
       <td align="center">
 
-Huningue.
+Ressort du tribunal d'instance de Guebwiller 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Illkirch-Graffenstaden
+Haguenau 
 
 </td>
       <td align="center">
 
-Erstein.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Haguenau 
 
 </td>
       <td align="center">
 
-Illkirch-Graffenstaden.
+Ressort du tribunal d'instance de Haguenau 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Molsheim
+Mulhouse 
 
 </td>
       <td align="center">
 
-Molsheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Mulhouse 
 
 </td>
       <td align="center">
 
-Schirmeck.
+Ressort du tribunal d'instance de Mulhouse 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Wasselonne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Mulhouse
+Saverne 
 
 </td>
       <td align="center">
 
-Mulhouse.
+Saverne 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Saverne 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Ribeauvillé
+Sélestat 
 
 </td>
       <td align="center">
 
-Kaysersberg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Sélestat 
 
 </td>
       <td align="center">
 
-Ribeauvillé.
+Ressort du tribunal d'instance de Sélestat 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
+Strasbourg 
+
 </td>
       <td align="center">
 
-Sainte-Marie-aux-Mines.
+Strasbourg 
+
+</td>
+      <td align="center">
+
+Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de Strasbourg 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Saverne
+Metz 
 
 </td>
       <td align="center">
 
-Bouxwiller.
+Metz 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Metz 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
+Sarreguemines 
+
 </td>
       <td align="center">
 
-Sarre-Union.
+Sarreguemines 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Sarreguemines 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Saverne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sélestat
+Thionville 
 
 </td>
       <td align="center">
 
-Barr.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Thionville 
 
 </td>
       <td align="center">
 
-Marckolsheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sélestat.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Shiltigheim
-
-</td>
-      <td align="center">
-
-Shiltigheim.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Strasbourg
-
-</td>
-      <td align="center">
-
-Strasbourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Thann
-
-</td>
-      <td align="center">
-
-Cernay.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Masevaux.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Saint-Amarin.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Thann.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Wissembourg
-
-</td>
-      <td align="center">
-
-Soultz-sous-Forêts.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Wissembourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Woerth.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d Metz
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Boulay-Moselle
-
-</td>
-      <td align="center">
-
-Boulay-Moselle.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Bouzonville.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Faulquemont.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Château-Salins
-
-</td>
-      <td align="center">
-
-Château-Salins.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Forbach
-
-</td>
-      <td align="center">
-
-Forbach.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Hayange
-
-</td>
-      <td align="center">
-
-Hayange.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Metz
-
-</td>
-      <td align="center">
-
-Metz.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Saint-Avold
-
-</td>
-      <td align="center">
-
-Morhange.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Saint-Avold.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sarrebourg
-
-</td>
-      <td align="center">
-
-Phalsbourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sarrebourg.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Sarreguemines
-
-</td>
-      <td align="center">
-
-Bitche.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Rohrbach-lès-Bitche.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-Sarreguemines.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Thionville
-
-</td>
-      <td align="center">
-
-Thionville.
+Ressort du tribunal de grande instance de Thionville
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 15 octobre 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. D223-3
