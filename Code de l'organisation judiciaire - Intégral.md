@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-23
 
 # Partie législative
 
@@ -12614,24 +12614,25 @@ propriété forestière.
 ###### Article R221-32
 
 Le tribunal d'instance connaît des contestations relatives à la régularité des opérations électorales en ce qui concerne
-l'élection :
+l'élection : 
 
-1° Des membres du conseil d'administration des mutuelles, des membres de l'Autorité de contrôle des assurances et des
-mutuelles, des représentants des salariés au conseil d'administration et des délégués des sections locales de vote dans les
-conditions prévues à l'article R. 125-3 du code de la mutualité ;
+1° Des membres du conseil d'administration des mutuelles, des membres de l'Autorité de contrôle prudentiel, des représentants
+des salariés au conseil d'administration et des délégués des sections locales de vote dans les conditions prévues à l'article
+R. 125-3 du code de la mutualité ; 
 
 2° Des représentants des locataires au conseil d'administration ou de surveillance des sociétés anonymes d'habitations à
 loyer modéré dans les conditions prévues à l'article R. 422-2-1 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-19 (Ab)
+	  - Code de la mutualité - art. R125-3 (V)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (V)
 
 
 ###### Article R221-33
