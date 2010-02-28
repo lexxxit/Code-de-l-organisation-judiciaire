@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-01-23
+Version Consolidée au 2010-03-01
 
 # Partie législative
 
@@ -4227,6 +4227,44 @@ fixées par le code de procédure pénale.
 	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ 
+
+
+
+
+###### Article LO461-1
+
+La transmission par une juridiction de l'ordre judiciaire d'une question prioritaire de constitutionnalité à la Cour de
+cassation obéit aux règles définies par les articles 23-1 à 23-3 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi
+organique sur le Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+	**Créé par**:
+
+	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
+
+
+###### Article LO461-2
+
+Le renvoi par la Cour de cassation d'une question prioritaire de constitutionnalité au Conseil constitutionnel obéit aux
+règles définies par les articles 23-4 à 23-7 de l'ordonnance n° 58-1067 du 7 novembre 1958 précitée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-4
+
+	**Créé par**:
+
+	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À MAYOTTE, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES, À LA POLYNÉSIE FRANçAISE ET À LA NOUVELLE-CALÉDONIE
@@ -18325,6 +18363,109 @@ La formation ne peut siéger que si tous les membres qui doivent la composer son
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2, alinéas 2, 3 et 4 (Ab)
 
 
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ 
+
+
+
+
+###### Article R*461-1
+
+La formation statuant sur le renvoi de la question prioritaire de constitutionnalité est constituée conformément aux
+dispositions de l'article 23-6 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
+constitutionnel et aux dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-6
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 5
+
+
+###### Article R*461-2
+
+Le premier président désigne, conformément à l'article R. 431-3, sur proposition de chacun des présidents de chambre, parmi
+les conseillers de chaque chambre, celui qui sera appelé à siéger dans la formation statuant sur le renvoi de la question
+prioritaire de constitutionnalité en application de l'article 23-6 de l'ordonnance du 7 novembre 1958 susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-6
+	  - Code de l'organisation judiciaire - art. R431-3
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R*461-4 (Ab)
+
+
+###### Article R*461-3
+
+Pour chaque affaire, le premier président détermine chaque chambre spécialement concernée par la question prioritaire de
+constitutionnalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
+
+
+###### Article R*461-4
+
+Lorsque la formation statuant sur le renvoi de la question prioritaire de constitutionnalité est composée de deux conseillers
+de chaque chambre spécialement concernée, le premier président désigne, en sus du conseiller désigné en application de
+l'article R. * 461-2, sur proposition de chaque président de chambre concernée, un conseiller choisi parmi ceux appartenant à
+la section compétente de la chambre concernée. Toutefois, lorsqu'un conseiller a été nommé rapporteur pour le pourvoi à
+l'occasion duquel une question prioritaire de constitutionnalité est transmise, il est désigné pour siéger dans la formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R*461-2
+
+
+###### Article R*461-5
+
+Lorsqu'un conseiller désigné en application du présent titre est absent ou empêché, le premier président, sur proposition du
+président de la chambre spécialement concernée, désigne pour le remplacer un autre conseiller de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
+
+
 ## LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON, A MAYOTTE, A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE
 
 ### TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON
@@ -23593,23 +23734,21 @@ Liste des maisons de justice et du droit
 <table>
   <tbody>
     <tr>
-      <td>
+      <th>
 
 TRIBUNAUX DE GRANDE INSTANCE
 
-</td>
-      <td>
+</th>
+      <th>
 
 MAISONS DE JUSTICE ET DU DROIT
 
-</td>
+</th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel d'Aix-en-Provence 
-
-</td>
+Cour d'appel d'Aix-en-Provence </td>
     </tr>
     <tr>
       <td colspan="2">
@@ -23631,7 +23770,7 @@ Menton, Nice (Ariane).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Bouches-du-Rhône
 
@@ -23652,7 +23791,7 @@ Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.
     <tr>
       <td align="center">
 
-Marseille
+Marseille 
 
 </td>
       <td align="center">
@@ -23662,7 +23801,7 @@ Aubagne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Var
 
@@ -23697,7 +23836,7 @@ Oise
     <tr>
       <td align="center">
 
-Beauvais
+Beauvais 
 
 </td>
       <td align="center">
@@ -23709,7 +23848,7 @@ Méru/Vexin-Thelle-Sablons.
     <tr>
       <td align="center">
 
-Compiègne
+Compiègne 
 
 </td>
       <td align="center">
@@ -23721,7 +23860,7 @@ Noyon.
     <tr>
       <td align="center">
 
-Senlis
+Senlis 
 
 </td>
       <td align="center">
@@ -23740,7 +23879,7 @@ Somme
     <tr>
       <td align="center">
 
-Amiens
+Amiens 
 
 </td>
       <td align="center">
@@ -23761,7 +23900,7 @@ Maine-et-Loire
     <tr>
       <td align="center">
 
-Angers
+Angers 
 
 </td>
       <td align="center">
@@ -23780,7 +23919,7 @@ Sarthe
     <tr>
       <td align="center">
 
-Le Mans
+Le Mans 
 
 </td>
       <td align="center">
@@ -23790,7 +23929,7 @@ Allonnes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bordeaux 
 
@@ -23801,7 +23940,7 @@ Charente
     <tr>
       <td align="center">
 
-Angoulême
+Angoulême 
 
 </td>
       <td align="center">
@@ -23820,7 +23959,7 @@ Dordogne
     <tr>
       <td align="center">
 
-Bergerac
+Bergerac 
 
 </td>
       <td align="center">
@@ -23830,7 +23969,7 @@ Bergerac.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Gironde
 
@@ -23839,7 +23978,7 @@ Gironde
     <tr>
       <td align="center">
 
-Bordeaux
+Bordeaux 
 
 </td>
       <td align="center">
@@ -23849,7 +23988,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bourges 
 
@@ -23860,7 +23999,7 @@ Cher
     <tr>
       <td align="center">
 
-Bourges
+Bourges 
 
 </td>
       <td align="center">
@@ -23881,7 +24020,7 @@ Calvados
     <tr>
       <td align="center">
 
-Caen
+Caen 
 
 </td>
       <td align="center">
@@ -23891,7 +24030,7 @@ Hérouville-Saint-Clair.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Chambéry 
 
@@ -23912,7 +24051,7 @@ Annemasse.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Savoie
 
@@ -23921,7 +24060,7 @@ Savoie
     <tr>
       <td align="center">
 
-Albertville
+Albertville 
 
 </td>
       <td align="center">
@@ -23933,7 +24072,7 @@ Albertville (La Tarentaise).
     <tr>
       <td align="center">
 
-Chambéry
+Chambéry 
 
 </td>
       <td align="center">
@@ -23954,7 +24093,7 @@ Bas-Rhin
     <tr>
       <td align="center">
 
-Strasbourg
+Strasbourg 
 
 </td>
       <td align="center">
@@ -23973,7 +24112,7 @@ Haut-Rhin
     <tr>
       <td align="center">
 
-Colmar
+Colmar 
 
 </td>
       <td align="center">
@@ -23985,7 +24124,7 @@ Colmar.
     <tr>
       <td align="center">
 
-Mulhouse
+Mulhouse 
 
 </td>
       <td align="center">
@@ -23995,7 +24134,7 @@ Mulhouse.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Dijon 
 
@@ -24006,7 +24145,7 @@ Côte-d'Or
     <tr>
       <td align="center">
 
-Dijon
+Dijon 
 
 </td>
       <td align="center">
@@ -24025,7 +24164,7 @@ Saône-et-Loire
     <tr>
       <td align="center">
 
-Chalon-sur-Saône
+Chalon-sur-Saône 
 
 </td>
       <td align="center">
@@ -24037,7 +24176,7 @@ Chalon-sur-Saône.
     <tr>
       <td align="center">
 
-Mâcon
+Mâcon 
 
 </td>
       <td align="center">
@@ -24047,7 +24186,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Douai 
 
@@ -24058,7 +24197,7 @@ Nord
     <tr>
       <td align="center">
 
-Avesnes-sur-Helpe
+Avesnes-sur-Helpe 
 
 </td>
       <td align="center">
@@ -24070,7 +24209,7 @@ Aulnoy-Aymeries, Maubeuge.
     <tr>
       <td align="center">
 
-Dunkerque
+Dunkerque 
 
 </td>
       <td align="center">
@@ -24082,7 +24221,7 @@ Dunkerque.
     <tr>
       <td align="center">
 
-Lille
+Lille 
 
 </td>
       <td align="center">
@@ -24092,7 +24231,7 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Pas-de-Calais
 
@@ -24101,7 +24240,7 @@ Pas-de-Calais
     <tr>
       <td align="center">
 
-Valenciennes
+Valenciennes 
 
 </td>
       <td align="center">
@@ -24113,7 +24252,7 @@ Denain.
     <tr>
       <td align="center">
 
-Béthune
+Béthune 
 
 </td>
       <td align="center">
@@ -24146,7 +24285,7 @@ Guyane
     <tr>
       <td align="center">
 
-Cayenne
+Cayenne 
 
 </td>
       <td align="center">
@@ -24165,7 +24304,7 @@ Martinique
     <tr>
       <td align="center">
 
-Fort-de-France
+Fort-de-France 
 
 </td>
       <td align="center">
@@ -24186,7 +24325,7 @@ Drôme
     <tr>
       <td align="center">
 
-Valence
+Valence 
 
 </td>
       <td align="center">
@@ -24205,7 +24344,7 @@ Isère
     <tr>
       <td align="center">
 
-Grenoble
+Grenoble 
 
 </td>
       <td align="center">
@@ -24217,7 +24356,7 @@ Grenoble.
     <tr>
       <td align="center">
 
-Vienne
+Vienne 
 
 </td>
       <td align="center">
@@ -24238,7 +24377,7 @@ Corrèze
     <tr>
       <td align="center">
 
-Brive-la-Gaillarde
+Brive-la-Gaillarde 
 
 </td>
       <td align="center">
@@ -24248,7 +24387,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haute-Vienne
 
@@ -24257,7 +24396,7 @@ Haute-Vienne
     <tr>
       <td align="center">
 
-Limoges
+Limoges 
 
 </td>
       <td align="center">
@@ -24297,7 +24436,7 @@ Rhône
     <tr>
       <td align="center">
 
-Lyon
+Lyon 
 
 </td>
       <td align="center">
@@ -24318,7 +24457,7 @@ Moselle
     <tr>
       <td align="center">
 
-Metz
+Metz 
 
 </td>
       <td align="center">
@@ -24330,7 +24469,7 @@ Woippy.
     <tr>
       <td align="center">
 
-Sarreguemines
+Sarreguemines 
 
 </td>
       <td align="center">
@@ -24351,7 +24490,7 @@ Aude
     <tr>
       <td align="center">
 
-Narbonne
+Narbonne 
 
 </td>
       <td align="center">
@@ -24361,7 +24500,7 @@ Narbonne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hérault
 
@@ -24370,7 +24509,7 @@ Hérault
     <tr>
       <td align="center">
 
-Béziers
+Béziers 
 
 </td>
       <td align="center">
@@ -24382,7 +24521,7 @@ Agde.
     <tr>
       <td align="center">
 
-Montpellier
+Montpellier 
 
 </td>
       <td align="center">
@@ -24392,7 +24531,7 @@ Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nancy 
 
@@ -24403,7 +24542,7 @@ Meurthe-et-Moselle
     <tr>
       <td align="center">
 
-Nancy
+Nancy 
 
 </td>
       <td align="center">
@@ -24413,7 +24552,7 @@ Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nîmes 
 
@@ -24424,7 +24563,7 @@ Gard
     <tr>
       <td align="center">
 
-Nîmes
+Nîmes 
 
 </td>
       <td align="center">
@@ -24434,7 +24573,7 @@ Bagnols-sur-Cèze, Nîmes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Orléans 
 
@@ -24445,7 +24584,7 @@ Indre-et-Loire
     <tr>
       <td align="center">
 
-Tours
+Tours 
 
 </td>
       <td align="center">
@@ -24474,7 +24613,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret
 
@@ -24483,7 +24622,7 @@ Loiret
     <tr>
       <td align="center">
 
-Orléans
+Orléans 
 
 </td>
       <td align="center">
@@ -24504,7 +24643,7 @@ Essonne
     <tr>
       <td align="center">
 
-Evry
+Evry 
 
 </td>
       <td align="center">
@@ -24523,7 +24662,7 @@ Paris
     <tr>
       <td align="center">
 
-Paris
+Paris 
 
 </td>
       <td align="center">
@@ -24533,7 +24672,7 @@ Paris (10e), Paris (14e), Paris (17e).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-et-Marne
 
@@ -24542,7 +24681,7 @@ Seine-et-Marne
     <tr>
       <td align="center">
 
-Meaux
+Meaux 
 
 </td>
       <td align="center">
@@ -24554,7 +24693,7 @@ Chelles, Meaux, Val Maubuée.
     <tr>
       <td align="center">
 
-Melun
+Melun 
 
 </td>
       <td align="center">
@@ -24573,7 +24712,7 @@ Seine-Saint-Denis
     <tr>
       <td align="center">
 
-Bobigny
+Bobigny 
 
 </td>
       <td align="center">
@@ -24592,7 +24731,7 @@ Val-de-Marne
     <tr>
       <td align="center">
 
-Créteil
+Créteil 
 
 </td>
       <td align="center">
@@ -24602,7 +24741,7 @@ Champigny-sur-Marne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Poitiers 
 
@@ -24613,7 +24752,7 @@ Charente-Maritime
     <tr>
       <td align="center">
 
-La Rochelle
+La Rochelle 
 
 </td>
       <td align="center">
@@ -24634,7 +24773,7 @@ Ardennes
     <tr>
       <td align="center">
 
-Charleville-Mézières
+Charleville-Mézières 
 
 </td>
       <td align="center">
@@ -24644,7 +24783,7 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Aube
 
@@ -24653,7 +24792,7 @@ Aube
     <tr>
       <td align="center">
 
-Troyes
+Troyes 
 
 </td>
       <td align="center">
@@ -24672,7 +24811,7 @@ Marne
     <tr>
       <td align="center">
 
-Reims
+Reims 
 
 </td>
       <td align="center">
@@ -24693,7 +24832,7 @@ Côtes-d'Armor
     <tr>
       <td align="center">
 
-[Guingamp
+[Guingamp 
 
 </td>
       <td align="center">
@@ -24705,7 +24844,7 @@ Lannion (3).]
     <tr>
       <td align="center">
 
-[Saint-Brieuc
+[Saint-Brieuc 
 
 </td>
       <td align="center">
@@ -24724,12 +24863,12 @@ Loire-Atlantique
     <tr>
       <td align="center">
 
-Nantes
+Nantes 
 
 </td>
       <td align="center">
 
-Nantes, Nantes-Rezé.
+Châteaubriant.
 
 </td>
     </tr>
@@ -24766,7 +24905,7 @@ Eure
     <tr>
       <td align="center">
 
-[Bernay
+[Bernay 
 
 </td>
       <td align="center">
@@ -24778,7 +24917,7 @@ Pont-Audemer (3).]
     <tr>
       <td align="center">
 
-[Evreux
+[Evreux 
 
 </td>
       <td align="center">
@@ -24790,7 +24929,7 @@ Evreux, Louviers, Vernon (3).]
     <tr>
       <td align="center">
 
-[Evreux
+[Evreux 
 
 </td>
       <td align="center">
@@ -24809,7 +24948,7 @@ Seine-Maritime
     <tr>
       <td align="center">
 
-Le Havre
+Le Havre 
 
 </td>
       <td align="center">
@@ -24821,7 +24960,7 @@ Fécamp, Le Havre.
     <tr>
       <td align="center">
 
-Rouen
+Rouen 
 
 </td>
       <td align="center">
@@ -24831,7 +24970,7 @@ Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Toulouse 
 
@@ -24842,7 +24981,7 @@ Haute-Garonne
     <tr>
       <td align="center">
 
-Toulouse
+Toulouse 
 
 </td>
       <td align="center">
@@ -24861,7 +25000,7 @@ Tarn
     <tr>
       <td align="center">
 
-Castres
+Castres 
 
 </td>
       <td align="center">
@@ -24882,7 +25021,7 @@ Eure-et-Loir
     <tr>
       <td align="center">
 
-Chartres
+Chartres 
 
 </td>
       <td align="center">
@@ -24901,7 +25040,7 @@ Hauts-de-Seine
     <tr>
       <td align="center">
 
-Nanterre
+Nanterre 
 
 </td>
       <td align="center">
@@ -24911,7 +25050,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-d'Oise
 
@@ -24920,7 +25059,7 @@ Val-d'Oise
     <tr>
       <td align="center">
 
-Pontoise
+Pontoise 
 
 </td>
       <td align="center">
@@ -24939,12 +25078,12 @@ Yvelines
     <tr>
       <td align="center">
 
-Versailles
+Versailles 
 
 </td>
       <td align="center">
 
-Les Mureaux, Saint-Quentin-en-Yvelines.
+Les Mureaux, Saint-Quentin-en-Yvelines. 
 
 </td>
     </tr>
@@ -24960,6 +25099,11 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 9 février 2010 - art.
 
 
 ###### Article Annexe Tableau IV
