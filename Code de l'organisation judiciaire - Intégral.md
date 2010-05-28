@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-29
 
 # Partie législative
 
@@ -23771,7 +23771,7 @@ Aubagne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Var
 
@@ -23790,7 +23790,7 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Amiens
 
@@ -23840,7 +23840,7 @@ Creil.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Somme
 
@@ -23859,7 +23859,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Angers 
 
@@ -23920,7 +23920,7 @@ Angoulême.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Dordogne
 
@@ -23939,7 +23939,7 @@ Bergerac.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Gironde
 
@@ -23958,7 +23958,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bourges 
 
@@ -24156,7 +24156,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Douai 
 
@@ -24201,7 +24201,7 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Pas-de-Calais
 
@@ -24244,7 +24244,7 @@ Calais.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France 
 
@@ -24305,7 +24305,7 @@ Romans-sur-Isère.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Isère
 
@@ -24336,7 +24336,7 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Limoges 
 
@@ -24357,7 +24357,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne
 
@@ -24376,7 +24376,7 @@ Limoges.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Lyon 
 
@@ -24397,7 +24397,7 @@ Saint-Etienne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Rhône
 
@@ -24449,7 +24449,7 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Montpellier 
 
@@ -24470,7 +24470,7 @@ Narbonne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hérault
 
@@ -24501,7 +24501,7 @@ Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nancy 
 
@@ -24522,7 +24522,7 @@ Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nîmes 
 
@@ -24583,7 +24583,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loiret
 
@@ -24602,7 +24602,7 @@ Orléans.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Paris 
 
@@ -24623,7 +24623,7 @@ Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Paris
 
@@ -24692,7 +24692,7 @@ Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, L
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Val-de-Marne
 
@@ -24711,7 +24711,7 @@ Champigny-sur-Marne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Poitiers 
 
@@ -24772,7 +24772,7 @@ Troyes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Marne
 
@@ -24791,7 +24791,7 @@ Reims.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Rennes 
 
@@ -24843,7 +24843,7 @@ Châteaubriant.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Riom 
 
@@ -24864,7 +24864,7 @@ Montluçon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Rouen 
 
@@ -24961,7 +24961,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Tarn
 
@@ -24996,7 +24996,7 @@ Chartres
 </td>
       <td align="center">
 
-Dreux.
+Dreux, Nogent-le-Rotrou.
 
 </td>
     </tr>
@@ -25020,7 +25020,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-d'Oise
 
@@ -25073,7 +25073,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 	**Modifié par**:
 
-	  - Arrêté du 22 mars 2010 - art.
+	  - Arrêté du 27 mai 2010 - art.
 
 
 ###### Article Annexe Tableau IV
