@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-06-03
+Version Consolidée au 2010-06-05
 
 # Partie législative
 
@@ -4788,6 +4788,78 @@ A Mayotte, la juridiction du premier degré est dénommée tribunal de première
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-1 (Ab)
 
 
+###### Article L522-2
+
+Le tribunal de première instance connaît de toutes les affaires relatives à l'application du statut civil de droit local
+entre citoyens relevant de ce statut.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+
+###### Article L522-3
+
+Le tribunal est saisi d'un litige entre citoyens de statut civil de droit local sur des matières régies par ce statut, les
+parties peuvent, d'un commun accord, demander l'application des règles du droit civil commun.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L522-11-2 (VT)
+
+
+###### Article L522-3-1
+
+Lorsque le tribunal est saisi d'un litige relatif à l'application du statut civil de droit local entre citoyens relevant de
+ce statut, le président peut commettre une personne de son choix pour l'éclairer par une consultation dans les conditions
+prévues aux articles 256 à 262 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 256
+
+
+###### Article L522-3-2
+
+Les audiences peuvent dérouler dans les conditions prévues à l'article L. 111-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+
 ###### Article L522-4
 
 Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce.
@@ -5072,6 +5144,25 @@ séjour des étrangers à Mayotte.
 	**Abrogé par**:
 
 	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+
+###### Article L522-11-2
+
+Les articles L. 522-3 à L. 522-3-2 sont applicables au tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L522-3
 
 
 ###### Article L522-15
