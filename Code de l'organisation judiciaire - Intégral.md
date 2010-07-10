@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-06-27
+Version Consolidée au 2010-07-11
 
 # Partie législative
 
@@ -1220,18 +1220,22 @@ b) A l'exercice de l'autorité parentale ;
 
 c) A la révision de la prestation compensatoire ou de ses modalités de paiement ; 
 
-d) Au changement de prénom.
+d) Au changement de prénom ;
+
+e) A la protection à l'encontre du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin violent ou
+d'un ancien conjoint, partenaire lié par un pacte civil de solidarité ou concubin violent ; 
+
+f) A la protection de la personne majeure menacée de mariage forcé.
 
 **Nota:**
 
-Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
-formées à compter du 1er janvier 2010.
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 17
 
 	**Cite**:
 
