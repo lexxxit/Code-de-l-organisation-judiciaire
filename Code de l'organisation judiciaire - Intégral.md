@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-10-17
+Version Consolidée au 2010-10-23
 
 # Partie législative
 
@@ -8423,6 +8423,18 @@ l'audience se tient en chambre du conseil, par tous autres agents titulaires et 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-12 (V)
 
 
+###### Article R111-8
+
+Lorsqu'il est procédé à l'installation d'un magistrat par écrit, le procès-verbal d'installation fait mention des
+réquisitions du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 2
+
+
 ### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT
 
 #### Chapitre Ier : Les juges
@@ -9709,26 +9721,35 @@ Lorsqu'un tribunal de grande instance est supprimé, toutes les procédures en c
 d'entrée en vigueur du décret de suppression sont transférées en l'état au tribunal de grande instance dans le ressort duquel
 est situé le siège du tribunal supprimé sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement
 intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux
-témoins à fin de comparution personnelle. Les archives et les minutes du greffe du tribunal de grande instance supprimé sont
-transférées au greffe du tribunal de grande instance dans le ressort duquel était situé le siège du tribunal supprimé. Les
-frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la
-justice.
+témoins qui n'auraient pas été suivies d'une comparution devant la juridiction supprimée. 
+
+Avant l'entrée en vigueur du décret de suppression du tribunal de grande instance, les convocations, citations et
+assignations données aux parties et aux témoins peuvent être délivrées pour une comparution à une date postérieure à cette
+date d'entrée en vigueur devant la juridiction à laquelle les procédures seront transférées. 
+
+Lorsque le ressort du tribunal de grande instance supprimé est réparti entre plusieurs tribunaux de grande instance, les
+mesures de protection des mineurs sont directement transférées, par dérogation au deuxième alinéa, au tribunal de grande
+instance dans le ressort duquel le mineur a son domicile. 
+
+Les parties ayant comparu devant le tribunal de grande instance supprimé sont informées, par l'une ou l'autre des
+juridictions, qu'il leur appartient d'accomplir les actes de la procédure devant le tribunal de grande instance auquel la
+procédure a été transférée. 
+
+Les archives et les minutes du greffe du tribunal de grande instance supprimé sont transférées au greffe du tribunal de
+grande instance dans le ressort duquel est situé le siège du tribunal supprimé. Les frais de transfert de ces archives et
+minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2013-1258 du 27 décembre 2013 (V)
 	  - Décret n°2016-1186 du 30 août 2016 (V)
 	  - Décret n°2016-1996 du 30 décembre 2016 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
 
 
 ##### Section 1 : Compétence matérielle
@@ -10546,32 +10567,31 @@ Le siège et le ressort des chambres détachées sont fixés conformément au ta
 ###### Article R212-18
 
 Un tribunal de grande instance peut comprendre des chambres détachées pour juger dans leur ressort les affaires civiles et
-pénales.
+pénales. 
 
 En cas de création d'une chambre détachée, les procédures en cours devant le tribunal de grande instance à la date fixée pour
 l'entrée en activité de la nouvelle chambre sont transférées en l'état à cette dernière, dans la mesure où elles relèvent
 désormais de sa compétence, sans qu'il y ait lieu de renouveler les actes, formalités et jugements intervenus antérieurement
-à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de
-comparution personnelle.
+à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas
+été suivies d'une comparution devant la juridiction supprimée.
 
 Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
 
+Les parties ayant comparu devant le tribunal de grande instance sont informées, par ce dernier ou par la chambre détachée,
+qu'il leur appartient d'accomplir les actes de la procédure devant la chambre détachée à laquelle la procédure a été
+transférée.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
 	  - Code de l'organisation judiciaire - art. D212-19 (VD)
 	  - Code de l'organisation judiciaire - art. R522-8 (Ab)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-16, alinéa 1, sauf siège et ressort (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-18 (Ab)
 
 
 ###### Article R212-20
@@ -12133,25 +12153,35 @@ statuer sur les procédures introduites antérieurement à la date de création 
 Lorsqu'un tribunal d'instance est supprimé, toutes les procédures en cours devant cette juridiction à la date d'entrée en
 vigueur du décret de suppression sont transférées en l'état au tribunal d'instance dans le ressort duquel est situé le siège
 du tribunal supprimé sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus
-antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à
-fin de comparution personnelle. Les archives et les minutes du greffe du tribunal d'instance supprimé sont transférées au
-greffe du tribunal d'instance dans le ressort duquel est situé le siège du tribunal supprimé. Les frais de transfert de ces
-archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
+antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui
+n'auraient pas été suivies d'une comparution devant la juridiction supprimée. 
+
+Avant l'entrée en vigueur du décret de suppression du tribunal d'instance, les convocations, citations et assignations
+données aux parties et aux témoins peuvent être délivrées pour une comparution à une date postérieure à cette date d'entrée
+en vigueur devant la juridiction à laquelle les procédures seront transférées. 
+
+Lorsque le ressort du tribunal d'instance supprimé est réparti entre plusieurs tribunaux d'instance, les procédures de
+saisies des rémunérations sont directement transférées au tribunal d'instance dans le ressort duquel le débiteur a son
+domicile et les procédures devant le juge des tutelles au tribunal d'instance dans le ressort duquel le majeur à protéger ou
+protégé a sa résidence habituelle ou le tuteur son domicile. 
+
+Les parties ayant comparu devant le tribunal d'instance supprimé sont informées par l'une ou l'autre des juridictions qu'il
+leur appartient d'accomplir les actes de la procédure devant le tribunal d'instance auquel la procédure a été transférée. 
+
+Les archives et les minutes du greffe du tribunal d'instance supprimé sont transférées au greffe du tribunal d'instance dans
+le ressort duquel est situé le siège du tribunal supprimé. Les frais de transfert de ces archives et minutes sont pris sur le
+crédit ouvert à cet effet au budget du ministère de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 5
 
 	**Cité par**:
 
 	  - Décret n°2016-1633 du 29 novembre 2016 (V)
 	  - Décret n°2016-1996 du 30 décembre 2016 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 al 3 et 4 (Ab)
 
 
 ##### Section 1 : Compétence matérielle
@@ -14512,22 +14542,31 @@ de proximité ou de modification du ressort.
 
 Lorsqu'une juridiction de proximité est supprimée, toutes les procédures en cours devant cette juridiction à la date d'entrée
 en vigueur du décret de suppression sont transférées en l'état à la juridiction de proximité dans le ressort de laquelle est
-situé le siège de la juridiction de proximité supprimée sans qu'il y ait lieu de renouveler les actes, formalités et
-jugements régulièrement intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations
-données aux parties et aux témoins à fin de comparution personnelle. Les archives et minutes du greffe de la juridiction de
-proximité supprimée sont transférées au greffe de la juridiction de proximité dans le ressort de laquelle est situé le siège
-de la juridiction de proximité supprimée. Les frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à
-cet effet au budget du ministère de la justice.
+situé le siège de la juridiction supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements
+régulièrement intervenus antérieurement à cette date, à l'exception des convocations, citations et assignations données aux
+parties et aux témoins qui n'auraient pas été suivies d'une comparution devant la juridiction supprimée. 
+
+Avant l'entrée en vigueur du décret de suppression de la juridiction de proximité, les convocations, citations et
+assignations données aux parties et aux témoins peuvent être délivrées pour une comparution à une date postérieure à cette
+date d'entrée en vigueur devant la juridiction à laquelle les procédures seront transférées. 
+
+Les parties ayant comparu devant la juridiction de proximité supprimée sont informées par l'une ou l'autre des juridictions
+qu'il leur appartient d'accomplir les actes de la procédure devant la juridiction de proximité à laquelle la procédure a été
+transférée. 
+
+Les archives et les minutes du greffe de la juridiction de proximité supprimée sont transférées au greffe de la juridiction
+de proximité dans le ressort de laquelle est situé le siège de la juridiction de proximité supprimée. Les frais de transfert
+de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 6
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-4 al 2 et 3 (Ab)
+	  - Décret n°2017-683 du 28 avril 2017 - art. 1
 
 
 ##### Section 1 : Compétence matérielle
@@ -15283,17 +15322,26 @@ procédures introduites antérieurement à la date de création de la cour ou de
 
 Lorsqu'une cour d'appel est supprimée, toutes les procédures en cours devant cette juridiction à la date d'entrée en vigueur
 du décret de suppression sont transférées en l'état à la cour d'appel dans le ressort de laquelle est situé le siège de la
-cour supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement
-à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de
-comparution personnelle. Les archives et les minutes du greffe de la cour d'appel supprimée sont transférées au greffe de la
-cour d'appel dans le ressort de laquelle est situé le siège de la cour d'appel supprimée. Les frais de transfert de ces
-archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
+juridiction supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus
+antérieurement à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui
+n'auraient pas été suivies d'une comparution devant la juridiction supprimée. 
+
+Avant l'entrée en vigueur du décret de suppression de la cour d'appel, les convocations, citations et assignations données
+aux parties et aux témoins peuvent être délivrées pour une comparution à une date postérieure à cette date d'entrée en
+vigueur devant la juridiction à laquelle les procédures seront transférées. 
+
+Les parties ayant comparu devant la cour d'appel supprimée sont informées par l'une ou l'autre des juridictions qu'il leur
+appartient d'accomplir les actes de la procédure devant la cour d'appel à laquelle la procédure a été transférée. 
+
+Les archives et les minutes du greffe de la cour d'appel supprimée sont transférées au greffe de la cour d'appel dans le
+ressort de laquelle est situé le siège de la cour d'appel supprimée. Les frais de transfert de ces archives et minutes sont
+pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1234 du 20 octobre 2010 - art. 7
 
 
 ###### Article R311-3
