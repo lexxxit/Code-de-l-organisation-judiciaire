@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-11-28
+Version Consolidée au 2010-12-01
 
 # Partie législative
 
@@ -15815,6 +15815,23 @@ ministre de la justice, avec ses observations.
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-3 (V)
+
+
+###### Article R312-13-1
+
+Le premier président désigne un conseiller chargé de suivre l'activité des conciliateurs de justice et des médiateurs et de
+coordonner leur action dans le ressort de la cour d'appel.
+
+Ce magistrat établit un rapport annuel sur l'activité des conciliateurs de justice et des médiateurs du ressort de la cour
+d'appel qu'il transmet au premier président de celle-ci ainsi qu'aux présidents des tribunaux de grande instance.
+
+Le premier président de la cour d'appel communique ce rapport au garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 2
 
 
 ##### Section 2 : Le parquet général
@@ -40621,105 +40638,164 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 
 ###### Article Annexe Tableau VI
 
+**
+
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
-en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques (annexe de
-l'article D. 211-6-1) 
+en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques
+
+(annexe de l'article D. 211-6-1)
 
 <table>
   <tbody>
     <tr>
       <td valign="top" align="left">
 
-SIÈGE 
+SIÈGE
+
+</td>
+      <td valign="top" align="left">
+
+RESSORT
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Bordeaux. 
 
 </td>
       <td align="left" valign="top">
 
-RESSORT 
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Lille. 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Bordeaux </td>
+Lyon. 
+
+</td>
       <td align="left" valign="top">
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
-Lille </td>
-      <td align="left" valign="top">
-
-Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Lyon </td>
-      <td align="left" valign="top">
-
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Marseille </td>
-      <td align="left" valign="top">
-
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Nanterre </td>
-      <td valign="top" align="left">
-
-Ressort de la cour d'appel de Versailles. </td>
+</td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Nancy </td>
-      <td align="left" valign="top">
+Marseille. 
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. </td>
+</td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+
+</td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Paris </td>
+Nanterre. 
+
+</td>
       <td valign="top" align="left">
+
+Ressort de la cour d'appel de Versailles. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Nancy. 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Paris. 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
-Mamoudzou et Saint-Pierre. </td>
+Mamoudzou et Saint-Pierre. 
+
+</td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Rennes </td>
-      <td align="left" valign="top">
+Rennes. 
 
-Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. </td>
+</td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+
+</td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Fort-de-France </td>
+Strasbourg. 
+
+</td>
       <td valign="top" align="left">
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France.</td>
+Ressort de la cour d'appel de Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Fort-de-France. 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel de Basse-Terre et Fort-de-France.
+
+</td>
     </tr>
   </tbody>
 </table>
+
+**
+
+**Nota:**
+
+Conformément au décret n° 2010-1369 du 12 novembre 2010, article 3, le tribunal de grande instance de Nancy demeure compétent
+pour statuer sur les procédures du ressort de la cour d'appel de Colmar introduites antérieurement à la date d'entrée en
+vigueur dudit décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1205 du 9 octobre 2009 - art. 3
+	  - Décret n°2010-1369 du 12 novembre 2010 - art.
 
 	**Cite**:
 
