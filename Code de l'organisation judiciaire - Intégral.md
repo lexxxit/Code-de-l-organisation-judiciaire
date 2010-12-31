@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -12624,21 +12624,17 @@ des tribunaux paritaires des baux ruraux.
 ###### Article R221-26
 
 Le tribunal d'instance connaît des contestations des décisions prises par la commission d'établissement des listes
-électorales et relatives à l'électorat :
+électorales et relatives à l'électorat : 
 
-1° Des délégués consulaires ;
+1° Des délégués consulaires ; 
 
-2° Des membres des chambres de commerce et d'industrie.
+2° Des membres des      chambres de commerce et d'industrie territoriales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-17 al 3 (Ab)
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 
 ###### Article R221-27
@@ -17055,6 +17051,34 @@ directeur de greffe, sur les problèmes de gestion et d'organisation du greffe.
 
 ##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel
 
+###### Article R*312-66
+
+Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
+secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
+interventions.
+
+S'agissant des investissements et des études qui leur sont afférentes, ils sont ordonnateurs secondaires :
+
+1° Pour les dépenses et les recettes se rapportant aux opérations mobilières ;
+
+2° En matière immobilière, pour les dépenses et les recettes se rapportant aux opérations d'investissement dont le montant
+est inférieur à un seuil fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du
+budget.
+
+Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, aux magistrats ou agents en fonction dans le
+ressort de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1612 du 23 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-73 (V)
+
+
 ###### Article R312-65
 
 Par délégation du garde des sceaux, ministre de la justice, le premier président de la cour d'appel et le procureur général
@@ -17070,38 +17094,6 @@ assistés dans cette mission par le service administratif régional, placé sous
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*213-29-1 (Ab)
-
-
-###### Article R312-66
-
-Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
-secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
-interventions.
-
-S'agissant des investissements et des études qui leur sont afférentes, ils sont ordonnateurs secondaires :
-
-1° Pour les dépenses et les recettes se rapportant aux opérations mobilières ;
-
-2° En matière immobilière, pour les dépenses et les recettes se rapportant aux opérations d'investissement dont le montant
-est inférieur à un seuil fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du
-budget.
-
-Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, à un même magistrat ou fonctionnaire de
-catégorie A de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*213-30 (Ab)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-73 (V)
 
 
 ###### Article R312-67
@@ -49937,7 +49929,7 @@ Tribunal de grande instance de Paris.
 Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
 connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
 industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
-311-8) 
+311-8) : 
 
 <table>
   <tbody>
@@ -49980,6 +49972,18 @@ Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
     <tr>
       <td align="center">
 
+Colmar 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 Douai 
 
 </td>
@@ -49997,7 +50001,7 @@ Fort-de-France
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
 
 </td>
     </tr>
@@ -50021,7 +50025,7 @@ Nancy
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
@@ -50069,12 +50073,12 @@ Ressort de la cour d'appel de Versailles.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+	  - Décret n°2010-1665 du 28 décembre 2010 - art.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R411-19
-	  - Code de l'organisation judiciaire - art. D311-8
+	  - Code de la propriété intellectuelle - art. R411-19 (V)
+	  - Code de l'organisation judiciaire - art. D311-8 (V)
 
 
 ###### Article Annexe Tableau XVII
