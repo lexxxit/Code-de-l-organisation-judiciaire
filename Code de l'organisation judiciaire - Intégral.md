@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-29
 
 # Partie législative
 
@@ -17051,7 +17051,7 @@ directeur de greffe, sur les problèmes de gestion et d'organisation du greffe.
 
 ##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel
 
-###### Article R*312-66
+###### Article D312-66
 
 Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
 secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
@@ -17072,7 +17072,7 @@ ressort de la cour d'appel.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1612 du 23 décembre 2010 - art. 1
+	  - Décret n°2011-107 du 27 janvier 2011 - art. 2
 
 	**Cité par**:
 
