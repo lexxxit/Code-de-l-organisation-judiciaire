@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-01-29
+Version Consolidée au 2011-02-01
 
 # Partie législative
 
@@ -11027,28 +11027,27 @@ matière d'intérêts fondamentaux de la nation, conformément au code de procé
 exercera les attributions mentionnées au titre XI du livre V du code de procédure pénale (troisième partie : Décrets) ; 
 
 6° La désignation, en cas de pluralité de magistrats chargés des fonctions de juge pour enfants, par le président du
-tribunal, de celui qui exercera les attributions mentionnées à l'article R. 251-3 ; 
+tribunal, de celui qui exercera les attributions mentionnées à l'article R. 251-3 ;
 
 7° Le projet d'ordonnance préparé par le président du tribunal désignant un juge du tribunal d'instance pour exercer les
-fonctions du juge de proximité conformément à l'article L. 232-2 ; 
+fonctions du juge de proximité conformément à l'article L. 232-2 ;
 
 8° Le projet d'ordonnance préparé par le président du tribunal désignant un magistrat pour exercer les fonctions de juge des
-libertés et de la détention conformément à l'article 137-1 du code de procédure pénale.
+libertés et de la détention conformément à l'article 137-1 du code de procédure pénale ;
+
+9° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat coordonnateur en matière de droit de la
+famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 6
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L232-2 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-3 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 al 6 à 12 (Ab)
+	  - Code de l'organisation judiciaire - art. L232-2
+	  - Code de l'organisation judiciaire - art. R251-3
 
 	**Cité par**:
 
@@ -11826,6 +11825,33 @@ Les décisions relatives au renvoi à la formation collégiale sont des mesures 
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5, phrase 2 (Ab)
+
+
+##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes
+
+###### Article R213-9-1
+
+Le président du tribunal de grande instance désigne, après avis de l'assemblée générale des magistrats du siège, un magistrat
+qui assure la coordination de l'activité des magistrats du siège du ressort du tribunal en matière de droit de la famille et
+des personnes. 
+
+Il est mis fin à ses fonctions et pourvu à son remplacement dans les mêmes formes. 
+
+Le magistrat désigné établit un rapport annuel sur l'activité des magistrats du siège en matière de droit de la famille et
+des personnes, qu'il transmet au président. Ce dernier communique ce rapport au premier président de la cour d'appel ainsi
+qu'au procureur de la République et à toute personne à laquelle il estime cette communication utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R212-37 (M)
+	  - Code de l'organisation judiciaire - art. R552-10 (V)
+	  - Code de l'organisation judiciaire - art. R562-10 (V)
 
 
 ##### Sous-section 4 : Le juge de l'exécution
@@ -15830,6 +15856,25 @@ Le premier président de la cour d'appel communique ce rapport au garde des scea
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 2
 
 
+###### Article R312-13-2
+
+Le premier président désigne, après avis de l'assemblée générale des magistrats du siège, un conseiller qui assure la
+coordination de l'activité des magistrats du siège du ressort de la cour en matière de droit de la famille et des personnes. 
+
+Il est mis fin à ses fonctions et pourvu à son remplacement dans les mêmes formes. 
+
+Le conseiller désigné établit un rapport annuel sur l'activité des magistrats du siège en matière de droit de la famille et
+des personnes, qu'il transmet au premier président. Ce dernier communique ce rapport, avec ses observations, au garde des
+sceaux, ministre de la justice. Il le communique également aux présidents des tribunaux de grande instance du ressort de la
+cour d'appel ainsi qu'au procureur général et à toute personne à laquelle il estime cette communication utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 7
+
+
 ##### Section 2 : Le parquet général
 
 ###### Article R312-14
@@ -16467,9 +16512,7 @@ procédure pénale.
 L'assemblée des magistrats du siège de la cour d'appel émet un avis sur :
 
 1° Le projet de décision préparé par le premier président de la cour d'appel et le procureur général près cette cour fixant
-le nombre et le jour des audiences correctionnelles, conformément à l'
-article 511 du code de procédure pénale
- ;
+le nombre et le jour des audiences correctionnelles, conformément à l'article 511 du code de procédure pénale ;
 
 2° Les critères généraux de répartition des dossiers entre les chambres ;
 
@@ -16479,31 +16522,31 @@ des présidents de chambre et des conseillers dont la cour d'appel est composée
 4° Le projet d'ordonnance préparé par le premier président désignant :
 
 a) Les juges de l'application des peines du ressort de la cour composant un tribunal de l'application des peines,
-conformément à l'
-article 712-3 du code de procédure pénale
- ;
+conformément à l'article 712-3 du code de procédure pénale ;
 
 b) Le président de la chambre de l'application des peines et les conseillers la composant en qualité d'assesseurs,
-conformément à l'
-article 712-13 du code de procédure pénale
- ;
+conformément à l'article 712-13 du code de procédure pénale ;
 
 c) Le responsable d'une association de réinsertion des condamnés et le responsable d'une association d'aide aux victimes
-composant la chambre de l'application des peines, conformément à l'
-article 712-13 du code de procédure pénale
- ;
+composant la chambre de l'application des peines, conformément à l'article 712-13 du code de procédure pénale ;
 
 d) Le ou les conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des
 peines dans le ressort de la cour d'appel ;
 
 e) Le président de la juridiction régionale de la rétention de sûreté et les conseillers la composant en qualité
-d'assesseurs, conformément à l'article 706-53-15 du code de procédure pénale.
+d'assesseurs, conformément à l'article 706-53-15 du code de procédure pénale ;
+
+f) Le conseiller chargé de suivre l'activité des conciliateurs de justice et des médiateurs et de coordonner leur action dans
+le ressort de la cour d'appel ;
+
+g) Le conseiller qui assure la coordination de l'activité des magistrats du siège du ressort de la cour en matière de droit
+de la famille et des personnes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1129 du 4 novembre 2008 - art. 10
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 8
 
 	**Cite**:
 
@@ -20515,21 +20558,17 @@ service juridictionnel du tribunal de grande instance, sont applicables en Polyn
 
 ###### Article R552-10
 
-Les dispositions de l'article R. 213-8 sont applicables en Polynésie française.
+Les dispositions des articles R. 213-8 et R. 213-9-1 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 9
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-8 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-10-1 ecqc PF (Ab)
+	  - Code de l'organisation judiciaire - art. R213-8
 
 
 ###### Article R552-11
@@ -21347,21 +21386,17 @@ service juridictionnel du tribunal de grande instance, sont applicables en Nouve
 
 ###### Article R562-10
 
-Les dispositions de l'article R. 213-8 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles R. 213-8 et R. 213-9-1 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 10
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-8 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-10-1 ecqc NC (Ab)
+	  - Code de l'organisation judiciaire - art. R213-8
 
 
 ###### Article R562-11
