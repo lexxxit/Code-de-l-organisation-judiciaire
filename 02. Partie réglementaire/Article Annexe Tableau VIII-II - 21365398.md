@@ -8,12 +8,12 @@ en matière de contrats de la commande publique (annexe de l'article D. 211-10-2
     <tr>
       <td>
 
-<font size="1">SIÈGE </font>
+<font size="1">SIÈGE</font>
 
 </td>
       <td>
 
-<font size="1">RESSORT </font>
+<font size="1">RESSORT</font>
 
 </td>
     </tr>
@@ -149,27 +149,15 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
-    <tr>
-      <td align="center">
-
-Mamoudzou 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
-
-</td>
-    </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1455 du 27 novembre 2009 - art. 4
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. D211-10-2 (V)
+	  - Code de l'organisation judiciaire - art. D211-10-2

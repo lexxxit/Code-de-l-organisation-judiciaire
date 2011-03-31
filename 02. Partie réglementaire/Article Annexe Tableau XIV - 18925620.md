@@ -27,7 +27,9 @@ Gers
 
 </td>
       <td>
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -69,18 +71,6 @@ Lot-et-Garonne
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Agen 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Agen et Marmande. (3)] 
 
 </td>
     </tr>
@@ -346,18 +336,6 @@ Somme
 </td>
       <td>
 
-Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Amiens 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance d'Amiens. (4)] 
 
 </td>
@@ -371,18 +349,6 @@ Maine-et-Loire
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Angers 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Angers et Saumur. (3)] 
 
 </td>
     </tr>
@@ -578,18 +544,6 @@ Haute-Saône
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Lure et Vesoul. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Vesoul 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Vesoul. (4)] 
 
 </td>
@@ -601,18 +555,6 @@ Jura
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Lons-le-Saunier 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Dole et Lons-le-Saunier. (3)] 
 
 </td>
     </tr>
@@ -853,18 +795,6 @@ Cherbourg-Octeville
       <td>
 
 Ressort du tribunal de grande instance de Cherbourg-Octeville. 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Coutances 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Avranches et Coutances. (3)] 
 
 </td>
     </tr>
@@ -1178,18 +1108,6 @@ Ressort du tribunal de grande instance de Douai.
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Dunkerque et Hazebrouck. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Dunkerque 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Dunkerque. (4)] 
 
 </td>
@@ -1446,18 +1364,6 @@ Corrèze
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Brive-la-Gaillarde 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)] 
 
 </td>
@@ -1526,18 +1432,6 @@ Ain
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Bourg-en-Bresse 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)] 
 
 </td>
@@ -1561,18 +1455,6 @@ Roanne
       <td>
 
 Ressort du tribunal de grande instance de Roanne. 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Saint-Etienne 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Montbrison et Saint-Etienne. (3)] 
 
 </td>
     </tr>
@@ -1724,18 +1606,6 @@ Aveyron
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Millau et Rodez. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Rodez 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Rodez. (4)] 
 
 </td>
@@ -1861,18 +1731,6 @@ Vosges
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Epinal 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)] 
 
 </td>
     </tr>
@@ -2398,31 +2256,7 @@ Charente-Maritime
 </td>
       <td>
 
-Ressort du tribunal de grande instance de La Rochelle. (5)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[La Rochelle 
-
-</td>
-      <td>
-
 Ressort des tribunaux de grande instance de La Rochelle et Saintes. (4)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Rochefort 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Rochefort et Saintes. (5)] 
 
 </td>
     </tr>
@@ -2457,18 +2291,6 @@ Deux-Sèvres
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Niort 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Bressuire et Niort. (3)] 
 
 </td>
     </tr>
@@ -2623,30 +2445,6 @@ Côtes-d'Armor
     <tr>
       <td>
 
-[Guingamp 
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Guingamp. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Saint-Brieuc 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Dinan et de Saint-Brieuc. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
 [Saint-Brieuc 
 
 </td>
@@ -2663,18 +2461,6 @@ Finistère
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Brest 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Brest et Morlaix. (3)] 
 
 </td>
     </tr>
@@ -2890,18 +2676,6 @@ Puy-de-Dôme
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Clermont-Ferrand 
-
-</td>
-      <td>
-
 Ressort du tribunal de grande instance de Clermont-Ferrand. (4)] 
 
 </td>
@@ -2915,18 +2689,6 @@ Eure
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Evreux 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Bernay et Evreux. (3)] 
 
 </td>
     </tr>
@@ -3026,6 +2788,26 @@ Ressort du tribunal de grande instance de Saint-Pierre.
     </tr>
     <tr>
       <td>
+        Mayotte 
+      </td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mamoudzou 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal de grande instance de Mamoudzou 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 Cour d'appel de Toulouse 
 
@@ -3055,18 +2837,6 @@ Haute-Garonne
 
 </td>
       <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Toulouse 
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Saint-Gaudens et Toulouse. (3)] 
 
 </td>
     </tr>
@@ -3231,33 +3001,9 @@ Ressort du tribunal de grande instance de Versailles.
     <tr>
       <td>
 
-Tribunal supérieur d'appel de Mamoudzou 
+Tribunal supérieur d'appel de
 
-Mayotte 
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Mamoudzou 
-
-</td>
-      <td>
-
-Ressort du tribunal de première instance de Mamoudzou. 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tribunal supérieur d'appel
-
-de Saint-Pierre 
+Saint-Pierre 
 
 Saint-Pierre-et-Miquelon 
 
@@ -3274,18 +3020,14 @@ Saint-Pierre
 </td>
       <td>
 
-Ressort du tribunal de première instance de Saint-Pierre. 
+Ressort du tribunal de grande instance de Saint-Pierre 
 
 </td>
     </tr>
     <tr>
       <td colspan="2">
 
-(3) Applicable jusqu'au 31 décembre 2010. 
-
 (4) Applicable à compter du 1er janvier 2011. 
-
-(5) Applicable jusqu'au 31 décembre 2010. 
 
 (6) Applicable à compter du 1er janvier 2011.
 
@@ -3306,7 +3048,7 @@ Ressort du tribunal de première instance de Saint-Pierre.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1078 du 13 septembre 2010 - art.
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cite**:
 

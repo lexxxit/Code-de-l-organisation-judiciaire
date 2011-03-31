@@ -691,25 +691,6 @@ Ressort de la cour d'appel de Versailles.
     <tr>
       <td colspan="2">
 
-Tribunal supérieur d'appel de Mamoudzou 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Mamoudzou 
-
-</td>
-      <td>
-
-Ressort du tribunal supérieur d'appel de Mamoudzou. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
 Tribunal supérieur d'appel de Saint-Pierre 
 
 </td>
@@ -731,6 +712,10 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art.
+
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. D211-9 (V)
+	  - Code de l'organisation judiciaire - art. D211-9
