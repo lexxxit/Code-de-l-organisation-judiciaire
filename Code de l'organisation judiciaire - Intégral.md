@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-05-20
+Version Consolidée au 2011-05-28
 
 # Partie législative
 
@@ -19671,58 +19671,43 @@ entre les services du siège et ceux du parquet.
 ###### Article R561-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Nouvelle-Calédonie, à l'exception du second alinéa de
-l'article R. 111-3 et des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et
-R. 124-2.
+l'article R. 111-3 et des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19            et R. 124-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-12-1-3, ecqc NC (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16, ecqc NC ecqc R (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc NC ecqc R (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-16 ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-3 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-10 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-15 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-17 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-2 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-20 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-9 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+	  - Code de l'organisation judiciaire - art. R111-3
+	  - Code de l'organisation judiciaire - art. R123-10
+	  - Code de l'organisation judiciaire - art. R123-15
+	  - Code de l'organisation judiciaire - art. R123-17
+	  - Code de l'organisation judiciaire - art. R123-19
+	  - Code de l'organisation judiciaire - art. R123-2
+	  - Code de l'organisation judiciaire - art. R123-9
+	  - Code de l'organisation judiciaire - art. R124-2
 
 
 ###### Article R561-2
 
 Pour l'application des dispositions étendues par le présent titre en Nouvelle-Calédonie, il y a lieu de lire :
 
-1° « tribunal de première instance » à la place de « tribunal de grande instance » et de « tribunal d'instance » ;
+1° "tribunal de première instance" à la place de "tribunal de grande instance" et de "tribunal d'instance" ;
 
-2° « tribunal du travail » à la place de « conseil des prud'hommes » ;
+2° "tribunal du travail" à la place de "conseil des prud'hommes" ;
 
-3° « directeur de greffe de la cour d'appel ou fonctionnaire responsable du greffe du tribunal de première instance » à la
-place de « directeur de greffe » ;
+3° Supprimé ;
 
-4° « haut-commissaire de la République » à la place de « préfet ».
+4° "haut-commissaire de la République" à la place de "préfet".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-1 ecqc NC (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 2, ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
 #### Chapitre II : Des juridictions
@@ -20620,72 +20605,60 @@ L'arrêté prononçant la censure ou la suspension d'un assesseur est pris par l
 
 ###### Article R563-1
 
-Le service du greffe du tribunal de première instance est assuré par des agents du greffe de la cour d'appel.
+La cour d'appel et le tribunal de première instance ont, chacun, un greffe composé d'effectifs propres.
 
 Le greffe fait partie de la juridiction dont il dépend.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-17, alinéas 1 et 3 phrase 1, ecqc NC (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-18, ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
 ###### Article R563-2
 
-Les fonctions de greffier du tribunal de première instance, du tribunal du travail, du tribunal mixte de commerce et du
-tribunal pour enfants sont exercées par le directeur de greffe de la cour d'appel ou par un greffier de cette cour.
+Les fonctions de greffier du tribunal du travail, du tribunal mixte de commerce et du tribunal pour enfants sont exercées par
+le directeur de greffe du tribunal de première instance ou un greffier du tribunal de première instance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-18, ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
 ###### Article R563-3
 
-Le premier président de la cour d'appel et le procureur général près cette cour, après avis du président du tribunal de
-première instance, du procureur de la République près ce tribunal et du directeur de greffe de la cour d'appel, répartissent
-le personnel assurant le service des greffes entre le greffe de la cour d'appel et celui du tribunal de première instance et
-désignent un fonctionnaire responsable du greffe du tribunal de première instance.
+Selon les besoins du service, les agents des greffes peuvent être délégués dans les services d'une autre juridiction du
+ressort de la cour d'appel.
+
+Cette délégation est prononcée par décision du premier président de la cour d'appel et du procureur général près cette cour.
+Elle ne peut excéder une durée de six mois. Les chefs de cour peuvent la renouveler une fois. A l'issue de cette période, le
+garde des sceaux peut renouveler la délégation ou lui assigner une durée supérieure.
+
+Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que les fonctionnaires de
+leur catégorie et suivant les mêmes taux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-19, ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
 ###### Article R563-4
 
-Le premier président de la cour d'appel et le procureur général près cette cour, après avis du directeur de greffe de cette
-cour, ainsi que le président du tribunal de première instance et le procureur de la République près ce tribunal, après avis
-du fonctionnaire responsable du greffe de ce tribunal, décident de la répartition du personnel assurant le service du greffe
-entre les services du siège et ceux du parquet.
+Le premier président de la cour d'appel et le procureur général près cette cour, après avis du directeur de greffe de la cour
+d'appel, ainsi que le président du tribunal de première instance et le procureur de la République, après avis du directeur de
+greffe du tribunal de première instance, décident de la répartition du personnel assurant le service du greffe entre les
+services du siège et ceux du parquet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-20, ecqc NC (Ab)
+	  - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
 ## Annexes
