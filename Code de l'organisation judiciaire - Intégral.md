@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-09-03
+Version Consolidée au 2011-09-26
 
 # Partie législative
 
@@ -17315,6 +17315,25 @@ Les conseillers référendaires désignés en application de l'article L. 431-3 
 	**Cite**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-3 (V)
+
+
+###### Article R431-7-1
+
+Peuvent être autorisées à assister au délibéré de la Cour de cassation les personnes qui participent à une session de
+formation en vue d'accéder à la profession d'avocat au Conseil d'Etat et à la Cour de cassation, les professeurs des
+universités, les maîtres de conférences, ainsi que les personnes admises, à titre exceptionnel, à suivre les travaux de la
+Cour de cassation, qu'elles soient de nationalité française ou étrangère.
+
+Le premier président de la Cour de cassation, après avis du président de la formation de jugement, délivre l'autorisation.
+
+Les personnes visées au premier alinéa sont astreintes au secret professionnel pour tous les faits et actes qu'elles ont à
+connaître au cours de la formation et des stages qu'elles accomplissent auprès de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1173 du 23 septembre 2011 - art. 24
 
 
 ###### Article R431-8
