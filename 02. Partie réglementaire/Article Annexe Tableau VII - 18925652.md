@@ -9,14 +9,9 @@ international d'enfants (annexe de l'article D. 211-9)
     <tr>
       <td>
 
-**
-        **
-
-**
-
 SIÈGE 
 
-**</td>
+</td>
       <td>
 
 RESSORT 
@@ -210,6 +205,25 @@ Caen
       <td>
 
 Ressort de la cour d'appel de Caen. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort de la cour d'appel de Cayenne.
 
 </td>
     </tr>
@@ -714,7 +728,7 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 

@@ -9,19 +9,19 @@ l'enfant résidant habituellement à l'étranger a été, est ou doit être dép
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
 SIÈGE 
 
 </td>
-      <td colspan="6">
+      <td colspan="6" align="center">
 
 RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Agen 
 
@@ -59,9 +59,9 @@ Ressort de la cour d'appel d'Aix-en-Provence.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel d'Amiens 
+Cour d'appel d'Amiens
 
 </td>
     </tr>
@@ -78,7 +78,7 @@ Ressort de la cour d'appel d'Amiens.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Angers 
 
@@ -135,7 +135,7 @@ Ressort de la cour d'appel de Bastia.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Besançon 
 
@@ -154,9 +154,9 @@ Ressort de la cour d'appel de Besançon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Bordeaux
 
 </td>
     </tr>
@@ -173,9 +173,9 @@ Ressort de la cour d'appel de Bordeaux.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Bourges 
+Cour d'appel de Bourges
 
 </td>
     </tr>
@@ -192,9 +192,9 @@ Ressort de la cour d'appel de Bourges.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Caen 
+Cour d'appel de Caen
 
 </td>
     </tr>
@@ -211,9 +211,28 @@ Ressort de la cour d'appel de Caen.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2">
 
-Cour d'appel de Chambéry 
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort de la cour d'appel de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Chambéry
 
 </td>
     </tr>
@@ -230,9 +249,9 @@ Ressort de la cour d'appel de Chambéry.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Colmar 
+Cour d'appel de Colmar
 
 </td>
     </tr>
@@ -249,9 +268,9 @@ Ressort de la cour d'appel de Colmar.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Dijon 
+Cour d'appel de Dijon
 
 </td>
     </tr>
@@ -287,7 +306,7 @@ Ressort de la cour d'appel de Douai.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Fort-de-France
 
@@ -306,9 +325,9 @@ Ressort de la cour d'appel de Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Grenoble
+Cour d'appel de Grenoble 
 
 </td>
     </tr>
@@ -325,9 +344,9 @@ Ressort de la cour d'appel de Grenoble.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Limoges
+Cour d'appel de Limoges 
 
 </td>
     </tr>
@@ -363,7 +382,7 @@ Ressort de la cour d'appel de Lyon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Metz
 
@@ -439,9 +458,9 @@ Ressort de la cour d'appel de Nîmes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Nouméa
+Cour d'appel de Nouméa 
 
 </td>
     </tr>
@@ -458,9 +477,9 @@ Ressort de la cour d'appel de Nouméa.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel d'Orléans
+Cour d'appel d'Orléans 
 
 </td>
     </tr>
@@ -477,9 +496,9 @@ Ressort de la cour d'appel d'Orléans.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Papeete
+Cour d'appel de Papeete 
 
 </td>
     </tr>
@@ -496,7 +515,7 @@ Ressort de la cour d'appel de Papeete.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Paris
 
@@ -553,7 +572,7 @@ Ressort de la cour d'appel de Poitiers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Reims
 
@@ -591,9 +610,9 @@ Ressort de la cour d'appel de Rennes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Riom
+Cour d'appel de Riom 
 
 </td>
     </tr>
@@ -612,7 +631,7 @@ Ressort de la cour d'appel de Riom.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Rouen
+Cour d'appel de Rouen 
 
 </td>
     </tr>
@@ -631,7 +650,7 @@ Ressort de la cour d'appel de Rouen.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Saint-Denis
+Cour d'appel de Saint-Denis 
 
 </td>
     </tr>
@@ -648,9 +667,9 @@ Ressort de la cour d'appel de Saint-Denis.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Toulouse
+Cour d'appel de Toulouse 
 
 </td>
     </tr>
@@ -686,7 +705,7 @@ Ressort de la cour d'appel de Versailles.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tribunal supérieur d'appel de Saint-Pierre
 
@@ -711,7 +730,7 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 

@@ -159,15 +159,15 @@ Cour d'appel de Paris
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 Paris
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis
-et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. 
+et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
@@ -216,7 +216,7 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Liens**:
 

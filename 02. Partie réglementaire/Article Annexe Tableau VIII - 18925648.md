@@ -6,19 +6,15 @@ NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTI
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
+      <td align="center">RESSORT </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Aix-en-Provence 
 
@@ -37,7 +33,7 @@ Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bordeaux 
 
@@ -56,7 +52,7 @@ Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Douai 
 
@@ -75,6 +71,25 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort de la cour d'appel de Cayenne.
+
+</td>
+    </tr>
+    <tr>
       <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France 
@@ -89,20 +104,7 @@ Fort-de-France.
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-Terre et de Fort-de-France, à l'exception du ressort du tribunal de grande instance de
-Cayenne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cayenne.
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Cayenne.
+Ressort des cours d'appel de Basse-Terre et de Fort-de-France.
 
 </td>
     </tr>
@@ -126,7 +128,7 @@ Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nancy 
 
@@ -176,7 +178,7 @@ Ressort du tribunal de première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Papeete 
 
@@ -195,7 +197,7 @@ Ressort de la cour d'appel.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Paris 
 
@@ -306,7 +308,7 @@ Ressort du tribunal supérieur d'appel.
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 

@@ -134,11 +134,7 @@ Ressort de la cour d'appel de Colmar.
 Fort-de-France.
 
 </td>
-      <td>
-
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
-
-</td>
+      <td>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</td>
     </tr>
   </tbody>
 </table>
@@ -153,7 +149,7 @@ vigueur dudit décret.
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 

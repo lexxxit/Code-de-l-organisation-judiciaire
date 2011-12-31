@@ -43,14 +43,14 @@ Le Moule
 </td>
       <td width="349">
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
 
 </td>
     </tr>
     <tr>
       <td colspan="3" width="718">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
@@ -60,12 +60,12 @@ Cour d'appel de Fort-de-France
 Cayenne 
 
 </td>
-      <td valign="top" width="240">
+      <td width="240" valign="top">
 
 Saint-Laurent-du-Maroni 
 
 </td>
-      <td width="349" valign="top">
+      <td valign="top" width="349">
 
 Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni. 
 
@@ -107,7 +107,7 @@ Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 

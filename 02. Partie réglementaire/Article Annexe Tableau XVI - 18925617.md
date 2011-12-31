@@ -6,148 +6,148 @@ industrielle en matière de délivrance, rejet ou maintien des dessins et modèl
 311-8) :
 
 <table>
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+RESSORT 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Aix-en-Provence 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Bordeaux 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Colmar 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Colmar. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Douai 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Fort-de-France 
 
 </td>
-      <td align="center">
+        <td align="left">
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Lyon 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Nancy 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Paris 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
 Pierre.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Rennes 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Versailles 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Versailles.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 	**Cite**:
 
