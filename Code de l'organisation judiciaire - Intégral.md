@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2012-03-19
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -1341,10 +1341,8 @@ fond du droit ainsi que de la procédure de distribution qui en découle.
 Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des
 mesures d'exécution forcée ou des mesures conservatoires.
 
-**Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+Le juge de l'exécution exerce également les compétences particulières qui lui sont dévolues par le code des procédures
+civiles d'exécution.
 
 **Liens relatifs à cet article**
 
@@ -1354,7 +1352,7 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 	**Cité par**:
 
