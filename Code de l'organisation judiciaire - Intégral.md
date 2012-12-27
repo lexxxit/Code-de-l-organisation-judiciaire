@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2012-06-07
+Version Consolidée au 2012-12-28
 
 # Partie législative
 
@@ -10185,26 +10185,31 @@ matière d'intérêts fondamentaux de la nation, conformément au code de procé
 exercera les attributions mentionnées au titre XI du livre V du code de procédure pénale (troisième partie : Décrets) ; 
 
 6° La désignation, en cas de pluralité de magistrats chargés des fonctions de juge pour enfants, par le président du
-tribunal, de celui qui exercera les attributions mentionnées à l'article R. 251-3 ;
+tribunal, de celui qui exercera les attributions mentionnées à l'article R. 251-3 ; 
 
 7° Le projet d'ordonnance préparé par le président du tribunal désignant un juge du tribunal d'instance pour exercer les
-fonctions du juge de proximité conformément à l'article L. 232-2 ;
+fonctions du juge de proximité conformément à l'article L. 232-2 ; 
 
 8° Le projet d'ordonnance préparé par le président du tribunal désignant un magistrat pour exercer les fonctions de juge des
-libertés et de la détention conformément à l'article 137-1 du code de procédure pénale ;
+libertés et de la détention conformément à l'article 137-1 du code de procédure pénale ; 
 
 9° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat coordonnateur en matière de droit de la
-famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1.
+famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1 ; 
+
+10° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de contrôler l'exécution des
+mesures d'instruction conformément à l'article 155-1 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1395 du 12 novembre 2010 - art. 6
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 1
 
 	**Cite**:
 
+	  - Code de procédure civile - art. 155-1
 	  - Code de l'organisation judiciaire - art. L232-2
+	  - Code de l'organisation judiciaire - art. R213-9-1 (V)
 	  - Code de l'organisation judiciaire - art. R251-3
 
 	**Cité par**:
@@ -11074,6 +11079,29 @@ Les décisions relatives au renvoi à la formation collégiale sont des mesures 
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13, ecqc JEX (Ab)
+
+
+##### Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction
+
+###### Article R213-12-1
+
+Le président du tribunal de grande instance désigne un ou plusieurs juges chargés de contrôler l'exécution des mesures
+d'instruction conformément aux dispositions de l'article L. 121-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L121-3
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R552-10 (V)
+	  - Code de l'organisation judiciaire - art. R562-10 (V)
 
 
 ##### Section 2 : Fonctions particulières exercées en matière pénale
@@ -18118,27 +18146,21 @@ Les dispositions relatives au service administratif régional ne sont pas applic
 
 ###### Article R531-1
 
-Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna, à l'exception du second alinéa de
-l'article R. 111-3 et des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et
-R. 124-2.
+Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna dans sa rédaction en vigueur le
+lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012, à l'exception du second alinéa de l'article R. 111-3
+et des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et R. 124-2.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. 13 (V)
 	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-12-1-3, ecqc WF (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16, ecq WF ecqc R (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc WF ecqc R (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-16 ecqc WF ecqc incompatibilités (Ab)
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16, v. init.
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cite**:
 
@@ -18973,39 +18995,40 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 ###### Article R552-9
 
 Les dispositions de la section 1 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives au
-service juridictionnel du tribunal de grande instance, sont applicables en Polynésie française, à l'exception des articles R.
-212-8, R. 212-9 et R. 212-11.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-11 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-8 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-9 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-1, ecqc PF ecqc R311-14 à R311-28 (Ab)
-
-
-###### Article R552-10
-
-Les dispositions des articles R. 213-8 et R. 213-9-1 sont applicables en Polynésie française.
+service juridictionnel du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction en vigueur
+le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012, à l'exception des articles R. 212-8, R. 212-9 et
+R. 212-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1395 du 12 novembre 2010 - art. 9
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cite**:
 
+	  - Code de l'organisation judiciaire - art. R212-11
+	  - Code de l'organisation judiciaire - art. R212-8
+	  - Code de l'organisation judiciaire - art. R212-9
+
+
+###### Article R552-10
+
+Les dispositions des articles R. 213-8, R. 213-9-1 et R. 213-12-1 sont applicables en Polynésie française dans leur rédaction
+en vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012
+	  - Code de l'organisation judiciaire - art. R213-12-1
 	  - Code de l'organisation judiciaire - art. R213-8
+	  - Code de l'organisation judiciaire - art. R213-9-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 
 ###### Article R552-11
@@ -19239,18 +19262,14 @@ chargé du service d'une section détachée désigné par le président du tribu
 ###### Article R552-21
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
-aux assemblées générales du tribunal de grande instance, sont applicables en Polynésie française.
+aux assemblées générales du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction en
+vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-1, ecqc PF ecqc R311-30 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc PF ecqc TPI (Ab)
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
@@ -19277,23 +19296,18 @@ Les dispositions de l'article R. 212-59 sont applicables en Polynésie français
 ###### Article R552-23
 
 Les dispositions du chapitre Ier du titre Ier du livre III du présent code (partie Réglementaire), relatives à la compétence
-de la cour d'appel, sont applicables en Polynésie française, à l'exception des articles D. 311-8 à D. 311-11.
+de la cour d'appel, sont applicables en Polynésie française dans leur rédaction en vigueur le lendemain de la publication du
+décret n° 2012-1451 du 24 décembre 2012, à l'exception des articles D. 311-8 à D. 311-11.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D311-8 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc PF ecqc institution et compétence (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-3 ecqc PF ecqc institution et compétence (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc PF ecqc r221-1 (Ab)
+	  - Code de l'organisation judiciaire - art. D311-8
 
 
 ##### Sous-section 2 : Organisation et fonctionnement
@@ -19777,39 +19791,40 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 ###### Article R562-9
 
 Les dispositions de la section 1 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives au
-service juridictionnel du tribunal de grande instance, sont applicables en Nouvelle-Calédonie, à l'exception des articles R.
-212-8, R. 212-9 et R. 212-11.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-11 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-8 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-9 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-1, ecqc NC ecqc R311-14 à R311-28 (Ab)
-
-
-###### Article R562-10
-
-Les dispositions des articles R. 213-8 et R. 213-9-1 sont applicables en Nouvelle-Calédonie.
+service juridictionnel du tribunal de grande instance, sont applicables en  Nouvelle-Calédonie dans leur rédaction en vigueur
+le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012, à l'exception des articles R. 212-8, R. 212-9 et
+R. 212-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1395 du 12 novembre 2010 - art. 10
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cite**:
 
+	  - Code de l'organisation judiciaire - art. R212-11
+	  - Code de l'organisation judiciaire - art. R212-8
+	  - Code de l'organisation judiciaire - art. R212-9
+
+
+###### Article R562-10
+
+Les dispositions des articles R. 213-8, R. 213-9-1 et R. 213-12-1 sont applicables en Nouvelle Calédonie dans leur rédaction
+en vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012
+	  - Code de l'organisation judiciaire - art. R213-12-1
 	  - Code de l'organisation judiciaire - art. R213-8
+	  - Code de l'organisation judiciaire - art. R213-9-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 
 ###### Article R562-11
@@ -20238,18 +20253,14 @@ chargé du service d'une section détachée désigné par le président du tribu
 ###### Article R562-30
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
-aux assemblées générales du tribunal de grande instance, sont applicables en Nouvelle-Calédonie.
+aux assemblées générales du tribunal de grande instance, sont applicables en  Nouvelle-Calédonie dans leur rédaction en
+vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-1, ecqc NC ecqc R311-30 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc NC ecqc TPI (Ab)
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
@@ -20300,14 +20311,14 @@ de la cour d'appel, sont applicables en Nouvelle-Calédonie, à l'exception des 
 ###### Article R562-33
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
-et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie, à l'exception des articles R. 312-4, R.
-312-12, R. 312-17            .
+et au fonctionnement de la cour d'appel, sont applicables en  Nouvelle-Calédonie dans leur rédaction en vigueur le lendemain
+de la publication du décret n° 2012-1451 du 24 décembre 2012, à l'exception des articles R. 312-4, R. 312-12, R. 312-17.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cite**:
 
