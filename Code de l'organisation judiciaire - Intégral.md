@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-04
 
 # Partie législative
 
@@ -9002,18 +9002,11 @@ Le siège et le ressort des tribunaux de grande instance compétents pour conna�
 végétales, dans les cas et conditions prévus par le code de la propriété intellectuelle, sont fixés conformément au tableau V
 annexé au présent code.
 
-Le nombre de ces tribunaux ne peut être inférieur à dix.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2, alinéas 1 à 3, ecqc obtentions végétales (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-2 (Ab)
+	  - Décret n°2013-1 du 2 janvier 2013 - art. 1
 
 	**Cité par**:
 
