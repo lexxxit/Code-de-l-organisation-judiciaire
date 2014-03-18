@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-02-01
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -985,6 +985,26 @@ numérotation.
 	**Cité par**:
 
 	  - Code de l'organisation judiciaire - art. R213-5-1 (V)
+
+
+###### Article L211-15
+
+Les tribunaux de grande instance connaissent des actions de groupe définies au chapitre III du titre II du livre IV du code
+de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L532-2 (V)
 
 
 #### Chapitre II : Organisation et fonctionnement
@@ -4959,17 +4979,19 @@ A Wallis-et-Futuna, la juridiction du premier degré est dénommée tribunal de 
 
 ###### Article L532-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles L. 211-10, L. 211-12 et L. 211-15 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
+	  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. L211-12
+	  - Code de la consommation - art. L211-10
+	  - Code de la consommation - art. L211-12
+	  - Code de l'organisation judiciaire - art. L211-15
 
 
 ###### Article L532-3
