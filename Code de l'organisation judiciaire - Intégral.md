@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-04-12
+Version Consolidée au 2014-05-26
 
 # Partie législative
 
@@ -3581,32 +3581,6 @@ statut, les parties peuvent, d'un commun accord, demander l'application des règ
 	**Créé par**:
 
 	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
-
-
-###### Article L314-2
-
-Pour l'application du 4° de l'article L. 311-7, la référence au code de l'entrée et du séjour des étrangers et du droit
-d'asile est remplacée par la référence à l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de
-séjour des étrangers à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000
-	  - Code de l'organisation judiciaire - art. L311-7
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
 
 
 ### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL
@@ -11432,31 +11406,6 @@ greffe du tribunal de grande instance.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-3 al 1 (Ab)
-
-
-#### Chapitre VI : Dispositions particulières au Département de Mayotte
-
-###### Article R216-1
-
-Pour l'application à Mayotte de l'article R. 212-36, les mots : " L. 522-1 du code de l'entrée et du séjour des étrangers et
-du droit d'asile ” sont remplacés par les mots : " 32 de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions
-d'entrée et de séjour des étrangers à Mayotte ”.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-1
-	  - Code de l'organisation judiciaire - art. R212-36
-
-	**Créé par**:
-
-	  - Décret n°2011-338 du 29 mars 2011 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-527 du 23 mai 2014 - art. 14
 
 
 #### Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris
