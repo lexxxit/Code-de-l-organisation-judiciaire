@@ -1,97 +1,184 @@
 # Article Annexe Tableau XI
 
-Siège et ressort des greffes détachés
+SIÈGE ET RESSORT DES GREFFES DÉTACHÉS 
 
-(annexe de l'article D. 222-7)
+(annexe des articles D. 212-17-2 et D. 222-7) 
 
 <table>
   <tbody>
     <tr>
-      <td width="129">
+      <td>
 
-Tribunal d'instance 
+TRIBUNAL
 
-</td>
-      <td width="240">
-
-Siège du greffe détaché 
+de grande instance 
 
 </td>
-      <td width="349">
+      <td>
 
-Ressort du greffe détaché 
+TRIBUNAL
 
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="718">
-
-Cour d'appel de Basse-Terre 
+d'instance 
 
 </td>
-    </tr>
-    <tr>
-      <td width="129">
+      <td>
 
-[Pointe-à-Pitre 
+SIÈGE DU GREFFE
 
-</td>
-      <td width="240">
-
-Le Moule 
+détaché 
 
 </td>
-      <td width="349">
+      <td>
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
+RESSORT DU GREFFE
+
+détaché 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="718">
+      <td colspan="4">
+
+Cour d'appel d'Agen 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Agen 
+
+</td>
+      <td>
+      </td><td>
+
+Marmande 
+
+</td>
+      <td>
+
+Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est,
+Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Besançon 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lons-le-Saunier 
+
+</td>
+      <td>
+      </td><td>
+
+Dôle 
+
+</td>
+      <td>
+
+Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-
+en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
 
 Cour d'appel de Cayenne 
 
 </td>
     </tr>
     <tr>
-      <td width="129" valign="top">
+      <td>
 
 Cayenne 
 
 </td>
-      <td width="240" valign="top">
+      <td>
+      </td><td>
 
 Saint-Laurent-du-Maroni 
 
 </td>
-      <td valign="top" width="349">
+      <td>
 
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni. 
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td>
+      </td><td>
+
+Cayenne 
+
+</td>
+      <td>
+
+Saint-Laurent-du-Maroni 
+
+</td>
+      <td>
+
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Rennes 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+St-Brieuc 
+
+</td>
+      <td>
+      </td><td>
+
+Guingamp 
+
+</td>
+      <td>
+
+Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix,
+Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
 
 Cour d'appel de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td width="129">
+      <td>
+      </td><td>
 
 Mamoudzou 
 
 </td>
-      <td width="240">
+      <td>
 
 Sada 
 
 </td>
-      <td width="349">
+      <td>
 
-Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada 
+Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 </td>
     </tr>
@@ -107,8 +194,4 @@ Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 	**Modifié par**:
 
-	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire - art. D222-7
+	  - Décret n°2014-944 du 21 août 2014 - art. 2

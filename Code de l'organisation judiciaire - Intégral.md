@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-08-21
+Version Consolidée au 2014-09-01
 
 # Partie législative
 
@@ -9723,6 +9723,17 @@ Les magistrats sont inscrits sur cette liste, conformément à l'article R. 122-
 
 
 ##### Section 3 : Le greffe
+
+###### Article D212-17-2
+
+Le siège et le ressort des greffes détachés sont fixés conformément au tableau XI annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-944 du 21 août 2014 - art. 1
+
 
 ###### Article R212-16
 
@@ -41436,98 +41447,185 @@ Ressort des vingt tribunaux d'instance de Paris.
 
 ###### Article Annexe Tableau XI
 
-Siège et ressort des greffes détachés
+SIÈGE ET RESSORT DES GREFFES DÉTACHÉS 
 
-(annexe de l'article D. 222-7)
+(annexe des articles D. 212-17-2 et D. 222-7) 
 
 <table>
   <tbody>
     <tr>
-      <td width="129">
+      <td>
 
-Tribunal d'instance 
+TRIBUNAL
 
-</td>
-      <td width="240">
-
-Siège du greffe détaché 
+de grande instance 
 
 </td>
-      <td width="349">
+      <td>
 
-Ressort du greffe détaché 
+TRIBUNAL
 
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="718">
-
-Cour d'appel de Basse-Terre 
+d'instance 
 
 </td>
-    </tr>
-    <tr>
-      <td width="129">
+      <td>
 
-[Pointe-à-Pitre 
+SIÈGE DU GREFFE
 
-</td>
-      <td width="240">
-
-Le Moule 
+détaché 
 
 </td>
-      <td width="349">
+      <td>
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
+RESSORT DU GREFFE
+
+détaché 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="718">
+      <td colspan="4">
+
+Cour d'appel d'Agen 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Agen 
+
+</td>
+      <td>
+      </td><td>
+
+Marmande 
+
+</td>
+      <td>
+
+Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est,
+Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Besançon 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lons-le-Saunier 
+
+</td>
+      <td>
+      </td><td>
+
+Dôle 
+
+</td>
+      <td>
+
+Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-
+en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
 
 Cour d'appel de Cayenne 
 
 </td>
     </tr>
     <tr>
-      <td width="129" valign="top">
+      <td>
 
 Cayenne 
 
 </td>
-      <td width="240" valign="top">
+      <td>
+      </td><td>
 
 Saint-Laurent-du-Maroni 
 
 </td>
-      <td valign="top" width="349">
+      <td>
 
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni. 
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td>
+      </td><td>
+
+Cayenne 
+
+</td>
+      <td>
+
+Saint-Laurent-du-Maroni 
+
+</td>
+      <td>
+
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Rennes 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+St-Brieuc 
+
+</td>
+      <td>
+      </td><td>
+
+Guingamp 
+
+</td>
+      <td>
+
+Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix,
+Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
 
 Cour d'appel de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td width="129">
+      <td>
+      </td><td>
 
 Mamoudzou 
 
 </td>
-      <td width="240">
+      <td>
 
 Sada 
 
 </td>
-      <td width="349">
+      <td>
 
-Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada 
+Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 </td>
     </tr>
@@ -41543,11 +41641,7 @@ Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 	**Modifié par**:
 
-	  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire - art. D222-7
+	  - Décret n°2014-944 du 21 août 2014 - art. 2
 
 
 ###### Article Annexe Tableau XII
@@ -41902,7 +41996,7 @@ Ressort du tribunal de grande instance d'Auch.
     <tr>
       <td colspan="2">
 
-Lot 
+Lot
 
 </td>
     </tr>
@@ -41942,7 +42036,7 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 
 Cour d'appel d'Aix-en-Provence 
 
-Alpes-de-Haute-Provence 
+Alpes-de-Haute-Provence
 
 </td>
     </tr>
@@ -41961,7 +42055,7 @@ Ressort du tribunal de grande instance de Digne-les-Bains.
     <tr>
       <td colspan="2">
 
-Alpes-Maritimes 
+Alpes-Maritimes
 
 </td>
     </tr>
@@ -42035,7 +42129,7 @@ Ressort du tribunal de grande instance de Tarascon.
     <tr>
       <td colspan="2">
 
-Var 
+Var
 
 </td>
     </tr>
@@ -42068,7 +42162,7 @@ Ressort du tribunal de grande instance de Toulon.
 
 Cour d'appel d'Amiens 
 
-Aisne 
+Aisne
 
 </td>
     </tr>
@@ -42175,19 +42269,19 @@ Ressort du tribunal de grande instance d'Amiens. (4)]
 
 Cour d'appel d'Angers 
 
-Maine-et-Loire 
+Maine-et-Loire
 
 </td>
     </tr>
     <tr>
       <td>
 
-[Angers 
+Angers 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance d'Angers. (4)] 
+Ressort des tribunaux de grande instance d'Angers et de Saumur.
 
 </td>
     </tr>
@@ -42234,7 +42328,7 @@ Ressort du tribunal de grande instance du Mans.
 
 Cour d'appel de Basse-Terre 
 
-Guadeloupe 
+Guadeloupe
 
 </td>
     </tr>
@@ -42338,7 +42432,7 @@ Ressort du tribunal de grande instance de Besançon.
     <tr>
       <td colspan="2">
 
-Haute-Saône 
+Haute-Saône
 
 </td>
     </tr>
@@ -42480,7 +42574,7 @@ Ressort du tribunal de grande instance de Libourne.
 
 Cour d'appel de Bourges 
 
-Cher 
+Cher
 
 </td>
     </tr>
@@ -42539,7 +42633,7 @@ Ressort du tribunal de grande instance de Nevers.
 
 Cour d'appel de Caen 
 
-Calvados 
+Calvados
 
 </td>
     </tr>
@@ -42979,7 +43073,7 @@ Ressort du tribunal de grande instance de Fort-de-France.
 
 Cour d'appel de Grenoble 
 
-Drôme
+Drôme 
 
 </td>
     </tr>
@@ -43024,12 +43118,12 @@ Isère
     <tr>
       <td>
 
-Bourgoin-Jallieu 
+Bourgoin-Jallieu
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. 
+Ressort du tribunal de grande instance de Bourgoin-Jallieu.
 
 </td>
     </tr>
@@ -43053,7 +43147,7 @@ Vienne
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Vienne. 
+Ressort du tribunal de grande instance de Vienne.
 
 </td>
     </tr>
@@ -43081,12 +43175,12 @@ Corrèze
     <tr>
       <td>
 
-[Brive-la-Gaillarde 
+Brive-la-Gaillarde 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)] 
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle.
 
 </td>
     </tr>
@@ -44356,15 +44450,20 @@ Ressort du tribunal de grande instance de Saint-Pierre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-
-Mayotte
+      <td>
+        Mayotte 
+      </td>
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td> Mamoudzou </td>
-      <td>
+      <td align="center">
+
+Mamoudzou 
+
+</td>
+      <td align="center">
 
 Ressort du tribunal de grande instance de Mamoudzou 
 
@@ -44401,12 +44500,12 @@ Haute-Garonne
     <tr>
       <td>
 
-[Toulouse 
+Toulouse 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Toulouse. (4)] 
+Ressort des tribunaux de grande instance de Saint-Gaudens et de Toulouse.
 
 </td>
     </tr>
@@ -44581,7 +44680,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2014-395 du 9 avril 2014 - art. 2
+	  - Décret n°2013-1258 du 27 décembre 2013 - art. 4
 
 	**Cite**:
 

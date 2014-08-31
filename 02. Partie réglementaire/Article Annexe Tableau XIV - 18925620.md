@@ -42,7 +42,7 @@ Ressort du tribunal de grande instance d'Auch.
     <tr>
       <td colspan="2">
 
-Lot 
+Lot
 
 </td>
     </tr>
@@ -82,7 +82,7 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 
 Cour d'appel d'Aix-en-Provence 
 
-Alpes-de-Haute-Provence 
+Alpes-de-Haute-Provence
 
 </td>
     </tr>
@@ -101,7 +101,7 @@ Ressort du tribunal de grande instance de Digne-les-Bains.
     <tr>
       <td colspan="2">
 
-Alpes-Maritimes 
+Alpes-Maritimes
 
 </td>
     </tr>
@@ -175,7 +175,7 @@ Ressort du tribunal de grande instance de Tarascon.
     <tr>
       <td colspan="2">
 
-Var 
+Var
 
 </td>
     </tr>
@@ -208,7 +208,7 @@ Ressort du tribunal de grande instance de Toulon.
 
 Cour d'appel d'Amiens 
 
-Aisne 
+Aisne
 
 </td>
     </tr>
@@ -315,19 +315,19 @@ Ressort du tribunal de grande instance d'Amiens. (4)]
 
 Cour d'appel d'Angers 
 
-Maine-et-Loire 
+Maine-et-Loire
 
 </td>
     </tr>
     <tr>
       <td>
 
-[Angers 
+Angers 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance d'Angers. (4)] 
+Ressort des tribunaux de grande instance d'Angers et de Saumur.
 
 </td>
     </tr>
@@ -374,7 +374,7 @@ Ressort du tribunal de grande instance du Mans.
 
 Cour d'appel de Basse-Terre 
 
-Guadeloupe 
+Guadeloupe
 
 </td>
     </tr>
@@ -478,7 +478,7 @@ Ressort du tribunal de grande instance de Besançon.
     <tr>
       <td colspan="2">
 
-Haute-Saône 
+Haute-Saône
 
 </td>
     </tr>
@@ -620,7 +620,7 @@ Ressort du tribunal de grande instance de Libourne.
 
 Cour d'appel de Bourges 
 
-Cher 
+Cher
 
 </td>
     </tr>
@@ -679,7 +679,7 @@ Ressort du tribunal de grande instance de Nevers.
 
 Cour d'appel de Caen 
 
-Calvados 
+Calvados
 
 </td>
     </tr>
@@ -1119,7 +1119,7 @@ Ressort du tribunal de grande instance de Fort-de-France.
 
 Cour d'appel de Grenoble 
 
-Drôme
+Drôme 
 
 </td>
     </tr>
@@ -1164,12 +1164,12 @@ Isère
     <tr>
       <td>
 
-Bourgoin-Jallieu 
+Bourgoin-Jallieu
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. 
+Ressort du tribunal de grande instance de Bourgoin-Jallieu.
 
 </td>
     </tr>
@@ -1193,7 +1193,7 @@ Vienne
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Vienne. 
+Ressort du tribunal de grande instance de Vienne.
 
 </td>
     </tr>
@@ -1221,12 +1221,12 @@ Corrèze
     <tr>
       <td>
 
-[Brive-la-Gaillarde 
+Brive-la-Gaillarde 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)] 
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle.
 
 </td>
     </tr>
@@ -2496,15 +2496,20 @@ Ressort du tribunal de grande instance de Saint-Pierre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-
-Mayotte
+      <td>
+        Mayotte 
+      </td>
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td> Mamoudzou </td>
-      <td>
+      <td align="center">
+
+Mamoudzou 
+
+</td>
+      <td align="center">
 
 Ressort du tribunal de grande instance de Mamoudzou 
 
@@ -2541,12 +2546,12 @@ Haute-Garonne
     <tr>
       <td>
 
-[Toulouse 
+Toulouse 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Toulouse. (4)] 
+Ressort des tribunaux de grande instance de Saint-Gaudens et de Toulouse.
 
 </td>
     </tr>
@@ -2721,7 +2726,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2014-395 du 9 avril 2014 - art. 2
+	  - Décret n°2013-1258 du 27 décembre 2013 - art. 4
 
 	**Cite**:
 
