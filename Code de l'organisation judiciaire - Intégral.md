@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2014-10-01
 
 # Partie législative
 
@@ -4349,42 +4349,34 @@ en Conseil d'Etat.
 ###### Article L451-1
 
 Les règles relatives à l'institution, à la compétence, à l'organisation et au fonctionnement de la Commission nationale de
-réparation des détentions, de la commission de révision des décisions pénales, de la commission de réexamen d'une décision
-pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme et de la commission d'examen des recours
-en matière de discipline des officiers de police judiciaire sont fixées par le code de procédure pénale.
+réparation des détentions,                                   de la cour de révision et de réexamen et de la commission
+d'examen des recours en matière de discipline des officiers de police judiciaire sont fixées par le code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)
+	  - Loi n°2014-640 du 20 juin 2014 - art. 6
 
 
 ###### Article L451-2
 
-Les règles relatives à l'institution, à la compétence, à l'organisation et au fonctionnement de la cour de révision sont
-fixées par le code de procédure pénale.
+Les règles relatives à l'institution, à la compétence, à l'organisation et au fonctionnement de la cour de révision et de
+réexamen sont fixées par le code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2014-640 du 20 juin 2014 - art. 6
 
 
 ### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ 
