@@ -134,6 +134,31 @@ Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
     <tr>
       <td colspan="4">
 
+Cour d'appel de Montpellier
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Rodez
+
+</td>
+      <td>
+
+Millau
+
+</td>
+      <td colspan="2">
+
+Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-
+Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
 Cour d'appel de Rennes 
 
 </td>
@@ -194,4 +219,4 @@ Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 	**Modifié par**:
 
-	  - Décret n°2014-944 du 21 août 2014 - art. 2
+	  - Décret n°2014-944 du 21 août 2014 - art. 3
