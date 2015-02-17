@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -5741,6 +5741,8 @@ de première instance " à la place de : " tribunal de grande instance " et de :
 
 ##### Section 1 : Le tribunal de première instance
 
+##### Sous-section 1 : Dispositions générales
+
 ###### Article L552-1
 
 En Polynésie française, la juridiction du premier degré est dénommée tribunal de première instance.
@@ -5749,15 +5751,11 @@ En Polynésie française, la juridiction du premier degré est dénommée tribun
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-5, ecqc PF (Ab)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
 ###### Article L552-2
@@ -5766,9 +5764,9 @@ Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Polyné
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
 ###### Article L552-3
@@ -5781,15 +5779,11 @@ les dispositions de procédure pénale applicables en Polynésie française.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-11, ecqc PF (Ab)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
 ###### Article L552-4
@@ -5801,15 +5795,11 @@ la nature de la demande, à une autre juridiction.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-8 ecqc PF (Ab)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
 ###### Article L552-5
@@ -5820,15 +5810,11 @@ Le tribunal de première instance a compétence exclusive dans les matières dé
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-6, ecqc PF (Ab)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
 ###### Article L552-6
@@ -5841,20 +5827,16 @@ Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 	**Cité par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-7 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-11 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéas 1 et 2, ecqc PF (Ab)
+	  - Code de l'organisation judiciaire - art. L552-7 (V)
 
 
 ###### Article L552-7
@@ -5865,23 +5847,19 @@ La formation collégiale prévue à l'article L. 552-6 est composée d'un prési
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-6 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-1, ecqc PF (Ab)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-12 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L552-6 (V)
 
 
 ###### Article L552-8
@@ -5889,22 +5867,21 @@ La formation collégiale prévue à l'article L. 552-6 est composée d'un prési
 Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de première
 instance.
 
-La formation de jugement du tribunal de première instance ne peut comprendre, en matière pénale, une majorité de juges non
-professionnels.
+La formation de jugement du tribunal de première instance ne peut comprendre une majorité de juges non professionnels.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-2, ecqc PF (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112 (V)
 
 
 ###### Article L552-8-1
@@ -5918,9 +5895,9 @@ formées à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 	**Cite**:
 
@@ -5937,15 +5914,217 @@ Polynésie française.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
+
+
+##### Sous-section 2 : Dispositions spécifiques au tribunal foncier
+
+
+###### Article L552-9-1
+
+Lorsque le tribunal de première instance statue en matière foncière, il est dénommé tribunal foncier. 
+
+Il statue dans une formation présidée par un magistrat du siège et comprenant, en outre, deux assesseurs. 
+
+Sans préjudice de l'article L. 122-2, il statue au vu des conclusions des parties et de celles du commissaire du Gouvernement
+de la Polynésie française. 
+
+Un décret en Conseil d'Etat détermine les conditions de désignation et les attributions du commissaire du Gouvernement de la
+Polynésie française, dans le respect du principe du contradictoire.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9, ecqc PF (Ab)
+	  - Code de l'organisation judiciaire - art. L122-2
+
+
+###### Article L552-9-2
+
+En matière foncière, les assesseurs titulaires et suppléants sont agréés dans les conditions prévues à l'article 58 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 58
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+
+###### Article L552-9-3
+
+Les assesseurs titulaires et suppléants sont choisis, pour une durée de trois ans renouvelable, parmi les personnes de
+nationalité française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de famille et présentant
+des garanties de compétence et d'impartialité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-4 (V)
+
+
+###### Article L552-9-4
+
+Si le nombre des candidats remplissant les conditions fixées à l'article L. 552-9-3 n'est pas suffisant pour établir la liste
+des assesseurs titulaires et suppléants, le tribunal statue sans assesseur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-3
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-6 (V)
+
+
+###### Article L552-9-5
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent, devant la cour d'appel, le serment prévu à
+l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+
+###### Article L552-9-6
+
+Sous réserve de l'application de l'article L. 552-9-4, les assesseurs restent en fonctions jusqu'à l'installation de leurs
+successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut excéder une période de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-4
+
+
+###### Article L552-9-7
+
+Les employeurs sont tenus d'accorder aux salariés de leur entreprise assesseurs au tribunal foncier, sur leur demande, des
+autorisations d'absence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+
+###### Article L552-9-8
+
+Tout assesseur qui, sans motif légitime et après mise en demeure, refuse de remplir le service auquel il est appelé peut être
+déclaré démissionnaire.
+
+Le président du tribunal constate le refus de service par un procès-verbal contenant l'avis motivé du tribunal foncier,
+l'assesseur préalablement entendu ou dûment appelé.
+
+Au vu du procès-verbal, la cour d'appel statue en audience non publique après avoir appelé l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+
+###### Article L552-9-9
+
+Tout assesseur qui manque gravement à ses devoirs dans l'exercice de ses fonctions est appelé devant le tribunal foncier pour
+s'expliquer sur les faits qui lui sont reprochés.
+
+L'initiative de cet appel appartient au président du tribunal et au procureur de la République.
+
+Dans le délai d'un mois à compter de la convocation, le procès-verbal de la séance de comparution est adressé par le
+président du tribunal au procureur de la République, qui le transmet avec son avis à l'assemblée générale des magistrats du
+siège de la cour d'appel.
+
+Sur décision de l'assemblée générale des magistrats du siège de la cour d'appel, les peines applicables aux assesseurs sont :
+
+1° La censure ;
+
+2° La suspension, pour une durée qui ne peut excéder six mois ;
+
+3° La déchéance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-11 (V)
+
+
+###### Article L552-9-10
+
+L'assesseur qui a été privé du droit de vote ou du droit d'élection dans les cas mentionnés aux articles L. 5 et L. 6 du code
+électoral est déchu de plein droit de ses fonctions à compter de la date où le jugement est devenu définitif. 
+
+L'assesseur déclaré déchu ne peut plus être nommé aux mêmes fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cite**:
+
+	  - Code électoral - art. L5
+
+
+###### Article L552-9-11
+
+Sur proposition du premier président de la cour d'appel et du procureur général près ladite cour, l'assemblée générale des
+magistrats du siège de la cour d'appel, saisie d'une plainte ou informée de faits de nature à entraîner des poursuites
+pénales contre un assesseur, peut suspendre l'intéressé de ses fonctions, pour une durée qui ne peut excéder six mois. Il est
+fait application de la procédure prévue à l'article L. 552-9-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 23
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L552-9-9
 
 
 ##### Section 2 : La cour d'appel
@@ -10635,8 +10814,6 @@ sceaux, ministre de la justice, en l'adaptant, le cas échéant, dans les condit
 	  - Code de l'organisation judiciaire - art. R212-32
 
 
-##### Sous-section 7 : La commission permanente
-
 ##### Sous-section 7 :  La commission plénière 
 
 ###### Article R212-51
@@ -13420,8 +13597,6 @@ sceaux, ministre de la justice, en l'adaptant, le cas échéant, dans les condit
 	  - Code de l'organisation judiciaire - art. R222-29
 
 
-##### Sous-section 6 : La commission permanente
-
 ##### Sous-section 6 : La commission plénière
 
 ###### Article R222-32
@@ -16151,8 +16326,6 @@ sceaux, ministre de la justice, en l'adaptant, le cas échéant, dans les condit
 
 	  - Code de l'organisation judiciaire - art. R312-37
 
-
-##### Sous-Section 7 : La commission permanente
 
 ##### Sous-Section 7 :  La commission plénière 
 
