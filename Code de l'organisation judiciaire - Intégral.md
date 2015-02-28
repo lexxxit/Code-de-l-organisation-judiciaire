@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-03-01
 
 # Partie législative
 
@@ -11972,14 +11972,15 @@ Le tribunal d'instance connaît des actions en bornage.
 
 ###### Article R221-13
 
-Le tribunal d'instance connaît des contestations relatives au contrat d'engagement entre armateurs et marins dans les
-conditions prévues par le code du travail maritime.
+Le tribunal d'instance connaît des contestations relatives à la formation, à l'exécution ou à la rupture du contrat de
+travail entre l'employeur et le marin, dans les conditions prévues par le livre V de la cinquième partie du code des
+transports.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
+	  - Décret n°2015-219 du 27 février 2015 - art. 12
 
 	**Cité par**:
 
@@ -12715,30 +12716,35 @@ le tribunal dans le ressort duquel sont situés les biens.
 
 ###### Article R221-49
 
-Dans les cas prévus à l'article R. 221-13 et aux 3° et 4° de l'article R. 221-14, la demande est portée devant le tribunal
-compétent en application de l'article R. 221-46 ou devant le tribunal dans le ressort duquel la convention a été passée ou
-exécutée, lorsqu'une des parties est domiciliée en ce ressort.
+Dans les cas prévus à l'article R. 221-13, le tribunal d'instance compétent est celui dans le ressort duquel se situe :
+
+1° Soit le domicile du marin ;
+
+2° Soit le port d'embarquement ou de débarquement du marin.
+
+Le marin peut également saisir le tribunal d'instance dans le ressort duquel est situé le port où l'employeur a son principal
+établissement ou une agence ou, à défaut, le port d'immatriculation du navire.
+
+Dans les cas prévus aux 3° et 4° de l'article R. 221-14, la demande est portée devant le tribunal compétent en application de
+l'article R. 221-46 ou devant le tribunal dans le ressort duquel la convention a été passée ou exécutée, lorsqu'une des
+parties est domiciliée en ce ressort.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°2015-219 du 27 février 2015 - art. 11 (V)
 	  - Décret n°2015-219 du 27 février 2015 - art. 5 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-25 (Ab)
+	  - Décret n°2015-219 du 27 février 2015 - art. 13
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-13 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-14 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-46 (V)
+	  - Code de l'organisation judiciaire - art. R221-13
+	  - Code de l'organisation judiciaire - art. R221-14
+	  - Code de l'organisation judiciaire - art. R221-46
 
 
 ###### Article R221-50
