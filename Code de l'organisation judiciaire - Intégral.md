@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-03-01
+Version Consolidée au 2015-03-08
 
 # Partie législative
 
@@ -10426,19 +10426,22 @@ libertés et de la détention conformément à l'article 137-1 du code de procé
 famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1 ; 
 
 10° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de contrôler l'exécution des
-mesures d'instruction conformément à l'article 155-1 du code de procédure civile.
+mesures d'instruction conformément à l'article 155-1 du code de procédure civile ;
+
+11° La désignation du président du tribunal maritime et de ses deux assesseurs magistrats par le président du tribunal auprès
+duquel est institué un tribunal maritime.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 1
+	  - Décret n°2015-261 du 5 mars 2015 - art. 21
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 155-1
 	  - Code de l'organisation judiciaire - art. L232-2
-	  - Code de l'organisation judiciaire - art. R213-9-1 (V)
+	  - Code de l'organisation judiciaire - art. R213-9-1
 	  - Code de l'organisation judiciaire - art. R251-3
 
 	**Cité par**:
@@ -19648,17 +19651,20 @@ chargé du service d'une section détachée désigné par le président du tribu
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
 aux assemblées générales du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction
-résultant du décret n° 2014-1458 du 8 décembre 2014.
+résultant du décret n° 2014-1458 du 8 décembre 2014 à l'exception de l'article R. 212-37 qui est applicable dans sa rédaction
+résultant du décret n° 2015-261 du 5 mars 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°2014-1458 du 8 décembre 2014
+	  - Décret n°2015-261 du 5 mars 2015
+	  - Code de l'organisation judiciaire - art. R212-37
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2015-261 du 5 mars 2015 - art. 21
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
@@ -20650,18 +20656,21 @@ chargé du service d'une section détachée désigné par le président du tribu
 ###### Article R562-30
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
-aux assemblées générales du tribunal de grande instance, sont applicables en Nouvelle-Calédonie dans leur rédaction
-résultant du décret n° 2014-1458 du 8 décembre 2014.
+aux assemblées générales du tribunal de grande instance, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant
+du décret n° 2014-1458 du 8 décembre 2014 à l'exception de l'article R. 212-37 qui est applicable dans sa rédaction résultant
+du décret n° 2015-261 du 5 mars 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°2014-1458 du 8 décembre 2014
+	  - Décret n°2015-261 du 5 mars 2015
+	  - Code de l'organisation judiciaire - art. R212-37 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2015-261 du 5 mars 2015 - art. 21
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
