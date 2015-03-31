@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-03-15
+Version Consolidée au 2015-04-01
 
 # Partie législative
 
@@ -7602,6 +7602,8 @@ des cadres territoriaux ou des agents territoriaux.
 
 #### Chapitre unique
 
+#### Chapitre Ier : Dispositions générales
+
 ###### Article R111-1
 
 L'année judiciaire commence le 1er janvier et se termine le 31 décembre.
@@ -7774,6 +7776,26 @@ réquisitions du ministère public.
 	**Créé par**:
 
 	  - Décret n°2010-1234 du 20 octobre 2010 - art. 2
+
+
+#### Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction
+
+###### Article R111-9
+
+Les difficultés de compétence entre la juridiction administrative et la juridiction judiciaire sont réglées par le Tribunal
+des conflits conformément aux dispositions de la loi du 24 mai 1872 relative au Tribunal des conflits et du décret n°
+2015-233 du 27 février 2015.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 24 mai 1872
+	  - Décret n°2015-233 du 27 février 2015
+
+	**Créé par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 46
 
 
 ### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT
