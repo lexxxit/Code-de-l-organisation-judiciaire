@@ -1,6 +1,6 @@
 # Article Annexe Tableau I
 
-Costumes et insignes (annexe de l'article R. 111-6) 
+Costumes et insignes (annexe de l'article R. 111-6)
 
 COUR DE CASSATION
 
@@ -11,83 +11,83 @@ et procureur général près ladite cour
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 Ordinaire.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Noire, à grandes manches.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 De soie noire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Sans.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 De velours noir, bordée de deux galons d'or.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 Chambres réunies (et cérémonies publiques).
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Rouge, à grandes manches ; manteau et cape de fourrure.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Sans.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 De soie rouge à glands d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 En dentelle.
 
@@ -103,87 +103,59 @@ et premiers avocats généraux près ladite cour
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, bordée de deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, bordée de deux galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Chambres réunies (et cérémonies publiques).
+Chambres réunies (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches ; garniture de fourrure.</td>
+      <td align="left">
 
-Rouge, à grandes manches ; garniture de fourrure.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-En dentelle.
-
-</td>
+En dentelle.</td>
     </tr>
   </tbody>
 </table>
@@ -195,87 +167,59 @@ et avocats généraux près ladite cour
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, bordée d'un galon d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, bordée d'un galon d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Chambres réunies (et cérémonies publiques).
+Chambres réunies (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-En dentelle.
-
-</td>
+En dentelle.</td>
     </tr>
   </tbody>
 </table>
@@ -287,87 +231,59 @@ et avocats généraux référendaires près ladite cour
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -381,87 +297,59 @@ et procureurs généraux près lesdites cours
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, avec quatre galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire, avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, avec quatre galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches, à revers bordés d'hermine.</td>
+      <td align="left">
 
-Rouge, à grandes manches, à revers bordés d'hermine.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -473,83 +361,69 @@ et avocats généraux près lesdites cours
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Audience ordinaire.
+Audience ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir avec trois galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-De soie noire, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir avec trois galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Rouge, à grandes manches, à revers bordés d'hermine.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
@@ -565,87 +439,59 @@ et substituts généraux près lesdites cours
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire avec franges.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -660,90 +506,62 @@ financier près le tribunal de grande instance de Paris
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De laine noire, avec un double galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un double galon d'argent.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
-
-</td>
-      <td valign="top" align="left">
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
 Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : rouge, à grandes manches. 
+procureur de la République financier près cette juridiction : rouge, à grandes manches.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
-franges. 
-
-</td>
-      <td align="left" valign="top">
+franges.</td>
+      <td align="left">
 
 Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. 
+procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -755,88 +573,60 @@ procureurs de République adjoints, vice-procureurs et substituts près lesdits 
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un galon d'argent.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
-franges.
+franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -850,87 +640,59 @@ et procureurs de la République près lesdits tribunaux
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -942,87 +704,59 @@ et substituts près lesdits tribunaux
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un galon d'argent. 
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie bleu-clair, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-De soie bleu-clair, avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -1032,44 +766,32 @@ Auditeurs de justice
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Noire, à grandes manches.
+Noire, à grandes manches.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De soie noire.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De soie bleu-clair, avec franges.</td>
+      <td align="left">
 
-Sans.
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-De soie bleu-clair, avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un galon d'argent.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
   </tbody>
 </table>
@@ -1081,140 +803,101 @@ Juges de proximité
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> BRONZE</td>
-      <td align="center"> AVERS</td>
-      <td align="center"> ATTACHE</td>
-      <td align="center"> RUBAN</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">BRONZE</td>
+      <td align="center">AVERS</td>
+      <td align="center">ATTACHE</td>
+      <td align="center">RUBAN</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.
+D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Doré.</td>
+      <td align="left">
 
-Doré.
+Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Largeur de 75 mm, portant un rameau d'olivier.</td>
+      <td align="left">
 
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.
-
-</td>
-      <td align="left" valign="top">
-
-Largeur de 75 mm, portant un rameau d'olivier.
-
-</td>
-      <td align="left" valign="top">
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm.
-
-</td>
+Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5
+mm.</td>
     </tr>
   </tbody>
 </table>
 
-Greffiers en chef et greffiers
+Directeurs des services de greffe judiciaires et greffiers
 
 <table>
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> GRADE</td>
-      <td align="center"> COSTUME</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">GRADE</td>
+      <td align="center">COSTUME</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Cour de cassation.
+Cour de cassation.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td align="left" valign="top">
-
-Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.
-
-</td>
+Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.</td>
     </tr>
     <tr>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Cour d'appel.
+Cour d'appel.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td align="left" valign="top">
-
-Même costume que les conseillers de la cour d'appel, sans galon à la toque.
-
-</td>
+Même costume que les conseillers de la cour d'appel, sans galon à la toque.</td>
     </tr>
     <tr>
-      <td valign="top" align="left"> </td>
-      <td valign="top" align="left">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Tribunal de grande instance et tribunal d'instance
+Tribunal de grande instance et tribunal d'instance</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td align="left" valign="top">
-
-Même costume que les juges du tribunal de grande instance, sans galon à la toque.
-
-</td>
+Même costume que les juges du tribunal de grande instance, sans galon à la toque.</td>
     </tr>
     <tr>
-      <td valign="top" align="left"> </td>
-      <td valign="top" align="left">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
   </tbody>
 </table>
@@ -1223,4 +906,4 @@ Robe noire sans simarre ni toque noire.
 
 	**Modifié par**:
 
-	  - Décret n°2014-65 du 29 janvier 2014 - art. 2
+	  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
