@@ -65,6 +65,19 @@ Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins
     <tr>
       <td colspan="4">
 
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td> Basse-Terre</td>
+      <td> </td>
+      <td> Saint-Martin</td>
+      <td> Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
 Cour d'appel de Besançon 
 
 </td>
@@ -219,4 +232,4 @@ Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
 
 	**Modifié par**:
 
-	  - Décret n°2014-944 du 21 août 2014 - art. 3
+	  - Décret n°2015-1844 du 30 décembre 2015 - art. 2

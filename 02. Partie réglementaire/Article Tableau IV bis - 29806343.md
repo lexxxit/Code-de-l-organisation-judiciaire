@@ -31,7 +31,7 @@ COMPÉTENCE PÉNALE
 </th>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Agen
 
@@ -44,14 +44,14 @@ Marmande
       <td align="left" valign="top">
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant du 1° et du d
-du 3° de cet article, et de celles relevant des articles 233, 237, 242 et 296 du code civil.
+du 3° de cet article, et de celles relevant des articles 233, 237, 242 et 296 du code civil. 
 
 Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
 
 </td>
       <td valign="top" align="left">
 
-Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale.
+Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale. 
 
 Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les
 articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
@@ -59,7 +59,7 @@ articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lons-le-Saunier
 
@@ -82,7 +82,7 @@ Délits dont la liste est fixée à l'article 398-1 du code de procédure pénal
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Rodez
 
@@ -92,17 +92,17 @@ Rodez
 Millau
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles
-377 à 377-3 du code civil.
+377 à 377-3 du code civil. 
 
 Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale.
+Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale. 
 
 Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les
 articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
@@ -110,7 +110,7 @@ articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Saint-Brieuc
 
@@ -120,7 +120,7 @@ Saint-Brieuc
 Guingamp
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Matières relevant de l'article 311-20 du code civil.
 
@@ -140,11 +140,22 @@ A compter du 1er mars 2015, délits dont la liste est fixée à l'article 398-1 
 
 </td>
     </tr>
+    <tr>
+      <td> Basse-Terre</td>
+      <td>Saint-Martin 
+
+Saint-Barthélemy </td>
+      <td> </td>
+      <td> Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par
+les articles 495-9 et 495-11 à 495-16 du code de procédure pénale, compositions pénales régies par l'article 41-2 du code de
+procédure pénale, les procédures d'hospitalisation d'office régies par les articles L. 3211-12 à L. 3211-12-4 du code de la
+santé publique et l'article 706-137 du code de procédure pénale. </td>
+    </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1405 du 25 novembre 2014 - art. 2
+	  - Décret n°2015-1843 du 30 décembre 2015 - art.
