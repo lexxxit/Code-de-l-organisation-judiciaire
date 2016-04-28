@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-04-29
 
 # Partie législative
 
@@ -7802,8 +7802,8 @@ des conflits conformément aux dispositions de la loi du 24 mai 1872 relative au
 
 ###### Article R121-1
 
-La répartition des juges dans les différents services de la juridiction est faite par ordonnance prise, conformément aux
-dispositions de l'article L. 121-3, avant le début de l'année judiciaire. 
+La répartition des juges dans les différents pôles, chambres et services de la juridiction est faite par ordonnance prise,
+conformément aux dispositions de l'article L. 121-3, avant le début de l'année judiciaire. 
 
 Cette ordonnance peut être modifiée en cours d'année, pour prendre en compte un changement dans la composition de la
 juridiction ou pour prévoir un service allégé pendant la période au cours de laquelle les magistrats, les fonctionnaires et
@@ -7813,10 +7813,6 @@ Les mesures prises en application des dispositions du présent article sont des 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2011-1877 du 14 décembre 2011 - art. 12 (V)
@@ -7825,13 +7821,13 @@ Les mesures prises en application des dispositions du présent article sont des 
 	  - Code de l'organisation judiciaire - art. R312-83 (V)
 	  - Code de l'organisation judiciaire - art. R531-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 4
+
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1, alinéa 2 (Ab)
+	  - Code de l'organisation judiciaire - art. L121-3
 
 
 ###### Article R121-2
@@ -8996,6 +8992,25 @@ La liste des maisons de justice et du droit est fixée conformément au tableau 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-12-1-10 (Ab)
 
 
+### TITRE V : CONCILIATEURS DE JUSTICE
+
+###### Article R131-12
+
+Les conciliateurs de justice ont pour mission, à titre bénévole, de rechercher le règlement amiable d'un différend.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 21
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R531-1 (V)
+	  - Code de l'organisation judiciaire - art. R551-1 (V)
+	  - Code de l'organisation judiciaire - art. R561-1 (V)
+
+
 ## LIVRE II : JURIDICTIONS DU PREMIER DEGRE
 
 ### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE
@@ -9450,21 +9465,34 @@ Les prestations de serment sont reçues à l'audience d'une des chambres du trib
 
 ###### Article R212-3
 
-Le tribunal de grande instance comprend une ou plusieurs chambres.
+Le tribunal de grande instance est organisé en une ou plusieurs chambres et en différents services. Certains services peuvent
+regrouper des chambres. 
 
-Les chambres du tribunal de grande instance sont présidées par le président du tribunal, par un premier vice-président ou par
-un vice-président.
+Chacune des chambres est présidée par le président du tribunal de grande instance, un premier vice-président ou un vice-
+président, ou à défaut, par le magistrat du siège dont le rang est le plus élevé. 
+
+Le service, lorsqu'il est composé de plusieurs magistrats, est coordonné par l'un d'entre eux. 
+
+Le nombre et le contenu des services sont fixés par l'ordonnance prévue à l'article R. 121-1. 
+
+Le président du tribunal de grande instance procède à la désignation du magistrat coordonnateur d'un service, après
+concertation avec les magistrats du service, par la même ordonnance que celle, prise après avis de l'assemblée des magistrats
+du siège, qui est mentionnée à l'alinéa précédent. 
+
+Ce magistrat est notamment chargé de l'animation du service. Il est l'interlocuteur des personnes, organismes et autorités
+avec lesquels ce service est en relation. L'administration du service est exercée par un directeur des services de greffe
+judiciaires, conformément aux dispositions des articles R. 123-3 et R. 123-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2016-514 du 26 avril 2016 - art. 2
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-16 al 1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-11 (Ab)
+	  - Code de l'organisation judiciaire - art. R121-1 (V)
+	  - Code de l'organisation judiciaire - art. R123-3 (V)
 
 	**Cité par**:
 
@@ -10388,8 +10416,9 @@ pénale ;
 2° Les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires entre les magistrats
 spécialisés du tribunal ; 
 
-3° Le projet d'ordonnance, préparé par le président du tribunal, de répartition dans les chambres et services de la
-juridiction, des vice-présidents et juges dont le tribunal est composé ; 
+3° Le projet d'ordonnance, préparé par le président du tribunal, de répartition dans les chambres, services et pôles des
+magistrats du siège dont le tribunal est composé et de désignation du magistrat chargé de la coordination d'un service ou
+d'un pôle conformément aux articles R. 212-3 et R. 212-62 ; 
 
 4° L'affectation des magistrats dans les formations de jugement spécialisées en matière militaire en temps de paix et en
 matière d'intérêts fondamentaux de la nation, conformément au code de procédure pénale ; 
@@ -10410,21 +10439,27 @@ libertés et de la détention conformément à l'article 137-1 du code de procé
 famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1 ; 
 
 10° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de contrôler l'exécution des
-mesures d'instruction conformément à l'article 155-1 du code de procédure civile ;
+mesures d'instruction conformément à l'article 155-1 du code de procédure civile ; 
 
 11° La désignation du président du tribunal maritime et de ses deux assesseurs magistrats par le président du tribunal auprès
-duquel est institué un tribunal maritime.
+duquel est institué un tribunal maritime ; 
+
+12° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de coordonner et d'animer
+l'activité des tribunaux d'instance dans le ressort du tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-261 du 5 mars 2015 - art. 21
+	  - Décret n°2016-514 du 26 avril 2016 - art. 12
+	  - Décret n°2016-514 du 26 avril 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 155-1
 	  - Code de l'organisation judiciaire - art. L232-2
+	  - Code de l'organisation judiciaire - art. R212-3
+	  - Code de l'organisation judiciaire - art. R212-62 (V)
 	  - Code de l'organisation judiciaire - art. R213-9-1
 	  - Code de l'organisation judiciaire - art. R251-3
 
@@ -10776,6 +10811,8 @@ parquet autonome et qui ont fait préalablement l'objet d'un vote de celles-ci.
 
 Elle émet un avis sur le projet de convention constitutive d'une maison de justice et du droit. 
 
+Elle émet également un avis sur le projet de juridiction et sur l'ordre du jour du conseil de juridiction.  
+
 L'assemblée plénière procède à un échange de vues sur les orientations adoptées par le comité de gestion et sur la situation
 et les perspectives budgétaires de la juridiction dans le cadre du dialogue de gestion. 
 
@@ -10787,7 +10824,7 @@ sceaux, ministre de la justice, en l'adaptant, le cas échéant, dans les condit
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 10
+	  - Décret n°2016-514 du 26 avril 2016 - art. 10
 
 	**Cite**:
 
@@ -11058,6 +11095,92 @@ sont communiquées aux membres de la commission  plénière.
 	**Créé par**:
 
 	  - Décret n°2014-1458 du 8 décembre 2014 - art. 4
+
+
+##### Section 7 : Les pôles
+
+###### Article R212-62
+
+Lorsque le tribunal de grande instance est composé de plusieurs chambres et services, ceux-ci peuvent être regroupés en pôles
+dont le nombre et le contenu sont fixés par l'ordonnance prévue à l'article R. 121-1. 
+
+Chaque pôle est coordonné par l'un des magistrats qui le composent choisi parmi les magistrats nommés dans l'une des
+fonctions de premier vice-président ou de premier vice-président adjoint ou, à défaut, parmi les autres magistrats du pôle.
+Le président du tribunal de grande instance procède à sa désignation, après concertation avec les magistrats du pôle, par la
+même ordonnance que celle, prise après avis de l'assemblée des magistrats du siège, qui est mentionnée à l'alinéa précédent. 
+
+Il est notamment chargé de l'animation du pôle. Il est l'interlocuteur des personnes, organismes et autorités avec lesquels
+ce pôle est en relation. L'administration du pôle est exercée par un directeur des services de greffe judiciaires,
+conformément aux dispositions des articles R. 123-3 et R. 123-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R121-1 (V)
+	  - Code de l'organisation judiciaire - art. R123-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R212-37 (M)
+	  - Code de l'organisation judiciaire - art. R312-69-3 (V)
+
+
+##### Section 8 :  Le projet de juridiction
+
+###### Article R212-63
+
+Le  projet de juridiction est élaboré à l'initiative des chefs de  juridiction, en concertation avec l'ensemble des
+magistrats du siège et  du parquet et l'ensemble des personnels de la juridiction. Il est soumis  à l'avis de l'assemblée
+plénière des magistrats et des fonctionnaires  avant d'être arrêté par les chefs de juridiction. Il définit, en prenant  en
+compte les spécificités du ressort, des objectifs à moyen terme  visant à améliorer le service rendu au justiciable et les
+conditions de  travail, dans le respect de l'indépendance juridictionnelle. Il est  présenté en tout ou partie, au sein du
+conseil de juridiction, aux  personnes, organismes et autorités avec lesquels la juridiction est en  relation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 8
+
+
+##### Section 9 :  Le conseil de juridiction
+
+###### Article R212-64
+
+Le conseil de juridiction, coprésidé par le président du tribunal de grande instance et le procureur de la République, est un
+lieu d'échanges et de communication entre la juridiction et la cité. Il se réunit au moins une fois par an.
+
+L'ordre du jour est arrêté par les chefs de juridiction après avis du directeur de greffe en comité de gestion et de
+l'assemblée plénière des magistrats et des fonctionnaires, qui peuvent également faire des propositions d'ordre du jour.
+
+Le conseil de juridiction se compose de magistrats et fonctionnaires de la juridiction désignés par la commission restreinte
+ou l'assemblée plénière en fonction de la taille de la juridiction et, en fonction de son ordre du jour, notamment :
+
+1° De représentants de l'administration pénitentiaire et de la protection judiciaire de la jeunesse ;
+
+2° De représentants locaux de l'Etat ;
+
+3° De représentants des collectivités territoriales et de parlementaires élus du ressort ;
+
+4° De personnes exerçant une mission de service public auprès des juridictions ;
+
+5° De représentants des professions du droit ;
+
+6° De représentants d'associations.
+
+Cet organe n'exerce aucun contrôle sur l'activité juridictionnelle ou sur l'organisation de la juridiction ni n'évoque les
+affaires individuelles dont la juridiction est saisie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 9
 
 
 #### Chapitre III : Fonctions particulières
@@ -12926,23 +13049,19 @@ Le siège et le ressort des greffes détachés sont fixés conformément au tabl
 
 ###### Article R222-5
 
-Dans les tribunaux d'instance comportant un seul juge, les greffiers peuvent être chargés des fonctions de directeur de
-greffe prévues aux articles R. 123-3 à R. 123-5 et R. 123-16.
+Dans les tribunaux d'instance, les greffiers peuvent être chargés des fonctions de directeur de greffe prévues aux articles
+R. 123-3 à R. 123-5 et R. 123-16.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-10 al 3 (Ab)
+	  - Décret n°2016-514 du 26 avril 2016 - art. 15
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-16 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-3 (V)
+	  - Code de l'organisation judiciaire - art. R123-16
+	  - Code de l'organisation judiciaire - art. R123-3
 
 
 ###### Article R222-6
@@ -13712,6 +13831,53 @@ directeur de greffe, sur les problèmes de gestion et d'organisation du greffe.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-50 ecqc TI (Ab)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r761-50 (Ab)
+
+
+##### Section 5 : La coordination des tribunaux d'instance
+
+
+###### Article R222-39
+
+Un magistrat d'un tribunal de grande instance chargé du service d'un tribunal d'instance est chargé de coordonner et d'animer
+l'activité des tribunaux d'instance du ressort de ce tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 11
+
+
+###### Article R222-40
+
+Le magistrat coordonnateur des tribunaux d'instance est choisi parmi les magistrats nommés dans l'une des fonctions de
+premier vice-président ou de premier vice-président adjoint ou, à défaut, parmi les autres magistrats. Il est désigné, après
+concertation avec les magistrats chargés du service d'un tribunal d'instance du ressort, par une ordonnance du président du
+tribunal de grande instance, prise après avis de l'assemblée des magistrats du siège du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 11
+
+
+###### Article R222-41
+
+Le magistrat coordonnateur des tribunaux d'instance instruit les dossiers de candidature des conciliateurs de justice et les
+transmet au premier président de la cour d'appel.
+
+Le magistrat désigné établit, avec les magistrats chargés de la direction et de l'administration des tribunaux d'instance, un
+rapport annuel sur l'activité des tribunaux d'instance du ressort, qu'il transmet au président du tribunal de grande
+instance. Ce dernier communique ce rapport au premier président de la cour d'appel. Il le communique également au procureur
+de la République, aux juges d'instance ainsi qu'aux directeurs de greffe des tribunaux d'instance du ressort et à toute
+personne à laquelle il estime cette communication utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 11
 
 
 #### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle
@@ -15326,19 +15492,40 @@ tribunaux de grande instance dans lesquels il existe un tribunal pour enfants.
 Le premier président de la cour d'appel communique ce rapport et celui mentionné à l'article R. 251-3 au garde des sceaux,
 ministre de la justice, avec ses observations.
 
+Le premier président de la cour d'appel et le procureur général près cette cour organisent et président, avec les présidents
+des tribunaux de grande instance et les procureurs de la République du ressort de la cour d'appel, une conférence annuelle
+portant sur la justice des mineurs.
+
+Elle réunit les magistrats du siège et du parquet, des juridictions de la cour d'appel et des juridictions de première
+instance, en charge des mineurs.
+
+Y participent également les directeurs interrégionaux de la protection judiciaire de la jeunesse, ou leurs représentants, et
+les personnels des services placés sous leur autorité.
+
+Peuvent être invités à participer à cette conférence les directeurs interrégionaux des services pénitentiaires, des
+responsables du service de l'aide sociale à l'enfance du ressort, des représentants des personnes morales de droit public ou
+de droit privé mettant en œuvre des mesures judiciaires dans le cadre de l'assistance éducative ou de la délinquance des
+mineurs, des représentants du barreau du ressort ayant un intérêt particulier pour les questions relatives aux mineurs.
+
+Cette conférence a pour objet :
+
+1° L'amélioration des échanges d'informations entre les juridictions, les services de la protection judiciaire de la jeunesse
+et les autres acteurs de la protection de l'enfance du ressort ;
+
+2° La définition et la mise en œuvre d'actions à mener dans le domaine de la protection judiciaire de l'enfance, en matière
+pénale comme en matière civile.
+
+La conclusion de la conférence annuelle est intégrée dans le rapport prévu au deuxième alinéa du présent article.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-2, alinéa 2 (Ab)
+	  - Décret n°2016-514 du 26 avril 2016 - art. 23
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-3 (V)
+	  - Code de l'organisation judiciaire - art. R251-3
 
 
 ###### Article R312-13-1
@@ -15835,35 +16022,36 @@ procédure pénale.
 
 ###### Article R312-42
 
-L'assemblée des magistrats du siège de la cour d'appel émet un avis sur :
+L'assemblée des magistrats du siège de la cour d'appel émet un avis sur : 
 
 1° Le projet de décision préparé par le premier président de la cour d'appel et le procureur général près cette cour fixant
-le nombre et le jour des audiences correctionnelles, conformément à l'article 511 du code de procédure pénale ;
+le nombre et le jour des audiences correctionnelles, conformément à l'article 511 du code de procédure pénale ; 
 
-2° Les critères généraux de répartition des dossiers entre les chambres ;
+2° Les critères généraux de répartition des dossiers entre les chambres ; 
 
-3° Le projet d'ordonnance, préparé par le premier président, de répartition dans les chambres et services de la juridiction
-des présidents de chambre et des conseillers dont la cour d'appel est composée ;
+3° Le projet d'ordonnance, préparé par le premier président de la cour d'appel, de répartition dans les chambres et pôles des
+magistrats du siège dont la cour d'appel est composée et de désignation du magistrat chargé de la coordination d'un pôle
+conformément à l'article R. 312-83 ; 
 
-4° Le projet d'ordonnance préparé par le premier président désignant :
+4° Le projet d'ordonnance préparé par le premier président désignant : 
 
 a) Les juges de l'application des peines du ressort de la cour composant un tribunal de l'application des peines,
-conformément à l'article 712-3 du code de procédure pénale ;
+conformément à l'article 712-3 du code de procédure pénale ; 
 
 b) Le président de la chambre de l'application des peines et les conseillers la composant en qualité d'assesseurs,
-conformément à l'article 712-13 du code de procédure pénale ;
+conformément à l'article 712-13 du code de procédure pénale ; 
 
 c) Le responsable d'une association de réinsertion des condamnés et le responsable d'une association d'aide aux victimes
-composant la chambre de l'application des peines, conformément à l'article 712-13 du code de procédure pénale ;
+composant la chambre de l'application des peines, conformément à l'article 712-13 du code de procédure pénale ; 
 
 d) Le ou les conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des
-peines dans le ressort de la cour d'appel ;
+peines dans le ressort de la cour d'appel ; 
 
 e) Le président de la juridiction régionale de la rétention de sûreté et les conseillers la composant en qualité
-d'assesseurs, conformément à l'article 706-53-15 du code de procédure pénale ;
+d'assesseurs, conformément à l'article 706-53-15 du code de procédure pénale ; 
 
 f) Le conseiller chargé de suivre l'activité des conciliateurs de justice et des médiateurs et de coordonner leur action dans
-le ressort de la cour d'appel ;
+le ressort de la cour d'appel ; 
 
 g) Le conseiller qui assure la coordination de l'activité des magistrats du siège du ressort de la cour en matière de droit
 de la famille et des personnes.
@@ -15872,7 +16060,7 @@ de la famille et des personnes.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1395 du 12 novembre 2010 - art. 8
+	  - Décret n°2016-514 du 26 avril 2016 - art. 7
 
 	**Cite**:
 
@@ -15880,6 +16068,7 @@ de la famille et des personnes.
 	  - Code de procédure pénale - art. 706-53-15
 	  - Code de procédure pénale - art. 712-13
 	  - Code de procédure pénale - art. 712-3
+	  - Code de l'organisation judiciaire - art. R312-83 (V)
 
 	**Cité par**:
 
@@ -15927,26 +16116,6 @@ décembre 2004 relatif aux experts judiciaires ;
 	**Modifié par**:
 
 	  - Décret n°2009-285 du 12 mars 2009 - art. 11
-
-
-###### Article R312-44
-
-L'assemblée des magistrats du siège de la cour d'appel propose au garde des sceaux, ministre de la justice, les candidats aux
-fonctions de magistrat exerçant à titre temporaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-514 du 26 avril 2016 - art. 14
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 al 13 (Ab)
 
 
 ##### Sous-Section 3 : L'assemblée des magistrats du parquet
@@ -16252,6 +16421,8 @@ L'assemblée plénière procède à un échange de vues sur les questions qui on
 magistrats du siège et du parquet et de l'assemblée des fonctionnaires du greffe et qui ont fait préalablement l'objet d'un
 vote de celles-ci. 
 
+Elle émet un avis sur le projet de juridiction et sur l'ordre du jour du conseil de juridiction. 
+
 L'assemblée plénière procède à un échange de vues sur les orientations adoptées par le comité de gestion et sur la situation
 et les perspectives budgétaires de la juridiction dans le cadre du dialogue de gestion. 
 
@@ -16263,7 +16434,7 @@ sceaux, ministre de la justice, en l'adaptant, le cas échéant, dans les condit
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 14
+	  - Décret n°2016-514 du 26 avril 2016 - art. 10
 
 	**Cite**:
 
@@ -16593,6 +16764,26 @@ délibérations et sont communiquées aux membres de la  commission plénière.
 	  - Décret n°2014-1458 du 8 décembre 2014 - art. 5
 
 
+###### Article R312-69-3
+
+Le premier président peut désigner, après avis de l'assemblée des magistrats du siège de la cour d'appel, un président de
+chambre ou un conseiller chargé, en concertation, le cas échéant, avec les magistrats coordonnateurs de première instance
+prévus aux articles R. 212-3 et R. 212-62, de coordonner certaines activités juridictionnelles dans le ressort de sa cour
+d'appel. Il est l'interlocuteur des personnes, organismes et autorités avec lesquels la cour, au titre de ces activités
+juridictionnelles, est en relation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 13
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R212-3 (V)
+	  - Code de l'organisation judiciaire - art. R212-62 (V)
+
+
 ##### Section 7 : Le service administratif régional
 
 ##### Sous-Section 1 : Missions
@@ -16842,6 +17033,91 @@ général près cette cour les procès-verbaux des délibérations.
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*764-6 (Ab)
+
+
+##### Section 8 : Les pôles
+
+###### Article R312-83
+
+Les chambres de la cour d'appel peuvent être regroupées en pôles dont le nombre et le contenu sont fixés par l'ordonnance
+prévue à l'article R. 121-1. 
+
+Chaque pôle est coordonné par l'un des magistrats qui le composent, choisi parmi les magistrats nommés dans la fonction de
+président de chambre ou, à défaut, parmi les autres magistrats. Le premier président de la cour d'appel procède à sa
+désignation, après concertation avec les magistrats du pôle, par la même ordonnance que celle, prise après avis de
+l'assemblée des magistrats du siège, qui est mentionnée à l'alinéa précédent. 
+
+Il est notamment chargé de l'animation du pôle. Il est l'interlocuteur des personnes, organismes et autorités avec lesquels
+ce pôle est en relation. L'administration du pôle est exercée par un directeur des services de greffe judiciaires,
+conformément aux dispositions des articles R. 123-3 et R. 123-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 6
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R121-1 (V)
+	  - Code de l'organisation judiciaire - art. R123-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R312-42 (V)
+
+
+##### Section 9 :  Le projet de juridiction
+
+###### Article R312-84
+
+Le  projet de juridiction est élaboré à l'initiative des chefs de cour, en  concertation avec l'ensemble des magistrats du
+siège et du parquet et  l'ensemble des personnels de la cour. Il est soumis à l'avis de  l'assemblée plénière des magistrats
+et des fonctionnaires avant d'être  arrêté par les chefs de cour. Il définit, en prenant en compte les  spécificités du
+ressort, des objectifs à moyen terme visant à améliorer  le service rendu au justiciable et les conditions de travail dans le
+respect de l'indépendance juridictionnelle. Il est présenté en tout ou  partie, au sein du conseil de juridiction, aux
+personnes, organismes et  autorités avec lesquels la juridiction est en relation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 8
+
+
+##### Section 10 :  Le conseil de juridiction
+
+###### Article R312-85
+
+Le conseil de juridiction, coprésidé par le premier président de la cour d'appel et le procureur général, est un lieu
+d'échanges et de communication entre la juridiction et la cité. Il se réunit au moins une fois par an.
+
+L'ordre du jour est arrêté par les chefs de cour après consultation du directeur de greffe en comité de gestion et avis de
+l'assemblée plénière des magistrats et des fonctionnaires, qui peuvent également faire des propositions d'ordre du jour.
+
+Le conseil de juridiction se compose de magistrats et fonctionnaires de la juridiction désignés par la commission restreinte
+ou l'assemblée plénière en fonction de la taille de la juridiction et, en fonction de son ordre du jour, notamment :
+
+1° De représentants de l'administration pénitentiaire et de la protection judiciaire de la jeunesse ;
+
+2° De représentants locaux de l'Etat ;
+
+3° De représentants des collectivités territoriales et de parlementaires élus du ressort ;
+
+4° De personnes exerçant une mission de service public auprès des juridictions ;
+
+5° De représentants du barreau et des autres professions du droit ;
+
+6° De représentants d'associations.
+
+Cet organe n'exerce aucun contrôle sur l'activité juridictionnelle ou sur l'organisation de la juridiction ni n'évoque les
+affaires individuelles dont la juridiction est saisie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 9
 
 
 #### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
@@ -19105,7 +19381,7 @@ australes et antarctiques françaises.
 ###### Article R551-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Polynésie française dans sa rédaction résultant du
-décret n° 2014-1458 du 8 décembre 2014, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
+décret n° 2016-514 du 26 avril 2016 , à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et R. 124-2.
 
 **Liens relatifs à cet article**
@@ -19125,7 +19401,7 @@ décret n° 2014-1458 du 8 décembre 2014, à l'exception du second alinéa de l
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R551-2
@@ -19307,7 +19583,7 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 
 Les dispositions de la section 1 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives au
 service juridictionnel du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction résultant
-du décret n° 2014-1458 du 8 décembre 2014, à l'exception des articles R. 212-8, R. 212-9 et R. 212-11.
+du          décret n° 2016-514 du 26 avril 2016 , à l'exception des articles R. 212-8, R. 212-9 et R. 212-11.
 
 **Liens relatifs à cet article**
 
@@ -19320,7 +19596,7 @@ du décret n° 2014-1458 du 8 décembre 2014, à l'exception des articles R. 212
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R552-10
@@ -19574,8 +19850,7 @@ chargé du service d'une section détachée désigné par le président du tribu
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
 aux assemblées générales du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction
-résultant du décret n° 2014-1458 du 8 décembre 2014 à l'exception de l'article R. 212-37 qui est applicable dans sa rédaction
-résultant du décret n° 2015-261 du 5 mars 2015.
+résultant du         décret n° 2016-514 du 26 avril 2016  .
 
 **Liens relatifs à cet article**
 
@@ -19587,7 +19862,7 @@ résultant du décret n° 2015-261 du 5 mars 2015.
 
 	**Modifié par**:
 
-	  - Décret n°2015-261 du 5 mars 2015 - art. 21
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
@@ -19607,6 +19882,51 @@ sont applicables en Polynésie française.
 	**Modifié par**:
 
 	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+
+
+##### Paragraphe 6 : Les pôles
+
+
+
+###### Article R552-22-1
+
+Les dispositions de la section 7 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n°2016-514 du 26 avril 2016, sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+
+
+##### Paragraphe 7 : Le projet de juridiction
+
+###### Article R552-22-2
+
+Les dispositions de la section 8 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n° 2016-514du 26 avril 2016, sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+
+
+##### Paragraphe 8 : Le conseil de juridiction
+
+
+###### Article R552-22-3
+
+Les dispositions de la section 9 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n° 2016-514du 26 avril 2016, sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ##### Section 2 : La cour d'appel
@@ -19635,8 +19955,8 @@ décret n° 2012-1451 du 24 décembre 2012, à l'exception des articles D. 311-8
 ###### Article R552-24
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
-et au fonctionnement de la cour d'appel, sont applicables en Polynésie française dans leur rédaction résultant du décret n°
-2014-1458 du 8 décembre 2014, à l'exception des articles R. 312-4, R. 312-12, R. 312-17.
+et au fonctionnement de la cour d'appel, sont applicables en Polynésie française dans leur rédaction résultant du
+décret n° 2016-514 du 26 avril 2016 , à l'exception des articles R. 312-4, R. 312-12, R. 312-17.
 
 **Liens relatifs à cet article**
 
@@ -19649,7 +19969,7 @@ et au fonctionnement de la cour d'appel, sont applicables en Polynésie françai
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R552-25
@@ -19918,7 +20238,7 @@ entre les services du siège et ceux du parquet.
 ###### Article R561-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du
-décret n° 2014-1458 du 8 décembre 2014, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
+décret n° 2016-514 du 26 avril 2016 , à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19 et R. 124-2.
 
 **Liens relatifs à cet article**
@@ -19937,7 +20257,7 @@ décret n° 2014-1458 du 8 décembre 2014, à l'exception du second alinéa de l
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R561-2
@@ -20113,7 +20433,7 @@ L'installation des magistrats du tribunal de première instance a lieu en audien
 
 Les dispositions de la section 1 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives au
 service juridictionnel du tribunal de grande instance, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant
-du décret n° 2014-1458 du 8 décembre 2014, à l'exception des articles R. 212-8, R. 212-9 et R. 212-11.
+du          décret n° 2016-514 du 26 avril 2016 , à l'exception des articles R. 212-8, R. 212-9 et R. 212-11.
 
 **Liens relatifs à cet article**
 
@@ -20126,7 +20446,7 @@ du décret n° 2014-1458 du 8 décembre 2014, à l'exception des articles R. 212
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R562-10
@@ -20580,8 +20900,7 @@ chargé du service d'une section détachée désigné par le président du tribu
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
 aux assemblées générales du tribunal de grande instance, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant
-du décret n° 2014-1458 du 8 décembre 2014 à l'exception de l'article R. 212-37 qui est applicable dans sa rédaction résultant
-du décret n° 2015-261 du 5 mars 2015.
+du         décret n° 2016-514 du 26 avril 2016  .
 
 **Liens relatifs à cet article**
 
@@ -20589,11 +20908,11 @@ du décret n° 2015-261 du 5 mars 2015.
 
 	  - Décret n°2014-1458 du 8 décembre 2014
 	  - Décret n°2015-261 du 5 mars 2015
-	  - Code de l'organisation judiciaire - art. R212-37 (M)
+	  - Code de l'organisation judiciaire - art. R212-37
 
 	**Modifié par**:
 
-	  - Décret n°2015-261 du 5 mars 2015 - art. 21
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance
@@ -20613,6 +20932,62 @@ sont applicables en Nouvelle-Calédonie.
 	**Modifié par**:
 
 	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+
+
+##### Paragraphe 6 : Les pôles
+
+
+###### Article R562-31-1
+
+Les dispositions de la section 7 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n° 2016-514 du 26 avril 2016, sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-514 du 26 avril 2016 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+
+
+##### Paragraphe 7 : Le projet de juridiction
+
+###### Article R562-31-2
+
+Les dispositions de la section 8 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n° 2016-514 du 26 avril 2016, sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-514 du 26 avril 2016 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+
+
+##### Paragraphe 8 : Le conseil de juridiction
+
+
+###### Article R562-31-3
+
+Les dispositions de la section 9 du chapitre II du titre Ier du livre II du présent code (partie réglementaire), dans leur
+rédaction résultant du décret n° 2016-514 du 26 avril 2016, sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-514 du 26 avril 2016 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ##### Section 2 : La cour d'appel
@@ -20646,8 +21021,8 @@ de la cour d'appel, sont applicables en Nouvelle-Calédonie, à l'exception des 
 ###### Article R562-33
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
-et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant du décret n°
-2014-1458 du 8 décembre 2014, à l'exception des articles R. 312-4, R. 312-12, R. 312-17.
+et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant du
+décret n° 2016-514 du 26 avril 2016 , à l'exception des articles R. 312-4, R. 312-12, R. 312-17.
 
 **Liens relatifs à cet article**
 
@@ -20660,7 +21035,7 @@ et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie
 
 	**Modifié par**:
 
-	  - Décret n°2014-1458 du 8 décembre 2014 - art. 28
+	  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
 ###### Article R562-34
