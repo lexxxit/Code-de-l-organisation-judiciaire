@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-04-29
+Version Consolidée au 2016-05-01
 
 # Partie législative
 
@@ -8553,28 +8553,24 @@ comptables de la direction générale des finances publiques.
 
 ###### Article R123-23
 
-Les régisseurs sont habilités à payer les frais de justice mentionnés à l'article R. 92 du code de procédure pénale ainsi que
-les frais mentionnés à l'article R. 93 de ce code, à l'exclusion de ceux dont la liste est fixée par arrêté conjoint du garde
-des sceaux, ministre de la justice, et du ministre chargé du budget.
+Les régisseurs sont habilités à payer les frais de justice énumérés au 
+4° de l'article R. 92 du code de procédure pénale
+.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-461 du 7 mai 2014 - art. 7 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-25 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-479 du 18 avril 2016 - art. 14
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R93 (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-4 (Ab)
+	  - Code de procédure pénale - art. R92
 
 
 ###### Article R123-24
@@ -8590,35 +8586,34 @@ travail ;
 
 4° Les consignations de parties civiles prévues aux articles 88,88-1,392-1 et R. 15-41 du code de procédure pénale ; 
 
-5° Les provisions pour expertise ; 
+5° Les provisions pour expertise ou pour médiation prévue à l'
+article 131-6 du code de procédure civile
+;  
 
 6° Les provisions sur redevances et droits ; 
 
 7° Le produit des ventes d'ouvrages et publications vendus dans les greffes ; 
 
 8° Les sommes dues au titre des publicités au Bulletin des annonces civiles et commerciales prévues aux articles 788,790 et
-794 du code civil et à l'article 1337 du code de procédure civile. 
+794 du code civil et à l'article 1337 du code de procédure civile ;
 
-En outre, les régisseurs des greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes          qui
-leur sont remises en dépôt par le directeur de greffe, sauf en matière pénale.
+9° Les consignations prévues à l'article 132-70-3 du code pénal.
+
+En outre, les régisseurs des greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes qui leur sont
+remises en dépôt par le directeur de greffe, sauf en matière pénale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1043 du 1er septembre 2011 - art. 6
+	  - Décret n°2016-479 du 18 avril 2016 - art. 15
 
 	**Cite**:
 
+	  - Code de procédure civile - art. 131-6
 	  - Code de procédure civile - art. 1337
-	  - Code civil - art. 788
-	  - Code civil - art. 790
-	  - Code civil - art. 794
-	  - Code de procédure pénale - art. 392-1
-	  - Code de procédure pénale - art. 88
-	  - Code de procédure pénale - art. R15-41
-	  - Code de procédure pénale - art. R19
-	  - Code du travail - art. R145-1
+	  - Code civil
+	  - Code de procédure pénale
 	  - Code du travail - art. R145-43
 
 	**Cité par**:
