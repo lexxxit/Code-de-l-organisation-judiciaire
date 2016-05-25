@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-05-23
+Version Consolidée au 2016-05-26
 
 # Partie législative
 
@@ -10428,7 +10428,9 @@ tribunal, de celui qui exercera les attributions mentionnées à l'article R. 25
 fonctions du juge de proximité conformément à l'article L. 232-2 ; 
 
 8° Le projet d'ordonnance préparé par le président du tribunal désignant un magistrat pour exercer les fonctions de juge des
-libertés et de la détention conformément à l'article 137-1 du code de procédure pénale ; 
+libertés et de la détention conformément à l'
+article 137-1 du code de procédure pénale
+; 
 
 9° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat coordonnateur en matière de droit de la
 famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1 ; 
@@ -10440,23 +10442,25 @@ mesures d'instruction conformément à l'article 155-1 du code de procédure civ
 duquel est institué un tribunal maritime ; 
 
 12° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de coordonner et d'animer
-l'activité des tribunaux d'instance dans le ressort du tribunal de grande instance.
+l'activité des tribunaux d'instance dans le ressort du tribunal de grande instance ;
+
+13° Le projet d'ordonnance préparé par le président du tribunal désignant un magistrat du tribunal de grande instance pour
+exercer les fonctions prévues à l'
+article L. 1454-2 du code du travail
+.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-514 du 26 avril 2016 - art. 12
-	  - Décret n°2016-514 du 26 avril 2016 - art. 3
+	  - Décret n°2016-660 du 20 mai 2016 - art. 6
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 155-1
-	  - Code de l'organisation judiciaire - art. L232-2
-	  - Code de l'organisation judiciaire - art. R212-3
-	  - Code de l'organisation judiciaire - art. R212-62 (V)
-	  - Code de l'organisation judiciaire - art. R213-9-1
-	  - Code de l'organisation judiciaire - art. R251-3
+	  - Code de procédure pénale
+	  - Code de procédure pénale - art. 137-1
+	  - Code du travail - art. L1454-2
 
 	**Cité par**:
 
@@ -18286,17 +18290,24 @@ chambre criminelle et deux conseillers, désignés par le premier président, ap
 ou d'empêchement du président de la chambre criminelle, il est remplacé par un conseiller de cette chambre désigné par le
 premier président ou, à défaut de celui-ci, par le président de chambre qui le remplace.
 
+La formation appelée à se prononcer sur une demande d'avis sur l'interprétation d'une convention ou d'un accord collectif
+comprend, outre le premier président, le président de la chambre sociale, un président de chambre désigné par le premier
+président, quatre conseillers de la chambre sociale et deux conseillers, désignés par le premier président, appartenant à une
+autre chambre. En cas d'absence ou d'empêchement de l'un d'eux, il est remplacé par un conseiller désigné par le premier
+président ou, à défaut de celui-ci, par le président de chambre qui le remplace (1).
+
 La formation ne peut siéger que si tous les membres qui doivent la composer sont présents.
+
+**Nota:**
+
+(1) Décret n° 2016-660 du 20 mai 2016, article 47: Ces dispositions s'applique aux demandes d'avis effectuées à compter de la
+publication dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2, alinéas 2, 3 et 4 (Ab)
+	  - Décret n°2016-660 du 20 mai 2016 - art. 42
 
 
 ### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ 
