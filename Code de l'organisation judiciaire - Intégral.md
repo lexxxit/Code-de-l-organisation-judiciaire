@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-05-26
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -4214,8 +4214,9 @@ Avant de statuer sur une question de droit nouvelle, présentant une difficulté
 litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours, solliciter l'avis de la
 Cour de cassation.
 
-Elles peuvent, dans les mêmes conditions, solliciter l'avis de la Cour de cassation avant de statuer sur l'interprétation
-d'une convention ou d'un accord collectif présentant une difficulté sérieuse et se posant dans de nombreux litiges.
+Elles peuvent, dans les mêmes conditions, solliciter l'avis de la commission paritaire mentionnée à l'article L. 2232-9 du
+code du travail ou de la Cour de cassation avant de statuer sur l'interprétation d'une convention ou d'un accord collectif
+présentant une difficulté sérieuse et se posant dans de nombreux litiges.
 
 **Liens relatifs à cet article**
 
@@ -4225,7 +4226,7 @@ d'une convention ou d'un accord collectif présentant une difficulté sérieuse 
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 258
+	  - Loi n°2016-1088 du 8 août 2016 - art. 24 (V)
 
 	**Cité par**:
 
