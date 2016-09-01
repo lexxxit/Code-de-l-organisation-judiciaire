@@ -705,12 +705,12 @@ Manche
     <tr>
       <td>
 
-Cherbourg-Octeville 
+Cherbourg-en-Cotentin 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Cherbourg-Octeville. 
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin. 
 
 </td>
     </tr>
@@ -2726,7 +2726,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2013-1258 du 27 décembre 2013 - art. 4
+	  - Décret n°2016-1186 du 30 août 2016 - art. 1
 
 	**Cite**:
 
