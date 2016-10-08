@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -291,6 +291,35 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	**Cite**:
 
 	  - Code du patrimoine - art. L221-1
+
+
+###### Article L111-13
+
+Sans préjudice des dispositions particulières qui régissent l'accès aux décisions de justice et leur publicité, les décisions
+rendues par les juridictions judiciaires sont mises à la disposition du public à titre gratuit dans le respect de la vie
+privée des personnes concernées. 
+
+Cette mise à disposition du public est précédée d'une analyse du risque de ré-identification des personnes. 
+
+Les articles L. 321-1 à L. 326-1 du code des relations entre le public et l'administration sont également applicables à la
+réutilisation des informations publiques figurant dans ces décisions. 
+
+Un décret en Conseil d'Etat fixe, pour les décisions de premier ressort, d'appel ou de cassation, les conditions
+d'application du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 21
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
 
 
 ### TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT
