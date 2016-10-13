@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-14
 
 # Partie législative
 
@@ -8367,15 +8367,12 @@ Ils dressent les actes de greffe, notes et procès-verbaux dans les cas prévus 
 Des personnels appartenant à la catégorie C de la fonction publique, et, le cas échéant, des auxiliaires et des vacataires
 concourent au fonctionnement des différents services du greffe. 
 
-Ces personnels peuvent, à titre exceptionnel et temporaire, et après avoir prêté le serment prévu à l'article 26 du décret n°
-2003-466 du 30 mai 2003, être chargés des fonctions énumérées à l'article R. 123-13 et d'une partie des fonctions énumérées à
-l'article R. 123-5. Au-delà d'un délai de quatre mois, ils sont, sur leur demande, déchargés de ces fonctions.
+Ces personnels peuvent, à titre exceptionnel et temporaire, et après avoir prêté le serment prévu à l'article 24 du décret n°
+2015-1275 du 13 octobre 2015 portant statut particulier des greffiers des services judiciaires, être chargés des fonctions
+énumérées à l'article R. 123-13 et d'une partie des fonctions énumérées à l'article R. 123-5. Au-delà d'un délai de quatre
+mois, ils sont, sur leur demande, déchargés de ces fonctions.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 	**Cité par**:
 
@@ -8388,14 +8385,15 @@ l'article R. 123-5. Au-delà d'un délai de quatre mois, ils sont, sur leur dema
 	  - Code de procédure pénale - art. R15-33-66-8 (V)
 	  - Code de procédure pénale - art. R2-6 (V)
 
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-12 (Ab)
-
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-5 (V)
+	  - Décret n°2015-1275 du 13 octobre 2015 - art. 24 (V)
+	  - Code de l'organisation judiciaire - art. R123-13
+	  - Code de l'organisation judiciaire - art. R123-5
+
+	**Modifié par**:
+
+	  - Décret n°2016-1359 du 11 octobre 2016 - art. 7
 
 
 ###### Article R123-15
