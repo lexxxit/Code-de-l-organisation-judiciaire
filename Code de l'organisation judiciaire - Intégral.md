@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-10-14
+Version Consolidée au 2016-11-20
 
 # Partie législative
 
@@ -26,17 +26,19 @@ Les juridictions judiciaires rendent leurs décisions au nom du peuple français
 
 ###### Article L111-2
 
-La gratuité du service de la justice est assurée selon les modalités fixées par la loi et le règlement.
+Le service public de la justice concourt à l'accès au droit et assure un égal accès à la justice. 
+
+Sa gratuité est assurée selon les modalités fixées par la loi et le règlement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 
 ###### Article L111-3
@@ -60,17 +62,17 @@ Les décisions de justice sont rendues dans un délai raisonnable.
 
 ###### Article L111-4
 
-La permanence et la continuité du service de la justice demeurent toujours assurées.
+La permanence et la continuité du service public de la justice demeurent toujours assurées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 
 ###### Article L111-5
@@ -109,7 +111,10 @@ inclusivement ;
 
 7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
 
-8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
+8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties ;
+
+9° S'il existe un conflit d'intérêts, au sens de l'article 7-1 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi
+organique relative au statut de la magistrature.
 
 Les magistrats du ministère public, partie jointe, peuvent être récusés dans les mêmes cas.
 
@@ -117,11 +122,7 @@ Les magistrats du ministère public, partie jointe, peuvent être récusés dans
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
 	**Cité par**:
 
@@ -135,9 +136,9 @@ Les magistrats du ministère public, partie jointe, peuvent être récusés dans
 	  - Code rural et de la pêche maritime - art. R242-100 (V)
 	  - Code rural et de la pêche maritime - art. R242-94 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 18
 
 
 ###### Article L111-7
@@ -145,15 +146,19 @@ Les magistrats du ministère public, partie jointe, peuvent être récusés dans
 Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
 autre juge spécialement désigné.
 
+Le magistrat du ministère public qui suppose en sa personne un conflit d'intérêts, au sens de l'article 7-1 de l'ordonnance
+n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, ou estime en conscience devoir
+s'abstenir se fait remplacer.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 18
 
 
 ###### Article L111-8
@@ -601,13 +606,57 @@ le fonctionnement de ces juridictions, mentionnés à l'article L. 261-1.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (V)
 
 
+###### Article L123-3
+
+Il est institué un service d'accueil unique du justiciable dont la compétence s'étend au delà de celle de la juridiction où
+il est implanté. Le service informe les personnes sur les procédures qui les concernent et reçoit de leur part des actes
+afférents à ces procédures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-897 du 9 mai 2017 - art. 2
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+	  - Code du travail - art. R1423-50-1 (V)
+
+
+#### Chapitre III bis : Les juristes assistants
+
+###### Article L123-4
+
+Des juristes assistants sont institués auprès des juridictions. Peuvent être nommées en qualité de juristes assistants auprès
+des magistrats des tribunaux d'instance, des tribunaux de grande instance et de première instance, des cours d'appel ainsi
+qu'à la Cour de cassation les personnes titulaires d'un diplôme de doctorat en droit ou sanctionnant une formation juridique
+au moins égale à cinq années d'études supérieures après le baccalauréat avec deux années d'expérience professionnelle dans le
+domaine juridique et que leur compétence qualifie particulièrement pour exercer ces fonctions. Ces juristes assistants sont
+nommés, à temps partiel ou complet, pour une durée maximale de trois années, renouvelable une fois. Ils sont tenus au secret
+professionnel et peuvent accéder aux dossiers de procédure pour l'exercice des tâches qui leur sont confiées. Un décret en
+Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 avril 2013 - art. 2 (VD)
+	  - Arrêté du 9 décembre 2016 - art. 3
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 24
+
+
 ### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE
 
 #### Chapitre unique
 
 ###### Article L141-1
 
-L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice.
+L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service public de la justice.
 
 Sauf dispositions particulières, cette responsabilité n'est engagée que par une faute lourde ou par un déni de justice.
 
@@ -615,15 +664,11 @@ Sauf dispositions particulières, cette responsabilité n'est engagée que par u
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéa 1 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 
 ###### Article L141-2
@@ -681,6 +726,10 @@ les juges, sauf son recours contre ces derniers.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéas 3 et 4 (Ab)
 
 
+### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE PUBLIC DE LA JUSTICE
+
+#### Chapitre unique
+
 ## LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ
 
 ### TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE
@@ -733,6 +782,18 @@ Il y a au moins un tribunal de grande instance dans le ressort de chaque cour d'
 ##### Section 1 : Compétence matérielle
 
 ##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance
+
+###### Article L 211-9-2
+
+Le tribunal de grande instance connaît des actions de groupe définies au chapitre III du titre II du livre VI du code de la
+consommation et par la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
+
 
 ###### Article L211-3
 
@@ -1014,26 +1075,6 @@ numérotation.
 	**Cité par**:
 
 	  - Code de l'organisation judiciaire - art. R213-5-1 (V)
-
-
-###### Article L211-15
-
-Les tribunaux de grande instance connaissent des actions de groupe définies au chapitre III du titre II du livre IV du code
-de la consommation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
-
-	**Cité par**:
-
-	  - Code de l'organisation judiciaire - art. L532-2 (V)
 
 
 #### Chapitre II : Organisation et fonctionnement
@@ -2069,6 +2110,22 @@ de police dans les cas et conditions prévus aux articles 45 à 48 du code de pr
 	  - Code de procédure pénale - art. 45
 
 
+##### Section 3 : Le greffe
+
+
+###### Article L222-4
+
+A titre exceptionnel, les attributions du directeur des services de greffe mentionnées aux articles 26, 26-1, 26-3, 31, 31-2,
+31-3, 33-1, 511 et 512 du code civil peuvent être exercées par un directeur des services de greffe du ressort ou, à défaut,
+par le greffier chef de greffe du tribunal d'instance concerné, par décision des chefs de cour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+
+
 #### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 ###### Article L223-1
@@ -2756,21 +2813,17 @@ limite de la durée requise pour permettre leur renouvellement par moitié.
 ###### Article L251-5
 
 Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent serment devant le tribunal de grande instance de
-bien et fidèlement remplir leurs fonctions et de garder religieusement le secret des délibérations.
+bien et fidèlement remplir leurs fonctions et de garder le secret des délibérations.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-4 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 19
 
 
 ###### Article L251-6
@@ -3665,8 +3718,10 @@ La Cour de cassation ne connaît pas du fond des affaires, sauf disposition lég
 
 La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond.
 
-Elle peut aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement constatés
-et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée.
+Elle peut aussi, en matière civile, statuer au fond lorsque l'intérêt d'une bonne administration de la justice le justifie. 
+
+En matière pénale, elle peut, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été
+souverainement constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée.
 
 En ces cas, elle se prononce sur la charge des dépens afférents aux instances civiles devant les juges du fond.
 
@@ -3678,16 +3733,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc art. L131-5 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 38
 
 	**Cité par**:
 
@@ -3969,6 +4019,23 @@ En outre, des conseillers référendaires pris par ordre d'ancienneté dans leur
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-7 (V)
 
 
+###### Article L431-3-1
+
+Lors de l'examen du pourvoi, la Cour de cassation peut inviter toute personne dont la compétence ou les connaissances sont de
+nature à l'éclairer utilement sur la solution à donner à un litige à produire des observations d'ordre général sur les points
+qu'elle détermine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 39
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1015-2 (V)
+
+
 ###### Article L431-4
 
 En cas de cassation, l'affaire est renvoyée, sous réserve des dispositions de l'article L. 411-3, devant une autre
@@ -4139,25 +4206,24 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 Le procureur général porte la parole aux audiences des chambres mixtes et de l'assemblée plénière ainsi que dans les
 assemblées générales de la cour. 
 
-Il peut la porter aux audiences des chambres et devant la formation prévue à l'article L. 441-2.
+Il peut la porter aux audiences des chambres et devant les formations prévues à l'article L. 441-2.
+
+Il rend des avis dans l'intérêt de la loi et du bien commun. Il éclaire la cour sur la portée de la décision à intervenir.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 40
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-2 (V)
+	  - Code de l'organisation judiciaire - art. L441-2 (V)
 
 
 ###### Article L432-2
@@ -4237,6 +4303,20 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 #### Chapitre unique
 
+###### Article L 441-2-1
+
+Le renvoi devant une formation mixte ou plénière pour avis est décidé soit par ordonnance non motivée du premier président,
+soit par décision non motivée de la chambre saisie. 
+
+Le renvoi est de droit lorsque le procureur général le requiert.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
+
+
 ###### Article L441-1
 
 Avant de statuer sur une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux
@@ -4264,26 +4344,29 @@ présentant une difficulté sérieuse et se posant dans de nombreux litiges.
 
 ###### Article L441-2
 
-La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président ou, en cas
-d'empêchement, par le président de chambre le plus ancien.
+La chambre compétente de la Cour de cassation se prononce sur la demande d'avis. 
+
+Lorsque la demande relève normalement des attributions de plusieurs chambres, elle est portée devant une formation mixte pour
+avis. 
+
+Lorsque la demande pose une question de principe, elle est portée devant la formation plénière pour avis. 
+
+La formation mixte et la formation plénière pour avis sont présidées par le premier président ou, en cas d'empêchement, par
+le doyen des présidents de chambre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2, alinéa 1 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
 
 	**Cité par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-1 (M)
+	  - Code de l'organisation judiciaire - art. L432-1 (V)
 
 
 ###### Article L441-3
@@ -4328,6 +4411,8 @@ en Conseil d'Etat.
 ### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION
 
 #### Chapitre unique
+
+#### Chapitre Ier : Révision et réexamen en matière pénale
 
 ###### Article L451-1
 
@@ -4928,13 +5013,13 @@ A Wallis-et-Futuna, la juridiction du premier degré est dénommée tribunal de 
 
 ###### Article L532-2
 
-Les dispositions des articles L. 211-10, L. 211-12 et L. 211-15 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 	**Cite**:
 
@@ -5625,21 +5710,18 @@ Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modif
 ###### Article L532-25
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables à
-Wallis-et-Futuna.
+Wallis-et-Futuna, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547 du
+18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc WF (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ###### Article L532-26
@@ -5791,13 +5873,13 @@ En Polynésie française, la juridiction du premier degré est dénommée tribun
 
 ###### Article L552-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Polynésie française.
+Les articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ###### Article L552-3
@@ -6474,21 +6556,18 @@ Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modif
 ###### Article L552-19
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
-Polynésie française.
+Polynésie française, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547
+du 18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc PF (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ##### Section 5 : La cour d'assises
@@ -6620,18 +6699,18 @@ En Nouvelle-Calédonie, la juridiction du premier degré est dénommée tribunal
 
 ###### Article L562-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Nouvelle-Calédonie.
+Les articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. L211-10 (V)
-	  - Code de l'organisation judiciaire - art. L211-12 (V)
+	  - Code de l'organisation judiciaire - art. L211-10
+	  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article L562-3
@@ -7543,21 +7622,18 @@ Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modif
 ###### Article L562-35
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
-Nouvelle-Calédonie.
+Nouvelle-Calédonie, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547 du
+18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+	  - Ordonnance n°2006-673 du 8 juin 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc NC (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ##### Section 5 : La cour d'assises
