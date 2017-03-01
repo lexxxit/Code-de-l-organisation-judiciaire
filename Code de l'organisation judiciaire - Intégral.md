@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-02-26
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -5996,23 +5996,13 @@ Polynésie française.
 
 Lorsque le tribunal de première instance statue en matière foncière, il est dénommé tribunal foncier. 
 
-Il statue dans une formation présidée par un magistrat du siège et comprenant, en outre, deux assesseurs. 
-
-Sans préjudice de l'article L. 122-2, il statue au vu des conclusions des parties et de celles du commissaire du Gouvernement
-de la Polynésie française. 
-
-Un décret en Conseil d'Etat détermine les conditions de désignation et les attributions du commissaire du Gouvernement de la
-Polynésie française, dans le respect du principe du contradictoire.
+Il statue dans une formation présidée par un magistrat du siège et comprenant, en outre, deux assesseurs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-177 du 16 février 2015 - art. 23
-
-	**Cite**:
-
-	  - Code de l'organisation judiciaire - art. L122-2
+	  - Loi n°2017-256 du 28 février 2017 - art. 111
 
 
 ###### Article L552-9-2
@@ -6752,6 +6742,32 @@ Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale
 	**Anciens textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéas 1 et 2 (Ab)
+
+
+###### Article L562-6-1
+
+Sans préjudice de l'article L. 121-4, en cas de surcharge d'activité et d'impossibilité manifeste pour la juridiction d'y
+faire face dans les délais prescrits par la loi ou le règlement, et à la demande du premier président de la cour d'appel de
+Nouméa, un ou plusieurs magistrats du siège désignés par le premier président de la cour d'appel de Paris sur une liste
+arrêtée par lui pour chaque année civile peuvent compléter les effectifs de la juridiction pendant une période ne pouvant
+excéder trois mois. 
+
+Lorsque la venue du ou des magistrats ainsi désignés n'est pas matériellement possible soit dans les délais prescrits par la
+loi ou le règlement, soit dans les délais exigés par la nature de l'affaire, les magistrats participent à l'audience et au
+délibéré du tribunal depuis un point du territoire de la République relié, en direct, à la salle d'audience, par un moyen de
+communication audiovisuelle. 
+
+Les modalités d'application du deuxième alinéa du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 89
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L121-4 (V)
 
 
 ###### Article L562-7
