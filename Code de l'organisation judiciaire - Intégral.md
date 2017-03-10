@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-11
 
 # Partie législative
 
@@ -3330,6 +3330,20 @@ et des experts en diagnostic d'entreprise.
 	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+##### Section 6 : Dispositions particulières au premier président de certaines cours d'appel
+
+###### Article L311-17
+
+Le premier président d'une cour d'appel spécialement désignée connaît  des recours contre les décisions relatives à la
+protection du secret des  affaires dans les cas et conditions prévus par le code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-303 du 9 mars 2017 - art. 11
 
 
 #### Chapitre II : Organisation et fonctionnement
@@ -15242,6 +15256,20 @@ et des experts en diagnostic d'entreprise.
 	**Créé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+
+
+##### Section 6 : Dispositions particulières au premier président de certaines cours d'appel
+
+###### Article D311-13
+
+Le premier président de la cour d'appel de Paris connaît des recours contre les décisions relatives à la protection du secret
+des affaires dans les cas et conditions prévus par le code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 5
 
 
 #### Chapitre II : Organisation et fonctionnement
