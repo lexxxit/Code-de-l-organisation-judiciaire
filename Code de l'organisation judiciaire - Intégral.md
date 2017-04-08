@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-03-27
+Version Consolidée au 2017-04-09
 
 # Partie législative
 
@@ -8513,19 +8513,27 @@ spécialisé, il recueille au préalable l'avis de ce magistrat.
 Selon les besoins du service, les agents des greffes peuvent être délégués dans les services d'une autre juridiction du
 ressort de la même cour d'appel.
 
-Cette délégation est prononcée par décision du premier président de la cour d'appel et du procureur général près cette cour.
-Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler dans
-la limite d'une durée totale de huit mois. Dans les départements d'outre-mer, elle ne peut excéder une durée de six mois.
-Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler ou lui assigner une durée supérieure.
+Cette délégation est prononcée par décision du premier président de la cour d'appel et du procureur général près cette cour
+après consultation, selon le cas, du président du tribunal de grande instance, du magistrat chargé de la direction et de
+l'administration du tribunal d'instance, du procureur de la République et du directeur de greffe de la juridiction
+d'affectation de l'agent. Elle ne peut excéder une durée de quatre mois.
+
+Lorsque l'agent est délégué dans les services d'une autre juridiction ayant son siège dans le ressort du même tribunal de
+grande instance, les chefs de cour peuvent renouveler la délégation pour des durées qui ne peuvent excéder quatre mois, sans
+que la durée totale de la délégation n'excède douze mois.
+
+Lorsque l'agent est délégué dans les services d'une juridiction ayant son siège dans le ressort d'un autre tribunal de grande
+instance, les chefs de cour peuvent renouveler la délégation pour une durée qui ne peut excéder deux mois. La délégation peut
+être de nouveau renouvelée, pour des durées qui ne peuvent excéder deux mois, par décision du garde des sceaux, ministre de
+la justice, sans que la durée totale de la délégation n'excède douze mois.
+
+Un bilan annuel écrit des délégations prononcées au sein du ressort de la cour d'appel est présenté au comité technique de
+service déconcentré placé auprès du premier président de cette cour.
 
 Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que les fonctionnaires de
 leur catégorie et suivant les mêmes taux.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 	**Cité par**:
 
@@ -8534,10 +8542,9 @@ leur catégorie et suivant les mêmes taux.
 	  - Code de l'organisation judiciaire - art. R551-1 (V)
 	  - Code de l'organisation judiciaire - art. R561-1 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-17 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-13 (Ab)
+	  - Décret n°2017-501 du 6 avril 2017 - art. 1
 
 
 ###### Article R123-18
@@ -10029,6 +10036,26 @@ Un tribunal de grande instance peut comporter un ou plusieurs greffes détachés
 	**Créé par**:
 
 	  - Décret n°2014-899 du 18 août 2014 - art. 2
+
+
+###### Article R212-17-3
+
+Selon les besoins du service, les agents du greffe du tribunal de grande instance peuvent être délégués dans les services
+d'un greffe détaché de ce tribunal.
+
+Cette délégation est prononcée par décision du président du tribunal de grande instance et du procureur de la République près
+ce tribunal, après consultation du directeur de greffe. Elle ne peut excéder une durée de quatre mois, renouvelable une fois.
+Les agents délégués dans les services du greffe détaché du tribunal de grande instance perçoivent les indemnités dans les
+mêmes conditions que les fonctionnaires de leur catégorie et suivant les mêmes taux.
+
+Les agents du greffe détaché peuvent, dans les mêmes conditions, être délégués dans les services du greffe du tribunal de
+grande instance ou d'un autre greffe détaché de ce tribunal, qui lui est limitrophe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-501 du 6 avril 2017 - art. 1
 
 
 ##### Section 4 : Les chambres détachées
