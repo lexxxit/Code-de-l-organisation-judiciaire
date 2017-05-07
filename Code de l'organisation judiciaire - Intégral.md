@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-08
 
 # Partie législative
 
@@ -8889,28 +8889,21 @@ e) Le bâtonnier de l'ordre des avocats ;
 f) Une ou plusieurs associations œuvrant dans le domaine de la prévention de la délinquance, de l'aide aux victimes ou de
 l'accès au droit ;
 
-g) Le cas échéant, le président du conseil départemental d'accès au droit.
+g) Le cas échéant, le président du conseil départemental de l'accès au droit ou en cas d'absence ou d'empêchement du
+président, le vice-président du conseil départemental de l'accès au droit.
 
 D'autres collectivités territoriales et d'autres personnes morales intéressées par les missions de la maison de justice et du
 droit peuvent également être signataires de cette convention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-12-1-2 (Ab)
+	  - Décret n°2017-822 du 5 mai 2017 - art. 2
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-6 (V)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-12 (V)
 
 
 ###### Article R131-4
@@ -9025,18 +9018,15 @@ intérieur de celle-ci.
 
 Le conseil se réunit au moins une fois par an. Il peut entendre toute personne dont il juge l'audition utile.
 
-Il élabore annuellement un rapport général d'activité adressé au premier président de la cour d'appel et au procureur général
+Il élabore annuellement un rapport général d'activité adressé au conseil départemental de l'accès au droit dans le ressort
+duquel est située la maison de justice et du droit, ainsi qu' au premier président de la cour d'appel et au procureur général
 près cette cour, qui en assurent la transmission au garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-12-1-7 (Ab)
+	  - Décret n°2017-822 du 5 mai 2017 - art. 3
 
 
 ###### Article R131-9
