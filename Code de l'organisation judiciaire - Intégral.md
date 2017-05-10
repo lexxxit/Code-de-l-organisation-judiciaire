@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -8756,6 +8756,97 @@ une indemnité de responsabilité.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-24 (V)
 
 
+##### Section 4 : Le service d'accueil unique du justiciable 
+
+###### Article R123-26
+
+La liste des juridictions dans lesquelles est implanté un service d'accueil unique du justiciable est fixée par arrêté du
+garde des sceaux, ministre de la justice, conformément au tableau IV-I annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-897 du 9 mai 2017 - art. 1
+
+
+###### Article R123-27
+
+Les agents de greffe affectés dans un service d'accueil unique du justiciable sont désignés par le directeur de greffe
+conformément aux dispositions de l'article R. 123-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-897 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R123-16 (V)
+
+
+###### Article R123-28
+
+Les agents de greffe du service d'accueil unique du justiciable peuvent assurer la réception et la transmission : 
+
+1° En matière civile et prud'homale, lorsque la représentation n'est pas obligatoire : 
+
+a) Des déclarations faites, remises ou adressées au greffe et des requêtes, à l'exclusion des requêtes en injonction de
+payer ; 
+
+b) Des oppositions à injonction de payer ; 
+
+c) Des demandes de délivrance de copie certifiée conforme, d'un extrait et d'une copie certifiée conforme revêtue de la
+formule exécutoire ; 
+
+2° En matière pénale : 
+
+a) Des plaintes déposées auprès du procureur de la République ; 
+
+b) Des demandes en consultation ou en exclusion du bulletin n° 2 du casier judiciaire ; 
+
+c) Des requêtes en confusion de peines, en relèvement ou en rectification d'erreur matérielle ; 
+
+d) Des demandes de copie de décision pénale : 
+
+3° En matière d'aide juridictionnelle, des demandes d'aide juridictionnelle dans les conditions prévues aux articles 26 et
+132-9 du décret n° 91-1266 du 19 décembre 1991 portant application de la loi n° 91-647 du 10 juillet 1991 relative à l'aide
+juridique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 132-9 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 26 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-897 du 9 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R551-2 (V)
+	  - Code de l'organisation judiciaire - art. R561-2 (V)
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+	  - Code du travail - art. R1423-50-1 (V)
+
+
+###### Article R123-29
+
+Les agents de greffe affectés dans un service d'accueil unique du justiciable reçoivent les actes de procédure et
+accomplissent les diligences mentionnés à l'article R. 123-28 pour le compte du tribunal de grande instance dans le ressort
+duquel le service d'accueil unique du justiciable est implanté ou de tout tribunal d'instance ou conseil des prud'hommes
+situé dans le même ressort.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-897 du 9 mai 2017 - art. 1
+
+
 #### Chapitre IV : Siège et ressort des juridictions
 
 ###### Article R124-1
@@ -9211,34 +9302,34 @@ statue en dernier ressort lorsque le montant de la demande est inférieur ou ég
 ###### Article R211-4
 
 Le tribunal de grande instance a compétence exclusive dans les matières déterminées par les lois et règlements, au nombre
-desquelles figurent les matières suivantes : 
+desquelles figurent les matières suivantes :
 
-1° Etat des personnes : mariage, filiation, adoption, déclaration d'absence ; 
+1° Etat des personnes : mariage, filiation, adoption, déclaration d'absence ;
 
-2° Rectification des actes d'état civil ; 
+2° Rectification des actes d'état civil ;
 
-3° Successions ; 
+3° Successions ;
 
 4° Amendes civiles encourues par les officiers de l'état civil ;
 
-5° Actions immobilières pétitoires et possessoires ; 
+5° Actions immobilières pétitoires ;
 
-6° Récompenses industrielles ; 
+6° Récompenses industrielles ;
 
-7° Dissolution des associations ; 
+7° Dissolution des associations ;
 
 8° Sauvegarde, redressement judiciaire et liquidation judiciaire lorsque le débiteur n'est ni commerçant ni immatriculé au
-répertoire des métiers ; 
+répertoire des métiers ;
 
-9° Assurance contre les accidents et les maladies professionnelles des personnes non salariées en agriculture ; 
+9° Assurance contre les accidents et les maladies professionnelles des personnes non salariées en agriculture ;
 
 10° Droits d'enregistrement, taxe de publicité foncière, droits de timbre et contributions indirectes et taxes assimilées à
-ces droits, taxes ou contributions ; 
+ces droits, taxes ou contributions ;
 
 11° Baux commerciaux à l'exception des contestations relatives à la fixation du prix du bail révisé ou renouvelé, baux
-professionnels et conventions d'occupation précaire en matière commerciale ; 
+professionnels et conventions d'occupation précaire en matière commerciale ;
 
-12° Inscription de faux contre les actes authentiques ; 
+12° Inscription de faux contre les actes authentiques ;
 
 13° Actions civiles pour diffamation ou pour injures publiques ou non publiques, verbales ou écrites ;
 
@@ -9249,7 +9340,7 @@ l'administration des douanes et les autres affaires de douanes, dans les cas et 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 11
+	  - Décret n°2017-892 du 6 mai 2017 - art. 30
 
 	**Cite**:
 
@@ -11617,18 +11708,19 @@ Les décisions relatives au renvoi à la formation collégiale sont des mesures 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13, ecqc JEX (Ab)
 
 
-##### Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction
+##### Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction  et des commissions rogatoires en provenance de l'étranger
 
 ###### Article R213-12-1
 
 Le président du tribunal de grande instance désigne un ou plusieurs juges chargés de contrôler l'exécution des mesures
-d'instruction conformément aux dispositions de l'article L. 121-3.
+d'instruction et l'exécution des commissions rogatoires en provenance de l'étranger conformément aux dispositions de
+l'article L. 121-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 17
 
 	**Cite**:
 
@@ -12721,18 +12813,14 @@ non professionnels prévu à l'article L. 333-4 du code de la consommation.
 Le tribunal d'instance connaît des demandes incidentes ou moyens de défense qui ne soulèvent pas une question relevant de la
 compétence exclusive d'une autre juridiction.
 
-Si le moyen de défense implique l'examen d'une question de nature immobilière pétitoire ou possessoire, le tribunal
-d'instance se prononce à charge d'appel.
+Si le moyen de défense implique l'examen d'une question de nature immobilière pétitoire, le tribunal d'instance se prononce à
+charge d'appel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-22 (Ab)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 30
 
 
 ##### Sous-section 2 : Compétence du juge du tribunal d'instance
@@ -14410,22 +14498,14 @@ locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.
 La juridiction de proximité connaît des demandes incidentes ou moyens de défense qui ne soulèvent pas une question relevant
 de la compétence exclusive d'une autre juridiction.
 
-Toutefois, si le moyen de défense implique l'examen d'une question de nature immobilière pétitoire ou possessoire, la
-juridiction de proximité doit relever son incompétence au profit du tribunal de grande instance.
+Toutefois, si le moyen de défense implique l'examen d'une question de nature immobilière pétitoire, la juridiction de
+proximité doit relever son incompétence au profit du tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-683 du 28 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-2 (Ab)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 30
 
 
 ##### Section 2 : Compétence territoriale
@@ -15226,21 +15306,24 @@ tableau XVI annexé au présent code.
 
 ###### Article D311-9
 
-La cour d'appel de Paris est compétente pour connaître des recours contre : 
+La cour d'appel de Paris est compétente pour connaître des recours contre :
 
-1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ; 
+1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ;
 
 2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
-monétaire et financier ; 
+monétaire et financier ;
 
 3° Les décisions du Comité de la protection des obtentions végétales, dans les cas et conditions prévus par le code de la
-propriété intellectuelle ; 
+propriété intellectuelle ;
 
 4° Les décisions prises par l'Autorité de régulation des communications électroniques et des postes, dans les cas et
-conditions prévus par le code des postes et des communications électroniques ; 
+conditions prévus par le code des postes et des communications électroniques ;
 
 5° Les décisions prises par l'Autorité de régulation de la distribution de la presse et le Conseil supérieur des messageries
-de presse au titre des articles 18-12,18-12-1 et 18-13 de la loi n° 47-585 du 2 avril 1947.
+de presse au titre des articles 18-12,18-12-1 et 18-13 de la loi n° 47-585 du 2 avril 1947 ;
+
+6° Les décisions prononcées par le collège des sanctions de la commission de contrôle des organismes de gestion des droits
+d'auteur et des droits voisins dans les cas et conditions prévues par le code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
@@ -15255,7 +15338,7 @@ de presse au titre des articles 18-12,18-12-1 et 18-13 de la loi n° 47-585 du 2
 
 	**Modifié par**:
 
-	  - Décret n°2015-1468 du 10 novembre 2015 - art. 6
+	  - Décret n°2017-924 du 6 mai 2017 - art. 7
 
 
 ###### Article D311-10
@@ -18895,8 +18978,8 @@ Les dispositions relatives au service administratif régional ne sont pas applic
 ###### Article R531-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna dans sa rédaction résultant du décret
-n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
-123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12. 
+n° 2017-897 du 9 mai 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
 
 Les dispositions de l'article R. 121-1 sont applicables à Wallis-et-Futuna dans sa rédaction résultant du décret n° 2008-522
 du 2 juin 2008.
@@ -18910,7 +18993,7 @@ du 2 juin 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2017-683 du 28 avril 2017 - art. 4
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
 
 	**Cite**:
 
@@ -18931,25 +19014,23 @@ du 2 juin 2008.
 
 Pour l'application des dispositions étendues par le présent titre à Wallis-et-Futuna, il y a lieu de lire :
 
-1° « tribunal de première instance » à la place de « tribunal de grande instance » et de « tribunal d'instance » ;
+1° " tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
 
-2° « tribunal du travail » à la place de « conseil de prud'hommes » ;
+2° " tribunal du travail " à la place de " conseil de prud'hommes " ;
 
-3° « directeur de greffe de la cour d'appel ou fonctionnaire responsable du greffe du tribunal de première instance » à la
-place de « directeur de greffe » ;
+3° " directeur de greffe de la cour d'appel ou fonctionnaire responsable du greffe du tribunal de première instance " à la
+place de " directeur de greffe " ;
 
-4° « administrateur supérieur » à la place de « préfet ».
+4° " administrateur supérieur " à la place de " préfet " .
+
+Pour l'application à Wallis-et-Futuna de l'article R. 123-28, les mots : " prud'homale " sont remplacés par les mots : " de
+juridictions du travail ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-1 ecqc WF (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 2, ecqc WF (Ab)
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
 
 
 #### Chapitre II : Des juridictions
@@ -19540,14 +19621,14 @@ australes et antarctiques françaises.
 ###### Article R551-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Polynésie française dans sa rédaction résultant du
-décret n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9,
-R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
+décret n° 2017-897 du 9 mai 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-683 du 28 avril 2017 - art. 4
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
 
 	**Cite**:
 
@@ -19565,27 +19646,29 @@ R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et 
 
 ###### Article R551-2
 
-Pour l'application des dispositions étendues par le présent titre en Polynésie française, il y a lieu de lire :
+Pour l'application des dispositions étendues par le présent titre en Polynésie française, il y a lieu de lire : 
 
-1° « tribunal de première instance » à la place de « tribunal de grande instance » et de « tribunal d'instance » ;
+1° " tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ; 
 
-2° « tribunal du travail » à la place de « conseil de prud'hommes » ;
+2° " tribunal du travail " à la place de " conseil de prud'hommes " ; 
 
-3° « directeur de greffe de la cour d'appel ou fonctionnaire responsable du greffe du tribunal de première instance » à la
-place de « directeur de greffe » ;
+3° " directeur de greffe de la cour d'appel ou fonctionnaire responsable du greffe du tribunal de première instance " à la
+place de " directeur de greffe " ; 
 
-4° « haut-commissaire de la République » à la place de « préfet ».
+4° " haut-commissaire de la République " à la place de " préfet ". 
+
+Pour l'application en Polynésie française de l'article R. 123-28, les mots : " prud'homale " sont remplacés par les mots : "
+de juridictions du travail ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-1 ecqc PF (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 2, ecqc PF (Ab)
+	  - Code de l'organisation judiciaire - art. R123-28 (V)
 
 
 #### Chapitre  II : Des juridictions
@@ -20397,8 +20480,8 @@ entre les services du siège et ceux du parquet.
 ###### Article R561-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du
-décret n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9,
-R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
+décret n° 2017-897 du 9 mai 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
 
 **Liens relatifs à cet article**
 
@@ -20417,26 +20500,33 @@ R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
 
 	**Modifié par**:
 
-	  - Décret n°2017-683 du 28 avril 2017 - art. 4
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
 
 
 ###### Article R561-2
 
-Pour l'application des dispositions étendues par le présent titre en Nouvelle-Calédonie, il y a lieu de lire :
+Pour l'application des dispositions étendues par le présent titre en Nouvelle-Calédonie, il y a lieu de lire : 
 
-1° "tribunal de première instance" à la place de "tribunal de grande instance" et de "tribunal d'instance" ;
+1° " tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ; 
 
-2° "tribunal du travail" à la place de "conseil des prud'hommes" ;
+2° " tribunal du travail " à la place de " conseil des prud'hommes " ; 
 
-3° Supprimé ;
+3° Supprimé ; 
 
-4° "haut-commissaire de la République" à la place de "préfet".
+4° " haut-commissaire de la République " à la place de " préfet ". 
+
+Pour l'application en Nouvelle-Calédonie de l'article R. 123-28, les mots : “ prud'homale ” sont remplacés par les mots : “
+de juridictions du travail ”.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-579 du 25 mai 2011 - art. 2
+	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. R123-28 (V)
 
 
 #### Chapitre II : Des juridictions
@@ -22396,7 +22486,7 @@ Tribunal de grande instance de Paris.
 
 ###### Article Annexe Tableau III
 
-Liste des maisons de justice et du droit 
+Liste des maisons de justice et du droit
 
 (annexe de l'article R. 131-11)
 
@@ -22415,9 +22505,9 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel d'Aix-en-Provence
 
 </td>
     </tr>
@@ -22443,9 +22533,7 @@ Menton, Nice (Ariane).
     <tr>
       <td colspan="2" align="center">
 
-Bouches-du-Rhône
-
-</td>
+Bouches-du-Rhône</td>
     </tr>
     <tr>
       <td align="center">
@@ -22484,11 +22572,9 @@ Arles
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Var
-
-</td>
+Var</td>
     </tr>
     <tr>
       <td align="center">
@@ -22505,21 +22591,17 @@ La Seyne-sur-Mer, Toulon.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel d'Amiens
-
-</td>
+Cour d'appel d'Amiens</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Oise
-
-</td>
+Oise</td>
     </tr>
     <tr>
       <td align="center">
 
-Beauvais 
+Beauvais
 
 </td>
       <td align="center">
@@ -22531,7 +22613,7 @@ Méru/Vexin-Thelle-Sablons.
     <tr>
       <td align="center">
 
-Compiègne 
+Compiègne
 
 </td>
       <td align="center">
@@ -22553,11 +22635,9 @@ Creil.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Somme
-
-</td>
+Somme</td>
     </tr>
     <tr>
       <td align="center">
@@ -22572,9 +22652,9 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel d'Angers 
+Cour d'appel d'Angers
 
 Maine-et-Loire
 
@@ -22593,11 +22673,9 @@ Angers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Sarthe
-
-</td>
+Sarthe</td>
     </tr>
     <tr>
       <td align="center">
@@ -22614,9 +22692,9 @@ Allonnes.
     <tr>
       <td colspan="2">
 
-Cour d'appel de Basse-Terre  
+Cour d'appel de Basse-Terre
 
-Guadeloupe 
+Guadeloupe
 
 </td>
     </tr>
@@ -22626,9 +22704,7 @@ Guadeloupe
 Pointe-à-Pitre
 
 </td>
-      <td>Les Abymes 
-
-</td>
+      <td>Les Abymes</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -22652,9 +22728,9 @@ Porto-Vecchio.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Bordeaux
 
 Charente
 
@@ -22675,9 +22751,7 @@ Angoulême.
     <tr>
       <td colspan="2" align="center">
 
-Dordogne
-
-</td>
+Dordogne</td>
     </tr>
     <tr>
       <td align="center">
@@ -22694,9 +22768,7 @@ Bergerac.
     <tr>
       <td align="center" colspan="2">
 
-Gironde
-
-</td>
+Gironde</td>
     </tr>
     <tr>
       <td align="center">
@@ -22713,7 +22785,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Bourges 
+Cour d'appel de Bourges
 
 Cher
 
@@ -22734,7 +22806,7 @@ Vierzon.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Caen 
+Cour d'appel de Caen
 
 Calvados
 
@@ -22793,9 +22865,9 @@ Saint-Laurent-du-Maroni.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Chambéry 
+Cour d'appel de Chambéry
 
 Haute-Savoie
 
@@ -22816,9 +22888,7 @@ Annemasse, Saint-Julien-en-Genevois.
     <tr>
       <td align="center" colspan="2">
 
-Savoie
-
-</td>
+Savoie</td>
     </tr>
     <tr>
       <td align="center">
@@ -22847,7 +22917,7 @@ Aix-les-Bains, Chambéry.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Colmar 
+Cour d'appel de Colmar
 
 Bas-Rhin
 
@@ -22866,11 +22936,9 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Haut-Rhin
-
-</td>
+Haut-Rhin</td>
     </tr>
     <tr>
       <td align="center">
@@ -22899,7 +22967,7 @@ Mulhouse.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Dijon 
+Cour d'appel de Dijon
 
 Côte-d'Or
 
@@ -22918,18 +22986,16 @@ Chenôve.
 </td>
     </tr>
     <tr>
-      <td colspan="2">Haute-Marne </td>
+      <td colspan="2">Haute-Marne</td>
     </tr>
     <tr>
-      <td>Chaumont </td>
-      <td>Saint-Dizier. </td>
+      <td>Chaumont</td>
+      <td>Saint-Dizier.</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Saône-et-Loire
-
-</td>
+Saône-et-Loire</td>
     </tr>
     <tr>
       <td align="center">
@@ -22956,9 +23022,9 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Douai 
+Cour d'appel de Douai
 
 Nord
 
@@ -23001,11 +23067,9 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Pas-de-Calais
-
-</td>
+Pas-de-Calais</td>
     </tr>
     <tr>
       <td align="center">
@@ -23044,7 +23108,7 @@ Calais.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France
 
@@ -23065,9 +23129,9 @@ Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Grenoble 
+Cour d'appel de Grenoble
 
 Drôme
 
@@ -23088,7 +23152,7 @@ Romans-sur-Isère.
     <tr>
       <td colspan="2">
 
-Hautes-Alpes 
+Hautes-Alpes
 
 </td>
     </tr>
@@ -23105,11 +23169,9 @@ Briançon
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Isère
-
-</td>
+Isère</td>
     </tr>
     <tr>
       <td align="center">
@@ -23136,9 +23198,9 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Limoges 
+Cour d'appel de Limoges
 
 Corrèze
 
@@ -23157,11 +23219,9 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Haute-Vienne
-
-</td>
+Haute-Vienne</td>
     </tr>
     <tr>
       <td align="center">
@@ -23176,9 +23236,9 @@ Limoges.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Lyon 
+Cour d'appel de Lyon
 
 Ain
 
@@ -23218,9 +23278,7 @@ Saint-Etienne.
     <tr>
       <td align="center" colspan="2">
 
-Rhône
-
-</td>
+Rhône</td>
     </tr>
     <tr>
       <td align="center">
@@ -23237,7 +23295,7 @@ Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Metz 
+Cour d'appel de Metz
 
 Moselle
 
@@ -23268,9 +23326,13 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>Thionville</td>
+      <td>Hayange (Val de Fensch).</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
-Cour d'appel de Montpellier 
+Cour d'appel de Montpellier
 
 Aude
 
@@ -23289,11 +23351,9 @@ Narbonne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Hérault
-
-</td>
+Hérault</td>
     </tr>
     <tr>
       <td align="center">
@@ -23320,9 +23380,9 @@ Lodève, Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Nancy 
+Cour d'appel de Nancy
 
 Meurthe-et-Moselle
 
@@ -23343,7 +23403,7 @@ Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Nîmes 
+Cour d'appel de Nîmes
 
 Gard
 
@@ -23362,9 +23422,9 @@ Bagnols-sur-Cèze, Nîmes, Vauvert.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel d'Orléans 
+Cour d'appel d'Orléans
 
 Indre-et-Loire
 
@@ -23383,11 +23443,9 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Loir-et-Cher
-
-</td>
+Loir-et-Cher</td>
     </tr>
     <tr>
       <td align="center">
@@ -23404,9 +23462,7 @@ Blois.
     <tr>
       <td colspan="2" align="center">
 
-Loiret
-
-</td>
+Loiret</td>
     </tr>
     <tr>
       <td align="center">
@@ -23423,7 +23479,7 @@ Orléans.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Paris 
+Cour d'appel de Paris
 
 Essonne
 
@@ -23444,9 +23500,7 @@ Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
     <tr>
       <td align="center" colspan="2">
 
-Paris
-
-</td>
+Paris</td>
     </tr>
     <tr>
       <td align="center">
@@ -23463,9 +23517,7 @@ Paris (10e), Paris (14e), Paris (17e).
     <tr>
       <td align="center" colspan="2">
 
-Seine-et-Marne
-
-</td>
+Seine-et-Marne</td>
     </tr>
     <tr>
       <td align="center">
@@ -23492,11 +23544,9 @@ Pontault-Combault, Savigny-le-Temple.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Seine-Saint-Denis
-
-</td>
+Seine-Saint-Denis</td>
     </tr>
     <tr>
       <td align="center">
@@ -23513,9 +23563,7 @@ Aubervilliers, Clichy-sous-Bois, Montfermeil, Epinay-sur-Seine, La Courneuve, Le
     <tr>
       <td align="center" colspan="2">
 
-Val-de-Marne
-
-</td>
+Val-de-Marne</td>
     </tr>
     <tr>
       <td align="center">
@@ -23532,7 +23580,7 @@ Champigny-sur-Marne, Val de Bièvre.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Poitiers 
+Cour d'appel de Poitiers
 
 Charente-Maritime
 
@@ -23553,7 +23601,7 @@ La Rochelle.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Reims 
+Cour d'appel de Reims
 
 Ardennes
 
@@ -23572,11 +23620,9 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Aube
-
-</td>
+Aube</td>
     </tr>
     <tr>
       <td align="center">
@@ -23593,9 +23639,7 @@ Romilly-sur-Seine, Troyes.
     <tr>
       <td align="center" colspan="2">
 
-Marne
-
-</td>
+Marne</td>
     </tr>
     <tr>
       <td align="center">
@@ -23612,7 +23656,7 @@ Reims.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Rennes 
+Cour d'appel de Rennes
 
 Côtes-d'Armor
 
@@ -23633,9 +23677,7 @@ Lannion, Loudéac
     <tr>
       <td align="center" colspan="2">
 
-Loire-Atlantique
-
-</td>
+Loire-Atlantique</td>
     </tr>
     <tr>
       <td align="center">
@@ -23650,16 +23692,16 @@ Nantes, Nantes-Rezé, Châteaubriant.
 </td>
     </tr>
     <tr>
-      <td colspan="2">Morbihan </td>
+      <td colspan="2">Morbihan</td>
     </tr>
     <tr>
-      <td>Lorient </td>
-      <td>Pontivy. </td>
+      <td>Lorient</td>
+      <td>Pontivy.</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Riom 
+Cour d'appel de Riom
 
 Allier
 
@@ -23678,9 +23720,9 @@ Montluçon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Rouen 
+Cour d'appel de Rouen
 
 Eure
 
@@ -23723,11 +23765,9 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Seine-Maritime
-
-</td>
+Seine-Maritime</td>
     </tr>
     <tr>
       <td align="center">
@@ -23754,9 +23794,9 @@ Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Toulouse 
+Cour d'appel de Toulouse
 
 Haute-Garonne
 
@@ -23775,11 +23815,9 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Tarn
-
-</td>
+Tarn</td>
     </tr>
     <tr>
       <td align="center">
@@ -23794,9 +23832,9 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Versailles 
+Cour d'appel de Versailles
 
 Eure-et-Loir
 
@@ -23815,11 +23853,9 @@ Dreux, Nogent-le-Rotrou.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Hauts-de-Seine
-
-</td>
+Hauts-de-Seine</td>
     </tr>
     <tr>
       <td align="center">
@@ -23836,9 +23872,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
     <tr>
       <td align="center" colspan="2">
 
-Val-d'Oise
-
-</td>
+Val-d'Oise</td>
     </tr>
     <tr>
       <td align="center">
@@ -23853,11 +23887,9 @@ Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Vill
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Yvelines
-
-</td>
+Yvelines</td>
     </tr>
     <tr>
       <td align="center">
@@ -23874,7 +23906,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
     <tr>
       <td colspan="2">
 
-(3) Applicable jusqu'au 31 décembre 2010. 
+(3) Applicable jusqu'au 31 décembre 2010.
 
 (4) Applicable à compter du 1er janvier 2011.
 
@@ -23887,7 +23919,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 	**Modifié par**:
 
-	  - Arrêté du 16 février 2017 - art.
+	  - Arrêté du 28 avril 2017 - art.
 
 
 ###### Article Annexe Tableau IV
