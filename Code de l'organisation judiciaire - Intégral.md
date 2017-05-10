@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-11 00:00:01 +0200
 
 # Partie législative
 
@@ -18979,7 +18979,7 @@ Les dispositions relatives au service administratif régional ne sont pas applic
 
 Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna dans sa rédaction résultant du décret
 n° 2017-897 du 9 mai 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
-123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
 
 Les dispositions de l'article R. 121-1 sont applicables à Wallis-et-Futuna dans sa rédaction résultant du décret n° 2008-522
 du 2 juin 2008.
@@ -18993,7 +18993,7 @@ du 2 juin 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 71
 
 	**Cite**:
 
@@ -19622,13 +19622,13 @@ australes et antarctiques françaises.
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Polynésie française dans sa rédaction résultant du
 décret n° 2017-897 du 9 mai 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
-123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-897 du 9 mai 2017 - art. 5 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 71
 
 	**Cite**:
 
