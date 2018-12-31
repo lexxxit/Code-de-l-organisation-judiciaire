@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-01-01
 
 # Partie législative
 
@@ -1104,6 +1104,38 @@ numérotation.
 	  - Code de l'organisation judiciaire - art. R213-5-1 (V)
 
 
+##### Section 2 : Compétence territoriale
+
+
+###### Article L211-16
+
+Des tribunaux de grande instance spécialement désignés connaissent : 
+
+1° Des litiges relevant du contentieux général de la sécurité sociale défini à l'article L. 142-1 du code de la sécurité
+sociale ; 
+
+2° Des litiges relevant du contentieux technique de la sécurité sociale défini à l'article L. 142-2 du même code, à
+l'exception de ceux mentionnés au 4° du même article ; 
+
+3° Des litiges relevant de l'admission à l'aide sociale mentionnés à l'article L. 134-3 du code de l'action sociale et des
+familles et des litiges relatifs aux décisions mentionnées aux articles L. 861-5 et L. 863-3 du code de la sécurité
+sociale ; 
+
+4° Des litiges relevant de l'application de l'article L. 4162-13 du code du travail.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
 #### Chapitre II : Organisation et fonctionnement
 
 ##### Section 1 : Le service juridictionnel
@@ -1800,6 +1832,283 @@ applicables au procureur de la République financier que si elles le prévoient 
 	**Créé par**:
 
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 69
+
+
+#### Chapitre VIII : Dispositions particulières au tribunal de grande instance spécialement désigné au titre de l'article L. 211-16
+
+###### Article L218-1
+
+Lorsqu'elle statue dans les matières mentionnées à l'article L. 211-16, la formation collégiale du tribunal de grande
+instance est composée du président du tribunal de grande instance, ou d'un magistrat du siège désigné par lui pour le
+remplacer, et de deux assesseurs représentant les travailleurs salariés, pour le premier, et les employeurs et les
+travailleurs indépendants, pour le second.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-2
+
+Les assesseurs appartiennent aux professions agricoles lorsque le litige intéresse un membre de ces professions et aux
+professions non agricoles dans le cas contraire.
+
+Lorsque le tribunal est appelé à déterminer si le régime applicable à l'une des parties à l'instance est celui d'une
+profession agricole ou celui d'une profession non agricole, il est composé, outre son président, de deux assesseurs
+représentant les travailleurs salariés, dont l'un appartient à une profession agricole et l'autre à une profession non
+agricole, et de deux assesseurs représentant les employeurs et travailleurs indépendants, dont l'un appartient à une
+profession agricole et l'autre à une profession non agricole.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-3
+
+Les assesseurs sont choisis pour une durée de trois ans par le premier président de la cour d'appel, après avis du président
+du tribunal, sur une liste dressée dans le ressort de chaque tribunal par l'autorité administrative sur proposition des
+organisations professionnelles intéressées les plus représentatives. Leurs fonctions peuvent être renouvelées suivant les
+mêmes formes. En l'absence de liste ou de proposition, le premier président de la cour d'appel peut renouveler les fonctions
+d'un ou de plusieurs assesseurs pour une durée de trois ans.
+
+Des assesseurs suppléants sont désignés dans les mêmes formes.
+
+Une indemnité est allouée aux membres du tribunal pour l'exercice de leurs fonctions.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-4
+
+Les assesseurs titulaires et suppléants doivent être de nationalité française, être âgés de vingt-trois ans au moins, remplir
+les conditions d'aptitude pour être juré fixées aux articles 255 à 257 du code de procédure pénale et n'avoir fait l'objet
+d'aucune condamnation pour une infraction prévue au livre VII du code rural et de la pêche maritime ou au code de la sécurité
+sociale.
+
+Nonobstant le 2° de l'article 257 du code de procédure pénale, la fonction d'assesseur n'est pas incompatible avec celle de
+conseiller prud'homme.
+
+Les membres des conseils ou des conseils d'administration des organismes de sécurité sociale ou de mutualité sociale agricole
+ne peuvent être désignés en qualité d'assesseurs.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-5
+
+Les assesseurs exercent leurs fonctions en toute indépendance, impartialité, dignité et probité et se comportent de façon à
+exclure tout doute légitime à cet égard. Ils s'abstiennent, notamment, de tout acte ou comportement public incompatible avec
+leurs fonctions.
+
+Ils sont tenus au secret des délibérations.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-6
+
+Avant d'entrer en fonctions, les assesseurs prêtent devant le tribunal de grande instance le serment suivant : “Je jure de
+bien et fidèlement remplir mes fonctions, de garder le secret des délibérations et de me conduire en tout comme un assesseur
+digne et loyal”.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-7
+
+Les employeurs sont tenus de laisser à leurs salariés assesseurs d'un tribunal de grande instance mentionné à l'article L.
+211-16 le temps nécessaire à l'exercice de leurs fonctions.
+
+L'exercice des fonctions d'assesseur ne peut être une cause de sanction ou de rupture du contrat de travail. Le licenciement
+d'un assesseur est soumis à la procédure d'autorisation administrative prévue au livre IV de la deuxième partie du code du
+travail pour les conseillers prud'hommes.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-8
+
+Les assesseurs veillent à prévenir ou à faire cesser immédiatement les situations de conflit d'intérêts.
+
+Constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui
+est de nature à influencer ou paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-9
+
+L'assesseur qui, sans motif légitime et après mise en demeure, s'abstient d'assister à une audience peut être déclaré
+démissionnaire par la cour d'appel, à la demande du président du tribunal, après que la cour a entendu ou dûment appelé
+l'assesseur.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-10
+
+En dehors de toute action disciplinaire, le premier président de la cour d'appel peut donner un avertissement aux assesseurs
+des tribunaux de grande instance mentionnés à l'article L. 211-16 situés dans le ressort de la cour, après avoir recueilli
+l'avis du président du tribunal des affaires sociales.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-11
+
+Tout manquement d'un assesseur d'un tribunal de grande instance mentionné à l'article L. 211-16 aux devoirs de son état, à
+l'honneur, à la probité ou à la dignité constitue une faute disciplinaire.
+
+Le pouvoir disciplinaire est exercé par le ministre de la justice. Après audition de l'assesseur par le premier président de
+la cour d'appel dans le ressort de laquelle le tribunal de grande instance a son siège, assisté du président du tribunal, le
+ministre de la justice peut être saisi par le premier président.
+
+Les sanctions disciplinaires applicables sont :
+
+1° Le blâme ;
+
+2° La suspension des fonctions pour une durée maximale de six mois ;
+
+3° La déchéance assortie de l'interdiction d'être désigné assesseur pour une durée maximale de dix ans ;
+
+4° La déchéance assortie de l'interdiction définitive d'être désigné assesseur.
+
+L'assesseur qui, après sa désignation, perd la capacité d'être juré ou est condamné pour une infraction pénale mentionnée au
+premier alinéa de l'article L. 218-4 est déchu de plein droit.
+
+Sur proposition du premier président de la cour d'appel dans le ressort de laquelle le tribunal a son siège, le ministre de
+la justice peut suspendre de ses fonctions un assesseur, préalablement entendu par le premier président, pour une durée
+maximale de six mois, lorsqu'il existe contre l'intéressé des faits de nature à entraîner une sanction disciplinaire.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L218-12
+
+Les assesseurs sont soumis à une obligation de formation initiale dans des conditions fixées par décret.
+
+Tout assesseur qui n'a jamais exercé de mandat ne peut siéger que s'il justifie avoir suivi une formation initiale.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
 
 
 ### TITRE II : LE TRIBUNAL D'INSTANCE
@@ -2622,20 +2931,24 @@ de l'expropriation ;
 
 6° Au code rural et de la pêche maritime en ce qui concerne le tribunal paritaire des baux ruraux ;
 
-7° Au code de la sécurité sociale et, le cas échéant, au code du travail en ce qui concerne le tribunal des affaires de
-sécurité sociale, le tribunal du contentieux de l'incapacité et la Cour nationale de l'incapacité et de la tarification de
-l'assurance des accidents du travail ;
+7° (Abrogé) ;
 
 8° Au code du travail en ce qui concerne le conseil de prud'hommes ;
 
 9° Au décret du 19 novembre 1859 sur la police de la pêche côtière dans le cinquième arrondissement maritime en ce qui
 concerne les prud'homies de pêche.
 
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-40 du 20 janvier 2014 - art. 11
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
 
 	**Cité par**:
 
@@ -2961,6 +3274,42 @@ et des experts en diagnostic d'entreprise.
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
+###### Article L311-15
+
+Des cours d'appel spécialement désignées connaissent des décisions rendues par les juridictions mentionnées à l'article L.
+211-16, dans les cas et conditions prévus par le code de l'action sociale et des familles et le code de la sécurité sociale.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
+###### Article L311-16
+
+Une cour d'appel spécialement désignée connaît des litiges mentionnés au 4° de l'article L. 142-2 du code de la sécurité
+sociale.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
 ##### Section 6 : Dispositions particulières au premier président de certaines cours d'appel
 
 ###### Article L311-17
@@ -3125,6 +3474,26 @@ décisions rendues par le juge des tutelles et le conseil de famille, ou y exerc
 	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
+###### Article L312-6-2
+
+La formation de jugement mentionnée à l'article L. 311-16 est composée d'un magistrat du siège et de deux assesseurs
+représentant les travailleurs salariés, pour le premier, et les employeurs et les travailleurs indépendants, pour le second.
+
+Les articles L. 218-2 à L. 218-12 sont applicables à cette formation.
+
+**Nota:**
+
+Conformément au I de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur à une date
+fixée par décret et au plus tard le 1er janvier 2019. Se reporter aux dispositions du I dudit article concernant les
+modalités des transferts des procédures en cours à la date d'entrée en vigueur de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+
 ##### Section 2 : Le parquet général
 
 ###### Article L312-7
@@ -3237,34 +3606,6 @@ appel sont fixées par le code de procédure pénale.
 	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL
-
-#### Chapitre unique
-
-###### Article L331-1
-
-Les règles concernant l'institution, la compétence, l'organisation et le fonctionnement de la Cour nationale de l'incapacité
-et de la tarification de l'assurance des accidents du travail sont fixées par le code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
-
-	**Anciens textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc CNITAAT (Ab)
 
 
 ## LIVRE IV : LA COUR DE CASSATION
@@ -14017,6 +14358,22 @@ et des experts en diagnostic d'entreprise.
 	**Créé par**:
 
 	  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+
+
+###### Article D311-12
+
+La cour d'appel d'Amiens est compétente pour connaître des litiges mentionnés au 4° de l'article L. 142-2 du code de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-13 du 5 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L142-2
 
 
 ##### Section 6 : Dispositions particulières au premier président de certaines cours d'appel
